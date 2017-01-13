@@ -8,21 +8,16 @@ from statsconfig import StatsConfig
 class Blops(Skeleton):
 
     def __init__(self):
-        self.file_name = "blops.json"
+        self.file_name = "blops.txt"
         self.agent_ships_destroyed = {}
         self.agent_isk_destroyed = {}
 
 
     def __str__(self):
-        # output = ""
+        output = ""
 
-        # output += "Top BLOPS pilots - ships destroyed\n"
-        # output += "--------------------------------------------\n"
-        output = "["
-        output += "\n { \"title\": \"Top BLOPS pilots - ships destroyed\","
-        output += "\"filename\":\"{}\",".format(self.file_name)
-        output += "\n\"values\":[ "
-
+        output += "Top BLOPS pilots - ships destroyed\n"
+        output += "--------------------------------------------\n"
         place = 0
         for w in sorted(
                 self.agent_ships_destroyed,
@@ -30,20 +25,12 @@ class Blops(Skeleton):
                 reverse=True
         )[:StatsConfig.MAX_PLACES]:
             place += 1
-            output += "\n{"
-            output += '"place":'
-            output += "\"{:02d}\"".format(place)
-            output += ',"agent":'
-            output += "\"{}\"".format(w)
-            output += ',"noOfKills":'
-            output += "\"{}\"".format(self.agent_ships_destroyed[w])
-            output += "},"
-        output = output.rstrip(",") 
+            output += "#{:02d} - {} - {} ships\n".format(place, w, self.agent_ships_destroyed[w])
+
         output += "\n"
 
-        output += "]},"
-        output += "\n{\n\"title\": \"Top BLOPS pilots - ISK destroyed \",\n\"values\":[ "
-        output += "\n"
+        output += "Top BLOPS pilots - ISK destroyed\n"
+        output += "--------------------------------------------\n"
         place = 0
         for w in sorted(
                 self.agent_isk_destroyed,
@@ -51,18 +38,8 @@ class Blops(Skeleton):
                 reverse=True
         )[:StatsConfig.MAX_PLACES]:
             place += 1
-            #output += "#{:02d} - {} - {:.2f}b\n".format(place, w, self.agent_isk_destroyed[w] / 1000000000.0)
-            output += "\n{"
-            output += '"place":'
-            output += "\"{:02d}\"".format(place)
-            output += ',"agent":'
-            output += "\"{}\"".format(w)
-            output += ',"values":'
-            output += "\"{:.2f}b\"".format(self.agent_isk_destroyed[w] / 1000000000.0)
-            output += "},"
-        output = output.rstrip(",") 
-        output += "]}"
-        output += "]"
+            output += "#{:02d} - {} - {:.2f}b\n".format(place, w, self.agent_isk_destroyed[w] / 1000000000.0)
+
         return output
 
     def process_km(self, killmail):
