@@ -1,55 +1,30 @@
-Top Bombing Run Specialists - ships destroyed
---------------------------------------------
-#01 - Tasmine Cha-Tien - 36 ships
-#02 - Mei Long - 31 ships
-#03 - Bails Naskingar - 16 ships
-#04 - Cross Ghasha - 14 ships
-#05 - Ladas Gladius Augustus - 14 ships
-#06 - ianDao - 12 ships
-#07 - Daniel Miguel Valiente - 11 ships
-#08 - Lovix - 10 ships
-#09 - Priestez - 10 ships
-#10 - Analius Glover - 9 ships
-#11 - Rev A - 9 ships
-#12 - Mister McQueen - 8 ships
-#13 - Glade Radner - 7 ships
-#14 - Gillion Wyrddych - 7 ships
-#15 - Eris Kallisti - 7 ships
-#16 - Blackhawk Bordeaux - 7 ships
-#17 - LordValcorn - 6 ships
-#18 - Wee Lad - 6 ships
-#19 - Orianna Okanata - 6 ships
-#20 - NovaMoon Enaka - 5 ships
-#21 - Quintus Va'Lari - 5 ships
-#22 - Chance Ravinne - 5 ships
-#23 - Gigi McQuaid - 5 ships
-#24 - Shaellon - 5 ships
-#25 - Alebrelle Kuatu - 5 ships
+[
+ { "title": "Top Bombing Run Specialists pilots - ships destroyed","filename":"bombing_run_specialist.txt",
+"values":[ 
+{"place":"01","agent":"Ladas Gladius Augustus","noOfKills":"13"},
+{"place":"02","agent":"ianDao","noOfKills":"12"},
+{"place":"03","agent":"Daniel Miguel Valiente","noOfKills":"11"},
+{"place":"04","agent":"Shaellon","noOfKills":"5"},
+{"place":"05","agent":"Corren Constantine","noOfKills":"3"},
+{"place":"06","agent":"Alex Kiorn","noOfKills":"2"},
+{"place":"07","agent":"Bustrr Bluth","noOfKills":"2"},
+{"place":"08","agent":"TOPSTER","noOfKills":"2"},
+{"place":"09","agent":"Mei Long","noOfKills":"1"},
+{"place":"10","agent":"WeirdBall","noOfKills":"1"},
+{"place":"11","agent":"Procyon Alcyone","noOfKills":"1"}
+]},
+{
+"title": "Top Bombing Run Specialists pilots - ISK destroyed ",
+"values":[ 
 
-Top Bombing Run Specialists - ISK destroyed
---------------------------------------------
-#01 - Shaellon - 2.65b
-#02 - Tasmine Cha-Tien - 1.62b
-#03 - Chance Ravinne - 1.20b
-#04 - NovaMoon Enaka - 1.11b
-#05 - Hateful Heart - 1.00b
-#06 - More11o - 0.92b
-#07 - ianDao - 0.86b
-#08 - Ladas Gladius Augustus - 0.83b
-#09 - Daniel Miguel Valiente - 0.77b
-#10 - togi yuki - 0.76b
-#11 - Glade Radner - 0.66b
-#12 - Gillion Wyrddych - 0.59b
-#13 - Phoenix Thynome - 0.56b
-#14 - Trader Ming - 0.53b
-#15 - Louis Ferreira - 0.53b
-#16 - Gigi McQuaid - 0.53b
-#17 - Saria Dehmov - 0.49b
-#18 - Maere Mearcstapa - 0.48b
-#19 - John Yatolile - 0.46b
-#20 - Cross Ghasha - 0.45b
-#21 - Orianna Okanata - 0.44b
-#22 - Mei Long - 0.43b
-#23 - Authawy - 0.42b
-#24 - Sabrez Haklar - 0.41b
-#25 - Bails Naskingar - 0.41b
+{"place":"01","agent":"Shaellon","values":"2.65b"},
+{"place":"02","agent":"ianDao","values":"0.86b"},
+{"place":"03","agent":"Ladas Gladius Augustus","values":"0.82b"},
+{"place":"04","agent":"Daniel Miguel Valiente","values":"0.77b"},
+{"place":"05","agent":"Corren Constantine","values":"0.09b"},
+{"place":"06","agent":"Alex Kiorn","values":"0.04b"},
+{"place":"07","agent":"TOPSTER","values":"0.04b"},
+{"place":"08","agent":"WeirdBall","values":"0.03b"},
+{"place":"09","agent":"Procyon Alcyone","values":"0.03b"},
+{"place":"10","agent":"Bustrr Bluth","values":"0.00b"},
+{"place":"11","agent":"Mei Long","values":"0.00b"}]}]

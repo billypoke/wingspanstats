@@ -1,27 +1,9 @@
-Capital kills
---------------------------------------------
-#01 - https://zkillboard.com/kill/55787563/ - 6.21b
-#02 - https://zkillboard.com/kill/55289282/ - 4.76b
-#03 - https://zkillboard.com/kill/55289297/ - 4.66b
-#04 - https://zkillboard.com/kill/52849169/ - 4.19b
-#05 - https://zkillboard.com/kill/49172492/ - 4.10b
-#06 - https://zkillboard.com/kill/52882623/ - 4.00b
-#07 - https://zkillboard.com/kill/52465132/ - 3.71b
-#08 - https://zkillboard.com/kill/54218994/ - 3.62b
-#09 - https://zkillboard.com/kill/56888529/ - 3.56b
-#10 - https://zkillboard.com/kill/55417079/ - 3.52b
-#11 - https://zkillboard.com/kill/55417140/ - 3.43b
-#12 - https://zkillboard.com/kill/53424530/ - 3.39b
-#13 - https://zkillboard.com/kill/58419522/ - 3.34b
-#14 - https://zkillboard.com/kill/52052976/ - 3.28b
-#15 - https://zkillboard.com/kill/57857739/ - 3.22b
-#16 - https://zkillboard.com/kill/56132883/ - 3.20b
-#17 - https://zkillboard.com/kill/53133817/ - 3.19b
-#18 - https://zkillboard.com/kill/57610378/ - 3.09b
-#19 - https://zkillboard.com/kill/53175976/ - 3.04b
-#20 - https://zkillboard.com/kill/57689829/ - 2.89b
-#21 - https://zkillboard.com/kill/51132325/ - 2.88b
-#22 - https://zkillboard.com/kill/51132271/ - 2.84b
-#23 - https://zkillboard.com/kill/52501097/ - 2.77b
-#24 - https://zkillboard.com/kill/50800682/ - 2.76b
-#25 - https://zkillboard.com/kill/49046088/ - 2.74b
+[
+ { "title": "Capital kills","filename":"capital_kills.txt",
+"values":[ 
+{"place":"01","link":"https://zkillboard.com/kill/58419522/","value":"3.34b"},
+{"place":"02","link":"https://zkillboard.com/kill/57857739/","value":"3.22b"},
+{"place":"03","link":"https://zkillboard.com/kill/57745607/","value":"2.34b"},
+{"place":"04","link":"https://zkillboard.com/kill/57815924/","value":"1.66b"}
+]
+}]
