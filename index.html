@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Wingspan Stats</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+	<script src="js/mainController.js"></script>
+</head>
+<body>
+<h1> Wingspan Stats</h1>
+ <div ng-app="mainApp" ng-controller="mainController">
+            <div id="content">
+                <div ng-repeat="content in contents">
+                <h1>{{content.killID}}</h1>
+                	<div ng-repeat="attackers in content.attackers">
+                	<h2>{{attackers.characterName}}</h2>
+                	</div>
+                	
+                </div>
+            </div>
+        </div>
+</body>
+</html>
