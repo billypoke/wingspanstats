@@ -1,27 +1,30 @@
-Top Bombing Run Specialists - ships destroyed
---------------------------------------------
-#01 - Ladas Gladius Augustus - 13 ships
-#02 - ianDao - 12 ships
-#03 - Daniel Miguel Valiente - 11 ships
-#04 - Shaellon - 5 ships
-#05 - Corren Constantine - 3 ships
-#06 - Alex Kiorn - 2 ships
-#07 - Bustrr Bluth - 2 ships
-#08 - TOPSTER - 2 ships
-#09 - Mei Long - 1 ships
-#10 - WeirdBall - 1 ships
-#11 - Procyon Alcyone - 1 ships
+[
+ { "title": "Top Bombing Run Specialists pilots - ships destroyed","filename":"bombing_run_specialist.txt",
+"values":[ 
+{"place":"01","agent":"Ladas Gladius Augustus","noOfKills":"13"},
+{"place":"02","agent":"ianDao","noOfKills":"12"},
+{"place":"03","agent":"Daniel Miguel Valiente","noOfKills":"11"},
+{"place":"04","agent":"Shaellon","noOfKills":"5"},
+{"place":"05","agent":"Corren Constantine","noOfKills":"3"},
+{"place":"06","agent":"Alex Kiorn","noOfKills":"2"},
+{"place":"07","agent":"Bustrr Bluth","noOfKills":"2"},
+{"place":"08","agent":"TOPSTER","noOfKills":"2"},
+{"place":"09","agent":"Mei Long","noOfKills":"1"},
+{"place":"10","agent":"WeirdBall","noOfKills":"1"},
+{"place":"11","agent":"Procyon Alcyone","noOfKills":"1"}
+]},
+{
+"title": "Top Bombing Run Specialists pilots - ISK destroyed ",
+"values":[ 
 
-Top Bombing Run Specialists - ISK destroyed
---------------------------------------------
-#01 - Shaellon - 2.65b
-#02 - ianDao - 0.86b
-#03 - Ladas Gladius Augustus - 0.82b
-#04 - Daniel Miguel Valiente - 0.77b
-#05 - Corren Constantine - 0.09b
-#06 - Alex Kiorn - 0.04b
-#07 - TOPSTER - 0.04b
-#08 - WeirdBall - 0.03b
-#09 - Procyon Alcyone - 0.03b
-#10 - Bustrr Bluth - 0.00b
-#11 - Mei Long - 0.00b
+{"place":"01","agent":"Shaellon","values":"2.65b"},
+{"place":"02","agent":"ianDao","values":"0.86b"},
+{"place":"03","agent":"Ladas Gladius Augustus","values":"0.82b"},
+{"place":"04","agent":"Daniel Miguel Valiente","values":"0.77b"},
+{"place":"05","agent":"Corren Constantine","values":"0.09b"},
+{"place":"06","agent":"Alex Kiorn","values":"0.04b"},
+{"place":"07","agent":"TOPSTER","values":"0.04b"},
+{"place":"08","agent":"WeirdBall","values":"0.03b"},
+{"place":"09","agent":"Procyon Alcyone","values":"0.03b"},
+{"place":"10","agent":"Bustrr Bluth","values":"0.00b"},
+{"place":"11","agent":"Mei Long","values":"0.00b"}]}]

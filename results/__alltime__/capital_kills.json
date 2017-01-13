@@ -1,5 +1,5 @@
 [
- { "title": "Capital kills","filename":"capital_kills.txt",
+ { "title": "Capital kills","filename":"capital_kills.json",
 "values":[ 
 {"place":"01","link":"https://zkillboard.com/kill/58419522/","value":"3.34b"},
 {"place":"02","link":"https://zkillboard.com/kill/57857739/","value":"3.22b"},

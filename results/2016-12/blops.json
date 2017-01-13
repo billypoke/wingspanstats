@@ -1,0 +1,14 @@
+[
+ { "title": "Top BLOPS pilots - ships destroyed","filename":"blops.json",
+"values":[ 
+{"place":"01","agent":"Inta Vakaria","noOfKills":"8"},
+{"place":"02","agent":"Bails Naskingar","noOfKills":"4"},
+{"place":"03","agent":"Malak Saren","noOfKills":"1"}
+]},
+{
+"title": "Top BLOPS pilots - ISK destroyed ",
+"values":[ 
+
+{"place":"01","agent":"Bails Naskingar","values":"3.37b"},
+{"place":"02","agent":"Inta Vakaria","values":"3.31b"},
+{"place":"03","agent":"Malak Saren","values":"0.53b"}]}]

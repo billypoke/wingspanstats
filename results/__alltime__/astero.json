@@ -1,6 +1,7 @@
 [
 {"title": 
- "Top astero pilots - ships destroyed", 
+ "Top astero pilots - ships destroyed","filename":"astero.json",
+ "input": "{}" 
  "values":[ 
 {"place":"01","agent":"Avacado Salad","noOfKills":"50"},
 {"place":"02","agent":"TOPSTER","noOfKills":"34"},

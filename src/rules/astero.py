@@ -15,8 +15,9 @@ class Astero(Skeleton):
 
     def __str__(self):
         output = "["
-
-        output +=  "\n{\"title\": \n \"Top astero pilots - ships destroyed\", \n \"values\":[ " #'"Top Astero pilots - ships destroyed\n"
+        output +=  "\n{\"title\": \n \"Top astero pilots - ships destroyed\","
+        output += "\"filename\":\"{}\",".format(self.file_name)
+        output +=  "\n \"input\": \"{}\" \n \"values\":[ " #'"Top Astero pilots - ships destroyed\n"
         # output += "--------------------------------------------\n"
         place = 0
         for w in sorted(
@@ -38,7 +39,6 @@ class Astero(Skeleton):
 
         output += "]},"
         output += "\n{\n\"title\": \"Top Astero pilots - ISK destroyed \",\n\"values\":[ "
-        output += ""
         place = 0
         for w in sorted(
                 self.agent_isk_destroyed,

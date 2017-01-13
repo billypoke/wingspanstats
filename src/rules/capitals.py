@@ -8,27 +8,61 @@ from statsconfig import StatsConfig
 class Capitals(Skeleton):
 
     def __init__(self):
-        self.file_name = "capital_kills.txt"
+        self.file_name = "capital_kills.json"
         self.most_valueable = {}
 
     def __str__(self):
-        output = ""
-        output += "Capital kills\n"
-        output += "--------------------------------------------\n"
+        output = "["
+        output += "\n { \"title\": \"Capital kills\","
+        output += "\"filename\":\"{}\",".format(self.file_name)
+        output += "\n\"values\":[ "
+        
         place = 0
         for w in sorted(
                 self.most_valueable,
                 key=self.most_valueable.get,
                 reverse=True
-        )[:StatsConfig.MAX_PLACES]:
+         )[:StatsConfig.MAX_PLACES]:
             place += 1
-            output += "#{:02d} - https://zkillboard.com/kill/{}/ - {:.2f}b\n".format(
-                place,
-                w,
-                self.most_valueable[w] / 1000000000.0,
-            )
+            output += "\n{"
+            output += '"place":'
+            output += "\"{:02d}\"".format(place)
+            output += ',"link":'
+            output += "\"https://zkillboard.com/kill/{}/\"".format(w)
+            output += ',"value":'
+            output += "\"{:.2f}b\"".format(self.most_valueable[w] / 1000000000.0)
+            output += "},"
 
+            # output += "#{:02d} - https://zkillboard.com/kill/{}/ - {} - {:.2f}m\n".format(
+            #     place,
+            #     w,
+            #     self.awox_kills[w][0],
+            #     self.awox_kills[w][1] / 1000000.0,
+            # )
+        output = output.rstrip(",") 
+        output += "\n]" #close the array
+        output +="\n}]"
         return output
+
+
+
+        # output = ""
+        # output += "Capital kills\n"
+        # output += "--------------------------------------------\n"
+        # place = 0
+        # for w in sorted(
+        #         self.most_valueable,
+        #         key=self.most_valueable.get,
+        #         reverse=True
+        # )[:StatsConfig.MAX_PLACES]:
+        #     place += 1
+        #     output += "#{:02d} - https://zkillboard.com/kill/{}/ - {:.2f}b\n".format(
+        #         place,
+        #         w,
+        #         self.most_valueable[w] / 1000000000.0,
+        #     )
+
+        # return output
 
     def process_km(self, killmail):
         kill_id = killmail['killID']
