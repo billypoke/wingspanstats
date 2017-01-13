@@ -5,6 +5,8 @@ import os
 import urllib2
 import gzip
 import json
+import time
+import sys
 from StringIO import StringIO
 from rules.statsconfig import StatsConfig
 
@@ -69,8 +71,7 @@ def extract_data(year, month):
         else:
             page_nr += 1
 
-
-def main():
+def getOldData():
     extract_data(2014, 7)
     extract_data(2014, 8)
     extract_data(2014, 9)
@@ -101,6 +102,30 @@ def main():
     extract_data(2016, 9)
     extract_data(2016, 10)
     extract_data(2016, 11)
+    extract_data(2016, 12)
+# requests main data
+# If argv[1] is 'YYYY-MM' it requests specific data
+# If argv[1] is empthy requests curent month
+# if argb[1] is "OLD" requests previous months
+def main():
+ try:
+    manualInput =  sys.argv[1]
+ except:
+    manualInput = ""
+ if manualInput == "":
+    print "No input detected"
+    year, month = time.strftime("%Y ,%m").split(',')
+ elif manualInput == "OLD":
+    getOldData()
+ else:
+    print "Manual input detected"
+
+    year, month = manualInput.split('-')
+
+ extract_data(int(year),int(month))
+
+
+  # extract_data(year, 11)
 
 if __name__ == "__main__":
     main()

@@ -3,7 +3,8 @@
 
 import os
 import json
-
+import time
+import sys
 from rules.statsconfig import StatsConfig
 from rules.generalstats import GeneralStats
 from rules.topagent import TopAgent
@@ -106,10 +107,8 @@ def analyze_data(db_list):
     for rule in rules_alltime:
         rule.output_results(os.path.join(StatsConfig.RESULTS_PATH, '__alltime__'))
     awox_alltime.output_results(os.path.join(StatsConfig.RESULTS_PATH, '__alltime__'))
-
-
-def main():
-    analyze_data([
+def analyzeOldData():
+        analyze_data([
         (2014, 7),
         (2014, 8),
         (2014, 9),
@@ -139,7 +138,32 @@ def main():
         (2016, 9),
         (2016, 10),
         (2016, 11),
+        (2016, 12),
     ])
+# Analyzes main data
+# If argv[1] is 'YYYY-MM' it analyzes specific data
+# If argv[1] is empthy analyzes curent month
+# if argb[1] is "OLD" analyzes previous months
+def main():
+    try:
+        print "Trying to get argv"
+        manualInput =  sys.argv[1]
+    except:
+        print "No ARGV"
+        manualInput = ""
+    else:
+        manualInput =  sys.argv[1]
+
+    if manualInput == "":
+        print "No input detected"
+        year, month = time.strftime("%Y ,%m").split(',')
+        analyze_data([ (int(year),int(month)) ])
+    elif manualInput == "OLD":
+        analyzeOldData()
+    else:
+        print "Manual input detected"
+        year, month = manualInput.split('-')
+        analyze_data([ (int(year),int(month)) ])
 
 if __name__ == "__main__":
     main()

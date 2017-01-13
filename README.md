@@ -1,6 +1,5 @@
 # wingspanstats
-Wingspan Statistics
+Forked from https://github.com/farshield/wingspanstats
 
-This is just a proof of concept with a user interface from the paleolithic. For a nice user interface visit: http://secondfry.space/wingspan-statistics/
-
-JSON fork: https://github.com/Bosek/wingspanstats/
+Added manual input for specifying the analyzed date
+Updated with 2016-12 stats
