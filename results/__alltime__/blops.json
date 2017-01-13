@@ -1,14 +1,25 @@
-[
- { "title": "Top BLOPS pilots - ships destroyed","filename":"blops.json",
-"values":[ 
-{"place":"01","agent":"Inta Vakaria","noOfKills":"8"},
-{"place":"02","agent":"Bails Naskingar","noOfKills":"4"},
-{"place":"03","agent":"Malak Saren","noOfKills":"1"}
-]},
 {
-"title": "Top BLOPS pilots - ISK destroyed ",
-"values":[ 
-
-{"place":"01","agent":"Bails Naskingar","values":"3.37b"},
-{"place":"02","agent":"Inta Vakaria","values":"3.31b"},
-{"place":"03","agent":"Malak Saren","values":"0.53b"}]}]
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 94056770,
+            "isk_destroyed": 3310881557.68,
+            "character_name": "Inta Vakaria"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95344823,
+            "isk_destroyed": 3373829517.37,
+            "character_name": "Bails Naskingar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93560666,
+            "isk_destroyed": 529717595.3,
+            "character_name": "Malak Saren"
+        }
+    ]
+}
