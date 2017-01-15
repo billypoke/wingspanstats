@@ -1,0 +1,67 @@
+{
+    "kills": [
+        {
+            "character_id": 93108578,
+            "solar_system_id": 31001156,
+            "value": 102461841.42,
+            "kill_id": 41524482,
+            "date": "2014-09-29 01:16:00",
+            "ship_type_id": 670,
+            "character_name": "John en Boudin"
+        },
+        {
+            "character_id": 90613139,
+            "solar_system_id": 30000848,
+            "value": 96947500.56,
+            "kill_id": 41004817,
+            "date": "2014-09-01 03:17:00",
+            "ship_type_id": 670,
+            "character_name": "Sarrai Darkstar"
+        },
+        {
+            "character_id": 94957725,
+            "solar_system_id": 31001156,
+            "value": 3042872.54,
+            "kill_id": 41540599,
+            "date": "2014-09-30 03:47:00",
+            "ship_type_id": 670,
+            "character_name": "Omar Soro"
+        },
+        {
+            "character_id": 94921797,
+            "solar_system_id": 31000849,
+            "value": 96372.41,
+            "kill_id": 41340758,
+            "date": "2014-09-19 00:39:00",
+            "ship_type_id": 670,
+            "character_name": "Tuco Benidicto"
+        },
+        {
+            "character_id": 90577825,
+            "solar_system_id": 31001156,
+            "value": 10000,
+            "kill_id": 41526299,
+            "date": "2014-09-29 04:12:00",
+            "ship_type_id": 670,
+            "character_name": "DERELICT MYBALLS"
+        },
+        {
+            "character_id": 94255292,
+            "solar_system_id": 31000164,
+            "value": 10000,
+            "kill_id": 41202878,
+            "date": "2014-09-11 17:21:00",
+            "ship_type_id": 670,
+            "character_name": "Kito Oramara"
+        },
+        {
+            "character_id": 94708019,
+            "solar_system_id": 31000137,
+            "value": 10000,
+            "kill_id": 41067806,
+            "date": "2014-09-04 16:23:00",
+            "ship_type_id": 670,
+            "character_name": "Troyser Cage"
+        }
+    ]
+}

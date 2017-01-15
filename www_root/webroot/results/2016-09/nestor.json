@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 14,
+            "character_id": 95664053,
+            "isk_destroyed": 3239628003.25,
+            "character_name": "Stanis Solar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94056770,
+            "isk_destroyed": 1609841427.33,
+            "character_name": "Inta Vakaria"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95344823,
+            "isk_destroyed": 1609841427.33,
+            "character_name": "Bails Naskingar"
+        }
+    ]
+}

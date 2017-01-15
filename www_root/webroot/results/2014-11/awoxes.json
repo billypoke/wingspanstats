@@ -1,0 +1,31 @@
+{
+    "kills": [
+        {
+            "character_id": 94447432,
+            "solar_system_id": 31001132,
+            "value": 1727646.38,
+            "kill_id": 42181345,
+            "date": "2014-11-03 04:25:00",
+            "ship_type_id": 29248,
+            "character_name": "Chance Ravinne"
+        },
+        {
+            "character_id": 1106963603,
+            "solar_system_id": 30003503,
+            "value": 484625.33,
+            "kill_id": 42738341,
+            "date": "2014-11-30 04:32:00",
+            "ship_type_id": 586,
+            "character_name": "MacGuiness"
+        },
+        {
+            "character_id": 221409000,
+            "solar_system_id": 31001132,
+            "value": 19324.88,
+            "kill_id": 42181342,
+            "date": "2014-11-03 04:25:00",
+            "ship_type_id": 11129,
+            "character_name": "Mhenloe"
+        }
+    ]
+}

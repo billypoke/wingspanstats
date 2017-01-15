@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 1640448394,
+            "isk_destroyed": 350999538.68000007,
+            "character_name": "Saria Dehmov"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 851221968,
+            "isk_destroyed": 279632080.59000003,
+            "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 93532393,
+            "isk_destroyed": 75946649.78,
+            "character_name": "Ransom Odunen"
+        }
+    ]
+}

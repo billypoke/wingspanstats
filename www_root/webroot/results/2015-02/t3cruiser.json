@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 92732761,
+            "isk_destroyed": 471851802.27,
+            "character_name": "Gismo Resperio"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 92740884,
+            "isk_destroyed": 667713942.52,
+            "character_name": "Zeke Airuta"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 851221968,
+            "isk_destroyed": 17075042.77,
+            "character_name": "Vothor"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 41,
+            "character_id": 91835155,
+            "isk_destroyed": 7520622295.799999,
+            "character_name": "Tali Lyrae"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 93669013,
+            "isk_destroyed": 1153311628.56,
+            "character_name": "AnalogTom Rotineque"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 859882768,
+            "isk_destroyed": 634126395.66,
+            "character_name": "Dj Turner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94894989,
+            "isk_destroyed": 103819549.46,
+            "character_name": "Flaya Noong"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93423050,
+            "isk_destroyed": 65395814.43,
+            "character_name": "Shaleb Heworo"
+        }
+    ]
+}

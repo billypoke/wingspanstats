@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 1149749832,
+            "isk_destroyed": 255337849.749,
+            "character_name": "Saladiin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 135268164,
+            "isk_destroyed": 199537846.99,
+            "character_name": "Gra Siorai"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 93980583,
+            "isk_destroyed": 36801959.8401,
+            "character_name": "Costa Reaves"
+        }
+    ]
+}

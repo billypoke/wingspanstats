@@ -1,0 +1,484 @@
+{
+    "ships": [
+        {
+            "ships_destroyed": 576,
+            "ship_type_id": 33470,
+            "ship_name": "Stratios",
+            "isk_destroyed": 124351692946.51114
+        },
+        {
+            "ships_destroyed": 492,
+            "ship_type_id": 11377,
+            "ship_name": "Nemesis",
+            "isk_destroyed": 71388272583.17177
+        },
+        {
+            "ships_destroyed": 410,
+            "ship_type_id": 12032,
+            "ship_name": "Manticore",
+            "isk_destroyed": 67933817664.04025
+        },
+        {
+            "ships_destroyed": 241,
+            "ship_type_id": 12038,
+            "ship_name": "Purifier",
+            "isk_destroyed": 41438317466.66039
+        },
+        {
+            "ships_destroyed": 82,
+            "ship_type_id": 11965,
+            "ship_name": "Pilgrim",
+            "isk_destroyed": 13854210482.619993
+        },
+        {
+            "ships_destroyed": 50,
+            "ship_type_id": 12034,
+            "ship_name": "Hound",
+            "isk_destroyed": 17378953264.520596
+        },
+        {
+            "ships_destroyed": 47,
+            "ship_type_id": 29988,
+            "ship_name": "Proteus",
+            "isk_destroyed": 18014789052.9002
+        },
+        {
+            "ships_destroyed": 102,
+            "ship_type_id": 33468,
+            "ship_name": "Astero",
+            "isk_destroyed": 6212752177.109595
+        },
+        {
+            "ships_destroyed": 49,
+            "ship_type_id": 33818,
+            "ship_name": "Orthrus",
+            "isk_destroyed": 8088971067.900099
+        },
+        {
+            "ships_destroyed": 124,
+            "ship_type_id": 4302,
+            "ship_name": "Oracle",
+            "isk_destroyed": 2596555240.0000014
+        },
+        {
+            "ships_destroyed": 43,
+            "ship_type_id": 29990,
+            "ship_name": "Loki",
+            "isk_destroyed": 7283834138.93
+        },
+        {
+            "ships_destroyed": 58,
+            "ship_type_id": 35683,
+            "ship_name": "Hecate",
+            "isk_destroyed": 3743395801.08
+        },
+        {
+            "ships_destroyed": 33,
+            "ship_type_id": 29336,
+            "ship_name": "Scythe Fleet Issue",
+            "isk_destroyed": 5200957930.59
+        },
+        {
+            "ships_destroyed": 12,
+            "ship_type_id": 11987,
+            "ship_name": "Guardian",
+            "isk_destroyed": 10871096088.899998
+        },
+        {
+            "ships_destroyed": 28,
+            "ship_type_id": 22456,
+            "ship_name": "Sabre",
+            "isk_destroyed": 4054787972.57
+        },
+        {
+            "ships_destroyed": 34,
+            "ship_type_id": 11963,
+            "ship_name": "Rapier",
+            "isk_destroyed": 3285925235.2700005
+        },
+        {
+            "ships_destroyed": 20,
+            "ship_type_id": 37483,
+            "ship_name": "Magus",
+            "isk_destroyed": 4712711106.06
+        },
+        {
+            "ships_destroyed": 53,
+            "ship_type_id": 645,
+            "ship_name": "Dominix",
+            "isk_destroyed": 979476013.5599998
+        },
+        {
+            "ships_destroyed": 28,
+            "ship_type_id": 12021,
+            "ship_name": "Phobos",
+            "isk_destroyed": 1777255031.6200004
+        },
+        {
+            "ships_destroyed": 9,
+            "ship_type_id": 11957,
+            "ship_name": "Falcon",
+            "isk_destroyed": 5437165930.66
+        },
+        {
+            "ships_destroyed": 8,
+            "ship_type_id": 37482,
+            "ship_name": "Stork",
+            "isk_destroyed": 2821580563.56
+        },
+        {
+            "ships_destroyed": 12,
+            "ship_type_id": 22464,
+            "ship_name": "Flycatcher",
+            "isk_destroyed": 1665225324.5100002
+        },
+        {
+            "ships_destroyed": 22,
+            "ship_type_id": 34562,
+            "ship_name": "Svipul",
+            "isk_destroyed": 905429971.4601
+        },
+        {
+            "ships_destroyed": 26,
+            "ship_type_id": 17922,
+            "ship_name": "Ashimmu",
+            "isk_destroyed": 759459286.3000001
+        },
+        {
+            "ships_destroyed": 12,
+            "ship_type_id": 20125,
+            "ship_name": "Curse",
+            "isk_destroyed": 1477576738.0800002
+        },
+        {
+            "ships_destroyed": 19,
+            "ship_type_id": 11969,
+            "ship_name": "Arazu",
+            "isk_destroyed": 857345714.27
+        },
+        {
+            "ships_destroyed": 14,
+            "ship_type_id": 37480,
+            "ship_name": "Bifrost",
+            "isk_destroyed": 1073166540.0699999
+        },
+        {
+            "ships_destroyed": 14,
+            "ship_type_id": 22460,
+            "ship_name": "Eris",
+            "isk_destroyed": 1072207327.7699999
+        },
+        {
+            "ships_destroyed": 11,
+            "ship_type_id": 34317,
+            "ship_name": "Confessor",
+            "isk_destroyed": 584748088.49
+        },
+        {
+            "ships_destroyed": 9,
+            "ship_type_id": 29340,
+            "ship_name": "Osprey Navy Issue",
+            "isk_destroyed": 681765181.6100001
+        },
+        {
+            "ships_destroyed": 10,
+            "ship_type_id": 621,
+            "ship_name": "Caracal",
+            "isk_destroyed": 488101920.86
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 37459,
+            "ship_name": "Thalia",
+            "isk_destroyed": 2309626224.62
+        },
+        {
+            "ships_destroyed": 15,
+            "ship_type_id": 24696,
+            "ship_name": "Harbinger",
+            "isk_destroyed": 281501483.11
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 29344,
+            "ship_name": "Exequror Navy Issue",
+            "isk_destroyed": 1300774733.1100001
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 633,
+            "ship_name": "Celestis",
+            "isk_destroyed": 775493619.6
+        },
+        {
+            "ships_destroyed": 13,
+            "ship_type_id": 17703,
+            "ship_name": "Imperial Navy Slicer",
+            "isk_destroyed": 188463569.32
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 29984,
+            "ship_name": "Tengu",
+            "isk_destroyed": 814907985.65
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 12005,
+            "ship_name": "Ishtar",
+            "isk_destroyed": 456621274.73
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 22452,
+            "ship_name": "Heretic",
+            "isk_destroyed": 448186551.0
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 37456,
+            "ship_name": "Maulus Navy Issue",
+            "isk_destroyed": 546889321.99
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 12013,
+            "ship_name": "Broadsword",
+            "isk_destroyed": 438141709.81
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 17843,
+            "ship_name": "Vexor Navy Issue",
+            "isk_destroyed": 390389383.86
+        },
+        {
+            "ships_destroyed": 11,
+            "ship_type_id": 603,
+            "ship_name": "Merlin",
+            "isk_destroyed": 120666929.7
+        },
+        {
+            "ships_destroyed": 8,
+            "ship_type_id": 17715,
+            "ship_name": "Gila",
+            "isk_destroyed": 150445918.77
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 17722,
+            "ship_name": "Vigilant",
+            "isk_destroyed": 268031926.71999997
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 33816,
+            "ship_name": "Garmur",
+            "isk_destroyed": 524376810.67
+        },
+        {
+            "ships_destroyed": 6,
+            "ship_type_id": 602,
+            "ship_name": "Kestrel",
+            "isk_destroyed": 82665386.03
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 11995,
+            "ship_name": "Onyx",
+            "isk_destroyed": 447491837.04
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 17738,
+            "ship_name": "Machariel",
+            "isk_destroyed": 184874915.07
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 594,
+            "ship_name": "Incursus",
+            "isk_destroyed": 73647384.73
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 16242,
+            "ship_name": "Thrasher",
+            "isk_destroyed": 83161981.23
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 593,
+            "ship_name": "Tristan",
+            "isk_destroyed": 58539813.34
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 29986,
+            "ship_name": "Legion",
+            "isk_destroyed": 229809217.16
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 34828,
+            "ship_name": "Jackdaw",
+            "isk_destroyed": 66118030.64
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 626,
+            "ship_name": "Vexor",
+            "isk_destroyed": 95463726.56
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 11178,
+            "ship_name": "Raptor",
+            "isk_destroyed": 77337591.3
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 12017,
+            "ship_name": "Devoter",
+            "isk_destroyed": 66244005.69
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 17619,
+            "ship_name": "Caldari Navy Hookbill",
+            "isk_destroyed": 114095494.47
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 12023,
+            "ship_name": "Deimos",
+            "isk_destroyed": 95255798.84
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 16229,
+            "ship_name": "Brutix",
+            "isk_destroyed": 95255798.84
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 632,
+            "ship_name": "Blackbird",
+            "isk_destroyed": 95255798.84
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 11989,
+            "ship_name": "Oneiros",
+            "isk_destroyed": 85938421.92
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 583,
+            "ship_name": "Condor",
+            "isk_destroyed": 28367236.709999997
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 609,
+            "ship_name": "Maulus",
+            "isk_destroyed": 8787665.27
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 11200,
+            "ship_name": "Taranis",
+            "isk_destroyed": 14223783.209999999
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 627,
+            "ship_name": "Thorax",
+            "isk_destroyed": 39360550.85
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 643,
+            "ship_name": "Armageddon",
+            "isk_destroyed": 33136552.1
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 16238,
+            "ship_name": "Cormorant",
+            "isk_destroyed": 32436711.23
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 587,
+            "ship_name": "Rifter",
+            "isk_destroyed": 26915629.39
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 11379,
+            "ship_name": "Hawk",
+            "isk_destroyed": 9900008.75
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 639,
+            "ship_name": "Tempest",
+            "isk_destroyed": 9610500.7
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 16227,
+            "ship_name": "Ferox",
+            "isk_destroyed": 4119823.25
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 17478,
+            "ship_name": "Retriever",
+            "isk_destroyed": 8036471.36
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 16240,
+            "ship_name": "Catalyst",
+            "isk_destroyed": 7516933.51
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 11387,
+            "ship_name": "Hyena",
+            "isk_destroyed": 7131120.44
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 32880,
+            "ship_name": "Venture",
+            "isk_destroyed": 3627256.67
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 649,
+            "ship_name": "Tayra",
+            "isk_destroyed": 3277354.3
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 634,
+            "ship_name": "Exequror",
+            "isk_destroyed": 2987911.23
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 17928,
+            "ship_name": "Daredevil",
+            "isk_destroyed": 1032782.98
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 605,
+            "ship_name": "Heron",
+            "isk_destroyed": 10000
+        }
+    ]
+}

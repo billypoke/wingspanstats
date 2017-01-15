@@ -1,0 +1,76 @@
+{
+    "kills": [
+        {
+            "character_id": 766620623,
+            "solar_system_id": 30000848,
+            "value": 372884469.23,
+            "kill_id": 40313279,
+            "date": "2014-07-27 02:01:00",
+            "ship_type_id": 29990,
+            "character_name": "Natural Anthem"
+        },
+        {
+            "character_id": 90033326,
+            "solar_system_id": 30002062,
+            "value": 71772861.84,
+            "kill_id": 40404066,
+            "date": "2014-07-31 20:31:00",
+            "ship_type_id": 17928,
+            "character_name": "Ekcio"
+        },
+        {
+            "character_id": 1998826637,
+            "solar_system_id": 31000062,
+            "value": 40059048.83,
+            "kill_id": 40236166,
+            "date": "2014-07-23 01:56:00",
+            "ship_type_id": 17476,
+            "character_name": "MotherSword"
+        },
+        {
+            "character_id": 93161102,
+            "solar_system_id": 31000062,
+            "value": 40059048.83,
+            "kill_id": 40236161,
+            "date": "2014-07-23 01:55:00",
+            "ship_type_id": 17476,
+            "character_name": "Mitrisa Jensen"
+        },
+        {
+            "character_id": 93789256,
+            "solar_system_id": 30003237,
+            "value": 16488705.97,
+            "kill_id": 40370672,
+            "date": "2014-07-29 21:51:00",
+            "ship_type_id": 670,
+            "character_name": "Ella Siewierszki"
+        },
+        {
+            "character_id": 94185839,
+            "solar_system_id": 30002057,
+            "value": 9757204.86,
+            "kill_id": 40402464,
+            "date": "2014-07-31 19:14:00",
+            "ship_type_id": 593,
+            "character_name": "VoidRay Alabel"
+        },
+        {
+            "character_id": 1347111030,
+            "solar_system_id": 30002057,
+            "value": 8059736.46,
+            "kill_id": 40399901,
+            "date": "2014-07-31 16:46:00",
+            "ship_type_id": 583,
+            "character_name": "Sera forrester"
+        },
+        {
+            "character_id": 94753146,
+            "solar_system_id": 30001947,
+            "value": 5342996.34,
+            "kill_id": 40335948,
+            "date": "2014-07-28 00:42:00",
+            "ship_type_id": 607,
+            "character_name": "Frost TheBoss"
+        }
+    ]
+}

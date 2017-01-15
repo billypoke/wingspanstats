@@ -1,0 +1,67 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 93007709,
+            "isk_destroyed": 642432208.53,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 92796292,
+            "isk_destroyed": 154356321.63,
+            "character_name": "Enki Parker"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 94447432,
+            "isk_destroyed": 38537540.93,
+            "character_name": "Chance Ravinne"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94789859,
+            "isk_destroyed": 134459111.32,
+            "character_name": "Herbert Uromastyx"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1640448394,
+            "isk_destroyed": 131714141.24,
+            "character_name": "Saria Dehmov"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92488629,
+            "isk_destroyed": 16415621.5,
+            "character_name": "Felicity king"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94086622,
+            "isk_destroyed": 15061301.66,
+            "character_name": "Vangelis Alduin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93317595,
+            "isk_destroyed": 15061301.66,
+            "character_name": "Gillion Wyrddych"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94809577,
+            "isk_destroyed": 12816994.88,
+            "character_name": "Glade Radner"
+        }
+    ]
+}

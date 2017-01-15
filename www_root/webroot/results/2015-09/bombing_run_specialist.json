@@ -1,0 +1,67 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 95009795,
+            "isk_destroyed": 576652773.74,
+            "character_name": "Tasmine Cha-Tien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94447432,
+            "isk_destroyed": 1129745648.48,
+            "character_name": "Chance Ravinne"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1640448394,
+            "isk_destroyed": 210917071.42,
+            "character_name": "Saria Dehmov"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94997705,
+            "isk_destroyed": 210917071.42,
+            "character_name": "Gigi McQuaid"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95233310,
+            "isk_destroyed": 210917071.42,
+            "character_name": "Rob Tsukaya"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95578363,
+            "isk_destroyed": 210917071.42,
+            "character_name": "Bonz Andrard"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95229965,
+            "isk_destroyed": 210917071.42,
+            "character_name": "Sabrez Haklar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94951462,
+            "isk_destroyed": 135635158.07,
+            "character_name": "Aldore Udan"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1509696997,
+            "isk_destroyed": 26332703.7,
+            "character_name": "Hateful Heart"
+        }
+    ]
+}

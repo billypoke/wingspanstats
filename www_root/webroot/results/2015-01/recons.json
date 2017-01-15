@@ -1,0 +1,74 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 31,
+            "character_id": 987468952,
+            "isk_destroyed": 4890691522.450002,
+            "character_name": "NoGo Rose"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 91835155,
+            "isk_destroyed": 2013230735.3700001,
+            "character_name": "Tali Lyrae"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 1785316039,
+            "isk_destroyed": 1576551190.64,
+            "character_name": "Docnagol"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 1227868181,
+            "isk_destroyed": 961385335.7899998,
+            "character_name": "Artik Fawkes"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 145074554,
+            "isk_destroyed": 1368987898.63,
+            "character_name": "Nyrram"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 851221968,
+            "isk_destroyed": 881346477.77,
+            "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 324178981,
+            "isk_destroyed": 253705100.12,
+            "character_name": "Au'Rel"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1106963603,
+            "isk_destroyed": 335469747.52,
+            "character_name": "MacGuiness"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1149749832,
+            "isk_destroyed": 228964270.69,
+            "character_name": "Saladiin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1400783403,
+            "isk_destroyed": 171011425.31,
+            "character_name": "Epoch Veli"
+        }
+    ]
+}

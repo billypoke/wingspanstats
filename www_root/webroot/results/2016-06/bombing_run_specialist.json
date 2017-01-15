@@ -1,0 +1,74 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 95732953,
+            "isk_destroyed": 91990464.16,
+            "character_name": "Mei Long"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95009795,
+            "isk_destroyed": 76295047.76,
+            "character_name": "Tasmine Cha-Tien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 96410439,
+            "isk_destroyed": 56100616.92,
+            "character_name": "Okaga Utama"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93823636,
+            "isk_destroyed": 48601888.29,
+            "character_name": "Anise Ikkala"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 237608053,
+            "isk_destroyed": 22520718.25,
+            "character_name": "Massive Black"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92900253,
+            "isk_destroyed": 41943724.62,
+            "character_name": "Swift Isu"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94227967,
+            "isk_destroyed": 16507296.19,
+            "character_name": "Symerizer Ahashion"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93754225,
+            "isk_destroyed": 15864000.01,
+            "character_name": "Seabrony"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 92863054,
+            "isk_destroyed": 3863198.19,
+            "character_name": "Narcisse Nightmare"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95499736,
+            "isk_destroyed": 1444851.25,
+            "character_name": "Analius Glover"
+        }
+    ]
+}

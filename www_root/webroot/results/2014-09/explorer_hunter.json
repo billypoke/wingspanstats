@@ -1,0 +1,32 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 1149749832,
+            "isk_destroyed": 92429920.98610002,
+            "character_name": "Saladiin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94056991,
+            "isk_destroyed": 171051175.7603,
+            "character_name": "Smug McSwaggin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93167436,
+            "isk_destroyed": 45889320.74,
+            "character_name": "Skye Shoal"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1969588027,
+            "isk_destroyed": 30410319.66,
+            "character_name": "Deirn"
+        }
+    ]
+}

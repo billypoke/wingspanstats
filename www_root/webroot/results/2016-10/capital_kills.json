@@ -1,0 +1,31 @@
+{
+    "kills": [
+        {
+            "character_id": 95612103,
+            "solar_system_id": 30003721,
+            "value": 3564832755.62,
+            "kill_id": 56888529,
+            "date": "2016-10-31 06:02:05",
+            "ship_type_id": 23915,
+            "character_name": "nofx darkstar"
+        },
+        {
+            "character_id": 667259804,
+            "solar_system_id": 30003735,
+            "value": 2175001472.52,
+            "kill_id": 56828333,
+            "date": "2016-10-28 09:19:00",
+            "ship_type_id": 23911,
+            "character_name": "Megi"
+        },
+        {
+            "character_id": 92564336,
+            "solar_system_id": 30000306,
+            "value": 1513592803.31,
+            "kill_id": 56625330,
+            "date": "2016-10-16 01:57:29",
+            "ship_type_id": 23757,
+            "character_name": "ScionVI Zanogir"
+        }
+    ]
+}

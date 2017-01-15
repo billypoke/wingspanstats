@@ -1,0 +1,85 @@
+{
+    "kills": [
+        {
+            "character_id": 93951704,
+            "solar_system_id": 31000417,
+            "value": 335047111.29,
+            "kill_id": 55869027,
+            "date": "2016-09-02 02:31:27",
+            "ship_type_id": 670,
+            "character_name": "Avacado Salad"
+        },
+        {
+            "character_id": 94803277,
+            "solar_system_id": 30003714,
+            "value": 216089540.62,
+            "kill_id": 55885276,
+            "date": "2016-09-03 00:16:33",
+            "ship_type_id": 11971,
+            "character_name": "Xavier Hex"
+        },
+        {
+            "character_id": 95206023,
+            "solar_system_id": 31001147,
+            "value": 53495027.12,
+            "kill_id": 56302743,
+            "date": "2016-09-26 20:36:56",
+            "ship_type_id": 12032,
+            "character_name": "Charles Monday"
+        },
+        {
+            "character_id": 93484437,
+            "solar_system_id": 31001123,
+            "value": 45526844.84,
+            "kill_id": 56168959,
+            "date": "2016-09-18 20:49:45",
+            "ship_type_id": 11377,
+            "character_name": "Ishtar d'Asmodai"
+        },
+        {
+            "character_id": 93484437,
+            "solar_system_id": 31001087,
+            "value": 43205794.86,
+            "kill_id": 55924922,
+            "date": "2016-09-04 20:57:19",
+            "ship_type_id": 11377,
+            "character_name": "Ishtar d'Asmodai"
+        },
+        {
+            "character_id": 96179191,
+            "solar_system_id": 31000262,
+            "value": 16934254.62,
+            "kill_id": 55962164,
+            "date": "2016-09-07 01:24:29",
+            "ship_type_id": 670,
+            "character_name": "Blackhawk Bordeaux"
+        },
+        {
+            "character_id": 96410439,
+            "solar_system_id": 30002806,
+            "value": 7681909,
+            "kill_id": 55956937,
+            "date": "2016-09-06 19:17:22",
+            "ship_type_id": 596,
+            "character_name": "Okaga Utama"
+        },
+        {
+            "character_id": 96562368,
+            "solar_system_id": 31000453,
+            "value": 5173041.58,
+            "kill_id": 55951709,
+            "date": "2016-09-06 12:57:07",
+            "ship_type_id": 670,
+            "character_name": "Ronni Ormand"
+        },
+        {
+            "character_id": 95229965,
+            "solar_system_id": 30002438,
+            "value": 639582.59,
+            "kill_id": 56133907,
+            "date": "2016-09-17 05:16:28",
+            "ship_type_id": 670,
+            "character_name": "Sabrez Haklar"
+        }
+    ]
+}

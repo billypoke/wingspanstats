@@ -1,0 +1,39 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1640448394,
+            "isk_destroyed": 131724141.24,
+            "character_name": "Saria Dehmov"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 489343128,
+            "isk_destroyed": 37280811.14,
+            "character_name": "Rogue Seven"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 859882768,
+            "isk_destroyed": 38625985.54,
+            "character_name": "Dj Turner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 369365971,
+            "isk_destroyed": 35769457,
+            "character_name": "No Class"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 90718048,
+            "isk_destroyed": 297332.04,
+            "character_name": "Black Aivo"
+        }
+    ]
+}

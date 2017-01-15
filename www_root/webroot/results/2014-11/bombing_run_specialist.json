@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93007709,
+            "isk_destroyed": 108095833.57,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94809577,
+            "isk_destroyed": 30876286.74,
+            "character_name": "Glade Radner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1640448394,
+            "isk_destroyed": 29067000.23,
+            "character_name": "Saria Dehmov"
+        }
+    ]
+}

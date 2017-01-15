@@ -1,0 +1,46 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 29,
+            "character_id": 851221968,
+            "isk_destroyed": 3096605766.01,
+            "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 14,
+            "character_id": 987468952,
+            "isk_destroyed": 1141958862.5500002,
+            "character_name": "NoGo Rose"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 93007709,
+            "isk_destroyed": 784759833.3799999,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 94571445,
+            "isk_destroyed": 267890866.16,
+            "character_name": "Trip Erata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1227868181,
+            "isk_destroyed": 367376572.74,
+            "character_name": "Artik Fawkes"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 91835155,
+            "isk_destroyed": 97222758.68,
+            "character_name": "Tali Lyrae"
+        }
+    ]
+}

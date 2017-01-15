@@ -1,0 +1,81 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 489343128,
+            "isk_destroyed": 325662466.15999997,
+            "character_name": "Rogue Seven"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 93007709,
+            "isk_destroyed": 325662466.15999997,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94107255,
+            "isk_destroyed": 173820380.82,
+            "character_name": "Allbur Chellak"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94551887,
+            "isk_destroyed": 173820380.82,
+            "character_name": "Cadno Llewellyn"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 93317595,
+            "isk_destroyed": 173820380.82,
+            "character_name": "Gillion Wyrddych"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92796292,
+            "isk_destroyed": 36083778.35,
+            "character_name": "Enki Parker"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94499705,
+            "isk_destroyed": 18921447.63,
+            "character_name": "Slevin Hekard"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 344286265,
+            "isk_destroyed": 12239649.15,
+            "character_name": "Soralio"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 145074554,
+            "isk_destroyed": 8419403.98,
+            "character_name": "Nyrram"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 92783231,
+            "isk_destroyed": 20000,
+            "character_name": "Valkyrie Starslayer"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 561419163,
+            "isk_destroyed": 20000,
+            "character_name": "Ric Adburr"
+        }
+    ]
+}

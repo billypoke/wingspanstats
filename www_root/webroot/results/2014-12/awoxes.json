@@ -1,0 +1,31 @@
+{
+    "kills": [
+        {
+            "character_id": 93669013,
+            "solar_system_id": 31000841,
+            "value": 570217864.61,
+            "kill_id": 42809326,
+            "date": "2014-12-03 02:52:00",
+            "ship_type_id": 33470,
+            "character_name": "AnalogTom Rotineque"
+        },
+        {
+            "character_id": 859882768,
+            "solar_system_id": 30002509,
+            "value": 189809525.12,
+            "kill_id": 42880339,
+            "date": "2014-12-06 06:41:00",
+            "ship_type_id": 33468,
+            "character_name": "Dj Turner"
+        },
+        {
+            "character_id": 93669013,
+            "solar_system_id": 31000841,
+            "value": 703714.07,
+            "kill_id": 42809330,
+            "date": "2014-12-03 02:52:00",
+            "ship_type_id": 670,
+            "character_name": "AnalogTom Rotineque"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 91835155,
+            "isk_destroyed": 298788493.41,
+            "character_name": "Tali Lyrae"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 92796292,
+            "isk_destroyed": 80738063.22,
+            "character_name": "Enki Parker"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 93007709,
+            "isk_destroyed": 61783611.44,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 324178981,
+            "isk_destroyed": 22427693.150000002,
+            "character_name": "Au'Rel"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94499705,
+            "isk_destroyed": 9488703.430000002,
+            "character_name": "Slevin Hekard"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 1149749832,
+            "isk_destroyed": 2913651.96,
+            "character_name": "Saladiin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93838416,
+            "isk_destroyed": 11300145.04,
+            "character_name": "Banshee Legend"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92863054,
+            "isk_destroyed": 10400780.44,
+            "character_name": "Narcisse Nightmare"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 329485041,
+            "isk_destroyed": 9307574.17,
+            "character_name": "Eriol Hiiragizawa"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94056991,
+            "isk_destroyed": 4777005.08,
+            "character_name": "Smug McSwaggin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94789859,
+            "isk_destroyed": 1216532.43,
+            "character_name": "Herbert Uromastyx"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92550166,
+            "isk_destroyed": 919967.78,
+            "character_name": "Fandoragon Lunarsy"
+        }
+    ]
+}

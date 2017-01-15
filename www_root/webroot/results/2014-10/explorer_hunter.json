@@ -1,0 +1,39 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 1149749832,
+            "isk_destroyed": 70576908.50060001,
+            "character_name": "Saladiin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93455390,
+            "isk_destroyed": 73853497.0502,
+            "character_name": "Cantsee Tokila"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94056991,
+            "isk_destroyed": 30705152.369999997,
+            "character_name": "Smug McSwaggin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93007709,
+            "isk_destroyed": 26898282.8,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 998756705,
+            "isk_destroyed": 3157570.55,
+            "character_name": "uk badboy"
+        }
+    ]
+}

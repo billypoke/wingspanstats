@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95239153,
+            "isk_destroyed": 91656208.87,
+            "character_name": "Saridion Sotken"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 91233379,
+            "isk_destroyed": 995878.37,
+            "character_name": "Myra Vixen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94336675,
+            "isk_destroyed": 9330.93,
+            "character_name": "Reed Icculus"
+        }
+    ]
+}

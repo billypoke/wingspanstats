@@ -1,0 +1,1264 @@
+{
+    "kills": [
+        {
+            "character_id": 94015133,
+            "solar_system_id": 31000011,
+            "value": 2819147892.72,
+            "kill_id": 45279809,
+            "date": "2015-03-16 00:29:00",
+            "ship_type_id": 33328,
+            "character_name": "Kylani Valos"
+        },
+        {
+            "character_id": 682555677,
+            "solar_system_id": 30005261,
+            "value": 783682946.09,
+            "kill_id": 45243299,
+            "date": "2015-03-14 19:01:00",
+            "ship_type_id": 670,
+            "character_name": "Daemon Lucifus"
+        },
+        {
+            "character_id": 807981659,
+            "solar_system_id": 31000324,
+            "value": 738967561.62,
+            "kill_id": 45227397,
+            "date": "2015-03-14 02:23:00",
+            "ship_type_id": 670,
+            "character_name": "SSGRanger"
+        },
+        {
+            "character_id": 91273353,
+            "solar_system_id": 31001884,
+            "value": 481379958.07,
+            "kill_id": 45153833,
+            "date": "2015-03-10 13:47:00",
+            "ship_type_id": 33328,
+            "character_name": "WeL NEmiroFF"
+        },
+        {
+            "character_id": 1402439582,
+            "solar_system_id": 31000332,
+            "value": 277028871.74,
+            "kill_id": 45105283,
+            "date": "2015-03-08 10:33:00",
+            "ship_type_id": 670,
+            "character_name": "JaDriver"
+        },
+        {
+            "character_id": 95423994,
+            "solar_system_id": 30001047,
+            "value": 208369367.96,
+            "kill_id": 45388262,
+            "date": "2015-03-21 03:05:00",
+            "ship_type_id": 670,
+            "character_name": "Abigail Moor"
+        },
+        {
+            "character_id": 94061472,
+            "solar_system_id": 30003556,
+            "value": 178516971.55,
+            "kill_id": 45546290,
+            "date": "2015-03-27 21:02:00",
+            "ship_type_id": 670,
+            "character_name": "Samantha Matheson"
+        },
+        {
+            "character_id": 749843709,
+            "solar_system_id": 31000232,
+            "value": 165212078.82,
+            "kill_id": 45246585,
+            "date": "2015-03-14 20:56:00",
+            "ship_type_id": 670,
+            "character_name": "sylass"
+        },
+        {
+            "character_id": 95327975,
+            "solar_system_id": 31001157,
+            "value": 162410467.47,
+            "kill_id": 45167892,
+            "date": "2015-03-11 02:59:00",
+            "ship_type_id": 670,
+            "character_name": "Roofer Atram"
+        },
+        {
+            "character_id": 94588259,
+            "solar_system_id": 31002515,
+            "value": 136240776.25,
+            "kill_id": 45460105,
+            "date": "2015-03-23 19:55:00",
+            "ship_type_id": 670,
+            "character_name": "Cogan Picklemyer"
+        },
+        {
+            "character_id": 1907875635,
+            "solar_system_id": 31001157,
+            "value": 123158618.15,
+            "kill_id": 45168255,
+            "date": "2015-03-11 03:21:00",
+            "ship_type_id": 670,
+            "character_name": "Strave Vane"
+        },
+        {
+            "character_id": 92593356,
+            "solar_system_id": 31001241,
+            "value": 98209612.77,
+            "kill_id": 45065259,
+            "date": "2015-03-06 21:58:00",
+            "ship_type_id": 670,
+            "character_name": "Neriox Kolon"
+        },
+        {
+            "character_id": 917749582,
+            "solar_system_id": 31001684,
+            "value": 97006772.86,
+            "kill_id": 45550720,
+            "date": "2015-03-27 23:50:00",
+            "ship_type_id": 670,
+            "character_name": "Adrepo"
+        },
+        {
+            "character_id": 1907875635,
+            "solar_system_id": 31001335,
+            "value": 96210697.87,
+            "kill_id": 45188647,
+            "date": "2015-03-12 03:52:00",
+            "ship_type_id": 670,
+            "character_name": "Strave Vane"
+        },
+        {
+            "character_id": 1061741372,
+            "solar_system_id": 31000483,
+            "value": 95624866.36,
+            "kill_id": 45254116,
+            "date": "2015-03-15 02:04:00",
+            "ship_type_id": 670,
+            "character_name": "Aleksey87"
+        },
+        {
+            "character_id": 1482090184,
+            "solar_system_id": 31000507,
+            "value": 82915716.22,
+            "kill_id": 45128766,
+            "date": "2015-03-09 06:39:00",
+            "ship_type_id": 670,
+            "character_name": "eldanesh1249"
+        },
+        {
+            "character_id": 95110341,
+            "solar_system_id": 31000406,
+            "value": 78649086.67,
+            "kill_id": 45370971,
+            "date": "2015-03-20 12:07:00",
+            "ship_type_id": 670,
+            "character_name": "Serwus Shape"
+        },
+        {
+            "character_id": 95279272,
+            "solar_system_id": 31002291,
+            "value": 73051368.69,
+            "kill_id": 45550759,
+            "date": "2015-03-27 23:53:00",
+            "ship_type_id": 670,
+            "character_name": "Ismar Berkant"
+        },
+        {
+            "character_id": 92822303,
+            "solar_system_id": 31001393,
+            "value": 47347138.64,
+            "kill_id": 45414588,
+            "date": "2015-03-22 01:24:00",
+            "ship_type_id": 670,
+            "character_name": "Stabvar"
+        },
+        {
+            "character_id": 181492592,
+            "solar_system_id": 31000507,
+            "value": 45355046.4,
+            "kill_id": 45206994,
+            "date": "2015-03-13 03:13:00",
+            "ship_type_id": 670,
+            "character_name": "Junot Nevone"
+        },
+        {
+            "character_id": 95327975,
+            "solar_system_id": 31000861,
+            "value": 44180672.36,
+            "kill_id": 45472458,
+            "date": "2015-03-24 08:17:00",
+            "ship_type_id": 670,
+            "character_name": "Roofer Atram"
+        },
+        {
+            "character_id": 92645263,
+            "solar_system_id": 31002527,
+            "value": 42844715.23,
+            "kill_id": 45304997,
+            "date": "2015-03-17 08:55:00",
+            "ship_type_id": 670,
+            "character_name": "Zombie Corpse"
+        },
+        {
+            "character_id": 91933821,
+            "solar_system_id": 31001461,
+            "value": 42272280.42,
+            "kill_id": 45510382,
+            "date": "2015-03-26 03:03:00",
+            "ship_type_id": 670,
+            "character_name": "DamnInjun Kado"
+        },
+        {
+            "character_id": 435727462,
+            "solar_system_id": 31000399,
+            "value": 42235817.39,
+            "kill_id": 45397046,
+            "date": "2015-03-21 13:28:00",
+            "ship_type_id": 670,
+            "character_name": "schach tweed"
+        },
+        {
+            "character_id": 95044350,
+            "solar_system_id": 31000828,
+            "value": 42227632.48,
+            "kill_id": 45631742,
+            "date": "2015-03-31 00:22:00",
+            "ship_type_id": 670,
+            "character_name": "Woden Aaesir"
+        },
+        {
+            "character_id": 1569508798,
+            "solar_system_id": 31001334,
+            "value": 42163271.69,
+            "kill_id": 45162995,
+            "date": "2015-03-10 22:03:00",
+            "ship_type_id": 670,
+            "character_name": "name 2short"
+        },
+        {
+            "character_id": 94457315,
+            "solar_system_id": 30002786,
+            "value": 39238707.9,
+            "kill_id": 45204136,
+            "date": "2015-03-12 23:58:00",
+            "ship_type_id": 670,
+            "character_name": "JANEY REBEL"
+        },
+        {
+            "character_id": 92919838,
+            "solar_system_id": 31000507,
+            "value": 35633729.13,
+            "kill_id": 45524535,
+            "date": "2015-03-26 21:07:00",
+            "ship_type_id": 670,
+            "character_name": "Kyron Jupiter"
+        },
+        {
+            "character_id": 1022443999,
+            "solar_system_id": 31000778,
+            "value": 33972393.26,
+            "kill_id": 45434791,
+            "date": "2015-03-22 19:09:00",
+            "ship_type_id": 670,
+            "character_name": "Waveform"
+        },
+        {
+            "character_id": 93420090,
+            "solar_system_id": 31002239,
+            "value": 33860772.25,
+            "kill_id": 45258307,
+            "date": "2015-03-15 07:02:00",
+            "ship_type_id": 670,
+            "character_name": "Lish Vale"
+        },
+        {
+            "character_id": 95364999,
+            "solar_system_id": 31001146,
+            "value": 33830641.6,
+            "kill_id": 45055219,
+            "date": "2015-03-06 13:12:00",
+            "ship_type_id": 670,
+            "character_name": "Tyson Belvar"
+        },
+        {
+            "character_id": 90008732,
+            "solar_system_id": 31000169,
+            "value": 26396791.12,
+            "kill_id": 45414297,
+            "date": "2015-03-22 01:07:00",
+            "ship_type_id": 670,
+            "character_name": "Zerker7"
+        },
+        {
+            "character_id": 95325442,
+            "solar_system_id": 31000365,
+            "value": 25698141.37,
+            "kill_id": 45279332,
+            "date": "2015-03-16 00:00:00",
+            "ship_type_id": 670,
+            "character_name": "OG Ragnar Danneskjold"
+        },
+        {
+            "character_id": 94388166,
+            "solar_system_id": 31000278,
+            "value": 25359960.23,
+            "kill_id": 45173454,
+            "date": "2015-03-11 13:35:00",
+            "ship_type_id": 670,
+            "character_name": "Cynis Auscent"
+        },
+        {
+            "character_id": 93860538,
+            "solar_system_id": 31000452,
+            "value": 21088214.46,
+            "kill_id": 45083212,
+            "date": "2015-03-07 16:35:00",
+            "ship_type_id": 670,
+            "character_name": "Hannibal Lectors"
+        },
+        {
+            "character_id": 93715423,
+            "solar_system_id": 31001761,
+            "value": 18809393.15,
+            "kill_id": 44991224,
+            "date": "2015-03-03 06:34:00",
+            "ship_type_id": 670,
+            "character_name": "Andrey Dreik"
+        },
+        {
+            "character_id": 92940517,
+            "solar_system_id": 31000374,
+            "value": 18127161.98,
+            "kill_id": 45340891,
+            "date": "2015-03-18 23:38:00",
+            "ship_type_id": 670,
+            "character_name": "Cody Pollard"
+        },
+        {
+            "character_id": 95380802,
+            "solar_system_id": 31000894,
+            "value": 16972049.63,
+            "kill_id": 45502237,
+            "date": "2015-03-25 20:36:00",
+            "ship_type_id": 670,
+            "character_name": "Alianthar Cesaille"
+        },
+        {
+            "character_id": 91717471,
+            "solar_system_id": 30000846,
+            "value": 16924684.48,
+            "kill_id": 45288804,
+            "date": "2015-03-16 14:59:00",
+            "ship_type_id": 670,
+            "character_name": "cybercoder2 Shimaya"
+        },
+        {
+            "character_id": 95076295,
+            "solar_system_id": 30000557,
+            "value": 16910016.82,
+            "kill_id": 45053727,
+            "date": "2015-03-06 10:08:00",
+            "ship_type_id": 670,
+            "character_name": "Tirannid Aurilen"
+        },
+        {
+            "character_id": 90546565,
+            "solar_system_id": 31000507,
+            "value": 16754463.12,
+            "kill_id": 45189640,
+            "date": "2015-03-12 05:33:00",
+            "ship_type_id": 670,
+            "character_name": "XeXnia"
+        },
+        {
+            "character_id": 95268137,
+            "solar_system_id": 31002527,
+            "value": 16731444.6,
+            "kill_id": 45304690,
+            "date": "2015-03-17 08:17:00",
+            "ship_type_id": 670,
+            "character_name": "Omnirus"
+        },
+        {
+            "character_id": 95223991,
+            "solar_system_id": 31000938,
+            "value": 16181894.19,
+            "kill_id": 45101319,
+            "date": "2015-03-08 05:33:00",
+            "ship_type_id": 670,
+            "character_name": "Maxemer"
+        },
+        {
+            "character_id": 92672889,
+            "solar_system_id": 31000765,
+            "value": 10232108.37,
+            "kill_id": 45436735,
+            "date": "2015-03-22 20:07:00",
+            "ship_type_id": 670,
+            "character_name": "Anatoli 11rus"
+        },
+        {
+            "character_id": 95307778,
+            "solar_system_id": 30003067,
+            "value": 10222143.59,
+            "kill_id": 45295849,
+            "date": "2015-03-16 21:20:00",
+            "ship_type_id": 670,
+            "character_name": "Choptop Rinah"
+        },
+        {
+            "character_id": 93801879,
+            "solar_system_id": 31000237,
+            "value": 9572430.55,
+            "kill_id": 45322032,
+            "date": "2015-03-18 03:15:00",
+            "ship_type_id": 670,
+            "character_name": "Dr Branom DeLarge"
+        },
+        {
+            "character_id": 95229473,
+            "solar_system_id": 31000152,
+            "value": 8486809.64,
+            "kill_id": 45026889,
+            "date": "2015-03-05 02:01:00",
+            "ship_type_id": 670,
+            "character_name": "Cronos Acromon"
+        },
+        {
+            "character_id": 95286271,
+            "solar_system_id": 31000332,
+            "value": 6746295.24,
+            "kill_id": 45079440,
+            "date": "2015-03-07 13:15:00",
+            "ship_type_id": 670,
+            "character_name": "Paul Ashwood"
+        },
+        {
+            "character_id": 854524896,
+            "solar_system_id": 31001119,
+            "value": 5906848.23,
+            "kill_id": 45469243,
+            "date": "2015-03-24 02:49:00",
+            "ship_type_id": 670,
+            "character_name": "Ajion"
+        },
+        {
+            "character_id": 95368040,
+            "solar_system_id": 31000778,
+            "value": 5125829.02,
+            "kill_id": 45350853,
+            "date": "2015-03-19 13:54:00",
+            "ship_type_id": 670,
+            "character_name": "stranik infernum"
+        },
+        {
+            "character_id": 1996039391,
+            "solar_system_id": 31000507,
+            "value": 4189300.12,
+            "kill_id": 45128302,
+            "date": "2015-03-09 05:45:00",
+            "ship_type_id": 670,
+            "character_name": "Rodger Trust"
+        },
+        {
+            "character_id": 95132663,
+            "solar_system_id": 31000232,
+            "value": 4080984.67,
+            "kill_id": 45237721,
+            "date": "2015-03-14 14:55:00",
+            "ship_type_id": 670,
+            "character_name": "Sinistra Nanaki"
+        },
+        {
+            "character_id": 95415975,
+            "solar_system_id": 31000696,
+            "value": 2775851.11,
+            "kill_id": 45572056,
+            "date": "2015-03-28 19:35:00",
+            "ship_type_id": 670,
+            "character_name": "Efrem"
+        },
+        {
+            "character_id": 95347089,
+            "solar_system_id": 31000363,
+            "value": 2754949.79,
+            "kill_id": 45261036,
+            "date": "2015-03-15 10:48:00",
+            "ship_type_id": 670,
+            "character_name": "chonger grigor"
+        },
+        {
+            "character_id": 95417045,
+            "solar_system_id": 31000696,
+            "value": 1676329.01,
+            "kill_id": 45563881,
+            "date": "2015-03-28 13:54:00",
+            "ship_type_id": 670,
+            "character_name": "Junpei Iori"
+        },
+        {
+            "character_id": 95435120,
+            "solar_system_id": 31000779,
+            "value": 1278813.17,
+            "kill_id": 45471810,
+            "date": "2015-03-24 06:59:00",
+            "ship_type_id": 670,
+            "character_name": "Drake Zurn"
+        },
+        {
+            "character_id": 95409212,
+            "solar_system_id": 31000976,
+            "value": 1262887.24,
+            "kill_id": 45152123,
+            "date": "2015-03-10 09:55:00",
+            "ship_type_id": 670,
+            "character_name": "GNK NV"
+        },
+        {
+            "character_id": 95313698,
+            "solar_system_id": 31000647,
+            "value": 1199010.52,
+            "kill_id": 45339442,
+            "date": "2015-03-18 22:30:00",
+            "ship_type_id": 670,
+            "character_name": "Harmony Patrouette"
+        },
+        {
+            "character_id": 95361703,
+            "solar_system_id": 30004992,
+            "value": 1104426.16,
+            "kill_id": 45406541,
+            "date": "2015-03-21 20:29:00",
+            "ship_type_id": 670,
+            "character_name": "Talion en Chalune"
+        },
+        {
+            "character_id": 95328419,
+            "solar_system_id": 31000976,
+            "value": 1040077.25,
+            "kill_id": 45152271,
+            "date": "2015-03-10 10:12:00",
+            "ship_type_id": 670,
+            "character_name": "Darth Bogan"
+        },
+        {
+            "character_id": 95403283,
+            "solar_system_id": 31001173,
+            "value": 681778.56,
+            "kill_id": 45464647,
+            "date": "2015-03-23 22:48:00",
+            "ship_type_id": 670,
+            "character_name": "Rikitiki Kaokao"
+        },
+        {
+            "character_id": 95368040,
+            "solar_system_id": 31000039,
+            "value": 524231.25,
+            "kill_id": 45329216,
+            "date": "2015-03-18 14:50:00",
+            "ship_type_id": 670,
+            "character_name": "stranik infernum"
+        },
+        {
+            "character_id": 95387799,
+            "solar_system_id": 31000320,
+            "value": 195379.27,
+            "kill_id": 45115201,
+            "date": "2015-03-08 19:17:00",
+            "ship_type_id": 670,
+            "character_name": "Alex Tavington"
+        },
+        {
+            "character_id": 95400581,
+            "solar_system_id": 31000623,
+            "value": 193783.96,
+            "kill_id": 45068522,
+            "date": "2015-03-07 00:24:00",
+            "ship_type_id": 670,
+            "character_name": "Moiraj Ozran"
+        },
+        {
+            "character_id": 95443169,
+            "solar_system_id": 31000861,
+            "value": 186660.41,
+            "kill_id": 45473269,
+            "date": "2015-03-24 09:42:00",
+            "ship_type_id": 670,
+            "character_name": "Atlant Atlantov"
+        },
+        {
+            "character_id": 95389622,
+            "solar_system_id": 31000801,
+            "value": 115107.47,
+            "kill_id": 44937387,
+            "date": "2015-03-01 01:21:00",
+            "ship_type_id": 670,
+            "character_name": "Andrey FatAss"
+        },
+        {
+            "character_id": 93910128,
+            "solar_system_id": 31000520,
+            "value": 114468.8,
+            "kill_id": 45071815,
+            "date": "2015-03-07 03:25:00",
+            "ship_type_id": 670,
+            "character_name": "Jordie Crendraven"
+        },
+        {
+            "character_id": 95408482,
+            "solar_system_id": 31000518,
+            "value": 111359.04,
+            "kill_id": 45319611,
+            "date": "2015-03-18 01:00:00",
+            "ship_type_id": 670,
+            "character_name": "Findolope Daskori"
+        },
+        {
+            "character_id": 93932638,
+            "solar_system_id": 31000507,
+            "value": 109855.38,
+            "kill_id": 45407222,
+            "date": "2015-03-21 20:48:00",
+            "ship_type_id": 670,
+            "character_name": "Red-Bearded Skull Mauser"
+        },
+        {
+            "character_id": 95394800,
+            "solar_system_id": 31000861,
+            "value": 106241.82,
+            "kill_id": 45471874,
+            "date": "2015-03-24 07:06:00",
+            "ship_type_id": 670,
+            "character_name": "Alex Borkh"
+        },
+        {
+            "character_id": 95475245,
+            "solar_system_id": 31001350,
+            "value": 98007.96,
+            "kill_id": 45650361,
+            "date": "2015-03-31 22:03:00",
+            "ship_type_id": 670,
+            "character_name": "Turddle Power"
+        },
+        {
+            "character_id": 95414558,
+            "solar_system_id": 31000465,
+            "value": 92223.17,
+            "kill_id": 45397159,
+            "date": "2015-03-21 13:35:00",
+            "ship_type_id": 670,
+            "character_name": "Mentecapto Purvanen"
+        },
+        {
+            "character_id": 95107197,
+            "solar_system_id": 31000258,
+            "value": 89939.5,
+            "kill_id": 45028003,
+            "date": "2015-03-05 03:09:00",
+            "ship_type_id": 670,
+            "character_name": "Eric von Miromme"
+        },
+        {
+            "character_id": 95451866,
+            "solar_system_id": 31000634,
+            "value": 10000,
+            "kill_id": 45627856,
+            "date": "2015-03-30 20:55:00",
+            "ship_type_id": 670,
+            "character_name": "Youri Paaltomo"
+        },
+        {
+            "character_id": 95475736,
+            "solar_system_id": 31000293,
+            "value": 10000,
+            "kill_id": 45626436,
+            "date": "2015-03-30 20:05:00",
+            "ship_type_id": 670,
+            "character_name": "Joseph Sokolon"
+        },
+        {
+            "character_id": 95434971,
+            "solar_system_id": 31002595,
+            "value": 10000,
+            "kill_id": 45621486,
+            "date": "2015-03-30 16:47:00",
+            "ship_type_id": 670,
+            "character_name": "Uskonto Murhaaja"
+        },
+        {
+            "character_id": 95274012,
+            "solar_system_id": 31001153,
+            "value": 10000,
+            "kill_id": 45616686,
+            "date": "2015-03-30 09:36:00",
+            "ship_type_id": 670,
+            "character_name": "Mezoplan"
+        },
+        {
+            "character_id": 712996038,
+            "solar_system_id": 31000634,
+            "value": 10000,
+            "kill_id": 45602584,
+            "date": "2015-03-29 19:24:00",
+            "ship_type_id": 670,
+            "character_name": "Cyberghoul"
+        },
+        {
+            "character_id": 91350911,
+            "solar_system_id": 31000831,
+            "value": 10000,
+            "kill_id": 45601419,
+            "date": "2015-03-29 18:47:00",
+            "ship_type_id": 670,
+            "character_name": "Scott Graillion"
+        },
+        {
+            "character_id": 93755018,
+            "solar_system_id": 30003520,
+            "value": 10000,
+            "kill_id": 45588869,
+            "date": "2015-03-29 09:23:00",
+            "ship_type_id": 33328,
+            "character_name": "Katanamari Mori"
+        },
+        {
+            "character_id": 95455275,
+            "solar_system_id": 31001159,
+            "value": 10000,
+            "kill_id": 45528402,
+            "date": "2015-03-27 00:05:00",
+            "ship_type_id": 670,
+            "character_name": "Gambekk Shadowbourne"
+        },
+        {
+            "character_id": 95233556,
+            "solar_system_id": 31001159,
+            "value": 10000,
+            "kill_id": 45526387,
+            "date": "2015-03-26 22:20:00",
+            "ship_type_id": 670,
+            "character_name": "Ann Blueberry"
+        },
+        {
+            "character_id": 94975590,
+            "solar_system_id": 31000566,
+            "value": 10000,
+            "kill_id": 45502734,
+            "date": "2015-03-25 20:56:00",
+            "ship_type_id": 670,
+            "character_name": "Epoxio"
+        },
+        {
+            "character_id": 93817779,
+            "solar_system_id": 31000043,
+            "value": 10000,
+            "kill_id": 45489397,
+            "date": "2015-03-25 03:54:00",
+            "ship_type_id": 670,
+            "character_name": "Ozsqhbj Kaundur"
+        },
+        {
+            "character_id": 95155737,
+            "solar_system_id": 31000829,
+            "value": 10000,
+            "kill_id": 45479787,
+            "date": "2015-03-24 19:44:00",
+            "ship_type_id": 670,
+            "character_name": "Stiff Stifler"
+        },
+        {
+            "character_id": 91757552,
+            "solar_system_id": 31001145,
+            "value": 10000,
+            "kill_id": 45479033,
+            "date": "2015-03-24 19:07:00",
+            "ship_type_id": 670,
+            "character_name": "Priesthe Priest"
+        },
+        {
+            "character_id": 91256051,
+            "solar_system_id": 30000640,
+            "value": 10000,
+            "kill_id": 45465726,
+            "date": "2015-03-23 23:38:00",
+            "ship_type_id": 670,
+            "character_name": "Alex Obvesim"
+        },
+        {
+            "character_id": 787954811,
+            "solar_system_id": 31001020,
+            "value": 10000,
+            "kill_id": 45446014,
+            "date": "2015-03-23 02:19:00",
+            "ship_type_id": 670,
+            "character_name": "Johnny Raye"
+        },
+        {
+            "character_id": 95451614,
+            "solar_system_id": 31000543,
+            "value": 10000,
+            "kill_id": 45446003,
+            "date": "2015-03-23 02:19:00",
+            "ship_type_id": 670,
+            "character_name": "Hypnos Daimon"
+        },
+        {
+            "character_id": 95172673,
+            "solar_system_id": 31000507,
+            "value": 10000,
+            "kill_id": 45445253,
+            "date": "2015-03-23 01:34:00",
+            "ship_type_id": 670,
+            "character_name": "Gorath Pahineh"
+        },
+        {
+            "character_id": 95300068,
+            "solar_system_id": 31000549,
+            "value": 10000,
+            "kill_id": 45429213,
+            "date": "2015-03-22 15:56:00",
+            "ship_type_id": 670,
+            "character_name": "Alex Skyfire"
+        },
+        {
+            "character_id": 95368040,
+            "solar_system_id": 31000778,
+            "value": 10000,
+            "kill_id": 45427739,
+            "date": "2015-03-22 15:02:00",
+            "ship_type_id": 670,
+            "character_name": "stranik infernum"
+        },
+        {
+            "character_id": 94874460,
+            "solar_system_id": 30002082,
+            "value": 10000,
+            "kill_id": 45421459,
+            "date": "2015-03-22 08:15:00",
+            "ship_type_id": 670,
+            "character_name": "DuBoi Dustite"
+        },
+        {
+            "character_id": 94874460,
+            "solar_system_id": 30002058,
+            "value": 10000,
+            "kill_id": 45420774,
+            "date": "2015-03-22 07:22:00",
+            "ship_type_id": 670,
+            "character_name": "DuBoi Dustite"
+        },
+        {
+            "character_id": 95181339,
+            "solar_system_id": 31000153,
+            "value": 10000,
+            "kill_id": 45409295,
+            "date": "2015-03-21 21:46:00",
+            "ship_type_id": 670,
+            "character_name": "Thuria Lazarus"
+        },
+        {
+            "character_id": 94432585,
+            "solar_system_id": 31000258,
+            "value": 10000,
+            "kill_id": 45397784,
+            "date": "2015-03-21 14:08:00",
+            "ship_type_id": 670,
+            "character_name": "Victor Orenski"
+        },
+        {
+            "character_id": 1788631786,
+            "solar_system_id": 31000363,
+            "value": 10000,
+            "kill_id": 45394522,
+            "date": "2015-03-21 10:08:00",
+            "ship_type_id": 670,
+            "character_name": "Arkrujhna"
+        },
+        {
+            "character_id": 1897015939,
+            "solar_system_id": 31000153,
+            "value": 10000,
+            "kill_id": 45388549,
+            "date": "2015-03-21 03:21:00",
+            "ship_type_id": 670,
+            "character_name": "V3rt1g0"
+        },
+        {
+            "character_id": 94296008,
+            "solar_system_id": 31001043,
+            "value": 10000,
+            "kill_id": 45387788,
+            "date": "2015-03-21 02:37:00",
+            "ship_type_id": 670,
+            "character_name": "Tzaar Ket-Om"
+        },
+        {
+            "character_id": 91459017,
+            "solar_system_id": 31000432,
+            "value": 10000,
+            "kill_id": 45362914,
+            "date": "2015-03-20 00:17:00",
+            "ship_type_id": 33328,
+            "character_name": "Caldar 514"
+        },
+        {
+            "character_id": 94784337,
+            "solar_system_id": 31000778,
+            "value": 10000,
+            "kill_id": 45349276,
+            "date": "2015-03-19 10:44:00",
+            "ship_type_id": 670,
+            "character_name": "Merk Odin"
+        },
+        {
+            "character_id": 95391748,
+            "solar_system_id": 31001084,
+            "value": 10000,
+            "kill_id": 45335876,
+            "date": "2015-03-18 20:16:00",
+            "ship_type_id": 670,
+            "character_name": "Nadia Kion"
+        },
+        {
+            "character_id": 95154663,
+            "solar_system_id": 31002524,
+            "value": 10000,
+            "kill_id": 45301521,
+            "date": "2015-03-17 02:36:00",
+            "ship_type_id": 670,
+            "character_name": "Roberto Abalachi"
+        },
+        {
+            "character_id": 95355333,
+            "solar_system_id": 31002524,
+            "value": 10000,
+            "kill_id": 45300257,
+            "date": "2015-03-17 01:24:00",
+            "ship_type_id": 670,
+            "character_name": "Speranza Staletta"
+        },
+        {
+            "character_id": 95397561,
+            "solar_system_id": 31002524,
+            "value": 10000,
+            "kill_id": 45299927,
+            "date": "2015-03-17 01:04:00",
+            "ship_type_id": 670,
+            "character_name": "Mizak Dorgiers"
+        },
+        {
+            "character_id": 95368644,
+            "solar_system_id": 31000861,
+            "value": 10000,
+            "kill_id": 45287151,
+            "date": "2015-03-16 12:10:00",
+            "ship_type_id": 670,
+            "character_name": "Serg Sharvas"
+        },
+        {
+            "character_id": 91742565,
+            "solar_system_id": 31000919,
+            "value": 10000,
+            "kill_id": 45269595,
+            "date": "2015-03-15 18:31:00",
+            "ship_type_id": 670,
+            "character_name": "Dominikus Greyhound"
+        },
+        {
+            "character_id": 95362178,
+            "solar_system_id": 31000988,
+            "value": 10000,
+            "kill_id": 45261114,
+            "date": "2015-03-15 10:56:00",
+            "ship_type_id": 670,
+            "character_name": "Strelok Alabel"
+        },
+        {
+            "character_id": 95103254,
+            "solar_system_id": 31000512,
+            "value": 10000,
+            "kill_id": 45229472,
+            "date": "2015-03-14 04:21:00",
+            "ship_type_id": 670,
+            "character_name": "Rain Agnon"
+        },
+        {
+            "character_id": 93241206,
+            "solar_system_id": 31000324,
+            "value": 10000,
+            "kill_id": 45228089,
+            "date": "2015-03-14 03:04:00",
+            "ship_type_id": 670,
+            "character_name": "Rembrant Jovakko"
+        },
+        {
+            "character_id": 95393744,
+            "solar_system_id": 31000839,
+            "value": 10000,
+            "kill_id": 45222313,
+            "date": "2015-03-13 22:11:00",
+            "ship_type_id": 670,
+            "character_name": "Kocherga"
+        },
+        {
+            "character_id": 94633103,
+            "solar_system_id": 30000720,
+            "value": 10000,
+            "kill_id": 45205576,
+            "date": "2015-03-13 01:36:00",
+            "ship_type_id": 670,
+            "character_name": "Halifax Cohagen"
+        },
+        {
+            "character_id": 95055789,
+            "solar_system_id": 31001334,
+            "value": 10000,
+            "kill_id": 45189963,
+            "date": "2015-03-12 06:07:00",
+            "ship_type_id": 670,
+            "character_name": "Gorr Horridus"
+        },
+        {
+            "character_id": 95418492,
+            "solar_system_id": 31001694,
+            "value": 10000,
+            "kill_id": 45181319,
+            "date": "2015-03-11 21:19:00",
+            "ship_type_id": 670,
+            "character_name": "Donald Roark GetRekt"
+        },
+        {
+            "character_id": 92259694,
+            "solar_system_id": 31001659,
+            "value": 10000,
+            "kill_id": 45176318,
+            "date": "2015-03-11 17:37:00",
+            "ship_type_id": 670,
+            "character_name": "Cam Cavono"
+        },
+        {
+            "character_id": 95401102,
+            "solar_system_id": 31002596,
+            "value": 10000,
+            "kill_id": 45173259,
+            "date": "2015-03-11 13:18:00",
+            "ship_type_id": 670,
+            "character_name": "YoungDuck DaeGae"
+        },
+        {
+            "character_id": 94420227,
+            "solar_system_id": 31000557,
+            "value": 10000,
+            "kill_id": 45160488,
+            "date": "2015-03-10 20:23:00",
+            "ship_type_id": 670,
+            "character_name": "steven mardis"
+        },
+        {
+            "character_id": 95400398,
+            "solar_system_id": 31000343,
+            "value": 10000,
+            "kill_id": 45146612,
+            "date": "2015-03-10 01:50:00",
+            "ship_type_id": 670,
+            "character_name": "Deicyde Blasphemy"
+        },
+        {
+            "character_id": 95396825,
+            "solar_system_id": 31000481,
+            "value": 10000,
+            "kill_id": 45144289,
+            "date": "2015-03-09 23:18:00",
+            "ship_type_id": 670,
+            "character_name": "tolerance lexx"
+        },
+        {
+            "character_id": 95289187,
+            "solar_system_id": 31000590,
+            "value": 10000,
+            "kill_id": 45128049,
+            "date": "2015-03-09 05:16:00",
+            "ship_type_id": 670,
+            "character_name": "Slayn Vanaheim"
+        },
+        {
+            "character_id": 95402161,
+            "solar_system_id": 31000459,
+            "value": 10000,
+            "kill_id": 45124668,
+            "date": "2015-03-09 01:13:00",
+            "ship_type_id": 670,
+            "character_name": "Antaun Leescoresby"
+        },
+        {
+            "character_id": 91503453,
+            "solar_system_id": 30001921,
+            "value": 10000,
+            "kill_id": 45122141,
+            "date": "2015-03-08 23:13:00",
+            "ship_type_id": 670,
+            "character_name": "hoarywanderer"
+        },
+        {
+            "character_id": 124329723,
+            "solar_system_id": 30045316,
+            "value": 10000,
+            "kill_id": 45096662,
+            "date": "2015-03-08 00:54:00",
+            "ship_type_id": 670,
+            "character_name": "ravinclaw"
+        },
+        {
+            "character_id": 95415640,
+            "solar_system_id": 31000822,
+            "value": 10000,
+            "kill_id": 45094983,
+            "date": "2015-03-07 23:34:00",
+            "ship_type_id": 670,
+            "character_name": "Lumia Eclipsis"
+        },
+        {
+            "character_id": 93860538,
+            "solar_system_id": 31000452,
+            "value": 10000,
+            "kill_id": 45083925,
+            "date": "2015-03-07 17:09:00",
+            "ship_type_id": 670,
+            "character_name": "Hannibal Lectors"
+        },
+        {
+            "character_id": 91098707,
+            "solar_system_id": 30002282,
+            "value": 10000,
+            "kill_id": 45071637,
+            "date": "2015-03-07 03:17:00",
+            "ship_type_id": 670,
+            "character_name": "Akivar Nijoba"
+        },
+        {
+            "character_id": 95412746,
+            "solar_system_id": 30005328,
+            "value": 10000,
+            "kill_id": 45068947,
+            "date": "2015-03-07 00:44:00",
+            "ship_type_id": 670,
+            "character_name": "Sheppard Souza"
+        },
+        {
+            "character_id": 95140820,
+            "solar_system_id": 31000304,
+            "value": 10000,
+            "kill_id": 45055558,
+            "date": "2015-03-06 13:40:00",
+            "ship_type_id": 670,
+            "character_name": "Aleks Zidel"
+        },
+        {
+            "character_id": 95397328,
+            "solar_system_id": 31000879,
+            "value": 10000,
+            "kill_id": 45052146,
+            "date": "2015-03-06 07:27:00",
+            "ship_type_id": 670,
+            "character_name": "RTYURA1111 Muvila"
+        },
+        {
+            "character_id": 90717511,
+            "solar_system_id": 30002187,
+            "value": 10000,
+            "kill_id": 45047477,
+            "date": "2015-03-06 01:43:00",
+            "ship_type_id": 670,
+            "character_name": "Subroot"
+        },
+        {
+            "character_id": 95388501,
+            "solar_system_id": 31000878,
+            "value": 10000,
+            "kill_id": 45044134,
+            "date": "2015-03-05 22:13:00",
+            "ship_type_id": 670,
+            "character_name": "Elvis Resley"
+        },
+        {
+            "character_id": 527552459,
+            "solar_system_id": 31002237,
+            "value": 10000,
+            "kill_id": 45037268,
+            "date": "2015-03-05 17:27:00",
+            "ship_type_id": 670,
+            "character_name": "K3ROXX"
+        },
+        {
+            "character_id": 95403351,
+            "solar_system_id": 31002520,
+            "value": 10000,
+            "kill_id": 45023662,
+            "date": "2015-03-04 22:21:00",
+            "ship_type_id": 670,
+            "character_name": "Tyrios Aideron"
+        },
+        {
+            "character_id": 95362178,
+            "solar_system_id": 31001350,
+            "value": 10000,
+            "kill_id": 45011562,
+            "date": "2015-03-04 09:01:00",
+            "ship_type_id": 670,
+            "character_name": "Strelok Alabel"
+        },
+        {
+            "character_id": 91570731,
+            "solar_system_id": 31000185,
+            "value": 10000,
+            "kill_id": 45003433,
+            "date": "2015-03-03 22:12:00",
+            "ship_type_id": 670,
+            "character_name": "Dead Dolphin"
+        },
+        {
+            "character_id": 94791521,
+            "solar_system_id": 30000850,
+            "value": 10000,
+            "kill_id": 44998657,
+            "date": "2015-03-03 18:36:00",
+            "ship_type_id": 670,
+            "character_name": "Wikedsic Denton"
+        },
+        {
+            "character_id": 95395603,
+            "solar_system_id": 31001055,
+            "value": 10000,
+            "kill_id": 44989793,
+            "date": "2015-03-03 04:28:00",
+            "ship_type_id": 670,
+            "character_name": "Anaria Motsu"
+        },
+        {
+            "character_id": 95404680,
+            "solar_system_id": 31001055,
+            "value": 10000,
+            "kill_id": 44988752,
+            "date": "2015-03-03 03:27:00",
+            "ship_type_id": 670,
+            "character_name": "jarlaxil DoUrden"
+        },
+        {
+            "character_id": 95402783,
+            "solar_system_id": 31000809,
+            "value": 10000,
+            "kill_id": 44988623,
+            "date": "2015-03-03 03:18:00",
+            "ship_type_id": 670,
+            "character_name": "Drider Cesaille"
+        },
+        {
+            "character_id": 95377400,
+            "solar_system_id": 31000057,
+            "value": 10000,
+            "kill_id": 44985281,
+            "date": "2015-03-02 23:53:00",
+            "ship_type_id": 670,
+            "character_name": "nick ivehadsex"
+        }
+    ]
+}

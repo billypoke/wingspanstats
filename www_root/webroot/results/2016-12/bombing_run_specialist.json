@@ -1,0 +1,81 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 909011369,
+            "isk_destroyed": 2650481588.77,
+            "character_name": "Shaellon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 13,
+            "character_id": 93969330,
+            "isk_destroyed": 824989559.2900001,
+            "character_name": "Ladas Gladius Augustus"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 12,
+            "character_id": 96872235,
+            "isk_destroyed": 863756058.05,
+            "character_name": "ianDao"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 95912992,
+            "isk_destroyed": 767079426.65,
+            "character_name": "Daniel Miguel Valiente"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 93695661,
+            "isk_destroyed": 88975734.52,
+            "character_name": "Corren Constantine"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 92107030,
+            "isk_destroyed": 43818377.44,
+            "character_name": "Alex Kiorn"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1817763414,
+            "isk_destroyed": 39586908.31,
+            "character_name": "TOPSTER"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94355263,
+            "isk_destroyed": 32518295.89,
+            "character_name": "WeirdBall"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 96009380,
+            "isk_destroyed": 32516629.04,
+            "character_name": "Procyon Alcyone"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94623708,
+            "isk_destroyed": 45631.76,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95732953,
+            "isk_destroyed": 10000,
+            "character_name": "Mei Long"
+        }
+    ]
+}

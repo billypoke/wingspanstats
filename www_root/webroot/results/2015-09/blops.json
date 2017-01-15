@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 27,
+            "character_id": 94447432,
+            "isk_destroyed": 854162270.9599999,
+            "character_name": "Chance Ravinne"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 1367120850,
+            "isk_destroyed": 1128745690.9699998,
+            "character_name": "Vince Condor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1640448394,
+            "isk_destroyed": 204380362.73000002,
+            "character_name": "Saria Dehmov"
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 13,
+            "character_id": 92783231,
+            "isk_destroyed": 821566691.87,
+            "character_name": "Valkyrie Starslayer"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 96049384,
+            "isk_destroyed": 668089158.4200001,
+            "character_name": "Quintus Va'Lari"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 95009795,
+            "isk_destroyed": 590139330.92,
+            "character_name": "Tasmine Cha-Tien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 2052163101,
+            "isk_destroyed": 144984756.14,
+            "character_name": "brainwhacker"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 94056770,
+            "isk_destroyed": 124065725.41,
+            "character_name": "Inta Vakaria"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 96031529,
+            "isk_destroyed": 132548732.23,
+            "character_name": "Sir Revan SkyStalker"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95344823,
+            "isk_destroyed": 115154317.47,
+            "character_name": "Bails Naskingar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 94623708,
+            "isk_destroyed": 74249663.8,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 93838416,
+            "isk_destroyed": 61515722.28,
+            "character_name": "Banshee Legend"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 1640448394,
+            "isk_destroyed": 123470341.52,
+            "character_name": "Saria Dehmov"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95732953,
+            "isk_destroyed": 245186335.35,
+            "character_name": "Mei Long"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93562942,
+            "isk_destroyed": 245186335.35,
+            "character_name": "Liamm Dallocort"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1227868181,
+            "isk_destroyed": 245186335.35,
+            "character_name": "Artik Fawkes"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 95707291,
+            "isk_destroyed": 78038265.11,
+            "character_name": "Alphecca Lazair"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1771137724,
+            "isk_destroyed": 221765032.42,
+            "character_name": "Authawy"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1366631333,
+            "isk_destroyed": 219233558.59,
+            "character_name": "choo t"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 201138562,
+            "isk_destroyed": 88086042.03999999,
+            "character_name": "Mobreen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94809577,
+            "isk_destroyed": 84414259.9,
+            "character_name": "Glade Radner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 91435934,
+            "isk_destroyed": 40294302.3,
+            "character_name": "Lenai Chelien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95909784,
+            "isk_destroyed": 75277958.52,
+            "character_name": "Marco Jacks"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1744498135,
+            "isk_destroyed": 75277958.52,
+            "character_name": "Hermeticas"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1889846214,
+            "isk_destroyed": 75277958.52,
+            "character_name": "Caboosette"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 95921260,
+            "isk_destroyed": 48111693.21,
+            "character_name": "Silentt Knightt"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94634110,
+            "isk_destroyed": 40832973.910000004,
+            "character_name": "Tisiphone Dira"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95675630,
+            "isk_destroyed": 48082331.8,
+            "character_name": "Kelia Monaiis"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 92650713,
+            "isk_destroyed": 48067938.36,
+            "character_name": "Haruko Kitsune"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 91649347,
+            "isk_destroyed": 44194067.61,
+            "character_name": "Cross Ghasha"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95051074,
+            "isk_destroyed": 44194067.61,
+            "character_name": "togi yuki"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95778304,
+            "isk_destroyed": 44194067.61,
+            "character_name": "Scotty Erata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94951462,
+            "isk_destroyed": 44194067.61,
+            "character_name": "Aldore Udan"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1213436905,
+            "isk_destroyed": 42804568.76,
+            "character_name": "Murmadamus"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1726872619,
+            "isk_destroyed": 42804568.76,
+            "character_name": "More11o"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95122104,
+            "isk_destroyed": 42804568.76,
+            "character_name": "William Schattauer"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94922237,
+            "isk_destroyed": 39356317.19,
+            "character_name": "Raddic Darkworth"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92368672,
+            "isk_destroyed": 39356317.19,
+            "character_name": "Richter Trench"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95647266,
+            "isk_destroyed": 36777336.48,
+            "character_name": "Delta Rescue"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95519954,
+            "isk_destroyed": 33417716.72,
+            "character_name": "Vaaris Ignis"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1245307526,
+            "isk_destroyed": 33368617.47,
+            "character_name": "Wako Stargrazer"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 951156860,
+            "isk_destroyed": 31083890.91,
+            "character_name": "Grimacus"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94947315,
+            "isk_destroyed": 28372731.16,
+            "character_name": "Lainis Pootis"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95454553,
+            "isk_destroyed": 12144028.950000001,
+            "character_name": "Al3x Oaks"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 96212012,
+            "isk_destroyed": 16717955.86,
+            "character_name": "SkyDevil"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93594488,
+            "isk_destroyed": 16701279.51,
+            "character_name": "Cormorant Fell"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 1149749832,
+            "isk_destroyed": 3889697.24,
+            "character_name": "Saladiin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95586434,
+            "isk_destroyed": 11174552.73,
+            "character_name": "Maere Mearcstapa"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 237608053,
+            "isk_destroyed": 10401106.52,
+            "character_name": "Massive Black"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94154468,
+            "isk_destroyed": 8985528.17,
+            "character_name": "Cap'n Rick Clusterbomb"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95547196,
+            "isk_destroyed": 8985528.17,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93648199,
+            "isk_destroyed": 6511774.86,
+            "character_name": "Desiree Delene"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92605259,
+            "isk_destroyed": 6139193.4,
+            "character_name": "Norrin Zelkarr"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93658790,
+            "isk_destroyed": 3165656.99,
+            "character_name": "T-B0NE"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 595698298,
+            "isk_destroyed": 2663683.12,
+            "character_name": "scopehone"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92311170,
+            "isk_destroyed": 2488323.33,
+            "character_name": "Corridor Paratus"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93007709,
+            "isk_destroyed": 1284002.43,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93712455,
+            "isk_destroyed": 821071.34,
+            "character_name": "Orange SodaPop"
+        }
+    ]
+}
