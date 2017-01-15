@@ -30,11 +30,12 @@ def zkill_fetch(year, month, page_nr):
         )
 
     try:
+        print "Trying to connect to {}".format(url)
         request = urllib2.Request(url, None, headers)
         response = urllib2.urlopen(request)
     except urllib2.URLError as e:
         print "[Error]", e.reason
-        return None
+        return False
 
     if response.info().get("Content-Encoding") == "gzip":
         buf = StringIO(response.read())
@@ -60,14 +61,16 @@ def extract_data(year, month):
     requests = 0
     while True:
         data = zkill_fetch(year, month, page_nr)
+        if data == False:
+            break
         requests += 1
 
         # try to parse JSON received from server
         try:
             parsed_json = json.loads(data)
         except ValueError as e:
-            print "[Error]", e
-            return
+            print "[Error Parsing]", e.reason
+            return 
 
         if len(parsed_json) > 0:
             file_name = os.path.join(
