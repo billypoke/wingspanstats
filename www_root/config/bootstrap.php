@@ -192,7 +192,14 @@ Type::build('date')
     ->useImmutable();
 Type::build('datetime')
     ->useImmutable();
-
+function cmpISK($a, $b)
+    {
+        return $a->isk_destroyed < $b->isk_destroyed;
+    }
+ function cmpShips($a, $b)
+    {
+        return $a->ships_destroyed < $b->ships_destroyed;
+    }
 /*
  * Custom Inflector rules, can be set to correctly pluralize or singularize
  * table, model, controller names or whatever other string is passed to the
@@ -222,3 +229,5 @@ if (Configure::read('debug')) {
 }
 
 Plugin::load('Muffin/Webservice');
+
+Plugin::load('DebugKit');

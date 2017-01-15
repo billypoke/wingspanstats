@@ -37,6 +37,48 @@ class PagesController extends AppController
      * @throws \Cake\Network\Exception\NotFoundException When the view file could not
      *   be found or \Cake\View\Exception\MissingTemplateException in debug mode.
      */
+
+    public function home(){
+        $d = date('Y-m');
+        // $d ='2016-12';
+        $root = 'results/'.$d.'/';
+        // $root = 'results/__alltime__/';
+        $data = file_get_contents($root.'agents.json');
+        $agentData = json_decode($data);
+        usort($agentData->agents,'cmpISK');
+
+        $data = file_get_contents($root.'ships.json');
+        $shipsData = json_decode($data);
+        usort($shipsData->ships,'cmpISK');
+
+        $data = file_get_contents($root.'stratios.json');
+        $stratiosData = json_decode($data);
+        usort($stratiosData->agents,'cmpShips');
+
+        $data = file_get_contents($root.'bombers.json');
+        $bombersData = json_decode($data);
+        usort($bombersData->agents,'cmpShips');
+
+        $data = file_get_contents($root.'solo_hunter.json');
+        $soloData = json_decode($data);
+        usort($soloData->agents,'cmpISK');
+        //calculate ship stats
+        $shipsChart = $shipsData->ships;
+        $totalNave = 0;
+        foreach ($shipsChart as $s){
+            $totalNave += $s->ships_destroyed;
+        }
+        foreach ($shipsChart as $i => $s){
+            $shipsChart[$i]->pct = round($s->ships_destroyed * 100 / $totalNave);
+        }
+
+         $data = file_get_contents($root.'general_stats.json');
+        $generalData = json_decode($data);
+        
+        $this->set(compact('agentData','shipsData','stratiosData','bombersData','soloData','shipsChart','totalNave','generalData'));
+    }
+
+    
     public function display()
     {
         $path = func_get_args();

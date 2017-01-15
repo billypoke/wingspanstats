@@ -9,7 +9,7 @@ import re
 
 class StatsConfig:
     DATABASE_PATH = os.path.join('..', 'database')
-    RESULTS_PATH = os.path.join('..', 'results')
+    RESULTS_PATH = os.path.join('../www_root/webroot/', 'results')
 
     CORP_IDS = [
         98330748,  # WiNGSPAN Delivery Services
