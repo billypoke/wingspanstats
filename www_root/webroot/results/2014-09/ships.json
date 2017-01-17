@@ -1,0 +1,70 @@
+{
+    "ships": [
+        {
+            "ships_destroyed": 22,
+            "ship_type_id": 12032,
+            "ship_name": "Manticore",
+            "isk_destroyed": 2217459348.8564
+        },
+        {
+            "ships_destroyed": 19,
+            "ship_type_id": 11377,
+            "ship_name": "Nemesis",
+            "isk_destroyed": 2480670353.7499995
+        },
+        {
+            "ships_destroyed": 6,
+            "ship_type_id": 638,
+            "ship_name": "Raven",
+            "isk_destroyed": 579806961.66
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 641,
+            "ship_name": "Megathron",
+            "isk_destroyed": 386589491.77000004
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 644,
+            "ship_name": "Typhoon",
+            "isk_destroyed": 289903480.83
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 645,
+            "ship_name": "Dominix",
+            "isk_destroyed": 289903480.83
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 583,
+            "ship_name": "Condor",
+            "isk_destroyed": 96985018.08
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 12038,
+            "ship_name": "Purifier",
+            "isk_destroyed": 58405934.300000004
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 12034,
+            "ship_name": "Hound",
+            "isk_destroyed": 101965960.38
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 33470,
+            "ship_name": "Stratios",
+            "isk_destroyed": 96634493.61
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 29984,
+            "ship_name": "Tengu",
+            "isk_destroyed": 30410319.66
+        }
+    ]
+}

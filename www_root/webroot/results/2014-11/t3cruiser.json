@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 91166466,
+            "isk_destroyed": 396719739.75,
+            "character_name": "Vincent Dalvani"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1650743249,
+            "isk_destroyed": 266415228.94,
+            "character_name": "XY1983"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 90767257,
+            "isk_destroyed": 5554534.4002,
+            "character_name": "Rhadnan Yvormes"
+        }
+    ]
+}

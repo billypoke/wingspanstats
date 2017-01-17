@@ -1,0 +1,32 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95732953,
+            "isk_destroyed": 10353952.530000001,
+            "character_name": "Mei Long"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94154468,
+            "isk_destroyed": 15788267.94,
+            "character_name": "Cap'n Rick Clusterbomb"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 93754225,
+            "isk_destroyed": 3931647.6900000004,
+            "character_name": "Seabrony"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 522875391,
+            "isk_destroyed": 2688575.56,
+            "character_name": "Critical Miss"
+        }
+    ]
+}

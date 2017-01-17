@@ -1,0 +1,49 @@
+{
+    "kills": [
+        {
+            "character_id": 95921260,
+            "solar_system_id": 31000217,
+            "value": 42272387.73,
+            "kill_id": 50738719,
+            "date": "2015-12-15 22:02:49",
+            "ship_type_id": 12038,
+            "character_name": "Silentt Knightt"
+        },
+        {
+            "character_id": 1805848228,
+            "solar_system_id": 31000270,
+            "value": 502356.12,
+            "kill_id": 50495177,
+            "date": "2015-12-03 22:41:16",
+            "ship_type_id": 11129,
+            "character_name": "Zen Dad"
+        },
+        {
+            "character_id": 93007709,
+            "solar_system_id": 31000005,
+            "value": 10000,
+            "kill_id": 50911098,
+            "date": "2015-12-24 02:26:22",
+            "ship_type_id": 670,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "character_id": 95722880,
+            "solar_system_id": 31001038,
+            "value": 10000,
+            "kill_id": 50560901,
+            "date": "2015-12-07 03:29:17",
+            "ship_type_id": 670,
+            "character_name": "Zero Davahum"
+        },
+        {
+            "character_id": 1805848228,
+            "solar_system_id": 31000270,
+            "value": 10000,
+            "kill_id": 50495193,
+            "date": "2015-12-03 22:42:34",
+            "ship_type_id": 670,
+            "character_name": "Zen Dad"
+        }
+    ]
+}

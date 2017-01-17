@@ -1,0 +1,22 @@
+{
+    "kills": [
+        {
+            "character_id": 260145609,
+            "solar_system_id": 31000641,
+            "value": 3624593601.34,
+            "kill_id": 54218994,
+            "date": "2016-05-25 09:36:22",
+            "ship_type_id": 19726,
+            "character_name": "PhilGood"
+        },
+        {
+            "character_id": 403175306,
+            "solar_system_id": 30002537,
+            "value": 1796742262.2,
+            "kill_id": 53771922,
+            "date": "2016-05-05 07:16:15",
+            "ship_type_id": 23911,
+            "character_name": "Missy Lorelai"
+        }
+    ]
+}

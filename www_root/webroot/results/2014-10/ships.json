@@ -1,0 +1,148 @@
+{
+    "ships": [
+        {
+            "ships_destroyed": 68,
+            "ship_type_id": 12032,
+            "ship_name": "Manticore",
+            "isk_destroyed": 2290443744.2307997
+        },
+        {
+            "ships_destroyed": 44,
+            "ship_type_id": 11377,
+            "ship_name": "Nemesis",
+            "isk_destroyed": 1717470869.2699995
+        },
+        {
+            "ships_destroyed": 18,
+            "ship_type_id": 12034,
+            "ship_name": "Hound",
+            "isk_destroyed": 1907253811.6200001
+        },
+        {
+            "ships_destroyed": 17,
+            "ship_type_id": 33818,
+            "ship_name": "Orthrus",
+            "isk_destroyed": 477431538.34999996
+        },
+        {
+            "ships_destroyed": 13,
+            "ship_type_id": 22460,
+            "ship_name": "Eris",
+            "isk_destroyed": 457145703.71000004
+        },
+        {
+            "ships_destroyed": 12,
+            "ship_type_id": 12038,
+            "ship_name": "Purifier",
+            "isk_destroyed": 452686412.53
+        },
+        {
+            "ships_destroyed": 13,
+            "ship_type_id": 33470,
+            "ship_name": "Stratios",
+            "isk_destroyed": 297366373.21000004
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 17922,
+            "ship_name": "Ashimmu",
+            "isk_destroyed": 1162889753.29
+        },
+        {
+            "ships_destroyed": 6,
+            "ship_type_id": 4306,
+            "ship_name": "Naga",
+            "isk_destroyed": 276434849.59000003
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 12023,
+            "ship_name": "Deimos",
+            "isk_destroyed": 180156180.24
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 24698,
+            "ship_name": "Drake",
+            "isk_destroyed": 180156180.24
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 29988,
+            "ship_name": "Proteus",
+            "isk_destroyed": 218762429.23
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 644,
+            "ship_name": "Typhoon",
+            "isk_destroyed": 213982414.17000002
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 24702,
+            "ship_name": "Hurricane",
+            "isk_destroyed": 264450495.88
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 12005,
+            "ship_name": "Ishtar",
+            "isk_destroyed": 158522264.21
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 2006,
+            "ship_name": "Omen",
+            "isk_destroyed": 92089716.35
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 638,
+            "ship_name": "Raven",
+            "isk_destroyed": 192557338.7
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 24696,
+            "ship_name": "Harbinger",
+            "isk_destroyed": 88651921.33
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 11379,
+            "ship_name": "Hawk",
+            "isk_destroyed": 37899104.300000004
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 11184,
+            "ship_name": "Crusader",
+            "isk_destroyed": 26507373.56
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 608,
+            "ship_name": "Atron",
+            "isk_destroyed": 35458089.22
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 17718,
+            "ship_name": "Phantasm",
+            "isk_destroyed": 35002240.44
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 626,
+            "ship_name": "Vexor",
+            "isk_destroyed": 18620666.77
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 17703,
+            "ship_name": "Imperial Navy Slicer",
+            "isk_destroyed": 7060846.88
+        }
+    ]
+}

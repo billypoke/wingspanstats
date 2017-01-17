@@ -1,0 +1,94 @@
+{
+    "kills": [
+        {
+            "character_id": 851221968,
+            "solar_system_id": 31002408,
+            "value": 89243124.3,
+            "kill_id": 49175703,
+            "date": "2015-09-21 03:08:00",
+            "ship_type_id": 33816,
+            "character_name": "Vothor"
+        },
+        {
+            "character_id": 94997705,
+            "solar_system_id": 31000268,
+            "value": 42305808.85,
+            "kill_id": 48807810,
+            "date": "2015-09-01 02:42:00",
+            "ship_type_id": 12032,
+            "character_name": "Gigi McQuaid"
+        },
+        {
+            "character_id": 91835155,
+            "solar_system_id": 30004993,
+            "value": 28724724.02,
+            "kill_id": 49341031,
+            "date": "2015-09-30 04:09:00",
+            "ship_type_id": 12042,
+            "character_name": "Tali Lyrae"
+        },
+        {
+            "character_id": 95229965,
+            "solar_system_id": 30000144,
+            "value": 23234372.43,
+            "kill_id": 49234059,
+            "date": "2015-09-24 19:16:00",
+            "ship_type_id": 622,
+            "character_name": "Sabrez Haklar"
+        },
+        {
+            "character_id": 1271027454,
+            "solar_system_id": 30003522,
+            "value": 15668945.11,
+            "kill_id": 48821581,
+            "date": "2015-09-01 23:16:00",
+            "ship_type_id": 32872,
+            "character_name": "Xepheer"
+        },
+        {
+            "character_id": 90787495,
+            "solar_system_id": 31001153,
+            "value": 14152823.68,
+            "kill_id": 48915201,
+            "date": "2015-09-06 21:46:00",
+            "ship_type_id": 670,
+            "character_name": "Tekkera"
+        },
+        {
+            "character_id": 94056770,
+            "solar_system_id": 30004993,
+            "value": 9022587.17,
+            "kill_id": 49340984,
+            "date": "2015-09-30 04:04:00",
+            "ship_type_id": 593,
+            "character_name": "Inta Vakaria"
+        },
+        {
+            "character_id": 1889846214,
+            "solar_system_id": 30004993,
+            "value": 7195957.08,
+            "kill_id": 49341058,
+            "date": "2015-09-30 04:11:00",
+            "ship_type_id": 593,
+            "character_name": "Caboosette"
+        },
+        {
+            "character_id": 94336675,
+            "solar_system_id": 31002408,
+            "value": 1520048.64,
+            "kill_id": 48969433,
+            "date": "2015-09-10 00:56:00",
+            "ship_type_id": 670,
+            "character_name": "Reed Icculus"
+        },
+        {
+            "character_id": 94997705,
+            "solar_system_id": 31002408,
+            "value": 10000,
+            "kill_id": 49096122,
+            "date": "2015-09-16 23:38:00",
+            "ship_type_id": 670,
+            "character_name": "Gigi McQuaid"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 14,
+            "character_id": 95638558,
+            "isk_destroyed": 2383920004.25,
+            "character_name": "Sharps"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 92805979,
+            "isk_destroyed": 2301912685.8,
+            "character_name": "Valtyr Farshield"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 522875391,
+            "isk_destroyed": 1716707435.2199998,
+            "character_name": "Critical Miss"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 91435934,
+            "isk_destroyed": 1607184020.03,
+            "character_name": "Lenai Chelien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 1221514457,
+            "isk_destroyed": 1157401835.29,
+            "character_name": "SsjGhost"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94154468,
+            "isk_destroyed": 236357860.75,
+            "character_name": "Cap'n Rick Clusterbomb"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 731851538,
+            "isk_destroyed": 232227313.2,
+            "character_name": "QuarantineEng"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 851221968,
+            "isk_destroyed": 75317488.83,
+            "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94056770,
+            "isk_destroyed": 21915050.65,
+            "character_name": "Inta Vakaria"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92740884,
+            "isk_destroyed": 17539301.74,
+            "character_name": "Zeke Airuta"
+        }
+    ]
+}

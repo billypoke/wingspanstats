@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 859882768,
+            "isk_destroyed": 44251432.82,
+            "character_name": "Dj Turner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 338542337,
+            "isk_destroyed": 1633331.75,
+            "character_name": "Rodneysquared"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 91600171,
+            "isk_destroyed": 1131055.42,
+            "character_name": "Paddy McDaddy"
+        }
+    ]
+}

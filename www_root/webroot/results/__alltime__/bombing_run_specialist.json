@@ -1,0 +1,39 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 96831502,
+            "isk_destroyed": 115705409.53,
+            "character_name": "Grimm Horizon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 93488613,
+            "isk_destroyed": 16703382.55,
+            "character_name": "Sachenka Cadelanne"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 96885236,
+            "isk_destroyed": 3627776.66,
+            "character_name": "G Indahowse"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94355263,
+            "isk_destroyed": 5248034,
+            "character_name": "WeirdBall"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1382292931,
+            "isk_destroyed": 10000,
+            "character_name": "LordValcorn"
+        }
+    ]
+}

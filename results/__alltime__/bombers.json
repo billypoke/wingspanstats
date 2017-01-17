@@ -51,10 +51,17 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 330,
             "character_id": 1366631333,
             "isk_destroyed": 54999257799.6948,
             "character_name": "choo t"
+=======
+            "ships_destroyed": 33,
+            "character_id": 94871467,
+            "isk_destroyed": 4886808742.900002,
+            "character_name": "David Brannigan"
+>>>>>>> origin/master
         },
         {
             "position": 0,
@@ -212,10 +219,24 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 155,
             "character_id": 95578363,
             "isk_destroyed": 28220162443.0492,
             "character_name": "Bonz Andrard"
+=======
+            "ships_destroyed": 9,
+            "character_id": 95547196,
+            "isk_destroyed": 3342152403.8599997,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 92045034,
+            "isk_destroyed": 3209776627.72,
+            "character_name": "Alex Pyzi"
+>>>>>>> origin/master
         },
         {
             "position": 0,
@@ -226,6 +247,7 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 159,
             "character_id": 93658790,
             "isk_destroyed": 26467785856.730213,
@@ -237,6 +259,12 @@
             "character_id": 92805979,
             "isk_destroyed": 35968930781.9291,
             "character_name": "Valtyr Farshield"
+=======
+            "ships_destroyed": 8,
+            "character_id": 94571445,
+            "isk_destroyed": 2976075375.18,
+            "character_name": "Trip Erata"
+>>>>>>> origin/master
         },
         {
             "position": 0,
@@ -5413,10 +5441,17 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 1,
             "character_id": 93534933,
             "isk_destroyed": 27335323.12,
             "character_name": "Toippo Tokila"
+=======
+            "ships_destroyed": 17,
+            "character_id": 93253112,
+            "isk_destroyed": 226105145.54000002,
+            "character_name": "Mister McQueen"
+>>>>>>> origin/master
         },
         {
             "position": 0,

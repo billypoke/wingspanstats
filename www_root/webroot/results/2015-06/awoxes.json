@@ -1,0 +1,58 @@
+{
+    "kills": [
+        {
+            "character_id": 94574163,
+            "solar_system_id": 30045347,
+            "value": 84656605.14,
+            "kill_id": 47188140,
+            "date": "2015-06-11 07:15:00",
+            "ship_type_id": 16233,
+            "character_name": "Revan Wake"
+        },
+        {
+            "character_id": 94997705,
+            "solar_system_id": 30003779,
+            "value": 46318185.18,
+            "kill_id": 47046134,
+            "date": "2015-06-04 03:10:00",
+            "ship_type_id": 12032,
+            "character_name": "Gigi McQuaid"
+        },
+        {
+            "character_id": 197930988,
+            "solar_system_id": 30000142,
+            "value": 41565119.15,
+            "kill_id": 47587496,
+            "date": "2015-06-30 16:01:00",
+            "ship_type_id": 12032,
+            "character_name": "Xeromos"
+        },
+        {
+            "character_id": 92036061,
+            "solar_system_id": 31000848,
+            "value": 36806429.51,
+            "kill_id": 47469042,
+            "date": "2015-06-24 13:53:00",
+            "ship_type_id": 11377,
+            "character_name": "Alt Sokarad"
+        },
+        {
+            "character_id": 92257961,
+            "solar_system_id": 30002187,
+            "value": 14419703.89,
+            "kill_id": 47067752,
+            "date": "2015-06-05 06:19:00",
+            "ship_type_id": 605,
+            "character_name": "Damien Oxytocin"
+        },
+        {
+            "character_id": 94997705,
+            "solar_system_id": 30003779,
+            "value": 10000,
+            "kill_id": 47048449,
+            "date": "2015-06-04 04:15:00",
+            "ship_type_id": 670,
+            "character_name": "Gigi McQuaid"
+        }
+    ]
+}

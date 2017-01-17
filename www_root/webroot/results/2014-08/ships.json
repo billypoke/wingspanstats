@@ -1,0 +1,76 @@
+{
+    "ships": [
+        {
+            "ships_destroyed": 44,
+            "ship_type_id": 12032,
+            "ship_name": "Manticore",
+            "isk_destroyed": 1254196598.6690004
+        },
+        {
+            "ships_destroyed": 15,
+            "ship_type_id": 11377,
+            "ship_name": "Nemesis",
+            "isk_destroyed": 788377168.94
+        },
+        {
+            "ships_destroyed": 8,
+            "ship_type_id": 12038,
+            "ship_name": "Purifier",
+            "isk_destroyed": 645686323.6999999
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 11965,
+            "ship_name": "Pilgrim",
+            "isk_destroyed": 789246723.39
+        },
+        {
+            "ships_destroyed": 9,
+            "ship_type_id": 29988,
+            "ship_name": "Proteus",
+            "isk_destroyed": 339873592.89
+        },
+        {
+            "ships_destroyed": 9,
+            "ship_type_id": 593,
+            "ship_name": "Tristan",
+            "isk_destroyed": 80007902.39
+        },
+        {
+            "ships_destroyed": 3,
+            "ship_type_id": 12034,
+            "ship_name": "Hound",
+            "isk_destroyed": 84733315.28999999
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 33470,
+            "ship_name": "Stratios",
+            "isk_destroyed": 59909669.3
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 16240,
+            "ship_name": "Catalyst",
+            "isk_destroyed": 48106489.56
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 33468,
+            "ship_name": "Astero",
+            "isk_destroyed": 28781372.3501
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 17841,
+            "ship_name": "Federation Navy Comet",
+            "isk_destroyed": 8020587.49
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 594,
+            "ship_name": "Incursus",
+            "isk_destroyed": 6616611.28
+        }
+    ]
+}

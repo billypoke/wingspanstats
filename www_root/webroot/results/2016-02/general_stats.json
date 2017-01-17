@@ -1,0 +1,57 @@
+{
+    "total_kills_wh": 819,
+    "total_kills_hs": 45,
+    "total_value": 113405098009.09033,
+    "date_end": "2016-02-29",
+    "solo_total_value": 35436891654.2027,
+    "corp_names": [
+        "WiNGSPAN Delivery Services",
+        "WiNGSPAN Academy for Enterprising Pilots"
+    ],
+    "total_kills_ls": 146,
+    "total_value_ns": 27217662824.154408,
+    "wh_stats": [
+        {
+            "destroyed": 150,
+            "type": "c3",
+            "total_value": 14877112524.2711
+        },
+        {
+            "destroyed": 255,
+            "type": "c2",
+            "total_value": 23067849531.057186
+        },
+        {
+            "destroyed": 173,
+            "type": "c1",
+            "total_value": 14436638346.447699
+        },
+        {
+            "destroyed": 44,
+            "type": "c4",
+            "total_value": 7965002253.96
+        },
+        {
+            "destroyed": 181,
+            "type": "c12",
+            "total_value": 13839085377.340002
+        },
+        {
+            "destroyed": 6,
+            "type": "c13",
+            "total_value": 269655377.89
+        },
+        {
+            "destroyed": 10,
+            "type": "c5",
+            "total_value": 396328790.65999997
+        }
+    ],
+    "total_value_ls": 7783971104.040003,
+    "date_start": "2016-02-01",
+    "total_kills_ns": 182,
+    "total_value_wh": 74851672201.62595,
+    "total_value_hs": 3551791879.270002,
+    "total_kills": 1192,
+    "solo_total_kills": 710
+}

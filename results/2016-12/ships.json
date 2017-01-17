@@ -7,6 +7,7 @@
             "isk_destroyed": 110853008123.63765
         },
         {
+<<<<<<< HEAD
             "ships_destroyed": 428,
             "ship_type_id": 12032,
             "ship_name": "Manticore",
@@ -17,6 +18,18 @@
             "ship_type_id": 11377,
             "ship_name": "Nemesis",
             "isk_destroyed": 52708006087.8084
+=======
+            "ships_destroyed": 429,
+            "ship_type_id": 12032,
+            "ship_name": "Manticore",
+            "isk_destroyed": 84085782097.58015
+        },
+        {
+            "ships_destroyed": 287,
+            "ship_type_id": 11377,
+            "ship_name": "Nemesis",
+            "isk_destroyed": 53086701286.208405
+>>>>>>> origin/master
         },
         {
             "ships_destroyed": 224,
@@ -67,10 +80,17 @@
             "isk_destroyed": 5123406557.120096
         },
         {
+<<<<<<< HEAD
             "ships_destroyed": 47,
             "ship_type_id": 29986,
             "ship_name": "Legion",
             "isk_destroyed": 11054508293.6345
+=======
+            "ships_destroyed": 48,
+            "ship_type_id": 29986,
+            "ship_name": "Legion",
+            "isk_destroyed": 11062293807.584501
+>>>>>>> origin/master
         },
         {
             "ships_destroyed": 66,
@@ -223,10 +243,17 @@
             "isk_destroyed": 1269084198.47
         },
         {
+<<<<<<< HEAD
             "ships_destroyed": 24,
             "ship_type_id": 37482,
             "ship_name": "Stork",
             "isk_destroyed": 451691807.12000006
+=======
+            "ships_destroyed": 25,
+            "ship_type_id": 37482,
+            "ship_name": "Stork",
+            "isk_destroyed": 459477321.07000005
+>>>>>>> origin/master
         },
         {
             "ships_destroyed": 3,
@@ -307,6 +334,15 @@
             "isk_destroyed": 355131447.77
         },
         {
+<<<<<<< HEAD
+=======
+            "ships_destroyed": 6,
+            "ship_type_id": 11959,
+            "ship_name": "Rook",
+            "isk_destroyed": 410542878.10999995
+        },
+        {
+>>>>>>> origin/master
             "ships_destroyed": 10,
             "ship_type_id": 22464,
             "ship_name": "Flycatcher",
@@ -319,12 +355,15 @@
             "isk_destroyed": 1135560148.06
         },
         {
+<<<<<<< HEAD
             "ships_destroyed": 5,
             "ship_type_id": 11959,
             "ship_name": "Rook",
             "isk_destroyed": 402757364.15999997
         },
         {
+=======
+>>>>>>> origin/master
             "ships_destroyed": 6,
             "ship_type_id": 42685,
             "ship_name": "Sunesis",
@@ -337,6 +376,15 @@
             "isk_destroyed": 335586151.95
         },
         {
+<<<<<<< HEAD
+=======
+            "ships_destroyed": 5,
+            "ship_type_id": 627,
+            "ship_name": "Thorax",
+            "isk_destroyed": 306204914.27
+        },
+        {
+>>>>>>> origin/master
             "ships_destroyed": 3,
             "ship_type_id": 32311,
             "ship_name": "Typhoon Fleet Issue",
@@ -355,12 +403,15 @@
             "isk_destroyed": 318004021.91999996
         },
         {
+<<<<<<< HEAD
             "ships_destroyed": 4,
             "ship_type_id": 627,
             "ship_name": "Thorax",
             "isk_destroyed": 298419400.32
         },
         {
+=======
+>>>>>>> origin/master
             "ships_destroyed": 10,
             "ship_type_id": 11198,
             "ship_name": "Stiletto",

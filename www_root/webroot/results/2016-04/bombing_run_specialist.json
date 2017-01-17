@@ -1,0 +1,67 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 95009795,
+            "isk_destroyed": 245125911.44,
+            "character_name": "Tasmine Cha-Tien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 95732953,
+            "isk_destroyed": 142609476.64,
+            "character_name": "Mei Long"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 96049384,
+            "isk_destroyed": 53227807.07,
+            "character_name": "Quintus Va'Lari"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 96176728,
+            "isk_destroyed": 99569045.55,
+            "character_name": "Lorth Drak'rov"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 506137512,
+            "isk_destroyed": 66613091.82,
+            "character_name": "Albin wood"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93547063,
+            "isk_destroyed": 66613091.82,
+            "character_name": "Viktor Hakeem"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1817763414,
+            "isk_destroyed": 66613091.82,
+            "character_name": "TOPSTER"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94753469,
+            "isk_destroyed": 66613091.82,
+            "character_name": "Buster Atmosk"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93317595,
+            "isk_destroyed": 10000,
+            "character_name": "Gillion Wyrddych"
+        }
+    ]
+}

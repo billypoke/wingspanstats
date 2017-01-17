@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 15,
+            "character_id": 95344823,
+            "isk_destroyed": 138067820.81,
+            "character_name": "Bails Naskingar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1382292931,
+            "isk_destroyed": 31904778.47,
+            "character_name": "LordValcorn"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95499736,
+            "isk_destroyed": 31894778.47,
+            "character_name": "Analius Glover"
+        }
+    ]
+}

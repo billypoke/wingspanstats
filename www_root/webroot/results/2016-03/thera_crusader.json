@@ -1,0 +1,81 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 95454553,
+            "isk_destroyed": 472907629.6999999,
+            "character_name": "Al3x Oaks"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 1502557835,
+            "isk_destroyed": 647682679.58,
+            "character_name": "Toit"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 96179191,
+            "isk_destroyed": 26256896.410000004,
+            "character_name": "Blackhawk Bordeaux"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 95449930,
+            "isk_destroyed": 11300218.4,
+            "character_name": "Sudo Khaleesi"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95707291,
+            "isk_destroyed": 22543179.09,
+            "character_name": "Alphecca Lazair"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95269724,
+            "isk_destroyed": 22543179.09,
+            "character_name": "Wee Lad"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92491547,
+            "isk_destroyed": 22543179.09,
+            "character_name": "Phoenix Thynome"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95122104,
+            "isk_destroyed": 5967904.33,
+            "character_name": "William Schattauer"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95308355,
+            "isk_destroyed": 13705.02,
+            "character_name": "Spooky SpaceRanger"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94649276,
+            "isk_destroyed": 10000,
+            "character_name": "Khamul Angmar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94188565,
+            "isk_destroyed": 10000,
+            "character_name": "Sibestus Bererund"
+        }
+    ]
+}

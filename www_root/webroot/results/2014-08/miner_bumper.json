@@ -1,0 +1,74 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94447432,
+            "isk_destroyed": 562565721.17,
+            "character_name": "Chance Ravinne"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 649853166,
+            "isk_destroyed": 265260329.21,
+            "character_name": "Witchdoctor24"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 93723267,
+            "isk_destroyed": 79586840.71000001,
+            "character_name": "John Yatolile"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 91129323,
+            "isk_destroyed": 64942281.849999994,
+            "character_name": "Nikolai Bravinski"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 90536046,
+            "isk_destroyed": 27323068.78,
+            "character_name": "isyah Clark"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94726397,
+            "isk_destroyed": 25195890.27,
+            "character_name": "deklanmarshall7"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1149749832,
+            "isk_destroyed": 2430429.38,
+            "character_name": "Saladiin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93980583,
+            "isk_destroyed": 2130965.27,
+            "character_name": "Costa Reaves"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94175251,
+            "isk_destroyed": 448368.03,
+            "character_name": "Wrathes Nafien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93372513,
+            "isk_destroyed": 448368.03,
+            "character_name": "Jeb BuschLite"
+        }
+    ]
+}

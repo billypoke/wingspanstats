@@ -51,9 +51,15 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 41,
             "character_id": 90600483,
             "isk_destroyed": 10973848085.08,
+=======
+            "ships_destroyed": 42,
+            "character_id": 90600483,
+            "isk_destroyed": 10981633599.03,
+>>>>>>> origin/master
             "character_name": "Jin Hadah"
         },
         {
@@ -100,6 +106,16 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
+=======
+            "ships_destroyed": 66,
+            "character_id": 91117813,
+            "isk_destroyed": 5276546396.96,
+            "character_name": "Kanly Aideron"
+        },
+        {
+            "position": 0,
+>>>>>>> origin/master
             "ships_destroyed": 46,
             "character_id": 93317595,
             "isk_destroyed": 7568337406.3345995,
@@ -107,10 +123,17 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 65,
             "character_id": 91117813,
             "isk_destroyed": 5268760883.01,
             "character_name": "Kanly Aideron"
+=======
+            "ships_destroyed": 26,
+            "character_id": 95067667,
+            "isk_destroyed": 12399168593.360098,
+            "character_name": "Zevenz"
+>>>>>>> origin/master
         },
         {
             "position": 0,
@@ -121,6 +144,7 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 25,
             "character_id": 95067667,
             "isk_destroyed": 12391383079.410097,
@@ -128,6 +152,8 @@
         },
         {
             "position": 0,
+=======
+>>>>>>> origin/master
             "ships_destroyed": 32,
             "character_id": 96872235,
             "isk_destroyed": 9150003853.960001,
@@ -205,6 +231,16 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
+=======
+            "ships_destroyed": 23,
+            "character_id": 95547196,
+            "isk_destroyed": 5379007121.72,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "position": 0,
+>>>>>>> origin/master
             "ships_destroyed": 18,
             "character_id": 1221514457,
             "isk_destroyed": 6763777434.9800005,
@@ -219,6 +255,16 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
+=======
+            "ships_destroyed": 21,
+            "character_id": 94871467,
+            "isk_destroyed": 5585345350.89,
+            "character_name": "David Brannigan"
+        },
+        {
+            "position": 0,
+>>>>>>> origin/master
             "ships_destroyed": 19,
             "character_id": 95679172,
             "isk_destroyed": 6098151852.6501,
@@ -233,6 +279,7 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 22,
             "character_id": 95547196,
             "isk_destroyed": 5189659522.52,
@@ -240,6 +287,8 @@
         },
         {
             "position": 0,
+=======
+>>>>>>> origin/master
             "ships_destroyed": 19,
             "character_id": 92045034,
             "isk_destroyed": 5749305401.360001,
@@ -247,6 +296,7 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 20,
             "character_id": 94871467,
             "isk_destroyed": 5395997751.690001,
@@ -254,6 +304,8 @@
         },
         {
             "position": 0,
+=======
+>>>>>>> origin/master
             "ships_destroyed": 19,
             "character_id": 97106804,
             "isk_destroyed": 5359951965.32,
@@ -527,6 +579,16 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
+=======
+            "ships_destroyed": 19,
+            "character_id": 93253112,
+            "isk_destroyed": 1171027495.78,
+            "character_name": "Mister McQueen"
+        },
+        {
+            "position": 0,
+>>>>>>> origin/master
             "ships_destroyed": 10,
             "character_id": 96410439,
             "isk_destroyed": 2189704469.04,
@@ -534,6 +596,7 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 18,
             "character_id": 93253112,
             "isk_destroyed": 1163241981.83,
@@ -541,6 +604,8 @@
         },
         {
             "position": 0,
+=======
+>>>>>>> origin/master
             "ships_destroyed": 11,
             "character_id": 93308442,
             "isk_destroyed": 1715482528.32,
@@ -639,6 +704,16 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
+=======
+            "ships_destroyed": 6,
+            "character_id": 91868212,
+            "isk_destroyed": 707118464.5699999,
+            "character_name": "Roluf Engberg"
+        },
+        {
+            "position": 0,
+>>>>>>> origin/master
             "ships_destroyed": 7,
             "character_id": 92863054,
             "isk_destroyed": 574066197.1,
@@ -653,6 +728,7 @@
         },
         {
             "position": 0,
+<<<<<<< HEAD
             "ships_destroyed": 5,
             "character_id": 91868212,
             "isk_destroyed": 699332950.6199999,
@@ -660,6 +736,8 @@
         },
         {
             "position": 0,
+=======
+>>>>>>> origin/master
             "ships_destroyed": 1,
             "character_id": 96163700,
             "isk_destroyed": 3343319870.08,

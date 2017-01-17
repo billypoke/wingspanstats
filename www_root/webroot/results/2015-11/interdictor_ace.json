@@ -1,0 +1,60 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 14,
+            "character_id": 95229965,
+            "isk_destroyed": 672622533.9759998,
+            "character_name": "Sabrez Haklar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 93317595,
+            "isk_destroyed": 1071428104.17,
+            "character_name": "Gillion Wyrddych"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 987468952,
+            "isk_destroyed": 515592329.62,
+            "character_name": "NoGo Rose"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 93007709,
+            "isk_destroyed": 1147684149.6599998,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 1889846214,
+            "isk_destroyed": 471314291.08,
+            "character_name": "Caboosette"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 851221968,
+            "isk_destroyed": 279562991.67,
+            "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 94154468,
+            "isk_destroyed": 605779140.68,
+            "character_name": "Cap'n Rick Clusterbomb"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 324178981,
+            "isk_destroyed": 305094109.32,
+            "character_name": "Au'Rel"
+        }
+    ]
+}

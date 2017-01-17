@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "agents": [
         {
             "position": 0,
@@ -1100,4 +1101,7 @@
             "character_name": "Sibestus Bererund"
         }
     ]
+=======
+    "agents": []
+>>>>>>> origin/master
 }

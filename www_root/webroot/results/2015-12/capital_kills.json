@@ -1,0 +1,31 @@
+{
+    "kills": [
+        {
+            "character_id": 93931272,
+            "solar_system_id": 31001250,
+            "value": 2760950500.81,
+            "kill_id": 50800682,
+            "date": "2015-12-19 03:08:16",
+            "ship_type_id": 19726,
+            "character_name": "Nils Bjoern Zimmermann"
+        },
+        {
+            "character_id": 128729434,
+            "solar_system_id": 31000222,
+            "value": 2138929632.05,
+            "kill_id": 51028908,
+            "date": "2015-12-30 00:36:30",
+            "ship_type_id": 23915,
+            "character_name": "Panki02"
+        },
+        {
+            "character_id": 1747957665,
+            "solar_system_id": 31000482,
+            "value": 1760624184.12,
+            "kill_id": 50607415,
+            "date": "2015-12-09 21:59:48",
+            "ship_type_id": 23757,
+            "character_name": "BrthrByte"
+        }
+    ]
+}

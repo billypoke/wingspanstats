@@ -1,0 +1,94 @@
+{
+    "kills": [
+        {
+            "character_id": 92263835,
+            "solar_system_id": 30001161,
+            "value": 38718624.84,
+            "kill_id": 40955490,
+            "date": "2014-08-30 01:18:00",
+            "ship_type_id": 670,
+            "character_name": "Will McMo"
+        },
+        {
+            "character_id": 93780772,
+            "solar_system_id": 31000290,
+            "value": 33829549.74,
+            "kill_id": 40627895,
+            "date": "2014-08-12 05:31:00",
+            "ship_type_id": 670,
+            "character_name": "Khar-Selim Bentusi"
+        },
+        {
+            "character_id": 527024765,
+            "solar_system_id": 31000833,
+            "value": 21848755.04,
+            "kill_id": 40754056,
+            "date": "2014-08-18 23:23:00",
+            "ship_type_id": 670,
+            "character_name": "Ursae Minor"
+        },
+        {
+            "character_id": 92805592,
+            "solar_system_id": 30002103,
+            "value": 10000,
+            "kill_id": 40981961,
+            "date": "2014-08-31 05:20:00",
+            "ship_type_id": 670,
+            "character_name": "Valmaksim"
+        },
+        {
+            "character_id": 94870422,
+            "solar_system_id": 30000250,
+            "value": 10000,
+            "kill_id": 40980383,
+            "date": "2014-08-31 03:23:00",
+            "ship_type_id": 670,
+            "character_name": "Arkx Alabel"
+        },
+        {
+            "character_id": 94885847,
+            "solar_system_id": 31000833,
+            "value": 10000,
+            "kill_id": 40754328,
+            "date": "2014-08-18 23:45:00",
+            "ship_type_id": 670,
+            "character_name": "Minx Turian"
+        },
+        {
+            "character_id": 94600894,
+            "solar_system_id": 30002539,
+            "value": 10000,
+            "kill_id": 40664076,
+            "date": "2014-08-14 13:29:00",
+            "ship_type_id": 670,
+            "character_name": "Darko Walkar"
+        },
+        {
+            "character_id": 94477355,
+            "solar_system_id": 30002539,
+            "value": 10000,
+            "kill_id": 40663665,
+            "date": "2014-08-14 12:47:00",
+            "ship_type_id": 670,
+            "character_name": "Mizer Brainchild"
+        },
+        {
+            "character_id": 94587324,
+            "solar_system_id": 30001444,
+            "value": 10000,
+            "kill_id": 40559206,
+            "date": "2014-08-08 23:56:00",
+            "ship_type_id": 670,
+            "character_name": "Smokin Rockz"
+        },
+        {
+            "character_id": 92266052,
+            "solar_system_id": 31002484,
+            "value": 10000,
+            "kill_id": 40522230,
+            "date": "2014-08-06 22:45:00",
+            "ship_type_id": 670,
+            "character_name": "blow stuff up1"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 47,
+            "character_id": 987468952,
+            "isk_destroyed": 2338466973.7301,
+            "character_name": "NoGo Rose"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 18,
+            "character_id": 91835155,
+            "isk_destroyed": 1058197619.25,
+            "character_name": "Tali Lyrae"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 93007709,
+            "isk_destroyed": 556310274.1700001,
+            "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 1227868181,
+            "isk_destroyed": 548911797.25,
+            "character_name": "Artik Fawkes"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95011608,
+            "isk_destroyed": 548891797.25,
+            "character_name": "Th3Pr0ph3t Drunk"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 145074554,
+            "isk_destroyed": 658390455.78,
+            "character_name": "Nyrram"
+        }
+    ]
+}

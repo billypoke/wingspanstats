@@ -1,0 +1,355 @@
+{
+    "kills": [
+        {
+            "character_id": 90577825,
+            "solar_system_id": 31001156,
+            "value": 1378552613.81,
+            "kill_id": 41526290,
+            "date": "2014-09-29 04:11:00",
+            "ship_type_id": 652,
+            "character_name": "DERELICT MYBALLS"
+        },
+        {
+            "character_id": 91858733,
+            "solar_system_id": 30003778,
+            "value": 499061468.58,
+            "kill_id": 41061036,
+            "date": "2014-09-04 03:53:00",
+            "ship_type_id": 29984,
+            "character_name": "Sera Dethahal"
+        },
+        {
+            "character_id": 94129404,
+            "solar_system_id": 30045330,
+            "value": 151965836.0803,
+            "kill_id": 41068496,
+            "date": "2014-09-04 17:11:00",
+            "ship_type_id": 33468,
+            "character_name": "Altair Taff"
+        },
+        {
+            "character_id": 93108578,
+            "solar_system_id": 31001156,
+            "value": 102461841.42,
+            "kill_id": 41524482,
+            "date": "2014-09-29 01:16:00",
+            "ship_type_id": 670,
+            "character_name": "John en Boudin"
+        },
+        {
+            "character_id": 93108578,
+            "solar_system_id": 31001156,
+            "value": 101965960.38,
+            "kill_id": 41524427,
+            "date": "2014-09-29 01:10:00",
+            "ship_type_id": 2998,
+            "character_name": "John en Boudin"
+        },
+        {
+            "character_id": 90613139,
+            "solar_system_id": 30000848,
+            "value": 96947500.56,
+            "kill_id": 41004817,
+            "date": "2014-09-01 03:17:00",
+            "ship_type_id": 670,
+            "character_name": "Sarrai Darkstar"
+        },
+        {
+            "character_id": 0,
+            "solar_system_id": 30000136,
+            "value": 96686010.94,
+            "kill_id": 41463677,
+            "date": "2014-09-25 23:28:00",
+            "ship_type_id": 2233,
+            "character_name": ""
+        },
+        {
+            "character_id": 0,
+            "solar_system_id": 30000133,
+            "value": 96634493.61,
+            "kill_id": 41404549,
+            "date": "2014-09-22 01:37:00",
+            "ship_type_id": 2233,
+            "character_name": ""
+        },
+        {
+            "character_id": 0,
+            "solar_system_id": 30000133,
+            "value": 96634493.61,
+            "kill_id": 41404279,
+            "date": "2014-09-22 01:13:00",
+            "ship_type_id": 2233,
+            "character_name": ""
+        },
+        {
+            "character_id": 0,
+            "solar_system_id": 30000137,
+            "value": 96634493.61,
+            "kill_id": 41403969,
+            "date": "2014-09-22 00:42:00",
+            "ship_type_id": 2233,
+            "character_name": ""
+        },
+        {
+            "character_id": 1642547632,
+            "solar_system_id": 30003273,
+            "value": 45889320.74,
+            "kill_id": 41337333,
+            "date": "2014-09-18 21:01:00",
+            "ship_type_id": 11172,
+            "character_name": "Whitejak"
+        },
+        {
+            "character_id": 886296316,
+            "solar_system_id": 30000205,
+            "value": 34559428.336,
+            "kill_id": 41386506,
+            "date": "2014-09-21 06:51:00",
+            "ship_type_id": 11192,
+            "character_name": "Kanris Blackbourne"
+        },
+        {
+            "character_id": 94943597,
+            "solar_system_id": 31001156,
+            "value": 32571262.85,
+            "kill_id": 41526225,
+            "date": "2014-09-29 04:04:00",
+            "ship_type_id": 1944,
+            "character_name": "HuntinYou Jorden"
+        },
+        {
+            "character_id": 94827638,
+            "solar_system_id": 30000015,
+            "value": 30410319.66,
+            "kill_id": 41474822,
+            "date": "2014-09-26 18:56:00",
+            "ship_type_id": 605,
+            "character_name": "Agonis Gromhell"
+        },
+        {
+            "character_id": 91194770,
+            "solar_system_id": 30003307,
+            "value": 29297313.87,
+            "kill_id": 41172480,
+            "date": "2014-09-09 20:55:00",
+            "ship_type_id": 11178,
+            "character_name": "klegane altan"
+        },
+        {
+            "character_id": 91481816,
+            "solar_system_id": 30000868,
+            "value": 27312424.85,
+            "kill_id": 41193534,
+            "date": "2014-09-11 00:35:00",
+            "ship_type_id": 655,
+            "character_name": "Kyle Omanid"
+        },
+        {
+            "character_id": 94823750,
+            "solar_system_id": 30005299,
+            "value": 20652762.9001,
+            "kill_id": 41079776,
+            "date": "2014-09-05 05:52:00",
+            "ship_type_id": 607,
+            "character_name": "Frosty LordOfCider"
+        },
+        {
+            "character_id": 94914763,
+            "solar_system_id": 30045330,
+            "value": 18352651.94,
+            "kill_id": 41068572,
+            "date": "2014-09-04 17:16:00",
+            "ship_type_id": 605,
+            "character_name": "Hasui Motsu"
+        },
+        {
+            "character_id": 93937673,
+            "solar_system_id": 31002490,
+            "value": 18025410.85,
+            "kill_id": 41325858,
+            "date": "2014-09-18 02:33:00",
+            "ship_type_id": 655,
+            "character_name": "Claire 'MadDog' Quinn"
+        },
+        {
+            "character_id": 94888645,
+            "solar_system_id": 30002101,
+            "value": 16270516.67,
+            "kill_id": 41255919,
+            "date": "2014-09-14 06:56:00",
+            "ship_type_id": 16240,
+            "character_name": "Casey Ambraelle"
+        },
+        {
+            "character_id": 94255292,
+            "solar_system_id": 31000164,
+            "value": 12506613.56,
+            "kill_id": 41202852,
+            "date": "2014-09-11 17:19:00",
+            "ship_type_id": 32880,
+            "character_name": "Kito Oramara"
+        },
+        {
+            "character_id": 93968271,
+            "solar_system_id": 31000849,
+            "value": 10089350.5,
+            "kill_id": 41302425,
+            "date": "2014-09-16 17:55:00",
+            "ship_type_id": 655,
+            "character_name": "Kara Valentis"
+        },
+        {
+            "character_id": 93015773,
+            "solar_system_id": 30001385,
+            "value": 9095248.9,
+            "kill_id": 41506741,
+            "date": "2014-09-28 06:10:00",
+            "ship_type_id": 605,
+            "character_name": "Sonir Thiesant"
+        },
+        {
+            "character_id": 94940655,
+            "solar_system_id": 30001448,
+            "value": 8250365.31,
+            "kill_id": 41497950,
+            "date": "2014-09-27 21:19:00",
+            "ship_type_id": 29248,
+            "character_name": "Viu Switch"
+        },
+        {
+            "character_id": 94732812,
+            "solar_system_id": 31001132,
+            "value": 6802320.24,
+            "kill_id": 41453941,
+            "date": "2014-09-25 09:48:00",
+            "ship_type_id": 655,
+            "character_name": "OhBoy Scout"
+        },
+        {
+            "character_id": 94829956,
+            "solar_system_id": 30005296,
+            "value": 3601598.87,
+            "kill_id": 41004454,
+            "date": "2014-09-01 02:47:00",
+            "ship_type_id": 605,
+            "character_name": "Raven Carnage"
+        },
+        {
+            "character_id": 94957725,
+            "solar_system_id": 31001156,
+            "value": 3042872.54,
+            "kill_id": 41540599,
+            "date": "2014-09-30 03:47:00",
+            "ship_type_id": 670,
+            "character_name": "Omar Soro"
+        },
+        {
+            "character_id": 94918119,
+            "solar_system_id": 30005320,
+            "value": 2150190.84,
+            "kill_id": 41077030,
+            "date": "2014-09-05 01:49:00",
+            "ship_type_id": 32880,
+            "character_name": "Rototo Puissant"
+        },
+        {
+            "character_id": 94519786,
+            "solar_system_id": 31000849,
+            "value": 1750791,
+            "kill_id": 41324142,
+            "date": "2014-09-17 23:56:00",
+            "ship_type_id": 32987,
+            "character_name": "Moh Lestor"
+        },
+        {
+            "character_id": 93767812,
+            "solar_system_id": 30003571,
+            "value": 1036808.87,
+            "kill_id": 41160782,
+            "date": "2014-09-09 02:57:00",
+            "ship_type_id": 601,
+            "character_name": "Roisan Tarish"
+        },
+        {
+            "character_id": 94708019,
+            "solar_system_id": 31000137,
+            "value": 732687.74,
+            "kill_id": 41067792,
+            "date": "2014-09-04 16:21:00",
+            "ship_type_id": 605,
+            "character_name": "Troyser Cage"
+        },
+        {
+            "character_id": 94919693,
+            "solar_system_id": 30005320,
+            "value": 609889.36,
+            "kill_id": 41059931,
+            "date": "2014-09-04 02:34:00",
+            "ship_type_id": 32880,
+            "character_name": "Ragnar Bielfeld"
+        },
+        {
+            "character_id": 94921797,
+            "solar_system_id": 31000849,
+            "value": 96372.41,
+            "kill_id": 41340758,
+            "date": "2014-09-19 00:39:00",
+            "ship_type_id": 670,
+            "character_name": "Tuco Benidicto"
+        },
+        {
+            "character_id": 90613139,
+            "solar_system_id": 30000848,
+            "value": 37517.52,
+            "kill_id": 41004768,
+            "date": "2014-09-01 03:13:00",
+            "ship_type_id": 606,
+            "character_name": "Sarrai Darkstar"
+        },
+        {
+            "character_id": 94923589,
+            "solar_system_id": 30000142,
+            "value": 27820.6,
+            "kill_id": 41249949,
+            "date": "2014-09-13 23:18:00",
+            "ship_type_id": 601,
+            "character_name": "Nopus Mayaki"
+        },
+        {
+            "character_id": 94384195,
+            "solar_system_id": 30002767,
+            "value": 10175.42,
+            "kill_id": 41496422,
+            "date": "2014-09-27 20:23:00",
+            "ship_type_id": 601,
+            "character_name": "Volyova Jouhinen"
+        },
+        {
+            "character_id": 90577825,
+            "solar_system_id": 31001156,
+            "value": 10000,
+            "kill_id": 41526299,
+            "date": "2014-09-29 04:12:00",
+            "ship_type_id": 670,
+            "character_name": "DERELICT MYBALLS"
+        },
+        {
+            "character_id": 94255292,
+            "solar_system_id": 31000164,
+            "value": 10000,
+            "kill_id": 41202878,
+            "date": "2014-09-11 17:21:00",
+            "ship_type_id": 670,
+            "character_name": "Kito Oramara"
+        },
+        {
+            "character_id": 94708019,
+            "solar_system_id": 31000137,
+            "value": 10000,
+            "kill_id": 41067806,
+            "date": "2014-09-04 16:23:00",
+            "ship_type_id": 670,
+            "character_name": "Troyser Cage"
+        }
+    ]
+}

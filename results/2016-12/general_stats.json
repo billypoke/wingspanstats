@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
     "total_kills_wh": 1823,
     "total_kills_hs": 69,
     "total_value": 130659528296.48436,
+=======
+    "total_kills_wh": 1825,
+    "total_kills_hs": 69,
+    "total_value": 130856661409.63435,
+>>>>>>> origin/master
     "date_end": "2016-12-31",
     "solo_total_value": 38391439562.76716,
     "corp_names": [
@@ -21,6 +27,7 @@
             "total_value": 144919228.97
         },
         {
+<<<<<<< HEAD
             "destroyed": 446,
             "type": "c1",
             "total_value": 15102718939.503204
@@ -29,6 +36,16 @@
             "destroyed": 411,
             "type": "c3",
             "total_value": 24347450859.00862
+=======
+            "destroyed": 447,
+            "type": "c1",
+            "total_value": 15110504453.453205
+        },
+        {
+            "destroyed": 412,
+            "type": "c3",
+            "total_value": 24536798458.20862
+>>>>>>> origin/master
         },
         {
             "destroyed": 88,
@@ -49,8 +66,14 @@
     "total_value_ls": 7892016709.793202,
     "date_start": "2016-12-01",
     "total_kills_ns": 273,
+<<<<<<< HEAD
     "total_value_wh": 91275762842.64578,
     "total_value_hs": 1226803338.3800004,
     "total_kills": 2317,
+=======
+    "total_value_wh": 91472895955.79578,
+    "total_value_hs": 1226803338.3800004,
+    "total_kills": 2319,
+>>>>>>> origin/master
     "solo_total_kills": 1577
 }

@@ -1468,6 +1468,18 @@
             "character_name": ""
         },
         {
+<<<<<<< HEAD
+=======
+            "character_id": 95565709,
+            "solar_system_id": 31001138,
+            "value": 189347599.2,
+            "kill_id": 57832038,
+            "date": "2016-12-03 16:35:59",
+            "ship_type_id": 33468,
+            "character_name": "Alba Shi-Kai"
+        },
+        {
+>>>>>>> origin/master
             "character_id": 950844823,
             "solar_system_id": 30002811,
             "value": 188085544.34,
@@ -8659,6 +8671,18 @@
             "character_name": "Klambern"
         },
         {
+<<<<<<< HEAD
+=======
+            "character_id": 96847442,
+            "solar_system_id": 31000277,
+            "value": 7785513.95,
+            "kill_id": 58134800,
+            "date": "2016-12-11 19:46:55",
+            "ship_type_id": 605,
+            "character_name": "Paul Uta"
+        },
+        {
+>>>>>>> origin/master
             "character_id": 97181635,
             "solar_system_id": 31000186,
             "value": 7784411.04,

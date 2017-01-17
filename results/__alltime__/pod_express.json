@@ -1,6 +1,7 @@
 {
     "kills": [
         {
+<<<<<<< HEAD
             "character_id": 2086206675,
             "solar_system_id": 31001038,
             "value": 3765754906.88,
@@ -47519,6 +47520,2049 @@
             "date": "2016-11-01 05:15:43",
             "ship_type_id": 670,
             "character_name": "Rebirth EVE"
+=======
+            "character_id": 590424572,
+            "solar_system_id": 31001138,
+            "value": 783180127.47,
+            "kill_id": 57826948,
+            "date": "2016-12-03 14:05:03",
+            "ship_type_id": 670,
+            "character_name": "Kalan Micar"
+        },
+        {
+            "character_id": 90037875,
+            "solar_system_id": 31001361,
+            "value": 580743192.62,
+            "kill_id": 58183740,
+            "date": "2016-12-13 04:50:16",
+            "ship_type_id": 670,
+            "character_name": "Erekul"
+        },
+        {
+            "character_id": 844465151,
+            "solar_system_id": 30004258,
+            "value": 536859688.1,
+            "kill_id": 57861127,
+            "date": "2016-12-04 05:23:51",
+            "ship_type_id": 670,
+            "character_name": "mackenziee"
+        },
+        {
+            "character_id": 92112805,
+            "solar_system_id": 31000762,
+            "value": 536349992.97,
+            "kill_id": 57877121,
+            "date": "2016-12-04 15:58:04",
+            "ship_type_id": 670,
+            "character_name": "Verdandy Kalter"
+        },
+        {
+            "character_id": 131451070,
+            "solar_system_id": 31001148,
+            "value": 507519716.57,
+            "kill_id": 58465459,
+            "date": "2016-12-21 20:16:57",
+            "ship_type_id": 670,
+            "character_name": "AIKON CASTOR"
+        },
+        {
+            "character_id": 95822411,
+            "solar_system_id": 31000409,
+            "value": 463483143.21,
+            "kill_id": 57781125,
+            "date": "2016-12-02 05:32:46",
+            "ship_type_id": 670,
+            "character_name": "Anti Darwin"
+        },
+        {
+            "character_id": 94853140,
+            "solar_system_id": 31000519,
+            "value": 430293194.89,
+            "kill_id": 57962137,
+            "date": "2016-12-07 01:30:45",
+            "ship_type_id": 670,
+            "character_name": "Alexis Mayavaltar"
+        },
+        {
+            "character_id": 95939220,
+            "solar_system_id": 31000854,
+            "value": 381176254.7,
+            "kill_id": 58738894,
+            "date": "2016-12-31 00:08:05",
+            "ship_type_id": 670,
+            "character_name": "Meredith Palmer"
+        },
+        {
+            "character_id": 96638589,
+            "solar_system_id": 31001148,
+            "value": 354086315.62,
+            "kill_id": 58474114,
+            "date": "2016-12-22 01:21:05",
+            "ship_type_id": 670,
+            "character_name": "Gallente Audeles"
+        },
+        {
+            "character_id": 92586560,
+            "solar_system_id": 31000277,
+            "value": 319206987.06,
+            "kill_id": 58129998,
+            "date": "2016-12-11 18:07:54",
+            "ship_type_id": 670,
+            "character_name": "slavko black Malukker"
+        },
+        {
+            "character_id": 1607857267,
+            "solar_system_id": 31001160,
+            "value": 294504729.42,
+            "kill_id": 58673539,
+            "date": "2016-12-28 20:41:51",
+            "ship_type_id": 670,
+            "character_name": "The 3Doddish"
+        },
+        {
+            "character_id": 2112077182,
+            "solar_system_id": 31001115,
+            "value": 196684095.38,
+            "kill_id": 58654969,
+            "date": "2016-12-28 03:55:48",
+            "ship_type_id": 670,
+            "character_name": "Heavy Dirty Soul"
+        },
+        {
+            "character_id": 96411803,
+            "solar_system_id": 31000778,
+            "value": 187816267.01,
+            "kill_id": 58694832,
+            "date": "2016-12-29 15:35:07",
+            "ship_type_id": 670,
+            "character_name": "Mexanikys"
+        },
+        {
+            "character_id": 374953950,
+            "solar_system_id": 31000420,
+            "value": 175980675.05,
+            "kill_id": 58285996,
+            "date": "2016-12-16 16:10:08",
+            "ship_type_id": 670,
+            "character_name": "Euclix"
+        },
+        {
+            "character_id": 1994047095,
+            "solar_system_id": 31000100,
+            "value": 157768066.4,
+            "kill_id": 58675264,
+            "date": "2016-12-28 21:27:45",
+            "ship_type_id": 670,
+            "character_name": "A'kia"
+        },
+        {
+            "character_id": 95878398,
+            "solar_system_id": 31000731,
+            "value": 152780733.43,
+            "kill_id": 58077765,
+            "date": "2016-12-10 16:53:19",
+            "ship_type_id": 670,
+            "character_name": "Philipp Emanuel"
+        },
+        {
+            "character_id": 1329066937,
+            "solar_system_id": 31001076,
+            "value": 127550708.41,
+            "kill_id": 58449251,
+            "date": "2016-12-21 05:31:16",
+            "ship_type_id": 670,
+            "character_name": "Firefighter101"
+        },
+        {
+            "character_id": 92664193,
+            "solar_system_id": 31000187,
+            "value": 126747145.14,
+            "kill_id": 58716255,
+            "date": "2016-12-30 07:35:22",
+            "ship_type_id": 670,
+            "character_name": "Jack Eaton"
+        },
+        {
+            "character_id": 96885236,
+            "solar_system_id": 31000365,
+            "value": 120607995.24,
+            "kill_id": 58163794,
+            "date": "2016-12-12 17:23:52",
+            "ship_type_id": 670,
+            "character_name": "G Indahowse"
+        },
+        {
+            "character_id": 92905026,
+            "solar_system_id": 31000799,
+            "value": 114984491.07,
+            "kill_id": 58619649,
+            "date": "2016-12-26 23:16:28",
+            "ship_type_id": 670,
+            "character_name": "Morning Gem"
+        },
+        {
+            "character_id": 96473789,
+            "solar_system_id": 30002442,
+            "value": 111229168.45,
+            "kill_id": 57750047,
+            "date": "2016-12-01 05:20:27",
+            "ship_type_id": 670,
+            "character_name": "Nimdan Ki"
+        },
+        {
+            "character_id": 96598460,
+            "solar_system_id": 31000317,
+            "value": 103278029.23,
+            "kill_id": 58123963,
+            "date": "2016-12-11 15:24:09",
+            "ship_type_id": 670,
+            "character_name": "Yevgen39"
+        },
+        {
+            "character_id": 91780266,
+            "solar_system_id": 31000506,
+            "value": 102875659.78,
+            "kill_id": 57948610,
+            "date": "2016-12-06 17:51:26",
+            "ship_type_id": 670,
+            "character_name": "Lyra Magellan"
+        },
+        {
+            "character_id": 256823972,
+            "solar_system_id": 31000497,
+            "value": 99636800.96,
+            "kill_id": 58135146,
+            "date": "2016-12-11 19:55:22",
+            "ship_type_id": 670,
+            "character_name": "Ardone"
+        },
+        {
+            "character_id": 90083932,
+            "solar_system_id": 31000454,
+            "value": 98397445.29,
+            "kill_id": 58685039,
+            "date": "2016-12-29 04:14:15",
+            "ship_type_id": 670,
+            "character_name": "EAGIT"
+        },
+        {
+            "character_id": 96720429,
+            "solar_system_id": 31000813,
+            "value": 93240027.05,
+            "kill_id": 57957390,
+            "date": "2016-12-06 22:08:06",
+            "ship_type_id": 670,
+            "character_name": "d2arking73 Regyri"
+        },
+        {
+            "character_id": 97093509,
+            "solar_system_id": 31000900,
+            "value": 93101108.68,
+            "kill_id": 58673706,
+            "date": "2016-12-28 20:46:32",
+            "ship_type_id": 670,
+            "character_name": "Goshun Rommel"
+        },
+        {
+            "character_id": 95226831,
+            "solar_system_id": 30003745,
+            "value": 87901254.18,
+            "kill_id": 58574037,
+            "date": "2016-12-25 10:47:13",
+            "ship_type_id": 670,
+            "character_name": "Balarr Dallocort"
+        },
+        {
+            "character_id": 90086117,
+            "solar_system_id": 31000759,
+            "value": 87719920.75,
+            "kill_id": 58204029,
+            "date": "2016-12-13 21:27:39",
+            "ship_type_id": 670,
+            "character_name": "Antomidus"
+        },
+        {
+            "character_id": 91779388,
+            "solar_system_id": 30004741,
+            "value": 87601465.66,
+            "kill_id": 58757537,
+            "date": "2016-12-31 18:02:50",
+            "ship_type_id": 670,
+            "character_name": "Sk44rj Shepard"
+        },
+        {
+            "character_id": 1560039033,
+            "solar_system_id": 31001076,
+            "value": 87121155.41,
+            "kill_id": 58449077,
+            "date": "2016-12-21 05:18:50",
+            "ship_type_id": 670,
+            "character_name": "testsubjiect 12"
+        },
+        {
+            "character_id": 97068674,
+            "solar_system_id": 31001151,
+            "value": 86905455.61,
+            "kill_id": 58431578,
+            "date": "2016-12-20 18:19:08",
+            "ship_type_id": 670,
+            "character_name": "Nuclear W1nd"
+        },
+        {
+            "character_id": 92058750,
+            "solar_system_id": 30003277,
+            "value": 86652520.81,
+            "kill_id": 58383243,
+            "date": "2016-12-19 01:17:57",
+            "ship_type_id": 670,
+            "character_name": "Ryan S Lennelluc"
+        },
+        {
+            "character_id": 96687496,
+            "solar_system_id": 30003735,
+            "value": 86568357.01,
+            "kill_id": 58224475,
+            "date": "2016-12-14 15:32:29",
+            "ship_type_id": 670,
+            "character_name": "Lakrista Lolilotolola"
+        },
+        {
+            "character_id": 95643560,
+            "solar_system_id": 31001083,
+            "value": 86560280.48,
+            "kill_id": 58246051,
+            "date": "2016-12-15 05:29:43",
+            "ship_type_id": 670,
+            "character_name": "Zaiko Nardieu"
+        },
+        {
+            "character_id": 95321857,
+            "solar_system_id": 31000243,
+            "value": 86327175.33,
+            "kill_id": 57975434,
+            "date": "2016-12-07 15:30:30",
+            "ship_type_id": 670,
+            "character_name": "Tay Li"
+        },
+        {
+            "character_id": 96236461,
+            "solar_system_id": 30002440,
+            "value": 86281144.84,
+            "kill_id": 58050839,
+            "date": "2016-12-09 22:39:08",
+            "ship_type_id": 670,
+            "character_name": "Kado Diemos"
+        },
+        {
+            "character_id": 1939035743,
+            "solar_system_id": 31001076,
+            "value": 85212437.44,
+            "kill_id": 58446471,
+            "date": "2016-12-21 03:00:47",
+            "ship_type_id": 670,
+            "character_name": "Jasminmatar"
+        },
+        {
+            "character_id": 696163883,
+            "solar_system_id": 31001175,
+            "value": 82939582.63,
+            "kill_id": 57961706,
+            "date": "2016-12-07 01:07:20",
+            "ship_type_id": 670,
+            "character_name": "McBruha"
+        },
+        {
+            "character_id": 96731055,
+            "solar_system_id": 30003745,
+            "value": 82508336.47,
+            "kill_id": 58574055,
+            "date": "2016-12-25 10:47:51",
+            "ship_type_id": 670,
+            "character_name": "Ingvar Bombelek"
+        },
+        {
+            "character_id": 97224516,
+            "solar_system_id": 31000339,
+            "value": 79320939.97,
+            "kill_id": 58287032,
+            "date": "2016-12-16 16:54:22",
+            "ship_type_id": 670,
+            "character_name": "Zet Sugen"
+        },
+        {
+            "character_id": 95489048,
+            "solar_system_id": 31000229,
+            "value": 78338903.29,
+            "kill_id": 57872554,
+            "date": "2016-12-04 13:46:41",
+            "ship_type_id": 670,
+            "character_name": "Superfischi Avuli"
+        },
+        {
+            "character_id": 96479210,
+            "solar_system_id": 31000841,
+            "value": 76372053.78,
+            "kill_id": 57973768,
+            "date": "2016-12-07 14:00:34",
+            "ship_type_id": 670,
+            "character_name": "Incorporosana Inkura"
+        },
+        {
+            "character_id": 96589420,
+            "solar_system_id": 31001129,
+            "value": 75293229.43,
+            "kill_id": 58055271,
+            "date": "2016-12-10 00:55:57",
+            "ship_type_id": 670,
+            "character_name": "Alexandr Druzhynin"
+        },
+        {
+            "character_id": 95108338,
+            "solar_system_id": 31001175,
+            "value": 72815370.38,
+            "kill_id": 57964335,
+            "date": "2016-12-07 03:19:04",
+            "ship_type_id": 670,
+            "character_name": "Buck Skeeterson"
+        },
+        {
+            "character_id": 96483992,
+            "solar_system_id": 31000229,
+            "value": 72542329.94,
+            "kill_id": 57872562,
+            "date": "2016-12-04 13:47:01",
+            "ship_type_id": 670,
+            "character_name": "Christoph Otmahr"
+        },
+        {
+            "character_id": 96796981,
+            "solar_system_id": 30003729,
+            "value": 71087482.7,
+            "kill_id": 58661904,
+            "date": "2016-12-28 12:42:36",
+            "ship_type_id": 670,
+            "character_name": "splant2"
+        },
+        {
+            "character_id": 96873676,
+            "solar_system_id": 31001068,
+            "value": 70394670.86,
+            "kill_id": 57781457,
+            "date": "2016-12-02 05:52:19",
+            "ship_type_id": 670,
+            "character_name": "calvinbb Cesaille"
+        },
+        {
+            "character_id": 91719871,
+            "solar_system_id": 31000726,
+            "value": 70159297.31,
+            "kill_id": 58606780,
+            "date": "2016-12-26 16:24:59",
+            "ship_type_id": 670,
+            "character_name": "Artem Dolmbook"
+        },
+        {
+            "character_id": 96624353,
+            "solar_system_id": 30003743,
+            "value": 70128264.48,
+            "kill_id": 58686855,
+            "date": "2016-12-29 05:58:48",
+            "ship_type_id": 670,
+            "character_name": "Military Commissar"
+        },
+        {
+            "character_id": 96378224,
+            "solar_system_id": 30003277,
+            "value": 69245239.94,
+            "kill_id": 58382861,
+            "date": "2016-12-19 00:57:00",
+            "ship_type_id": 670,
+            "character_name": "Castor Drebin"
+        },
+        {
+            "character_id": 1519244056,
+            "solar_system_id": 31001122,
+            "value": 57895624.52,
+            "kill_id": 57913009,
+            "date": "2016-12-05 14:24:57",
+            "ship_type_id": 670,
+            "character_name": "Mad Moragon"
+        },
+        {
+            "character_id": 1440484271,
+            "solar_system_id": 31000778,
+            "value": 54289562.43,
+            "kill_id": 58422388,
+            "date": "2016-12-20 10:16:23",
+            "ship_type_id": 670,
+            "character_name": "Di'Al"
+        },
+        {
+            "character_id": 95173569,
+            "solar_system_id": 30004223,
+            "value": 52542553.07,
+            "kill_id": 58327131,
+            "date": "2016-12-17 18:16:39",
+            "ship_type_id": 670,
+            "character_name": "Dmitry123 Pupkin"
+        },
+        {
+            "character_id": 95516783,
+            "solar_system_id": 31001168,
+            "value": 52401454.39,
+            "kill_id": 58314763,
+            "date": "2016-12-17 10:16:12",
+            "ship_type_id": 670,
+            "character_name": "Adin Daklari"
+        },
+        {
+            "character_id": 92718250,
+            "solar_system_id": 31000762,
+            "value": 51804677.97,
+            "kill_id": 58059698,
+            "date": "2016-12-10 03:57:21",
+            "ship_type_id": 670,
+            "character_name": "Mif ru Ronjin"
+        },
+        {
+            "character_id": 950538141,
+            "solar_system_id": 31001175,
+            "value": 51784205.11,
+            "kill_id": 57963116,
+            "date": "2016-12-07 02:18:16",
+            "ship_type_id": 670,
+            "character_name": "EXILIANT"
+        },
+        {
+            "character_id": 96322348,
+            "solar_system_id": 30004019,
+            "value": 47683465.48,
+            "kill_id": 58713245,
+            "date": "2016-12-30 04:00:54",
+            "ship_type_id": 670,
+            "character_name": "Bill Ponderosa"
+        },
+        {
+            "character_id": 96756813,
+            "solar_system_id": 31001114,
+            "value": 47110739.34,
+            "kill_id": 58671933,
+            "date": "2016-12-28 19:52:13",
+            "ship_type_id": 670,
+            "character_name": "Viktor 7777"
+        },
+        {
+            "character_id": 95310238,
+            "solar_system_id": 31000107,
+            "value": 45441380.07,
+            "kill_id": 58452158,
+            "date": "2016-12-21 09:03:11",
+            "ship_type_id": 670,
+            "character_name": "Rayzar Enderas"
+        },
+        {
+            "character_id": 91943051,
+            "solar_system_id": 30002019,
+            "value": 45433884.66,
+            "kill_id": 58297667,
+            "date": "2016-12-16 22:16:04",
+            "ship_type_id": 670,
+            "character_name": "Fregi Steja"
+        },
+        {
+            "character_id": 97210253,
+            "solar_system_id": 31000238,
+            "value": 44852419.49,
+            "kill_id": 58008866,
+            "date": "2016-12-08 17:04:02",
+            "ship_type_id": 670,
+            "character_name": "Father Nye"
+        },
+        {
+            "character_id": 93830423,
+            "solar_system_id": 31000554,
+            "value": 43328026.9,
+            "kill_id": 58670889,
+            "date": "2016-12-28 19:21:50",
+            "ship_type_id": 670,
+            "character_name": "Nikolos Black"
+        },
+        {
+            "character_id": 95149030,
+            "solar_system_id": 31002484,
+            "value": 42359820.1,
+            "kill_id": 58613259,
+            "date": "2016-12-26 20:09:17",
+            "ship_type_id": 670,
+            "character_name": "alexrallyru"
+        },
+        {
+            "character_id": 96840649,
+            "solar_system_id": 31000374,
+            "value": 41451429.08,
+            "kill_id": 58516015,
+            "date": "2016-12-23 13:49:50",
+            "ship_type_id": 670,
+            "character_name": "Lumay"
+        },
+        {
+            "character_id": 93059161,
+            "solar_system_id": 31001091,
+            "value": 38984052.83,
+            "kill_id": 57894204,
+            "date": "2016-12-04 22:10:07",
+            "ship_type_id": 670,
+            "character_name": "Kalekerel"
+        },
+        {
+            "character_id": 96845576,
+            "solar_system_id": 31000385,
+            "value": 38671880.42,
+            "kill_id": 58470518,
+            "date": "2016-12-21 22:48:07",
+            "ship_type_id": 670,
+            "character_name": "Laxikon Bedrockson"
+        },
+        {
+            "character_id": 93701461,
+            "solar_system_id": 31000317,
+            "value": 38376417.14,
+            "kill_id": 58140571,
+            "date": "2016-12-11 21:45:58",
+            "ship_type_id": 670,
+            "character_name": "De'Aren Huunuras"
+        },
+        {
+            "character_id": 97235900,
+            "solar_system_id": 31000330,
+            "value": 38375250.2,
+            "kill_id": 58156288,
+            "date": "2016-12-12 09:41:50",
+            "ship_type_id": 670,
+            "character_name": "Hudson Enderas"
+        },
+        {
+            "character_id": 96953195,
+            "solar_system_id": 31000856,
+            "value": 38370175.24,
+            "kill_id": 57934752,
+            "date": "2016-12-06 03:41:16",
+            "ship_type_id": 670,
+            "character_name": "Mason Allostro"
+        },
+        {
+            "character_id": 94011055,
+            "solar_system_id": 31000473,
+            "value": 38365563.81,
+            "kill_id": 58647507,
+            "date": "2016-12-27 22:14:37",
+            "ship_type_id": 670,
+            "character_name": "Kaz D'Ace"
+        },
+        {
+            "character_id": 92429754,
+            "solar_system_id": 31001292,
+            "value": 38365563.81,
+            "kill_id": 58627803,
+            "date": "2016-12-27 06:32:47",
+            "ship_type_id": 670,
+            "character_name": "Sergey Zatyagin"
+        },
+        {
+            "character_id": 96274731,
+            "solar_system_id": 30000846,
+            "value": 38359985.49,
+            "kill_id": 58620054,
+            "date": "2016-12-26 23:32:40",
+            "ship_type_id": 670,
+            "character_name": "Anne-Collette"
+        },
+        {
+            "character_id": 91186009,
+            "solar_system_id": 30000139,
+            "value": 38320946.43,
+            "kill_id": 58039578,
+            "date": "2016-12-09 17:12:57",
+            "ship_type_id": 670,
+            "character_name": "GUANTANAM0"
+        },
+        {
+            "character_id": 96515196,
+            "solar_system_id": 30003785,
+            "value": 38281332.99,
+            "kill_id": 58278997,
+            "date": "2016-12-16 08:32:35",
+            "ship_type_id": 670,
+            "character_name": "ZDrone17 swarm"
+        },
+        {
+            "character_id": 96830137,
+            "solar_system_id": 30000139,
+            "value": 38258492.11,
+            "kill_id": 58504457,
+            "date": "2016-12-23 02:11:50",
+            "ship_type_id": 670,
+            "character_name": "Tilla Lerhe"
+        },
+        {
+            "character_id": 96484499,
+            "solar_system_id": 30003830,
+            "value": 35909067.74,
+            "kill_id": 58340204,
+            "date": "2016-12-17 23:35:18",
+            "ship_type_id": 670,
+            "character_name": "Skaffen-Amtiskaw-II Crendraven"
+        },
+        {
+            "character_id": 94592481,
+            "solar_system_id": 31000493,
+            "value": 34525509.49,
+            "kill_id": 58107832,
+            "date": "2016-12-11 04:05:50",
+            "ship_type_id": 670,
+            "character_name": "konnyk"
+        },
+        {
+            "character_id": 1520868894,
+            "solar_system_id": 31000493,
+            "value": 34394001.42,
+            "kill_id": 58098989,
+            "date": "2016-12-10 23:48:40",
+            "ship_type_id": 670,
+            "character_name": "FromDuskTill"
+        },
+        {
+            "character_id": 94572425,
+            "solar_system_id": 31001198,
+            "value": 33896807.56,
+            "kill_id": 58155904,
+            "date": "2016-12-12 09:13:14",
+            "ship_type_id": 670,
+            "character_name": "Soldha"
+        },
+        {
+            "character_id": 96910272,
+            "solar_system_id": 31000821,
+            "value": 31830606.69,
+            "kill_id": 58629468,
+            "date": "2016-12-27 08:35:17",
+            "ship_type_id": 670,
+            "character_name": "Racer Chelien"
+        },
+        {
+            "character_id": 95587262,
+            "solar_system_id": 31000411,
+            "value": 31560397.86,
+            "kill_id": 57850841,
+            "date": "2016-12-03 23:20:25",
+            "ship_type_id": 670,
+            "character_name": "Zoey Larosa"
+        },
+        {
+            "character_id": 97107659,
+            "solar_system_id": 31001122,
+            "value": 31031988.39,
+            "kill_id": 57935807,
+            "date": "2016-12-06 04:26:07",
+            "ship_type_id": 670,
+            "character_name": "Taeyln Zhao"
+        },
+        {
+            "character_id": 2054737702,
+            "solar_system_id": 31001292,
+            "value": 31004998.65,
+            "kill_id": 58628524,
+            "date": "2016-12-27 07:21:57",
+            "ship_type_id": 670,
+            "character_name": "Xarinous"
+        },
+        {
+            "character_id": 94894594,
+            "solar_system_id": 31000554,
+            "value": 30955052.68,
+            "kill_id": 58039500,
+            "date": "2016-12-09 17:09:29",
+            "ship_type_id": 670,
+            "character_name": "Teona Sailes"
+        },
+        {
+            "character_id": 95547102,
+            "solar_system_id": 31000834,
+            "value": 30877200.09,
+            "kill_id": 57844672,
+            "date": "2016-12-03 21:18:35",
+            "ship_type_id": 670,
+            "character_name": "Anton X"
+        },
+        {
+            "character_id": 94964584,
+            "solar_system_id": 31000475,
+            "value": 29293334.01,
+            "kill_id": 57838010,
+            "date": "2016-12-03 19:03:23",
+            "ship_type_id": 670,
+            "character_name": "Midael Nakrar"
+        },
+        {
+            "character_id": 96653064,
+            "solar_system_id": 30005195,
+            "value": 27668634.05,
+            "kill_id": 58125887,
+            "date": "2016-12-11 16:19:35",
+            "ship_type_id": 670,
+            "character_name": "Ponomarenko Alexandr"
+        },
+        {
+            "character_id": 97056177,
+            "solar_system_id": 31001175,
+            "value": 25848054.66,
+            "kill_id": 57966299,
+            "date": "2016-12-07 04:59:34",
+            "ship_type_id": 670,
+            "character_name": "Mr Fruity Fruitas"
+        },
+        {
+            "character_id": 94562912,
+            "solar_system_id": 31001165,
+            "value": 24282780.49,
+            "kill_id": 58536315,
+            "date": "2016-12-24 02:04:46",
+            "ship_type_id": 670,
+            "character_name": "Styx Vrok"
+        },
+        {
+            "character_id": 199609943,
+            "solar_system_id": 30002443,
+            "value": 21719909.24,
+            "kill_id": 58391128,
+            "date": "2016-12-19 09:16:39",
+            "ship_type_id": 670,
+            "character_name": "PrizracVetrov"
+        },
+        {
+            "character_id": 1843640628,
+            "solar_system_id": 31000128,
+            "value": 19119771.81,
+            "kill_id": 58703705,
+            "date": "2016-12-29 21:18:42",
+            "ship_type_id": 670,
+            "character_name": "spoodz"
+        },
+        {
+            "character_id": 2016966950,
+            "solar_system_id": 31001175,
+            "value": 18709510.07,
+            "kill_id": 57961282,
+            "date": "2016-12-07 00:42:59",
+            "ship_type_id": 670,
+            "character_name": "Fraz Olton"
+        },
+        {
+            "character_id": 96799204,
+            "solar_system_id": 31001169,
+            "value": 16548511.03,
+            "kill_id": 58149733,
+            "date": "2016-12-12 02:49:09",
+            "ship_type_id": 670,
+            "character_name": "Captain Clownie"
+        },
+        {
+            "character_id": 2064714653,
+            "solar_system_id": 30004019,
+            "value": 16432605.4,
+            "kill_id": 58705519,
+            "date": "2016-12-29 22:12:24",
+            "ship_type_id": 670,
+            "character_name": "DragoonOmega"
+        },
+        {
+            "character_id": 1384361870,
+            "solar_system_id": 30004019,
+            "value": 16432605.4,
+            "kill_id": 58705332,
+            "date": "2016-12-29 22:05:43",
+            "ship_type_id": 670,
+            "character_name": "SavageJohn"
+        },
+        {
+            "character_id": 93924179,
+            "solar_system_id": 31000420,
+            "value": 16415312.47,
+            "kill_id": 58288503,
+            "date": "2016-12-16 17:52:53",
+            "ship_type_id": 670,
+            "character_name": "Throly Damien"
+        },
+        {
+            "character_id": 96947600,
+            "solar_system_id": 31000818,
+            "value": 15775302.4,
+            "kill_id": 58361613,
+            "date": "2016-12-18 15:16:34",
+            "ship_type_id": 670,
+            "character_name": "Akira Murasaki"
+        },
+        {
+            "character_id": 97160471,
+            "solar_system_id": 31000567,
+            "value": 15556945.86,
+            "kill_id": 58190012,
+            "date": "2016-12-13 12:52:10",
+            "ship_type_id": 670,
+            "character_name": "Jackal D"
+        },
+        {
+            "character_id": 96407135,
+            "solar_system_id": 30005305,
+            "value": 15511493.49,
+            "kill_id": 58439772,
+            "date": "2016-12-20 22:13:22",
+            "ship_type_id": 670,
+            "character_name": "You Blew Up"
+        },
+        {
+            "character_id": 96987200,
+            "solar_system_id": 31001073,
+            "value": 15511241.49,
+            "kill_id": 57965580,
+            "date": "2016-12-07 04:19:55",
+            "ship_type_id": 670,
+            "character_name": "Abalkin"
+        },
+        {
+            "character_id": 2112008328,
+            "solar_system_id": 31000872,
+            "value": 15480709.89,
+            "kill_id": 58626699,
+            "date": "2016-12-27 05:22:08",
+            "ship_type_id": 670,
+            "character_name": "Low Value Alpaca"
+        },
+        {
+            "character_id": 93908384,
+            "solar_system_id": 31000158,
+            "value": 15458210.47,
+            "kill_id": 58181858,
+            "date": "2016-12-13 03:25:07",
+            "ship_type_id": 670,
+            "character_name": "Mihail Dorr"
+        },
+        {
+            "character_id": 91416316,
+            "solar_system_id": 31000242,
+            "value": 15416793.59,
+            "kill_id": 57786448,
+            "date": "2016-12-02 11:58:10",
+            "ship_type_id": 670,
+            "character_name": "Delest SHabbar"
+        },
+        {
+            "character_id": 890010665,
+            "solar_system_id": 31000105,
+            "value": 15389945.23,
+            "kill_id": 58310059,
+            "date": "2016-12-17 05:59:15",
+            "ship_type_id": 670,
+            "character_name": "Brook Clemson"
+        },
+        {
+            "character_id": 97055514,
+            "solar_system_id": 31000635,
+            "value": 14119616.23,
+            "kill_id": 58394869,
+            "date": "2016-12-19 14:00:24",
+            "ship_type_id": 670,
+            "character_name": "Perfectly Normal Actually"
+        },
+        {
+            "character_id": 91699109,
+            "solar_system_id": 31000855,
+            "value": 12968866.41,
+            "kill_id": 58377014,
+            "date": "2016-12-18 21:49:31",
+            "ship_type_id": 670,
+            "character_name": "Didriek Dawner"
+        },
+        {
+            "character_id": 97163014,
+            "solar_system_id": 31000755,
+            "value": 12376766.48,
+            "kill_id": 58214771,
+            "date": "2016-12-14 04:30:16",
+            "ship_type_id": 670,
+            "character_name": "Ionejiro Lennelluc"
+        },
+        {
+            "character_id": 1014620094,
+            "solar_system_id": 31000180,
+            "value": 10290407.46,
+            "kill_id": 58059354,
+            "date": "2016-12-10 03:43:01",
+            "ship_type_id": 670,
+            "character_name": "Nuck Chorrisson"
+        },
+        {
+            "character_id": 95222705,
+            "solar_system_id": 31000420,
+            "value": 9616959.5,
+            "kill_id": 58499765,
+            "date": "2016-12-22 22:41:40",
+            "ship_type_id": 33328,
+            "character_name": "Alice Boomm"
+        },
+        {
+            "character_id": 96744425,
+            "solar_system_id": 31000789,
+            "value": 9395088.17,
+            "kill_id": 58544409,
+            "date": "2016-12-24 09:54:30",
+            "ship_type_id": 670,
+            "character_name": "Scorpion Homer"
+        },
+        {
+            "character_id": 96847442,
+            "solar_system_id": 31000277,
+            "value": 8030065.12,
+            "kill_id": 58134806,
+            "date": "2016-12-11 19:47:05",
+            "ship_type_id": 670,
+            "character_name": "Paul Uta"
+        },
+        {
+            "character_id": 96982023,
+            "solar_system_id": 31001115,
+            "value": 8022421.67,
+            "kill_id": 58644401,
+            "date": "2016-12-27 20:39:49",
+            "ship_type_id": 670,
+            "character_name": "Astra Roux"
+        },
+        {
+            "character_id": 97108992,
+            "solar_system_id": 31000158,
+            "value": 7865430.91,
+            "kill_id": 58180844,
+            "date": "2016-12-13 02:39:54",
+            "ship_type_id": 670,
+            "character_name": "Lynx Spark"
+        },
+        {
+            "character_id": 295032208,
+            "solar_system_id": 31000409,
+            "value": 7791977.75,
+            "kill_id": 58146236,
+            "date": "2016-12-12 00:21:50",
+            "ship_type_id": 670,
+            "character_name": "Klambern"
+        },
+        {
+            "character_id": 97069986,
+            "solar_system_id": 31000554,
+            "value": 7772564.45,
+            "kill_id": 58028795,
+            "date": "2016-12-09 05:24:16",
+            "ship_type_id": 670,
+            "character_name": "Dustin Evan"
+        },
+        {
+            "character_id": 95390124,
+            "solar_system_id": 31001470,
+            "value": 6091989.46,
+            "kill_id": 57782609,
+            "date": "2016-12-02 07:08:17",
+            "ship_type_id": 670,
+            "character_name": "ChacmaBab Padecain"
+        },
+        {
+            "character_id": 1920380537,
+            "solar_system_id": 30003277,
+            "value": 5289805.56,
+            "kill_id": 58715400,
+            "date": "2016-12-30 06:18:51",
+            "ship_type_id": 670,
+            "character_name": "Shagdurug"
+        },
+        {
+            "character_id": 289819632,
+            "solar_system_id": 30001379,
+            "value": 4953942.66,
+            "kill_id": 57867375,
+            "date": "2016-12-04 10:09:31",
+            "ship_type_id": 670,
+            "character_name": "Keezor"
+        },
+        {
+            "character_id": 96232562,
+            "solar_system_id": 30003486,
+            "value": 4696292.16,
+            "kill_id": 58061117,
+            "date": "2016-12-10 04:55:59",
+            "ship_type_id": 670,
+            "character_name": "Joseph Arioch"
+        },
+        {
+            "character_id": 94278961,
+            "solar_system_id": 30003277,
+            "value": 4545471.24,
+            "kill_id": 58341230,
+            "date": "2016-12-18 00:08:55",
+            "ship_type_id": 670,
+            "character_name": "Rikka Severasse"
+        },
+        {
+            "character_id": 95178668,
+            "solar_system_id": 31001115,
+            "value": 4533460.11,
+            "kill_id": 58644647,
+            "date": "2016-12-27 20:46:27",
+            "ship_type_id": 670,
+            "character_name": "Tucnak Turbo"
+        },
+        {
+            "character_id": 97138404,
+            "solar_system_id": 31000830,
+            "value": 4498761.22,
+            "kill_id": 58484915,
+            "date": "2016-12-22 13:12:44",
+            "ship_type_id": 670,
+            "character_name": "Kirk Tibery"
+        },
+        {
+            "character_id": 97078411,
+            "solar_system_id": 31000493,
+            "value": 4383483.46,
+            "kill_id": 58087481,
+            "date": "2016-12-10 20:15:46",
+            "ship_type_id": 670,
+            "character_name": "Broonya Mikser"
+        },
+        {
+            "character_id": 97080667,
+            "solar_system_id": 31000842,
+            "value": 4378521.86,
+            "kill_id": 58172694,
+            "date": "2016-12-12 21:27:41",
+            "ship_type_id": 670,
+            "character_name": "Roman Haanke"
+        },
+        {
+            "character_id": 97058796,
+            "solar_system_id": 31000432,
+            "value": 3825696.36,
+            "kill_id": 57748254,
+            "date": "2016-12-01 03:58:04",
+            "ship_type_id": 670,
+            "character_name": "Lucio Charleton"
+        },
+        {
+            "character_id": 97008178,
+            "solar_system_id": 31000147,
+            "value": 3590122.35,
+            "kill_id": 58355127,
+            "date": "2016-12-18 10:29:42",
+            "ship_type_id": 670,
+            "character_name": "Alex Clif"
+        },
+        {
+            "character_id": 95666052,
+            "solar_system_id": 31000514,
+            "value": 3486282.27,
+            "kill_id": 57945265,
+            "date": "2016-12-06 15:22:30",
+            "ship_type_id": 670,
+            "character_name": "Cadavah"
+        },
+        {
+            "character_id": 90687495,
+            "solar_system_id": 31000241,
+            "value": 2912831.49,
+            "kill_id": 58091961,
+            "date": "2016-12-10 21:30:17",
+            "ship_type_id": 670,
+            "character_name": "Mustang0217 Uitra"
+        },
+        {
+            "character_id": 96946131,
+            "solar_system_id": 31000275,
+            "value": 2029726.27,
+            "kill_id": 58758786,
+            "date": "2016-12-31 19:15:47",
+            "ship_type_id": 670,
+            "character_name": "Martian Kovalsky"
+        },
+        {
+            "character_id": 2112097774,
+            "solar_system_id": 31000665,
+            "value": 1920439.32,
+            "kill_id": 58727627,
+            "date": "2016-12-30 18:45:39",
+            "ship_type_id": 670,
+            "character_name": "MrBuchy"
+        },
+        {
+            "character_id": 97179780,
+            "solar_system_id": 31000850,
+            "value": 1885256.71,
+            "kill_id": 58561182,
+            "date": "2016-12-24 21:21:05",
+            "ship_type_id": 670,
+            "character_name": "Carlson Khardula"
+        },
+        {
+            "character_id": 2112056165,
+            "solar_system_id": 31000778,
+            "value": 1871005.19,
+            "kill_id": 58715849,
+            "date": "2016-12-30 06:55:01",
+            "ship_type_id": 670,
+            "character_name": "brenerholde Podiene"
+        },
+        {
+            "character_id": 95001766,
+            "solar_system_id": 31000834,
+            "value": 1844733.57,
+            "kill_id": 57858319,
+            "date": "2016-12-04 03:31:10",
+            "ship_type_id": 670,
+            "character_name": "Alex Bagaev"
+        },
+        {
+            "character_id": 96994461,
+            "solar_system_id": 31002333,
+            "value": 1108873.93,
+            "kill_id": 57904695,
+            "date": "2016-12-05 04:51:03",
+            "ship_type_id": 670,
+            "character_name": "Christina GOW"
+        },
+        {
+            "character_id": 96972488,
+            "solar_system_id": 31000349,
+            "value": 1079889.95,
+            "kill_id": 58230233,
+            "date": "2016-12-14 19:23:57",
+            "ship_type_id": 670,
+            "character_name": "mmilann karaturk"
+        },
+        {
+            "character_id": 97124923,
+            "solar_system_id": 31000108,
+            "value": 1063097.28,
+            "kill_id": 57884882,
+            "date": "2016-12-04 19:16:01",
+            "ship_type_id": 670,
+            "character_name": "Oladik Semerikov"
+        },
+        {
+            "character_id": 97178996,
+            "solar_system_id": 31001091,
+            "value": 1042439.08,
+            "kill_id": 58433364,
+            "date": "2016-12-20 19:13:04",
+            "ship_type_id": 670,
+            "character_name": "Aleks Andreev"
+        },
+        {
+            "character_id": 97041482,
+            "solar_system_id": 31000346,
+            "value": 1017365.6,
+            "kill_id": 58582323,
+            "date": "2016-12-25 18:08:08",
+            "ship_type_id": 670,
+            "character_name": "Oldrik King"
+        },
+        {
+            "character_id": 95549104,
+            "solar_system_id": 31001016,
+            "value": 1013871.78,
+            "kill_id": 58394097,
+            "date": "2016-12-19 13:14:43",
+            "ship_type_id": 670,
+            "character_name": "ALL Kouvo"
+        },
+        {
+            "character_id": 1320135148,
+            "solar_system_id": 31000804,
+            "value": 1003170.82,
+            "kill_id": 58447558,
+            "date": "2016-12-21 03:52:15",
+            "ship_type_id": 670,
+            "character_name": "JacabDeWare"
+        },
+        {
+            "character_id": 97191992,
+            "solar_system_id": 31001891,
+            "value": 990117.38,
+            "kill_id": 58607580,
+            "date": "2016-12-26 16:57:56",
+            "ship_type_id": 670,
+            "character_name": "Demetr Uta"
+        },
+        {
+            "character_id": 97085162,
+            "solar_system_id": 31000385,
+            "value": 984128.57,
+            "kill_id": 58473131,
+            "date": "2016-12-22 00:36:05",
+            "ship_type_id": 670,
+            "character_name": "Lexander Graves"
+        },
+        {
+            "character_id": 2112006946,
+            "solar_system_id": 31000102,
+            "value": 975834.39,
+            "kill_id": 58419860,
+            "date": "2016-12-20 07:14:19",
+            "ship_type_id": 670,
+            "character_name": "Cerol en Thielles"
+        },
+        {
+            "character_id": 199178106,
+            "solar_system_id": 31001115,
+            "value": 975226.52,
+            "kill_id": 58647152,
+            "date": "2016-12-27 22:03:07",
+            "ship_type_id": 670,
+            "character_name": "Lothos Numar"
+        },
+        {
+            "character_id": 97205192,
+            "solar_system_id": 31000850,
+            "value": 972132.89,
+            "kill_id": 58560852,
+            "date": "2016-12-24 21:08:26",
+            "ship_type_id": 670,
+            "character_name": "Vicxten Mars"
+        },
+        {
+            "character_id": 97185440,
+            "solar_system_id": 31000850,
+            "value": 968259.76,
+            "kill_id": 58561336,
+            "date": "2016-12-24 21:27:07",
+            "ship_type_id": 670,
+            "character_name": "Lampur Amilupar"
+        },
+        {
+            "character_id": 97230524,
+            "solar_system_id": 31000875,
+            "value": 962020.32,
+            "kill_id": 58244671,
+            "date": "2016-12-15 04:10:47",
+            "ship_type_id": 670,
+            "character_name": "alrayz udalov"
+        },
+        {
+            "character_id": 1634754489,
+            "solar_system_id": 31000339,
+            "value": 961010.52,
+            "kill_id": 58289222,
+            "date": "2016-12-16 18:18:31",
+            "ship_type_id": 670,
+            "character_name": "Noxxon"
+        },
+        {
+            "character_id": 95276595,
+            "solar_system_id": 31000420,
+            "value": 961010.52,
+            "kill_id": 58282649,
+            "date": "2016-12-16 13:24:00",
+            "ship_type_id": 670,
+            "character_name": "Dante Tseng"
+        },
+        {
+            "character_id": 97115433,
+            "solar_system_id": 31001363,
+            "value": 894043.19,
+            "kill_id": 58312387,
+            "date": "2016-12-17 08:06:24",
+            "ship_type_id": 670,
+            "character_name": "Alex Sicarius"
+        },
+        {
+            "character_id": 1627635796,
+            "solar_system_id": 31001360,
+            "value": 879692.95,
+            "kill_id": 58202841,
+            "date": "2016-12-13 20:59:09",
+            "ship_type_id": 670,
+            "character_name": "Brak'Don"
+        },
+        {
+            "character_id": 96993776,
+            "solar_system_id": 31000317,
+            "value": 863507.37,
+            "kill_id": 58140073,
+            "date": "2016-12-11 21:34:01",
+            "ship_type_id": 670,
+            "character_name": "Follin A"
+        },
+        {
+            "character_id": 95754890,
+            "solar_system_id": 31000423,
+            "value": 859100.5,
+            "kill_id": 57916993,
+            "date": "2016-12-05 17:33:52",
+            "ship_type_id": 670,
+            "character_name": "Pem Machaon"
+        },
+        {
+            "character_id": 97084050,
+            "solar_system_id": 31000470,
+            "value": 839499.75,
+            "kill_id": 57821505,
+            "date": "2016-12-03 09:57:55",
+            "ship_type_id": 670,
+            "character_name": "Furious Orc"
+        },
+        {
+            "character_id": 97157528,
+            "solar_system_id": 31001175,
+            "value": 814284.1,
+            "kill_id": 57960693,
+            "date": "2016-12-07 00:13:30",
+            "ship_type_id": 670,
+            "character_name": "otvintas Poljus"
+        },
+        {
+            "character_id": 94745061,
+            "solar_system_id": 31000409,
+            "value": 775912.39,
+            "kill_id": 57783116,
+            "date": "2016-12-02 07:39:51",
+            "ship_type_id": 670,
+            "character_name": "aleks kiric"
+        },
+        {
+            "character_id": 96096170,
+            "solar_system_id": 30002440,
+            "value": 634882.2,
+            "kill_id": 58050807,
+            "date": "2016-12-09 22:38:23",
+            "ship_type_id": 670,
+            "character_name": "Kado Bestromes"
+        },
+        {
+            "character_id": 93391958,
+            "solar_system_id": 30003772,
+            "value": 631548.61,
+            "kill_id": 58060804,
+            "date": "2016-12-10 04:41:18",
+            "ship_type_id": 670,
+            "character_name": "Tresito Gaterau"
+        },
+        {
+            "character_id": 95830246,
+            "solar_system_id": 31000475,
+            "value": 561242.51,
+            "kill_id": 57829971,
+            "date": "2016-12-03 15:37:55",
+            "ship_type_id": 670,
+            "character_name": "Skorpioshka Edier"
+        },
+        {
+            "character_id": 97269058,
+            "solar_system_id": 31000857,
+            "value": 78363.94,
+            "kill_id": 58493016,
+            "date": "2016-12-22 19:07:28",
+            "ship_type_id": 670,
+            "character_name": "DaniDisco"
+        },
+        {
+            "character_id": 97239767,
+            "solar_system_id": 31001148,
+            "value": 78363.94,
+            "kill_id": 58475037,
+            "date": "2016-12-22 02:06:53",
+            "ship_type_id": 670,
+            "character_name": "Guradiorasu Amishitia"
+        },
+        {
+            "character_id": 2112003562,
+            "solar_system_id": 31001148,
+            "value": 78258.33,
+            "kill_id": 58468387,
+            "date": "2016-12-21 21:44:07",
+            "ship_type_id": 670,
+            "character_name": "Juliius Evola"
+        },
+        {
+            "character_id": 2112026796,
+            "solar_system_id": 31000804,
+            "value": 78258.33,
+            "kill_id": 58447564,
+            "date": "2016-12-21 03:52:27",
+            "ship_type_id": 670,
+            "character_name": "Hirohito Yanumano"
+        },
+        {
+            "character_id": 2112032290,
+            "solar_system_id": 31000316,
+            "value": 78252.14,
+            "kill_id": 58400387,
+            "date": "2016-12-19 18:09:58",
+            "ship_type_id": 670,
+            "character_name": "Lynx Mordavien"
+        },
+        {
+            "character_id": 96935558,
+            "solar_system_id": 31000773,
+            "value": 78252.14,
+            "kill_id": 58397127,
+            "date": "2016-12-19 16:00:51",
+            "ship_type_id": 670,
+            "character_name": "FordWar"
+        },
+        {
+            "character_id": 2112103873,
+            "solar_system_id": 31000432,
+            "value": 77809.73,
+            "kill_id": 58580533,
+            "date": "2016-12-25 16:59:08",
+            "ship_type_id": 670,
+            "character_name": "GOD Miromme"
+        },
+        {
+            "character_id": 2112001692,
+            "solar_system_id": 31000677,
+            "value": 77098.69,
+            "kill_id": 58376793,
+            "date": "2016-12-18 21:43:31",
+            "ship_type_id": 670,
+            "character_name": "VDG Infinity"
+        },
+        {
+            "character_id": 97265386,
+            "solar_system_id": 31000677,
+            "value": 77098.69,
+            "kill_id": 58375028,
+            "date": "2016-12-18 21:06:54",
+            "ship_type_id": 670,
+            "character_name": "Fantom Amar"
+        },
+        {
+            "character_id": 92655174,
+            "solar_system_id": 31000818,
+            "value": 77098.69,
+            "kill_id": 58374116,
+            "date": "2016-12-18 20:46:38",
+            "ship_type_id": 670,
+            "character_name": "Triarius Gaterau"
+        },
+        {
+            "character_id": 1673109653,
+            "solar_system_id": 31000274,
+            "value": 76000.67,
+            "kill_id": 58610274,
+            "date": "2016-12-26 18:33:38",
+            "ship_type_id": 670,
+            "character_name": "Porfin"
+        },
+        {
+            "character_id": 97056813,
+            "solar_system_id": 31000040,
+            "value": 76000.67,
+            "kill_id": 58595730,
+            "date": "2016-12-26 03:47:34",
+            "ship_type_id": 670,
+            "character_name": "Jaspar Q"
+        },
+        {
+            "character_id": 2112004146,
+            "solar_system_id": 31000326,
+            "value": 74508.33,
+            "kill_id": 58269725,
+            "date": "2016-12-15 23:55:44",
+            "ship_type_id": 670,
+            "character_name": "Raven Corvestas"
+        },
+        {
+            "character_id": 97223741,
+            "solar_system_id": 31000541,
+            "value": 74508.33,
+            "kill_id": 58269009,
+            "date": "2016-12-15 23:28:54",
+            "ship_type_id": 670,
+            "character_name": "Ringo Blaster"
+        },
+        {
+            "character_id": 97187827,
+            "solar_system_id": 31000787,
+            "value": 74508.33,
+            "kill_id": 58248070,
+            "date": "2016-12-15 07:41:23",
+            "ship_type_id": 670,
+            "character_name": "Sterling Boirelle"
+        },
+        {
+            "character_id": 97188452,
+            "solar_system_id": 31000867,
+            "value": 73365.29,
+            "kill_id": 58185087,
+            "date": "2016-12-13 06:03:03",
+            "ship_type_id": 670,
+            "character_name": "Leonard Pollard"
+        },
+        {
+            "character_id": 2112026553,
+            "solar_system_id": 31000821,
+            "value": 72798.84,
+            "kill_id": 58638175,
+            "date": "2016-12-27 17:21:49",
+            "ship_type_id": 670,
+            "character_name": "rogue Arnoux"
+        },
+        {
+            "character_id": 97157707,
+            "solar_system_id": 31000821,
+            "value": 72798.84,
+            "kill_id": 58637476,
+            "date": "2016-12-27 16:54:26",
+            "ship_type_id": 670,
+            "character_name": "rygel falco proximus"
+        },
+        {
+            "character_id": 96864201,
+            "solar_system_id": 31000652,
+            "value": 72417.08,
+            "kill_id": 58164169,
+            "date": "2016-12-12 17:37:50",
+            "ship_type_id": 670,
+            "character_name": "wrt"
+        },
+        {
+            "character_id": 96268130,
+            "solar_system_id": 31000317,
+            "value": 71413.87,
+            "kill_id": 58144249,
+            "date": "2016-12-11 23:19:37",
+            "ship_type_id": 670,
+            "character_name": "Rynkos Narzhutah"
+        },
+        {
+            "character_id": 97210364,
+            "solar_system_id": 31000277,
+            "value": 71413.87,
+            "kill_id": 58143709,
+            "date": "2016-12-11 23:04:58",
+            "ship_type_id": 670,
+            "character_name": "Fafnir Haklar"
+        },
+        {
+            "character_id": 97168885,
+            "solar_system_id": 31001128,
+            "value": 71413.87,
+            "kill_id": 58116582,
+            "date": "2016-12-11 10:49:41",
+            "ship_type_id": 670,
+            "character_name": "Oleg Elektrik"
+        },
+        {
+            "character_id": 95114047,
+            "solar_system_id": 31001139,
+            "value": 71032.17,
+            "kill_id": 58671348,
+            "date": "2016-12-28 19:36:10",
+            "ship_type_id": 670,
+            "character_name": "Ruslan Svetlov"
+        },
+        {
+            "character_id": 2112017349,
+            "solar_system_id": 31001160,
+            "value": 71032.17,
+            "kill_id": 58670316,
+            "date": "2016-12-28 19:04:51",
+            "ship_type_id": 670,
+            "character_name": "Corny BDB"
+        },
+        {
+            "character_id": 97113975,
+            "solar_system_id": 31000549,
+            "value": 71032.17,
+            "kill_id": 58665639,
+            "date": "2016-12-28 16:06:02",
+            "ship_type_id": 670,
+            "character_name": "Alex M42"
+        },
+        {
+            "character_id": 97094330,
+            "solar_system_id": 31000263,
+            "value": 70840.56,
+            "kill_id": 58080256,
+            "date": "2016-12-10 18:02:38",
+            "ship_type_id": 670,
+            "character_name": "Simwiz Sabezan"
+        },
+        {
+            "character_id": 97205063,
+            "solar_system_id": 31000011,
+            "value": 69167.22,
+            "kill_id": 58051714,
+            "date": "2016-12-09 23:02:30",
+            "ship_type_id": 670,
+            "character_name": "Rastafary"
+        },
+        {
+            "character_id": 2112131717,
+            "solar_system_id": 31000778,
+            "value": 68822.79,
+            "kill_id": 58737471,
+            "date": "2016-12-30 23:18:25",
+            "ship_type_id": 670,
+            "character_name": "Sandra Makbema"
+        },
+        {
+            "character_id": 2112056397,
+            "solar_system_id": 31000472,
+            "value": 68271.28,
+            "kill_id": 58741572,
+            "date": "2016-12-31 01:57:54",
+            "ship_type_id": 670,
+            "character_name": "Bill Shaft"
+        },
+        {
+            "character_id": 97175286,
+            "solar_system_id": 31000217,
+            "value": 67339.87,
+            "kill_id": 58011068,
+            "date": "2016-12-08 18:25:19",
+            "ship_type_id": 670,
+            "character_name": "Coors Boirelle"
+        },
+        {
+            "character_id": 96946276,
+            "solar_system_id": 31000773,
+            "value": 67339.87,
+            "kill_id": 58006325,
+            "date": "2016-12-08 15:06:07",
+            "ship_type_id": 670,
+            "character_name": "Nini Foxx"
+        },
+        {
+            "character_id": 97157543,
+            "solar_system_id": 31000238,
+            "value": 66782.61,
+            "kill_id": 57985896,
+            "date": "2016-12-07 21:05:17",
+            "ship_type_id": 670,
+            "character_name": "chiop Altol"
+        },
+        {
+            "character_id": 97162920,
+            "solar_system_id": 31000243,
+            "value": 66782.61,
+            "kill_id": 57975929,
+            "date": "2016-12-07 15:54:01",
+            "ship_type_id": 670,
+            "character_name": "Ionee Frostwolf"
+        },
+        {
+            "character_id": 2112109192,
+            "solar_system_id": 31000156,
+            "value": 66108.02,
+            "kill_id": 58749826,
+            "date": "2016-12-31 10:09:28",
+            "ship_type_id": 670,
+            "character_name": "B0ber Bobrov"
+        },
+        {
+            "character_id": 96853646,
+            "solar_system_id": 31000762,
+            "value": 65543.56,
+            "kill_id": 57869341,
+            "date": "2016-12-04 12:01:16",
+            "ship_type_id": 670,
+            "character_name": "Mishi Criw"
+        },
+        {
+            "character_id": 97103566,
+            "solar_system_id": 31000242,
+            "value": 63865.75,
+            "kill_id": 57788836,
+            "date": "2016-12-02 14:14:04",
+            "ship_type_id": 670,
+            "character_name": "Kamukura Izuru"
+        },
+        {
+            "character_id": 97111177,
+            "solar_system_id": 31000242,
+            "value": 63865.75,
+            "kill_id": 57788038,
+            "date": "2016-12-02 13:33:31",
+            "ship_type_id": 670,
+            "character_name": "Maken Anninen"
+        },
+        {
+            "character_id": 96922266,
+            "solar_system_id": 31000475,
+            "value": 63856.46,
+            "kill_id": 57832593,
+            "date": "2016-12-03 16:53:14",
+            "ship_type_id": 670,
+            "character_name": "BeeSyu"
+        },
+        {
+            "character_id": 97112531,
+            "solar_system_id": 31000089,
+            "value": 63856.46,
+            "kill_id": 57820025,
+            "date": "2016-12-03 08:47:02",
+            "ship_type_id": 670,
+            "character_name": "Autumn Rei'ques Yasaihka"
+        },
+        {
+            "character_id": 2112074103,
+            "solar_system_id": 31000484,
+            "value": 45888.33,
+            "kill_id": 58551772,
+            "date": "2016-12-24 16:36:49",
+            "ship_type_id": 670,
+            "character_name": "MaH9aK Solette"
+        },
+        {
+            "character_id": 95403450,
+            "solar_system_id": 31000158,
+            "value": 45738.2,
+            "kill_id": 58182531,
+            "date": "2016-12-13 03:54:13",
+            "ship_type_id": 670,
+            "character_name": "Skadeglad Maricadie"
+        },
+        {
+            "character_id": 97206994,
+            "solar_system_id": 31000243,
+            "value": 45404.32,
+            "kill_id": 58000096,
+            "date": "2016-12-08 07:16:41",
+            "ship_type_id": 670,
+            "character_name": "Aederius"
+        },
+        {
+            "character_id": 462693564,
+            "solar_system_id": 31000110,
+            "value": 44687.86,
+            "kill_id": 57903225,
+            "date": "2016-12-05 03:30:26",
+            "ship_type_id": 670,
+            "character_name": "Chevex"
+        },
+        {
+            "character_id": 96441898,
+            "solar_system_id": 31002519,
+            "value": 43348.1,
+            "kill_id": 58597995,
+            "date": "2016-12-26 06:30:00",
+            "ship_type_id": 670,
+            "character_name": "NayNay Ren"
+        },
+        {
+            "character_id": 96732361,
+            "solar_system_id": 31002232,
+            "value": 42652.57,
+            "kill_id": 58615492,
+            "date": "2016-12-26 21:14:37",
+            "ship_type_id": 670,
+            "character_name": "Arisu Asanari"
+        },
+        {
+            "character_id": 2112024026,
+            "solar_system_id": 31001879,
+            "value": 42015.2,
+            "kill_id": 58562875,
+            "date": "2016-12-24 22:30:02",
+            "ship_type_id": 670,
+            "character_name": "Lykys Mudhir"
+        },
+        {
+            "character_id": 95555721,
+            "solar_system_id": 31000282,
+            "value": 41855.24,
+            "kill_id": 58504263,
+            "date": "2016-12-23 02:00:39",
+            "ship_type_id": 670,
+            "character_name": "Fetito"
+        },
+        {
+            "character_id": 97191342,
+            "solar_system_id": 31000289,
+            "value": 40981.99,
+            "kill_id": 58361028,
+            "date": "2016-12-18 14:54:41",
+            "ship_type_id": 670,
+            "character_name": "Had von-Hadovec"
+        },
+        {
+            "character_id": 97245219,
+            "solar_system_id": 31000273,
+            "value": 40959.76,
+            "kill_id": 58432659,
+            "date": "2016-12-20 18:50:14",
+            "ship_type_id": 670,
+            "character_name": "Buck Rojers"
+        },
+        {
+            "character_id": 96991329,
+            "solar_system_id": 31000252,
+            "value": 40959.76,
+            "kill_id": 58425396,
+            "date": "2016-12-20 13:44:24",
+            "ship_type_id": 670,
+            "character_name": "Mayuko Akagame"
+        },
+        {
+            "character_id": 2112018983,
+            "solar_system_id": 31000821,
+            "value": 40571.16,
+            "kill_id": 58630646,
+            "date": "2016-12-27 10:03:37",
+            "ship_type_id": 670,
+            "character_name": "Zarick Malice"
+        },
+        {
+            "character_id": 2112119102,
+            "solar_system_id": 31000821,
+            "value": 40571.16,
+            "kill_id": 58628819,
+            "date": "2016-12-27 07:44:09",
+            "ship_type_id": 670,
+            "character_name": "Kee Utama"
+        },
+        {
+            "character_id": 2112044116,
+            "solar_system_id": 30002651,
+            "value": 40571.16,
+            "kill_id": 58626785,
+            "date": "2016-12-27 05:25:34",
+            "ship_type_id": 670,
+            "character_name": "Clouded Jester Parliament"
+        },
+        {
+            "character_id": 2112107373,
+            "solar_system_id": 31000778,
+            "value": 40461.01,
+            "kill_id": 58669449,
+            "date": "2016-12-28 18:39:57",
+            "ship_type_id": 670,
+            "character_name": "Fluffy Echerie"
+        },
+        {
+            "character_id": 97215775,
+            "solar_system_id": 31000841,
+            "value": 39123.65,
+            "kill_id": 58298147,
+            "date": "2016-12-16 22:29:54",
+            "ship_type_id": 670,
+            "character_name": "Weiss en Welle"
+        },
+        {
+            "character_id": 97018632,
+            "solar_system_id": 31000420,
+            "value": 39123.65,
+            "kill_id": 58282350,
+            "date": "2016-12-16 13:08:18",
+            "ship_type_id": 670,
+            "character_name": "Djeik"
+        },
+        {
+            "character_id": 97111990,
+            "solar_system_id": 31000335,
+            "value": 36808.49,
+            "kill_id": 58175856,
+            "date": "2016-12-12 23:03:03",
+            "ship_type_id": 670,
+            "character_name": "Rysker Fireforge"
+        },
+        {
+            "character_id": 97222335,
+            "solar_system_id": 31000157,
+            "value": 36808.49,
+            "kill_id": 58174052,
+            "date": "2016-12-12 22:06:06",
+            "ship_type_id": 670,
+            "character_name": "Kryboul Thiesant"
+        },
+        {
+            "character_id": 97139077,
+            "solar_system_id": 31000317,
+            "value": 35552.99,
+            "kill_id": 58128522,
+            "date": "2016-12-11 17:31:18",
+            "ship_type_id": 670,
+            "character_name": "Lenka Enaka"
+        },
+        {
+            "character_id": 97246413,
+            "solar_system_id": 31001128,
+            "value": 35552.99,
+            "kill_id": 58122914,
+            "date": "2016-12-11 14:56:53",
+            "ship_type_id": 670,
+            "character_name": "Ram Xaz"
+        },
+        {
+            "character_id": 95171032,
+            "solar_system_id": 31000765,
+            "value": 34920.02,
+            "kill_id": 58087651,
+            "date": "2016-12-10 20:18:51",
+            "ship_type_id": 670,
+            "character_name": "FrozzzenAngel"
+        },
+        {
+            "character_id": 97213670,
+            "solar_system_id": 31000493,
+            "value": 34920.02,
+            "kill_id": 58085267,
+            "date": "2016-12-10 19:42:10",
+            "ship_type_id": 670,
+            "character_name": "Kazuya Sirota"
+        },
+        {
+            "character_id": 94591016,
+            "solar_system_id": 31000485,
+            "value": 34920.02,
+            "kill_id": 58064262,
+            "date": "2016-12-10 07:36:14",
+            "ship_type_id": 670,
+            "character_name": "Sakura Wisperwind"
+        },
+        {
+            "character_id": 96892844,
+            "solar_system_id": 31001012,
+            "value": 31935.55,
+            "kill_id": 58019635,
+            "date": "2016-12-08 22:29:07",
+            "ship_type_id": 670,
+            "character_name": "Khaos NoLastName"
+        },
+        {
+            "character_id": 96872549,
+            "solar_system_id": 31001138,
+            "value": 29897.47,
+            "kill_id": 57830054,
+            "date": "2016-12-03 15:40:44",
+            "ship_type_id": 670,
+            "character_name": "Minor Swing"
+        },
+        {
+            "character_id": 96873399,
+            "solar_system_id": 31002511,
+            "value": 29819.8,
+            "kill_id": 57779235,
+            "date": "2016-12-02 03:58:36",
+            "ship_type_id": 670,
+            "character_name": "Ire Truth"
+        },
+        {
+            "character_id": 97030758,
+            "solar_system_id": 31001330,
+            "value": 29619.38,
+            "kill_id": 57760374,
+            "date": "2016-12-01 16:38:20",
+            "ship_type_id": 670,
+            "character_name": "Merk Hiken"
+>>>>>>> origin/master
         },
         {
             "character_id": 95790473,

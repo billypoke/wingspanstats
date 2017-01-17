@@ -1,6 +1,7 @@
 {
     "kills": [
         {
+<<<<<<< HEAD
             "character_id": 1840051786,
             "solar_system_id": 31001973,
             "value": 2240356698.73,
@@ -82,6 +83,8 @@
             "character_name": "Alphecca Lazair"
         },
         {
+=======
+>>>>>>> origin/master
             "character_id": 94447432,
             "solar_system_id": 31001504,
             "value": 462406997.3,
@@ -91,6 +94,7 @@
             "character_name": "Chance Ravinne"
         },
         {
+<<<<<<< HEAD
             "character_id": 96236270,
             "solar_system_id": 31001141,
             "value": 430032730.71,
@@ -253,6 +257,8 @@
             "character_name": "Fulmen Celer"
         },
         {
+=======
+>>>>>>> origin/master
             "character_id": 92045034,
             "solar_system_id": 30003277,
             "value": 136143475.79,
@@ -262,6 +268,7 @@
             "character_name": "Alex Pyzi"
         },
         {
+<<<<<<< HEAD
             "character_id": 95126040,
             "solar_system_id": 31001148,
             "value": 129282456.32,
@@ -298,6 +305,8 @@
             "character_name": "Mobreen"
         },
         {
+=======
+>>>>>>> origin/master
             "character_id": 94470439,
             "solar_system_id": 30003918,
             "value": 119237696.29,
@@ -307,6 +316,7 @@
             "character_name": "Parsimony Kate"
         },
         {
+<<<<<<< HEAD
             "character_id": 94901741,
             "solar_system_id": 31001669,
             "value": 117892492.34,
@@ -325,6 +335,8 @@
             "character_name": "khomeini"
         },
         {
+=======
+>>>>>>> origin/master
             "character_id": 92045034,
             "solar_system_id": 30003277,
             "value": 108573009.55,
@@ -334,6 +346,7 @@
             "character_name": "Alex Pyzi"
         },
         {
+<<<<<<< HEAD
             "character_id": 95344823,
             "solar_system_id": 30000143,
             "value": 107276137.84,
@@ -478,6 +491,8 @@
             "character_name": "General Waaargh"
         },
         {
+=======
+>>>>>>> origin/master
             "character_id": 91117813,
             "solar_system_id": 30003277,
             "value": 77692847.59,
@@ -487,6 +502,7 @@
             "character_name": "Kanly Aideron"
         },
         {
+<<<<<<< HEAD
             "character_id": 91835155,
             "solar_system_id": 30002718,
             "value": 72906141.46,
@@ -496,6 +512,8 @@
             "character_name": "Tali Lyrae"
         },
         {
+=======
+>>>>>>> origin/master
             "character_id": 93307529,
             "solar_system_id": 30003277,
             "value": 67414924.15,
@@ -505,6 +523,7 @@
             "character_name": "Miles Bothari"
         },
         {
+<<<<<<< HEAD
             "character_id": 93387561,
             "solar_system_id": 30002644,
             "value": 65832031.34,
@@ -667,6 +686,8 @@
             "character_name": "Ishtar d'Asmodai"
         },
         {
+=======
+>>>>>>> origin/master
             "character_id": 96872235,
             "solar_system_id": 30001967,
             "value": 45481783.9,
@@ -676,6 +697,7 @@
             "character_name": "ianDao"
         },
         {
+<<<<<<< HEAD
             "character_id": 94997705,
             "solar_system_id": 31001771,
             "value": 44247002.59,
@@ -2231,6 +2253,33 @@
             "date": "2016-12-20 06:50:18",
             "ship_type_id": 670,
             "character_name": "Xee Yoona-451"
+=======
+            "character_id": 95547196,
+            "solar_system_id": 31000554,
+            "value": 23443450.98,
+            "kill_id": 58277092,
+            "date": "2016-12-16 06:13:38",
+            "ship_type_id": 632,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "character_id": 1400783403,
+            "solar_system_id": 30005038,
+            "value": 19552.7,
+            "kill_id": 58676350,
+            "date": "2016-12-28 22:03:44",
+            "ship_type_id": 588,
+            "character_name": "Epoch Veli"
+        },
+        {
+            "character_id": 95095428,
+            "solar_system_id": 30002466,
+            "value": 10000,
+            "kill_id": 58419579,
+            "date": "2016-12-20 06:50:18",
+            "ship_type_id": 670,
+            "character_name": "Xee Yoona-451"
+>>>>>>> origin/master
         },
         {
             "character_id": 92685542,
@@ -2240,6 +2289,7 @@
             "date": "2016-12-02 21:27:44",
             "ship_type_id": 33328,
             "character_name": "Dmitriy Nekrasov"
+<<<<<<< HEAD
         },
         {
             "character_id": 94571445,
@@ -2267,6 +2317,8 @@
             "date": "2016-02-12 19:56:11",
             "ship_type_id": 601,
             "character_name": "Trip Erata"
+=======
+>>>>>>> origin/master
         }
     ]
 }

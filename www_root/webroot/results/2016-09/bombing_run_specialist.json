@@ -1,0 +1,46 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 16,
+            "character_id": 95732953,
+            "isk_destroyed": 184135018.1,
+            "character_name": "Mei Long"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 96193822,
+            "isk_destroyed": 82767751.86,
+            "character_name": "SoftCore"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95499736,
+            "isk_destroyed": 73893071.99,
+            "character_name": "Analius Glover"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93754225,
+            "isk_destroyed": 27202658.11,
+            "character_name": "Seabrony"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95229965,
+            "isk_destroyed": 8901201.8,
+            "character_name": "Sabrez Haklar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95009795,
+            "isk_destroyed": 5338921.25,
+            "character_name": "Tasmine Cha-Tien"
+        }
+    ]
+}

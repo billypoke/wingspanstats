@@ -1,0 +1,46 @@
+{
+    "total_kills_wh": 106,
+    "total_kills_hs": 27,
+    "total_value": 12045424208.5873,
+    "date_end": "2014-11-30",
+    "solo_total_value": 4285908684.8111,
+    "corp_names": [
+        "WiNGSPAN Delivery Services"
+    ],
+    "total_kills_ls": 36,
+    "total_value_ns": 620455667.87,
+    "wh_stats": [
+        {
+            "destroyed": 36,
+            "type": "c3",
+            "total_value": 7962918263.87
+        },
+        {
+            "destroyed": 41,
+            "type": "c2",
+            "total_value": 566445637.5900002
+        },
+        {
+            "destroyed": 15,
+            "type": "c1",
+            "total_value": 463557010.3001
+        },
+        {
+            "destroyed": 11,
+            "type": "c4",
+            "total_value": 553781500.9961
+        },
+        {
+            "destroyed": 3,
+            "type": "c5",
+            "total_value": 134800812.34
+        }
+    ],
+    "total_value_ls": 1525053743.7061996,
+    "date_start": "2014-11-01",
+    "total_kills_ns": 14,
+    "total_value_wh": 9681503225.096197,
+    "total_value_hs": 218411571.91489998,
+    "total_kills": 183,
+    "solo_total_kills": 144
+}

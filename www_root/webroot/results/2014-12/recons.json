@@ -1,0 +1,46 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 1650743249,
+            "isk_destroyed": 218192086.45000002,
+            "character_name": "XY1983"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 489343128,
+            "isk_destroyed": 144166908.1,
+            "character_name": "Rogue Seven"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92829790,
+            "isk_destroyed": 83187971.96,
+            "character_name": "Ikne Parker"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 987468952,
+            "isk_destroyed": 12646994.92,
+            "character_name": "NoGo Rose"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92550166,
+            "isk_destroyed": 919967.78,
+            "character_name": "Fandoragon Lunarsy"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1106963603,
+            "isk_destroyed": 540759.72,
+            "character_name": "MacGuiness"
+        }
+    ]
+}

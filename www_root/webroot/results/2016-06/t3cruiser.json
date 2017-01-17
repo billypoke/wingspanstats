@@ -1,0 +1,74 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 17,
+            "character_id": 92805979,
+            "isk_destroyed": 5996748941.969999,
+            "character_name": "Valtyr Farshield"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 95229965,
+            "isk_destroyed": 1838862452.94,
+            "character_name": "Sabrez Haklar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 15,
+            "character_id": 93951704,
+            "isk_destroyed": 1335752264.5500002,
+            "character_name": "Avacado Salad"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 851221968,
+            "isk_destroyed": 1198380531.22,
+            "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 95638558,
+            "isk_destroyed": 570506483.34,
+            "character_name": "Sharps"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 237608053,
+            "isk_destroyed": 502553622.61,
+            "character_name": "Massive Black"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95499736,
+            "isk_destroyed": 367335783.93,
+            "character_name": "Analius Glover"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 96054090,
+            "isk_destroyed": 40797878.48,
+            "character_name": "Vek Chiasson"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93317595,
+            "isk_destroyed": 13314961.17,
+            "character_name": "Gillion Wyrddych"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95454553,
+            "isk_destroyed": 766390.13,
+            "character_name": "Al3x Oaks"
+        }
+    ]
+}
