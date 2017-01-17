@@ -2,9 +2,9 @@
     "agents": [
         {
             "position": 0,
-            "ships_destroyed": 42,
+            "ships_destroyed": 41,
             "character_id": 96863911,
-            "isk_destroyed": 15915255059.45,
+            "isk_destroyed": 15915245059.45,
             "character_name": "Aldard Aldard"
         },
         {
@@ -51,17 +51,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 32,
-            "character_id": 95745482,
-            "isk_destroyed": 9403387130.1117,
-            "character_name": "Jessi MalDoran"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 29,
             "character_id": 92650713,
             "isk_destroyed": 10045231095.779999,
             "character_name": "Haruko Kitsune"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 29,
+            "character_id": 95745482,
+            "isk_destroyed": 9379907450.231699,
+            "character_name": "Jessi MalDoran"
         },
         {
             "position": 0,
@@ -86,17 +86,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 23,
-            "character_id": 95067667,
-            "isk_destroyed": 9930473637.069998,
-            "character_name": "Zevenz"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 22,
             "character_id": 93007709,
             "isk_destroyed": 10017998924.21,
             "character_name": "Orianna Okanata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 21,
+            "character_id": 95067667,
+            "isk_destroyed": 9873597731.14,
+            "character_name": "Zevenz"
         },
         {
             "position": 0,
@@ -205,13 +205,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 18,
-            "character_id": 95415231,
-            "isk_destroyed": 5372621364.870001,
-            "character_name": "Hae Joo Chang"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 15,
             "character_id": 92956893,
             "isk_destroyed": 6369461059.2699995,
@@ -240,6 +233,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 17,
+            "character_id": 95415231,
+            "isk_destroyed": 4861113782.25,
+            "character_name": "Hae Joo Chang"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 15,
             "character_id": 94447432,
             "isk_destroyed": 5362650314.059999,
@@ -251,13 +251,6 @@
             "character_id": 94336675,
             "isk_destroyed": 5017402134.05,
             "character_name": "Reed Icculus"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 12,
-            "character_id": 1038370218,
-            "isk_destroyed": 6210576257.75,
-            "character_name": "Alex Bianci"
         },
         {
             "position": 0,
@@ -283,9 +276,9 @@
         {
             "position": 0,
             "ships_destroyed": 11,
-            "character_id": 92538439,
-            "isk_destroyed": 6124212114.889999,
-            "character_name": "Xfinity Misner"
+            "character_id": 1038370218,
+            "isk_destroyed": 5699068675.13,
+            "character_name": "Alex Bianci"
         },
         {
             "position": 0,
@@ -401,17 +394,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 9,
-            "character_id": 91911291,
-            "isk_destroyed": 4631321155.341701,
-            "character_name": "Phaedrus Paine"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 12,
             "character_id": 318437299,
             "isk_destroyed": 3393378455.65,
             "character_name": "Patrick Moon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 92538439,
+            "isk_destroyed": 5555818626.34,
+            "character_name": "Xfinity Misner"
         },
         {
             "position": 0,
@@ -471,6 +464,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 91911291,
+            "isk_destroyed": 4607841475.4616995,
+            "character_name": "Phaedrus Paine"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 8,
             "character_id": 93977124,
             "isk_destroyed": 3290714580.0899997,
@@ -506,24 +506,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 90023107,
-            "isk_destroyed": 2520950441.7000003,
-            "character_name": "Pippinthehobbit"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 5,
             "character_id": 1817763414,
             "isk_destroyed": 3932800715.03,
             "character_name": "TOPSTER"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 95229965,
-            "isk_destroyed": 3677136199.93,
-            "character_name": "Sabrez Haklar"
         },
         {
             "position": 0,
@@ -538,6 +524,13 @@
             "character_id": 93253112,
             "isk_destroyed": 3670142195.3799996,
             "character_name": "Mister McQueen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 90023107,
+            "isk_destroyed": 2464084535.7699995,
+            "character_name": "Pippinthehobbit"
         },
         {
             "position": 0,
@@ -569,13 +562,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 333762373,
-            "isk_destroyed": 2900979932.41,
-            "character_name": "bumnz"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 4,
             "character_id": 92783231,
             "isk_destroyed": 3400795969.77,
@@ -590,6 +576,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95229965,
+            "isk_destroyed": 3165628617.31,
+            "character_name": "Sabrez Haklar"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 11,
             "character_id": 987468952,
             "isk_destroyed": 1142116521.41,
@@ -597,17 +590,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 6,
-            "character_id": 96698085,
-            "isk_destroyed": 2034710166.87,
-            "character_name": "Richter Barret"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 5,
             "character_id": 94996697,
             "isk_destroyed": 1942033012.6200001,
             "character_name": "Joseppi Luminari"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 333762373,
+            "isk_destroyed": 2389472349.79,
+            "character_name": "bumnz"
         },
         {
             "position": 0,
@@ -622,6 +615,13 @@
             "character_id": 851221968,
             "isk_destroyed": 3993191756.7799997,
             "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 96698085,
+            "isk_destroyed": 1977834260.94,
+            "character_name": "Richter Barret"
         },
         {
             "position": 0,

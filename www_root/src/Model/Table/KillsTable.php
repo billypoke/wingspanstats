@@ -13,6 +13,7 @@ use Cake\Validation\Validator;
  * @property \Cake\ORM\Association\BelongsTo $ShipTypes
  * @property \Cake\ORM\Association\BelongsTo $SolarSystems
  * @property \Cake\ORM\Association\BelongsTo $Kills
+ * @property \Cake\ORM\Association\BelongsTo $Agents
  * @property \Cake\ORM\Association\HasMany $Kills
  *
  * @method \App\Model\Entity\Kill get($primaryKey, $options = [])
@@ -52,12 +53,10 @@ class KillsTable extends Table
             'foreignKey' => 'solar_system_id',
             'joinType' => 'INNER'
         ]);
-        // $this->belongsTo('Kills', [
-        //     'foreignKey' => 'kill_id'
-        // ]);
-        // $this->hasMany('Kills', [
-        //     'foreignKey' => 'kill_id'
-        // ]);
+
+        $this->hasMany('Kills', [
+            'foreignKey' => 'kill_id'
+        ]);
     }
 
     /**
@@ -68,18 +67,7 @@ class KillsTable extends Table
      */
     public function validationDefault(Validator $validator)
     {
-        $validator
-            ->allowEmpty('id', 'create');
 
-        // $validator
-        //     ->dateTime('date')
-        //     ->requirePresence('date', 'create')
-        //     ->notEmpty('date');
-
-        // $validator
-        //     ->numeric('value')
-        //     ->requirePresence('value', 'create')
-        //     ->notEmpty('value');
 
         return $validator;
     }
@@ -93,10 +81,11 @@ class KillsTable extends Table
      */
     public function buildRules(RulesChecker $rules)
     {
-        // $rules->add($rules->existsIn(['character_id'], 'Characters'));
-        // $rules->add($rules->existsIn(['ship_type_id'], 'ShipTypes'));
-        // $rules->add($rules->existsIn(['solar_system_id'], 'SolarSystems'));
-        // $rules->add($rules->existsIn(['kill_id'], 'Kills'));
+        $rules->add($rules->existsIn(['character_id'], 'Characters'));
+        $rules->add($rules->existsIn(['ship_type_id'], 'ShipTypes'));
+        $rules->add($rules->existsIn(['solar_system_id'], 'SolarSystems'));
+        
+        $rules->add($rules->existsIn(['agent_id'], 'Characters'));
 
         return $rules;
     }

@@ -24,7 +24,7 @@ class Capitals(Skeleton):
         solar_system_id = killmail['solarSystemID']
         date = killmail['killTime']
         isk_destroyed = killmail['zkb']['totalValue']
-
+        agent_id = 0
         if ship_type_id in [
             19724, 34339, 19722, 34341, 19726, 34343, 19720, 34345,  # Dreads
             23757, 23915, 24483, 23911,  # Carriers
@@ -32,6 +32,9 @@ class Capitals(Skeleton):
             23919, 22852, 3628, 23913, 3514, 23917,  # Supers
             11567, 671, 3764, 23773,  # Titans
         ]:
+            for attacker in killmail['attackers']:
+                if attacker['finalBlow'] == 1:
+                    agent_id = attacker['characterID']
             self.kills.append(
                 Kill(
                     kill_id,
@@ -40,6 +43,7 @@ class Capitals(Skeleton):
                     ship_type_id,
                     solar_system_id,
                     date,
-                    isk_destroyed
+                    isk_destroyed,
+                    agent_id
                 )
             )

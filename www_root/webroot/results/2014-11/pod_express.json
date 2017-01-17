@@ -5,6 +5,7 @@
             "solar_system_id": 30003793,
             "value": 310032255.98,
             "kill_id": 42275592,
+            "agent_id": 1149749832,
             "date": "2014-11-08 06:21:00",
             "ship_type_id": 670,
             "character_name": "Tal Jarcin"
@@ -14,6 +15,7 @@
             "solar_system_id": 31001372,
             "value": 224172649.92,
             "kill_id": 42638828,
+            "agent_id": 859882768,
             "date": "2014-11-26 01:16:00",
             "ship_type_id": 670,
             "character_name": "Aurduinna Naskingar"
@@ -23,6 +25,7 @@
             "solar_system_id": 31001531,
             "value": 101333459.75,
             "kill_id": 42522289,
+            "agent_id": 93007709,
             "date": "2014-11-20 19:57:00",
             "ship_type_id": 670,
             "character_name": "Snajka"
@@ -32,6 +35,7 @@
             "solar_system_id": 31001132,
             "value": 99732018.83,
             "kill_id": 42293311,
+            "agent_id": 91166466,
             "date": "2014-11-08 21:35:00",
             "ship_type_id": 670,
             "character_name": "Aprool"
@@ -41,6 +45,7 @@
             "solar_system_id": 31000508,
             "value": 61192393.62,
             "kill_id": 42695222,
+            "agent_id": 92783231,
             "date": "2014-11-28 18:01:00",
             "ship_type_id": 670,
             "character_name": "Gref Borielle"
@@ -50,6 +55,7 @@
             "solar_system_id": 30002807,
             "value": 55922661.73,
             "kill_id": 42303995,
+            "agent_id": 91095409,
             "date": "2014-11-09 08:51:00",
             "ship_type_id": 670,
             "character_name": "Dr Tivader"
@@ -59,6 +65,7 @@
             "solar_system_id": 30002187,
             "value": 44273894.61,
             "kill_id": 42281884,
+            "agent_id": 91166466,
             "date": "2014-11-08 15:09:00",
             "ship_type_id": 670,
             "character_name": "Jake Ashman"
@@ -68,6 +75,7 @@
             "solar_system_id": 31000497,
             "value": 44273894.61,
             "kill_id": 42270799,
+            "agent_id": 93007709,
             "date": "2014-11-08 00:34:00",
             "ship_type_id": 670,
             "character_name": "Jack Castellano"
@@ -77,6 +85,7 @@
             "solar_system_id": 30004991,
             "value": 44229897.6,
             "kill_id": 42253471,
+            "agent_id": 1149749832,
             "date": "2014-11-07 02:08:00",
             "ship_type_id": 670,
             "character_name": "Talec Starstrider"
@@ -86,6 +95,7 @@
             "solar_system_id": 31000322,
             "value": 44205437.44,
             "kill_id": 42250814,
+            "agent_id": 561419163,
             "date": "2014-11-06 23:05:00",
             "ship_type_id": 670,
             "character_name": "Maximus Akiga"
@@ -95,6 +105,7 @@
             "solar_system_id": 31000112,
             "value": 30286416.33,
             "kill_id": 42301199,
+            "agent_id": 94447432,
             "date": "2014-11-09 04:51:00",
             "ship_type_id": 670,
             "character_name": "Toe Mas"
@@ -104,6 +115,7 @@
             "solar_system_id": 31000403,
             "value": 12822415.61,
             "kill_id": 42219055,
+            "agent_id": 489343128,
             "date": "2014-11-05 01:58:00",
             "ship_type_id": 670,
             "character_name": "timmy farters"
@@ -113,6 +125,7 @@
             "solar_system_id": 30005297,
             "value": 1646004.59,
             "kill_id": 42131955,
+            "agent_id": 1149749832,
             "date": "2014-11-01 07:33:00",
             "ship_type_id": 670,
             "character_name": "Jirek Chelien"
@@ -122,6 +135,7 @@
             "solar_system_id": 30030141,
             "value": 10000,
             "kill_id": 42737555,
+            "agent_id": 92783231,
             "date": "2014-11-30 03:52:00",
             "ship_type_id": 670,
             "character_name": "Neak Pean"
@@ -131,6 +145,7 @@
             "solar_system_id": 31000388,
             "value": 10000,
             "kill_id": 42732239,
+            "agent_id": 561419163,
             "date": "2014-11-29 23:58:00",
             "ship_type_id": 670,
             "character_name": "Paul Brighton Miromme"
@@ -140,6 +155,7 @@
             "solar_system_id": 31000756,
             "value": 10000,
             "kill_id": 42725246,
+            "agent_id": 92783231,
             "date": "2014-11-29 19:52:00",
             "ship_type_id": 670,
             "character_name": "Starlorrd"
@@ -149,6 +165,7 @@
             "solar_system_id": 31000756,
             "value": 10000,
             "kill_id": 42719633,
+            "agent_id": 92783231,
             "date": "2014-11-29 16:01:00",
             "ship_type_id": 670,
             "character_name": "Fantom Shayiskhun"
@@ -158,6 +175,7 @@
             "solar_system_id": 31000196,
             "value": 10000,
             "kill_id": 42711655,
+            "agent_id": 92783231,
             "date": "2014-11-29 06:36:00",
             "ship_type_id": 670,
             "character_name": "Thadius McCloud"
@@ -167,6 +185,7 @@
             "solar_system_id": 31000508,
             "value": 10000,
             "kill_id": 42695264,
+            "agent_id": 92783231,
             "date": "2014-11-28 18:03:00",
             "ship_type_id": 670,
             "character_name": "Vinara Oglaf"
@@ -176,6 +195,7 @@
             "solar_system_id": 30005195,
             "value": 10000,
             "kill_id": 42683915,
+            "agent_id": 94499705,
             "date": "2014-11-28 03:04:00",
             "ship_type_id": 670,
             "character_name": "Vartan Belerhath"
@@ -185,6 +205,7 @@
             "solar_system_id": 30000207,
             "value": 10000,
             "kill_id": 42653970,
+            "agent_id": 93007709,
             "date": "2014-11-26 19:45:00",
             "ship_type_id": 670,
             "character_name": "MX009 Marx"
@@ -194,6 +215,7 @@
             "solar_system_id": 30001203,
             "value": 10000,
             "kill_id": 42610575,
+            "agent_id": 94789859,
             "date": "2014-11-24 20:22:00",
             "ship_type_id": 670,
             "character_name": "Adeny"
@@ -203,6 +225,7 @@
             "solar_system_id": 31001000,
             "value": 10000,
             "kill_id": 42587318,
+            "agent_id": 94499705,
             "date": "2014-11-23 20:13:00",
             "ship_type_id": 670,
             "character_name": "Ingwarra Quocki"
@@ -212,6 +235,7 @@
             "solar_system_id": 31000256,
             "value": 10000,
             "kill_id": 42546867,
+            "agent_id": 94789859,
             "date": "2014-11-22 04:01:00",
             "ship_type_id": 670,
             "character_name": "Robi Olacar"
@@ -221,6 +245,7 @@
             "solar_system_id": 31001307,
             "value": 10000,
             "kill_id": 42519653,
+            "agent_id": 93007709,
             "date": "2014-11-20 16:59:00",
             "ship_type_id": 670,
             "character_name": "Khoren Korla"
@@ -230,6 +255,7 @@
             "solar_system_id": 31001531,
             "value": 10000,
             "kill_id": 42518449,
+            "agent_id": 93007709,
             "date": "2014-11-20 15:05:00",
             "ship_type_id": 670,
             "character_name": "Quark Skor"
@@ -239,6 +265,7 @@
             "solar_system_id": 30004504,
             "value": 10000,
             "kill_id": 42449247,
+            "agent_id": 1640448394,
             "date": "2014-11-16 17:04:00",
             "ship_type_id": 670,
             "character_name": "AdaNordy"
@@ -248,6 +275,7 @@
             "solar_system_id": 31000784,
             "value": 10000,
             "kill_id": 42433749,
+            "agent_id": 92783231,
             "date": "2014-11-15 23:37:00",
             "ship_type_id": 670,
             "character_name": "Nick Lavender"
@@ -257,6 +285,7 @@
             "solar_system_id": 31002347,
             "value": 10000,
             "kill_id": 42296771,
+            "agent_id": 91166466,
             "date": "2014-11-08 23:53:00",
             "ship_type_id": 670,
             "character_name": "T'hemryan Wiccan"
@@ -266,6 +295,7 @@
             "solar_system_id": 30002187,
             "value": 10000,
             "kill_id": 42290481,
+            "agent_id": 91166466,
             "date": "2014-11-08 20:14:00",
             "ship_type_id": 670,
             "character_name": "Tzash Nahrnid"
@@ -275,6 +305,7 @@
             "solar_system_id": 30002187,
             "value": 10000,
             "kill_id": 42283274,
+            "agent_id": 91166466,
             "date": "2014-11-08 16:21:00",
             "ship_type_id": 670,
             "character_name": "deniri"
@@ -284,6 +315,7 @@
             "solar_system_id": 30002187,
             "value": 10000,
             "kill_id": 42282319,
+            "agent_id": 91166466,
             "date": "2014-11-08 15:33:00",
             "ship_type_id": 670,
             "character_name": "Spy Dallocort"
@@ -293,6 +325,7 @@
             "solar_system_id": 30004988,
             "value": 10000,
             "kill_id": 42226571,
+            "agent_id": 94056991,
             "date": "2014-11-05 16:31:00",
             "ship_type_id": 670,
             "character_name": "s Proserpina"
@@ -302,6 +335,7 @@
             "solar_system_id": 31000403,
             "value": 10000,
             "kill_id": 42218926,
+            "agent_id": 489343128,
             "date": "2014-11-05 01:49:00",
             "ship_type_id": 670,
             "character_name": "Robi Olacar"
@@ -311,6 +345,7 @@
             "solar_system_id": 30002493,
             "value": 10000,
             "kill_id": 42200323,
+            "agent_id": 94447432,
             "date": "2014-11-04 02:08:00",
             "ship_type_id": 670,
             "character_name": "VAN47 DMX"

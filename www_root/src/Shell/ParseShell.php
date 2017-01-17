@@ -32,7 +32,7 @@ class ParseShell extends Shell{
 			if (empty($result)) throw new Exception(__('_noUserFound'));
 		}
 		catch(Exception $e){
-			$this->out($e->getMessage());
+			// $this->out($e->getMessage());
 			return false;
 		}
 		return true;
@@ -47,7 +47,7 @@ class ParseShell extends Shell{
 			if (empty($result)) throw new Exception(__('_noKillFound'));
 		}
 		catch(Exception $e){
-			$this->out($e->getMessage());
+			// $this->out($e->getMessage());
 			return false;
 		}
 		return true;
@@ -62,7 +62,7 @@ class ParseShell extends Shell{
 			if (empty($result)) throw new Exception(__('_noShipTypeFound'));
 		}
 		catch(Exception $e){
-			$this->out($e->getMessage());
+			// $this->out($e->getMessage());
 			return false;
 		}
 		return true;
@@ -77,7 +77,7 @@ class ParseShell extends Shell{
 			if (empty($result)) throw new Exception(__('_noSolarSystem'));
 		}
 		catch(Exception $e){
-			$this->out($e->getMessage());
+			// $this->out($e->getMessage());
 			return false;
 		}
 		return true;
@@ -153,7 +153,7 @@ class ParseShell extends Shell{
 			// debug($ship);die();
 			if ($this->Kills->save($ship)){
 
-				// $this->out("Salvat");
+				$this->out("Salvat");
 				return true;
 			}else{
 				$this->out($ship);die();
@@ -161,7 +161,7 @@ class ParseShell extends Shell{
 				return false;
 			}	
 		}catch (Exception $e){
-			// $this->Log($e->getMessage());
+			$this->Log($e->getMessage());
 			return false;
 		}
 		return true;
@@ -237,6 +237,7 @@ class ParseShell extends Shell{
 		 $data = file_get_contents($root.'kills.json');
          $agentData = json_decode($data);
          $this->out("File is $root/kills.json");
+         
          foreach ($agentData->kills as $a){
          	$c = array(
          		'solar_system_id' => (int) $a->solar_system_id,
@@ -244,7 +245,8 @@ class ParseShell extends Shell{
          		'value' => (float) $a->value,
          		'kill_id'=>$a->kill_id,
          		'date' => $a->date,
-         		'ship_type_id'=>$a->ship_type_id
+         		'ship_type_id'=>$a->ship_type_id,
+         		'agent_id'=>$a->agent_id,
          		);
          	// debug($c);die();
          	$this->addKill($c);
@@ -259,16 +261,17 @@ class ParseShell extends Shell{
 	// public function parsevictims
 	
 	public function main(){
-		for ($i = 2015; $i<2018; $i++){
-			for ($j = 1; $j <13;$j++){
-
+		// for ($i = 2015; $i<2018; $i++){
+		// 	for ($j = 1; $j <13;$j++){
+			$i = 2017;
+			$j = 1;
 				if ($j < 10) $str = "$i-0$j"; else $file= "$i-$j";
 				$this->Log("Parsing file " . $str);
 				$this->parseJsonAgents($str);
 				$this->parseKills($str);		
-			}
-		}
-		$this->parseKills();
+			// }
+		// }
+		// $this->parseKills();
 		// $this->parseShipTypes();
 		// $this->checkIfAgentExists(1);
 		// $c = ['character_name' =>"Test",

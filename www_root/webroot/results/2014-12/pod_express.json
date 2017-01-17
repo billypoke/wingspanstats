@@ -5,6 +5,7 @@
             "solar_system_id": 31000005,
             "value": 937621321.29,
             "kill_id": 43055555,
+            "agent_id": 91835155,
             "date": "2014-12-13 09:30:00",
             "ship_type_id": 670,
             "character_name": "Lexx Nightroad"
@@ -14,6 +15,7 @@
             "solar_system_id": 31000841,
             "value": 685929133.7,
             "kill_id": 42848144,
+            "agent_id": 561419163,
             "date": "2014-12-04 23:24:00",
             "ship_type_id": 670,
             "character_name": "Xero Shiva"
@@ -23,6 +25,7 @@
             "solar_system_id": 30003744,
             "value": 677851534.06,
             "kill_id": 43450471,
+            "agent_id": 94861345,
             "date": "2014-12-29 02:54:00",
             "ship_type_id": 670,
             "character_name": "toxic devil"
@@ -32,6 +35,7 @@
             "solar_system_id": 31000766,
             "value": 573269955.98,
             "kill_id": 42772916,
+            "agent_id": 94056991,
             "date": "2014-12-01 12:17:00",
             "ship_type_id": 670,
             "character_name": "Fauxpas Naskingar"
@@ -41,6 +45,7 @@
             "solar_system_id": 31000841,
             "value": 442901792.14,
             "kill_id": 42805796,
+            "agent_id": 561419163,
             "date": "2014-12-02 23:25:00",
             "ship_type_id": 670,
             "character_name": "Mikhail O'Gara"
@@ -50,6 +55,7 @@
             "solar_system_id": 31002563,
             "value": 240832336.32,
             "kill_id": 43360276,
+            "agent_id": 91835155,
             "date": "2014-12-25 09:02:00",
             "ship_type_id": 670,
             "character_name": "lmadmanl"
@@ -59,6 +65,7 @@
             "solar_system_id": 31000841,
             "value": 233728329.53,
             "kill_id": 42828800,
+            "agent_id": 1106963603,
             "date": "2014-12-04 01:03:00",
             "ship_type_id": 670,
             "character_name": "Vendo Carllsmann"
@@ -68,6 +75,7 @@
             "solar_system_id": 31000841,
             "value": 219965829.05,
             "kill_id": 42805795,
+            "agent_id": 94056991,
             "date": "2014-12-02 23:24:00",
             "ship_type_id": 670,
             "character_name": "Vendo Carllsmann"
@@ -77,6 +85,7 @@
             "solar_system_id": 31000841,
             "value": 173458854.62,
             "kill_id": 42940199,
+            "agent_id": 91835155,
             "date": "2014-12-08 07:40:00",
             "ship_type_id": 670,
             "character_name": "Air Thruster"
@@ -86,6 +95,7 @@
             "solar_system_id": 31000005,
             "value": 112634410.37,
             "kill_id": 42978928,
+            "agent_id": 91835155,
             "date": "2014-12-10 04:10:00",
             "ship_type_id": 670,
             "character_name": "Jacques Ostre"
@@ -95,6 +105,7 @@
             "solar_system_id": 31000871,
             "value": 105712586.63,
             "kill_id": 42958652,
+            "agent_id": 91835155,
             "date": "2014-12-09 02:35:00",
             "ship_type_id": 670,
             "character_name": "Neil 9254"
@@ -104,6 +115,7 @@
             "solar_system_id": 31000042,
             "value": 100809582.02,
             "kill_id": 43232978,
+            "agent_id": 91835155,
             "date": "2014-12-20 04:43:00",
             "ship_type_id": 670,
             "character_name": "stephane boudeen"
@@ -113,6 +125,7 @@
             "solar_system_id": 31000042,
             "value": 100809582.02,
             "kill_id": 43232355,
+            "agent_id": 94894989,
             "date": "2014-12-20 04:17:00",
             "ship_type_id": 670,
             "character_name": "Jethro Boudeen"
@@ -122,6 +135,7 @@
             "solar_system_id": 30000142,
             "value": 98722051.92,
             "kill_id": 42811913,
+            "agent_id": 94726397,
             "date": "2014-12-03 05:24:00",
             "ship_type_id": 670,
             "character_name": "Diorden"
@@ -131,6 +145,7 @@
             "solar_system_id": 31000841,
             "value": 83183614.77,
             "kill_id": 42811772,
+            "agent_id": 91835155,
             "date": "2014-12-03 05:10:00",
             "ship_type_id": 33328,
             "character_name": "Tim Shinne"
@@ -140,6 +155,7 @@
             "solar_system_id": 31000042,
             "value": 81401348.65,
             "kill_id": 43231825,
+            "agent_id": 91835155,
             "date": "2014-12-20 04:01:00",
             "ship_type_id": 670,
             "character_name": "Jean Bartik"
@@ -149,6 +165,7 @@
             "solar_system_id": 30003729,
             "value": 81031289.76,
             "kill_id": 42961762,
+            "agent_id": 94551887,
             "date": "2014-12-09 06:04:00",
             "ship_type_id": 670,
             "character_name": "Matanui1488"
@@ -158,6 +175,7 @@
             "solar_system_id": 31000841,
             "value": 59039407.9,
             "kill_id": 42811564,
+            "agent_id": 94447432,
             "date": "2014-12-03 04:59:00",
             "ship_type_id": 670,
             "character_name": "chrea signarie"
@@ -167,6 +185,7 @@
             "solar_system_id": 31000841,
             "value": 49385788.83,
             "kill_id": 42883108,
+            "agent_id": 91835155,
             "date": "2014-12-06 10:24:00",
             "ship_type_id": 670,
             "character_name": "Xelt Ares"
@@ -176,6 +195,7 @@
             "solar_system_id": 31000841,
             "value": 45195184.06,
             "kill_id": 42883106,
+            "agent_id": 91835155,
             "date": "2014-12-06 10:23:00",
             "ship_type_id": 670,
             "character_name": "Locustchild"
@@ -185,6 +205,7 @@
             "solar_system_id": 31001680,
             "value": 44543661.56,
             "kill_id": 43021910,
+            "agent_id": 92796292,
             "date": "2014-12-12 02:07:00",
             "ship_type_id": 670,
             "character_name": "H3LL0N HEELS"
@@ -194,6 +215,7 @@
             "solar_system_id": 31000496,
             "value": 35768057.95,
             "kill_id": 43390632,
+            "agent_id": 1447989271,
             "date": "2014-12-26 21:48:00",
             "ship_type_id": 670,
             "character_name": "Vandoren Dimaloun"
@@ -203,6 +225,7 @@
             "solar_system_id": 31000443,
             "value": 35363392.08,
             "kill_id": 42789720,
+            "agent_id": 92783231,
             "date": "2014-12-02 04:51:00",
             "ship_type_id": 670,
             "character_name": "Julie Rowe"
@@ -212,6 +235,7 @@
             "solar_system_id": 30002542,
             "value": 18966313.69,
             "kill_id": 43331000,
+            "agent_id": 93838416,
             "date": "2014-12-23 20:48:00",
             "ship_type_id": 670,
             "character_name": "Nex ExDeo"
@@ -221,6 +245,7 @@
             "solar_system_id": 30000142,
             "value": 17012135.94,
             "kill_id": 43253867,
+            "agent_id": 338542337,
             "date": "2014-12-20 22:28:00",
             "ship_type_id": 670,
             "character_name": "Minmatar Citizen 2852011"
@@ -230,6 +255,7 @@
             "solar_system_id": 31001138,
             "value": 13397697.76,
             "kill_id": 42774019,
+            "agent_id": 92783231,
             "date": "2014-12-01 14:17:00",
             "ship_type_id": 670,
             "character_name": "Simiuus Maximus"
@@ -239,6 +265,7 @@
             "solar_system_id": 31000351,
             "value": 9572723,
             "kill_id": 43048300,
+            "agent_id": 94107255,
             "date": "2014-12-13 03:04:00",
             "ship_type_id": 670,
             "character_name": "Godren Storm"
@@ -248,6 +275,7 @@
             "solar_system_id": 31001077,
             "value": 8975053.73,
             "kill_id": 43237153,
+            "agent_id": 94056991,
             "date": "2014-12-20 09:34:00",
             "ship_type_id": 670,
             "character_name": "Celwine Austrene"
@@ -257,6 +285,7 @@
             "solar_system_id": 30000848,
             "value": 4175911.13,
             "kill_id": 43114842,
+            "agent_id": 624488289,
             "date": "2014-12-15 03:50:00",
             "ship_type_id": 670,
             "character_name": "wip wops"
@@ -266,6 +295,7 @@
             "solar_system_id": 31000871,
             "value": 2094666.18,
             "kill_id": 42958650,
+            "agent_id": 91835155,
             "date": "2014-12-09 02:35:00",
             "ship_type_id": 670,
             "character_name": "Timmy BingBong"
@@ -275,6 +305,7 @@
             "solar_system_id": 31000149,
             "value": 1147172.53,
             "kill_id": 43062777,
+            "agent_id": 662942510,
             "date": "2014-12-13 16:34:00",
             "ship_type_id": 670,
             "character_name": "sana kasa"
@@ -284,6 +315,7 @@
             "solar_system_id": 31000841,
             "value": 287759.59,
             "kill_id": 42854844,
+            "agent_id": 93007709,
             "date": "2014-12-05 05:11:00",
             "ship_type_id": 670,
             "character_name": "Scurge Radey Trainon"
@@ -293,6 +325,7 @@
             "solar_system_id": 30005035,
             "value": 266214.95,
             "kill_id": 43500787,
+            "agent_id": 329485041,
             "date": "2014-12-31 02:14:00",
             "ship_type_id": 670,
             "character_name": "Watch Me Sore"
@@ -302,6 +335,7 @@
             "solar_system_id": 31001174,
             "value": 262394.83,
             "kill_id": 43487716,
+            "agent_id": 775104390,
             "date": "2014-12-30 17:17:00",
             "ship_type_id": 670,
             "character_name": "Evil Lemmont"
@@ -311,6 +345,7 @@
             "solar_system_id": 31002563,
             "value": 82007.87,
             "kill_id": 43360283,
+            "agent_id": 91835155,
             "date": "2014-12-25 09:03:00",
             "ship_type_id": 670,
             "character_name": "Seaside Field"
@@ -320,6 +355,7 @@
             "solar_system_id": 31000073,
             "value": 10000,
             "kill_id": 43492309,
+            "agent_id": 92863054,
             "date": "2014-12-30 20:25:00",
             "ship_type_id": 670,
             "character_name": "Jericho Peppers"
@@ -329,6 +365,7 @@
             "solar_system_id": 30002097,
             "value": 10000,
             "kill_id": 43406576,
+            "agent_id": 93838416,
             "date": "2014-12-27 15:04:00",
             "ship_type_id": 670,
             "character_name": "Xavier Explorerus"
@@ -338,6 +375,7 @@
             "solar_system_id": 30002659,
             "value": 10000,
             "kill_id": 43398990,
+            "agent_id": 94447432,
             "date": "2014-12-27 05:37:00",
             "ship_type_id": 670,
             "character_name": "Sergeji Harloff"
@@ -347,6 +385,7 @@
             "solar_system_id": 31000005,
             "value": 10000,
             "kill_id": 43397587,
+            "agent_id": 90109468,
             "date": "2014-12-27 04:24:00",
             "ship_type_id": 670,
             "character_name": "Tygre Sunji"
@@ -356,6 +395,7 @@
             "solar_system_id": 31000169,
             "value": 10000,
             "kill_id": 43383775,
+            "agent_id": 324178981,
             "date": "2014-12-26 16:30:00",
             "ship_type_id": 670,
             "character_name": "Sylently"
@@ -365,6 +405,7 @@
             "solar_system_id": 30003062,
             "value": 10000,
             "kill_id": 43381321,
+            "agent_id": 93838416,
             "date": "2014-12-26 13:55:00",
             "ship_type_id": 670,
             "character_name": "Korran Gast"
@@ -374,6 +415,7 @@
             "solar_system_id": 31000933,
             "value": 10000,
             "kill_id": 43356648,
+            "agent_id": 93007709,
             "date": "2014-12-25 02:48:00",
             "ship_type_id": 670,
             "character_name": "Valor0125 Atol"
@@ -383,6 +425,7 @@
             "solar_system_id": 30002702,
             "value": 10000,
             "kill_id": 43333187,
+            "agent_id": 324178981,
             "date": "2014-12-23 22:11:00",
             "ship_type_id": 670,
             "character_name": "Cage Corack"
@@ -392,6 +435,7 @@
             "solar_system_id": 31000550,
             "value": 10000,
             "kill_id": 43304117,
+            "agent_id": 92740884,
             "date": "2014-12-22 18:53:00",
             "ship_type_id": 670,
             "character_name": "Gavin Keikira"
@@ -401,6 +445,7 @@
             "solar_system_id": 31000527,
             "value": 10000,
             "kill_id": 43282306,
+            "agent_id": 338542337,
             "date": "2014-12-21 21:06:00",
             "ship_type_id": 670,
             "character_name": "Ruirik Orion"
@@ -410,6 +455,7 @@
             "solar_system_id": 31000770,
             "value": 10000,
             "kill_id": 43262784,
+            "agent_id": 92863054,
             "date": "2014-12-21 04:40:00",
             "ship_type_id": 670,
             "character_name": "Verik Airfoil"
@@ -419,6 +465,7 @@
             "solar_system_id": 31000042,
             "value": 10000,
             "kill_id": 43232998,
+            "agent_id": 91835155,
             "date": "2014-12-20 04:44:00",
             "ship_type_id": 670,
             "character_name": "Jean Bartik"
@@ -428,6 +475,7 @@
             "solar_system_id": 30003069,
             "value": 10000,
             "kill_id": 43217818,
+            "agent_id": 94499705,
             "date": "2014-12-19 17:37:00",
             "ship_type_id": 670,
             "character_name": "Kelly Enoch"
@@ -437,6 +485,7 @@
             "solar_system_id": 30045308,
             "value": 10000,
             "kill_id": 43187030,
+            "agent_id": 1106963603,
             "date": "2014-12-18 04:35:00",
             "ship_type_id": 670,
             "character_name": "Jaag Jaff"
@@ -446,6 +495,7 @@
             "solar_system_id": 30001388,
             "value": 10000,
             "kill_id": 43165957,
+            "agent_id": 92796292,
             "date": "2014-12-17 08:13:00",
             "ship_type_id": 670,
             "character_name": "Zero Takashi"
@@ -455,6 +505,7 @@
             "solar_system_id": 31000266,
             "value": 10000,
             "kill_id": 43161730,
+            "agent_id": 94107255,
             "date": "2014-12-17 03:06:00",
             "ship_type_id": 670,
             "character_name": "James Ozuwaras"
@@ -464,6 +515,7 @@
             "solar_system_id": 31000005,
             "value": 10000,
             "kill_id": 43078675,
+            "agent_id": 489343128,
             "date": "2014-12-14 01:13:00",
             "ship_type_id": 670,
             "character_name": "Zener Iodde"
@@ -473,6 +525,7 @@
             "solar_system_id": 31000005,
             "value": 10000,
             "kill_id": 43017413,
+            "agent_id": 145074554,
             "date": "2014-12-11 22:37:00",
             "ship_type_id": 670,
             "character_name": "Tycho Storm"
@@ -482,6 +535,7 @@
             "solar_system_id": 31000365,
             "value": 10000,
             "kill_id": 42990639,
+            "agent_id": 94056991,
             "date": "2014-12-10 19:49:00",
             "ship_type_id": 670,
             "character_name": "Grind Howizer"
@@ -491,6 +545,7 @@
             "solar_system_id": 31001295,
             "value": 10000,
             "kill_id": 42974938,
+            "agent_id": 94832936,
             "date": "2014-12-10 00:14:00",
             "ship_type_id": 670,
             "character_name": "HeroicNerd Parmala"
@@ -500,6 +555,7 @@
             "solar_system_id": 31001135,
             "value": 10000,
             "kill_id": 42960941,
+            "agent_id": 94056991,
             "date": "2014-12-09 04:59:00",
             "ship_type_id": 670,
             "character_name": "JWhit Semah"
@@ -509,6 +565,7 @@
             "solar_system_id": 31000841,
             "value": 10000,
             "kill_id": 42908799,
+            "agent_id": 93322558,
             "date": "2014-12-07 05:57:00",
             "ship_type_id": 33328,
             "character_name": "Tim Shinne"
@@ -518,6 +575,7 @@
             "solar_system_id": 31000841,
             "value": 10000,
             "kill_id": 42848013,
+            "agent_id": 561419163,
             "date": "2014-12-04 23:16:00",
             "ship_type_id": 670,
             "character_name": "Taren Firestorm"
@@ -527,6 +585,7 @@
             "solar_system_id": 31000841,
             "value": 10000,
             "kill_id": 42848012,
+            "agent_id": 561419163,
             "date": "2014-12-04 23:16:00",
             "ship_type_id": 670,
             "character_name": "Camirryn Novo"
@@ -536,6 +595,7 @@
             "solar_system_id": 31000307,
             "value": 10000,
             "kill_id": 42824787,
+            "agent_id": 561419163,
             "date": "2014-12-03 21:43:00",
             "ship_type_id": 670,
             "character_name": "Sharki space"
@@ -545,6 +605,7 @@
             "solar_system_id": 31000841,
             "value": 10000,
             "kill_id": 42820908,
+            "agent_id": 93007709,
             "date": "2014-12-03 19:05:00",
             "ship_type_id": 670,
             "character_name": "DTX Stopwatch"
@@ -554,6 +615,7 @@
             "solar_system_id": 31000841,
             "value": 10000,
             "kill_id": 42811357,
+            "agent_id": 92783231,
             "date": "2014-12-03 04:48:00",
             "ship_type_id": 670,
             "character_name": "Taren Firestorm"
@@ -563,6 +625,7 @@
             "solar_system_id": 31001122,
             "value": 10000,
             "kill_id": 42784850,
+            "agent_id": 859882768,
             "date": "2014-12-01 23:26:00",
             "ship_type_id": 670,
             "character_name": "Seot Otsito"

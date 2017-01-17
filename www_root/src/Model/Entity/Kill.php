@@ -13,11 +13,11 @@ use Cake\ORM\Entity;
  * @property \Cake\I18n\Time $date
  * @property float $value
  * @property int $kill_id
+ * @property int $agent_id
  *
  * @property \App\Model\Entity\Character $character
  * @property \App\Model\Entity\ShipType $ship_type
  * @property \App\Model\Entity\SolarSystem $solar_system
- * @property \App\Model\Entity\Kill[] $kills
  */
 class Kill extends Entity
 {

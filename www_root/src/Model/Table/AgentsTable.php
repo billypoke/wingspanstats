@@ -32,14 +32,11 @@ class AgentsTable extends Table
     {
         parent::initialize($config);
 
-        $this->table('agents');
+        $this->table('characters');
         $this->displayField('id');
         $this->primaryKey('id');
 
-        $this->belongsTo('Characters', [
-            'foreignKey' => 'character_id',
-            'joinType' => 'INNER'
-        ]);
+        
     }
 
     /**

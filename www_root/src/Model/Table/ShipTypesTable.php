@@ -37,7 +37,7 @@ class ShipTypesTable extends Table
 
         $this->table('ship_types');
         $this->displayField('name');
-        $this->primaryKey('id');
+        $this->primaryKey('ship_type_id');
 
         // $this->belongsTo('ShipTypes', [
         //     'foreignKey' => 'ship_type_id',
@@ -46,10 +46,10 @@ class ShipTypesTable extends Table
         $this->hasMany('Kills', [
             'foreignKey' => 'ship_type_id'
         ]);
-        // $this->hasMany('ShipTypes', [
+        // $this->hasMany('Kills', [
         //     'foreignKey' => 'ship_type_id'
         // ]);
-        // $this->hasMany('Ships', [
+        // // $this->hasMany('Ships', [
         //     'foreignKey' => 'ship_type_id'
         // ]);
     }

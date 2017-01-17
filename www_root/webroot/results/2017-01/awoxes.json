@@ -5,7 +5,7 @@
             "solar_system_id": 31000259,
             "value": 1176131899.8,
             "kill_id": 59229961,
-            "shipName": "",
+            "agent_id": 92538439,
             "date": "2017-01-16 02:52:56",
             "ship_type_id": 33470,
             "character_name": "lashana darkmoon"
@@ -15,7 +15,7 @@
             "solar_system_id": 31001168,
             "value": 145646492.03,
             "kill_id": 59103334,
-            "shipName": "",
+            "agent_id": 846387175,
             "date": "2017-01-11 23:58:27",
             "ship_type_id": 33468,
             "character_name": "Witchdoctor24"
@@ -25,7 +25,7 @@
             "solar_system_id": 31000380,
             "value": 45712136.71,
             "kill_id": 58793433,
-            "shipName": "",
+            "agent_id": 1829448753,
             "date": "2017-01-01 23:28:16",
             "ship_type_id": 11377,
             "character_name": "Caligulas"
@@ -35,7 +35,7 @@
             "solar_system_id": 31000787,
             "value": 32657684.23,
             "kill_id": 59141387,
-            "shipName": "",
+            "agent_id": 92959960,
             "date": "2017-01-13 16:37:58",
             "ship_type_id": 16242,
             "character_name": "Okaga Utama"
@@ -45,7 +45,7 @@
             "solar_system_id": 30002066,
             "value": 17135878.92,
             "kill_id": 58916308,
-            "shipName": "",
+            "agent_id": 95229965,
             "date": "2017-01-06 00:17:09",
             "ship_type_id": 2006,
             "character_name": "Inta Vakaria"
@@ -55,7 +55,7 @@
             "solar_system_id": 30001376,
             "value": 10000,
             "kill_id": 58919159,
-            "shipName": "",
+            "agent_id": 318437299,
             "date": "2017-01-06 02:37:33",
             "ship_type_id": 670,
             "character_name": "Inta Vakaria"
@@ -65,7 +65,7 @@
             "solar_system_id": 30001160,
             "value": 10000,
             "kill_id": 58769202,
-            "shipName": "",
+            "agent_id": 584976954,
             "date": "2017-01-01 05:05:12",
             "ship_type_id": 670,
             "character_name": "Vek Chiasson"

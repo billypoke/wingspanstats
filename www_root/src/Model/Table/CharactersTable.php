@@ -38,7 +38,7 @@ class CharactersTable extends Table
 
         $this->table('characters');
         $this->displayField('character_name');
-        $this->primaryKey('id');
+        $this->primaryKey('character_id');
 
         $this->belongsTo('Characters', [
             'foreignKey' => 'character_id',
@@ -66,15 +66,15 @@ class CharactersTable extends Table
      */
     public function validationDefault(Validator $validator)
     {
-        $validator
-            ->allowEmpty('id', 'create');
+        // $validator
+        //     ->allowEmpty('id', 'create');
 
-        $validator
-            ->requirePresence('character_name', 'create')
-            ->notEmpty('character_name');
-        $validator
-            ->requirePresence('character_id', 'create')
-            ->notEmpty('character_name');
+        // $validator
+        //     ->requirePresence('character_name', 'create')
+        //     ->notEmpty('character_name');
+        // $validator
+        //     ->requirePresence('character_id', 'create')
+        //     ->notEmpty('character_name');
         return $validator;
     }
 

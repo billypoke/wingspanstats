@@ -17,6 +17,11 @@ class Kills(Skeleton):
         self.kills.sort(key=lambda x: x.value, reverse=True)
 
     def process_km(self, killmail):
+        agent_id = 0
+        for attacker in killmail['attackers']:
+            if attacker['finalBlow'] == 1:
+                agent_id = attacker['characterID']
+
         kill_id = killmail['killID']
         character_id = killmail['victim']['characterID']
         character_name = killmail['victim']['characterName']
@@ -24,7 +29,7 @@ class Kills(Skeleton):
         solar_system_id = killmail['solarSystemID']
         date = killmail['killTime']
         isk_destroyed = killmail['zkb']['totalValue']
-
+        
         self.kills.append(
             Kill(
                 kill_id,
@@ -33,6 +38,7 @@ class Kills(Skeleton):
                 ship_type_id,
                 solar_system_id,
                 date,
-                isk_destroyed
+                isk_destroyed,
+                agent_id
             )
         )

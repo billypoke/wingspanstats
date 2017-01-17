@@ -34,7 +34,7 @@ class CharactersController extends AppController
     public function view($id = null)
     {
         $character = $this->Characters->get($id, [
-            'contain' => ['Characters', 'Agents', 'Kills', 'Victims']
+            'contain' => [ 'Agents', 'Kills', 'Victims']
         ]);
 
         $this->set('character', $character);

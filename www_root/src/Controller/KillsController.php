@@ -19,10 +19,10 @@ class KillsController extends AppController
     public function index()
     {
         $this->paginate = [
-            'contain' => ['Characters', 'ShipTypes', ]
+            'contain' => ['Characters', 'ShipTypes', 'SolarSystems']
         ];
         $kills = $this->paginate($this->Kills);
-        // debug($kills);die();
+
         $this->set(compact('kills'));
         $this->set('_serialize', ['kills']);
     }
@@ -37,7 +37,7 @@ class KillsController extends AppController
     public function view($id = null)
     {
         $kill = $this->Kills->get($id, [
-            'contain' => ['Characters', 'ShipTypes', 'SolarSystems', 'Kills']
+            'contain' => ['Characters', 'ShipTypes', 'SolarSystems']
         ]);
 
         $this->set('kill', $kill);

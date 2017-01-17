@@ -16,9 +16,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 30,
+            "ships_destroyed": 28,
             "character_id": 93736762,
-            "isk_destroyed": 1943956171.1499999,
+            "isk_destroyed": 1926278393.9299998,
             "character_name": "Sylnn Severn"
         },
         {
@@ -93,24 +93,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 23,
-            "character_id": 909011369,
-            "isk_destroyed": 201195274.19000003,
-            "character_name": "Shaellon"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 7,
             "character_id": 94355263,
             "isk_destroyed": 646469846.02,
             "character_name": "WeirdBall"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 9,
-            "character_id": 1288992423,
-            "isk_destroyed": 433206382.81,
-            "character_name": "Crankball"
         },
         {
             "position": 0,
@@ -121,10 +107,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 20,
-            "character_id": 92956893,
-            "isk_destroyed": 159195021.96,
-            "character_name": "Iwata s"
+            "ships_destroyed": 22,
+            "character_id": 909011369,
+            "isk_destroyed": 169946610.50000003,
+            "character_name": "Shaellon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 1288992423,
+            "isk_destroyed": 424196901.39,
+            "character_name": "Crankball"
         },
         {
             "position": 0,
@@ -135,13 +128,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 94623708,
-            "isk_destroyed": 345362153.23999995,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 9,
             "character_id": 1791973580,
             "isk_destroyed": 288872081.2099999,
@@ -149,16 +135,30 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 19,
+            "ships_destroyed": 18,
+            "character_id": 92956893,
+            "isk_destroyed": 138101912.3,
+            "character_name": "Iwata s"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 18,
             "character_id": 95996172,
-            "isk_destroyed": 119074300.43999998,
+            "isk_destroyed": 117496433.01,
             "character_name": "Corrupted Aideron"
         },
         {
             "position": 0,
-            "ships_destroyed": 12,
+            "ships_destroyed": 6,
+            "character_id": 94623708,
+            "isk_destroyed": 341882633.22999996,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 11,
             "character_id": 90977887,
-            "isk_destroyed": 163647506.33,
+            "isk_destroyed": 158504776.79000002,
             "character_name": "Yosh Maken"
         },
         {
@@ -289,24 +289,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 96626700,
-            "isk_destroyed": 238982580.84,
-            "character_name": "Leptys Finbulventr"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 4,
             "character_id": 96179191,
             "isk_destroyed": 177816280.0,
             "character_name": "Blackhawk Bordeaux"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 95572840,
-            "isk_destroyed": 355374596.03,
-            "character_name": "Darum Rinah"
         },
         {
             "position": 0,
@@ -342,6 +328,13 @@
             "character_id": 950538141,
             "isk_destroyed": 86795711.63000001,
             "character_name": "EXILIANT"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 96626700,
+            "isk_destroyed": 238023866.4,
+            "character_name": "Leptys Finbulventr"
         },
         {
             "position": 0,
@@ -387,24 +380,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 93951704,
-            "isk_destroyed": 50786101.05,
-            "character_name": "Avacado Salad"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 2,
             "character_id": 1102439040,
             "isk_destroyed": 109664782.45,
             "character_name": "Romanholiday"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 201138562,
-            "isk_destroyed": 53607041.9,
-            "character_name": "Mobreen"
         },
         {
             "position": 0,
@@ -457,13 +436,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 649853166,
-            "isk_destroyed": 80246787.78,
-            "character_name": "Witchdoctor24"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 3,
             "character_id": 504639795,
             "isk_destroyed": 52973640.13,
@@ -471,10 +443,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 333762373,
-            "isk_destroyed": 26286849.55,
-            "character_name": "bumnz"
+            "ships_destroyed": 3,
+            "character_id": 201138562,
+            "isk_destroyed": 43926127.01,
+            "character_name": "Mobreen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 93951704,
+            "isk_destroyed": 42143606.11,
+            "character_name": "Avacado Salad"
         },
         {
             "position": 0,
@@ -520,10 +499,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 10,
-            "character_id": 95067667,
-            "isk_destroyed": 9091057.49,
-            "character_name": "Zevenz"
+            "ships_destroyed": 1,
+            "character_id": 95572840,
+            "isk_destroyed": 92399651.37,
+            "character_name": "Darum Rinah"
         },
         {
             "position": 0,
@@ -576,13 +555,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 6,
-            "character_id": 1453265947,
-            "isk_destroyed": 7359926.9799999995,
-            "character_name": "minold heifer"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 4,
             "character_id": 92274994,
             "isk_destroyed": 9982267.290000001,
@@ -618,6 +590,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 1453265947,
+            "isk_destroyed": 6488548.97,
+            "character_name": "minold heifer"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 3,
             "character_id": 93253112,
             "isk_destroyed": 7979784.02,
@@ -647,13 +626,6 @@
         {
             "position": 0,
             "ships_destroyed": 2,
-            "character_id": 92538439,
-            "isk_destroyed": 7209260.36,
-            "character_name": "Xfinity Misner"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
             "character_id": 93041056,
             "isk_destroyed": 6094698.41,
             "character_name": "Eylise Guildfire"
@@ -667,17 +639,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 96220478,
-            "isk_destroyed": 4489018.79,
-            "character_name": "Zeb Taloan"
+            "ships_destroyed": 1,
+            "character_id": 95067667,
+            "isk_destroyed": 9001057.49,
+            "character_name": "Zevenz"
         },
         {
             "position": 0,
             "ships_destroyed": 2,
-            "character_id": 96331596,
-            "isk_destroyed": 4455114.77,
-            "character_name": "Bdan en Gravonere"
+            "character_id": 96220478,
+            "isk_destroyed": 4489018.79,
+            "character_name": "Zeb Taloan"
         },
         {
             "position": 0,
@@ -695,13 +667,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 91296860,
-            "isk_destroyed": 3616182.16,
-            "character_name": "Archimedes Vanguard"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 1,
             "character_id": 1221514457,
             "isk_destroyed": 6915787.97,
@@ -713,6 +678,13 @@
             "character_id": 96863911,
             "isk_destroyed": 3190424.58,
             "character_name": "Aldard Aldard"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92538439,
+            "isk_destroyed": 5929404.74,
+            "character_name": "Xfinity Misner"
         },
         {
             "position": 0,
@@ -741,6 +713,13 @@
             "character_id": 1840051786,
             "isk_destroyed": 2002311.26,
             "character_name": "AusTiger"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 333762373,
+            "isk_destroyed": 975201.63,
+            "character_name": "bumnz"
         },
         {
             "position": 0,

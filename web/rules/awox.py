@@ -18,6 +18,10 @@ class Awox(Skeleton):
 
     def process_km(self, killmail):
         if killmail['victim']['corporationID'] in StatsConfig.CORP_IDS:
+            agent_id = 0
+            for attacker in killmail['attackers']:
+                if attacker['finalBlow'] == 1:
+                    agent_id = attacker['characterID']
             kill_id = killmail['killID']
             character_id = killmail['victim']['characterID']
             character_name = killmail['victim']['characterName']
@@ -34,6 +38,7 @@ class Awox(Skeleton):
                     ship_type_id,
                     solar_system_id,
                     date,
-                    isk_destroyed
+                    isk_destroyed,
+                    agent_id
                 )
             )

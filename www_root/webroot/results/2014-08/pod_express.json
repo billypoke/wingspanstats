@@ -5,6 +5,7 @@
             "solar_system_id": 30001161,
             "value": 38718624.84,
             "kill_id": 40955490,
+            "agent_id": 1149749832,
             "date": "2014-08-30 01:18:00",
             "ship_type_id": 670,
             "character_name": "Will McMo"
@@ -14,6 +15,7 @@
             "solar_system_id": 31000290,
             "value": 33829549.74,
             "kill_id": 40627895,
+            "agent_id": 93372513,
             "date": "2014-08-12 05:31:00",
             "ship_type_id": 670,
             "character_name": "Khar-Selim Bentusi"
@@ -23,6 +25,7 @@
             "solar_system_id": 31000833,
             "value": 21848755.04,
             "kill_id": 40754056,
+            "agent_id": 93372513,
             "date": "2014-08-18 23:23:00",
             "ship_type_id": 670,
             "character_name": "Ursae Minor"
@@ -32,6 +35,7 @@
             "solar_system_id": 30002103,
             "value": 10000,
             "kill_id": 40981961,
+            "agent_id": 94447432,
             "date": "2014-08-31 05:20:00",
             "ship_type_id": 670,
             "character_name": "Valmaksim"
@@ -41,6 +45,7 @@
             "solar_system_id": 30000250,
             "value": 10000,
             "kill_id": 40980383,
+            "agent_id": 94590634,
             "date": "2014-08-31 03:23:00",
             "ship_type_id": 670,
             "character_name": "Arkx Alabel"
@@ -50,6 +55,7 @@
             "solar_system_id": 31000833,
             "value": 10000,
             "kill_id": 40754328,
+            "agent_id": 93372513,
             "date": "2014-08-18 23:45:00",
             "ship_type_id": 670,
             "character_name": "Minx Turian"
@@ -59,6 +65,7 @@
             "solar_system_id": 30002539,
             "value": 10000,
             "kill_id": 40664076,
+            "agent_id": 649853166,
             "date": "2014-08-14 13:29:00",
             "ship_type_id": 670,
             "character_name": "Darko Walkar"
@@ -68,6 +75,7 @@
             "solar_system_id": 30002539,
             "value": 10000,
             "kill_id": 40663665,
+            "agent_id": 649853166,
             "date": "2014-08-14 12:47:00",
             "ship_type_id": 670,
             "character_name": "Mizer Brainchild"
@@ -77,6 +85,7 @@
             "solar_system_id": 30001444,
             "value": 10000,
             "kill_id": 40559206,
+            "agent_id": 93723267,
             "date": "2014-08-08 23:56:00",
             "ship_type_id": 670,
             "character_name": "Smokin Rockz"
@@ -86,6 +95,7 @@
             "solar_system_id": 31002484,
             "value": 10000,
             "kill_id": 40522230,
+            "agent_id": 135268164,
             "date": "2014-08-06 22:45:00",
             "ship_type_id": 670,
             "character_name": "blow stuff up1"
