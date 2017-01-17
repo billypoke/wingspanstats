@@ -1,0 +1,77 @@
+{
+    "total_kills_wh": 15095,
+    "total_kills_hs": 1244,
+    "total_value": 2034588480817.5605,
+    "date_end": "2016-12-31",
+    "solo_total_value": 574330010017.0253,
+    "corp_names": [
+        "WiNGSPAN Delivery Services",
+        "WiNGSPAN Academy for Enterprising Pilots"
+    ],
+    "total_kills_ls": 3189,
+    "total_value_ns": 316152889586.02344,
+    "wh_stats": [
+        {
+            "destroyed": 6368,
+            "type": "c2",
+            "total_value": 572685855179.3989
+        },
+        {
+            "destroyed": 3062,
+            "type": "c1",
+            "total_value": 227095317915.7528
+        },
+        {
+            "destroyed": 3438,
+            "type": "c3",
+            "total_value": 398124419395.20105
+        },
+        {
+            "destroyed": 1177,
+            "type": "c4",
+            "total_value": 192223034747.70685
+        },
+        {
+            "destroyed": 271,
+            "type": "c12",
+            "total_value": 19583750532.425987
+        },
+        {
+            "destroyed": 397,
+            "type": "c5",
+            "total_value": 86376404647.74565
+        },
+        {
+            "destroyed": 70,
+            "type": "c13",
+            "total_value": 3032186008.4403
+        },
+        {
+            "destroyed": 300,
+            "type": "c6",
+            "total_value": 40421196765.36248
+        },
+        {
+            "destroyed": 10,
+            "type": "c14",
+            "total_value": 218721348.13000003
+        },
+        {
+            "destroyed": 1,
+            "type": "c16",
+            "total_value": 103017132.16
+        },
+        {
+            "destroyed": 1,
+            "type": "c18",
+            "total_value": 36913307.38
+        }
+    ],
+    "total_value_ls": 129083992539.00333,
+    "date_start": "2015-01-01",
+    "total_kills_ns": 3112,
+    "total_value_wh": 1539900816979.7031,
+    "total_value_hs": 49450781712.830505,
+    "total_kills": 22640,
+    "solo_total_kills": 13154
+}

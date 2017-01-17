@@ -1,0 +1,76 @@
+{
+    "kills": [
+        {
+            "character_id": 91835155,
+            "solar_system_id": 30002187,
+            "value": 556633577,
+            "kill_id": 49391206,
+            "date": "2015-10-03 06:24:00",
+            "ship_type_id": 33470,
+            "character_name": "Tali Lyrae"
+        },
+        {
+            "character_id": 91835155,
+            "solar_system_id": 30002187,
+            "value": 210838594.75,
+            "kill_id": 49409881,
+            "date": "2015-10-04 00:14:00",
+            "ship_type_id": 33157,
+            "character_name": "Tali Lyrae"
+        },
+        {
+            "character_id": 94901741,
+            "solar_system_id": 31001669,
+            "value": 117892492.34,
+            "kill_id": 49644627,
+            "date": "2015-10-17 06:25:00",
+            "ship_type_id": 11377,
+            "character_name": "Scarabat"
+        },
+        {
+            "character_id": 584976954,
+            "solar_system_id": 30000900,
+            "value": 97377592.19,
+            "kill_id": 49577282,
+            "date": "2015-10-13 03:27:00",
+            "ship_type_id": 34317,
+            "character_name": "Jerythas"
+        },
+        {
+            "character_id": 1612816832,
+            "solar_system_id": 31001669,
+            "value": 30473669.56,
+            "kill_id": 49644666,
+            "date": "2015-10-17 06:30:00",
+            "ship_type_id": 11377,
+            "character_name": "Boexl"
+        },
+        {
+            "character_id": 94901741,
+            "solar_system_id": 31001669,
+            "value": 10000,
+            "kill_id": 49644763,
+            "date": "2015-10-17 06:43:00",
+            "ship_type_id": 670,
+            "character_name": "Scarabat"
+        },
+        {
+            "character_id": 94947315,
+            "solar_system_id": 30002986,
+            "value": 10000,
+            "kill_id": 49515099,
+            "date": "2015-10-10 00:49:00",
+            "ship_type_id": 670,
+            "character_name": "Lainis Pootis"
+        },
+        {
+            "character_id": 93669013,
+            "solar_system_id": 30003069,
+            "value": 10000,
+            "kill_id": 49412373,
+            "date": "2015-10-04 03:43:00",
+            "ship_type_id": 670,
+            "character_name": "AnalogTom Rotineque"
+        }
+    ]
+}

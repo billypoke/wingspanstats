@@ -1,0 +1,81 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 34,
+            "character_id": 987468952,
+            "isk_destroyed": 1443622269.6282,
+            "character_name": "NoGo Rose"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 18,
+            "character_id": 93560666,
+            "isk_destroyed": 443646547.51,
+            "character_name": "Malak Saren"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 1896670906,
+            "isk_destroyed": 1370584362.8600001,
+            "character_name": "Fash Zifsork"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 1221514457,
+            "isk_destroyed": 376311106.37,
+            "character_name": "SsjGhost"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95638558,
+            "isk_destroyed": 249914228.8982,
+            "character_name": "Sharps"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 93317595,
+            "isk_destroyed": 289899621.06,
+            "character_name": "Gillion Wyrddych"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1791973580,
+            "isk_destroyed": 26779678.81,
+            "character_name": "Terram alWathani"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95499736,
+            "isk_destroyed": 27265716.93,
+            "character_name": "Analius Glover"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94571445,
+            "isk_destroyed": 4215299.6899999995,
+            "character_name": "Trip Erata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 96193822,
+            "isk_destroyed": 10000,
+            "character_name": "SoftCore"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 92900253,
+            "isk_destroyed": 10000,
+            "character_name": "Swift Isu"
+        }
+    ]
+}

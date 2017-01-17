@@ -1,0 +1,74 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94809577,
+            "isk_destroyed": 327418537.26,
+            "character_name": "Glade Radner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95095428,
+            "isk_destroyed": 253772032.82,
+            "character_name": "Xee Yoona-451"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 90895417,
+            "isk_destroyed": 253772032.82,
+            "character_name": "Sister Fisterr"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1640448394,
+            "isk_destroyed": 253772032.82,
+            "character_name": "Saria Dehmov"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94997705,
+            "isk_destroyed": 253772032.82,
+            "character_name": "Gigi McQuaid"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 93563659,
+            "isk_destroyed": 253772032.82,
+            "character_name": "NovaMoon Enaka"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 851221968,
+            "isk_destroyed": 83689703.63,
+            "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94571445,
+            "isk_destroyed": 36926905.9,
+            "character_name": "Trip Erata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94154468,
+            "isk_destroyed": 36846756.85,
+            "character_name": "Cap'n Rick Clusterbomb"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95009795,
+            "isk_destroyed": 5945199.47,
+            "character_name": "Tasmine Cha-Tien"
+        }
+    ]
+}

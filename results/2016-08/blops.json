@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 95715380,
+            "isk_destroyed": 1978684589.17,
+            "character_name": "Nicholas Chance Kile"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 93532393,
+            "isk_destroyed": 1401601693.89,
+            "character_name": "Ransom Odunen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95229965,
+            "isk_destroyed": 236265846.17,
+            "character_name": "Sabrez Haklar"
+        }
+    ]
+}

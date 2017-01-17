@@ -1,0 +1,157 @@
+{
+    "kills": [
+        {
+            "character_id": 90718048,
+            "solar_system_id": 30000147,
+            "value": 92058996.73,
+            "kill_id": 45973226,
+            "date": "2015-04-14 05:35:00",
+            "ship_type_id": 670,
+            "character_name": "Black Aivo"
+        },
+        {
+            "character_id": 94556783,
+            "solar_system_id": 30000147,
+            "value": 91693052.13,
+            "kill_id": 45811751,
+            "date": "2015-04-07 06:51:00",
+            "ship_type_id": 33468,
+            "character_name": "Allstate Thompson"
+        },
+        {
+            "character_id": 1556002035,
+            "solar_system_id": 30002187,
+            "value": 51288428.44,
+            "kill_id": 46048324,
+            "date": "2015-04-18 00:14:00",
+            "ship_type_id": 32874,
+            "character_name": "Banefist"
+        },
+        {
+            "character_id": 93838416,
+            "solar_system_id": 30004080,
+            "value": 13758288.4,
+            "kill_id": 46043488,
+            "date": "2015-04-17 20:43:00",
+            "ship_type_id": 33883,
+            "character_name": "Banshee Legend"
+        },
+        {
+            "character_id": 1556002035,
+            "solar_system_id": 30002187,
+            "value": 11780639.8,
+            "kill_id": 46047782,
+            "date": "2015-04-17 23:46:00",
+            "ship_type_id": 16236,
+            "character_name": "Banefist"
+        },
+        {
+            "character_id": 95183233,
+            "solar_system_id": 30004080,
+            "value": 5172494.83,
+            "kill_id": 46043399,
+            "date": "2015-04-17 20:39:00",
+            "ship_type_id": 583,
+            "character_name": "Alebrelle Kuatu"
+        },
+        {
+            "character_id": 93532393,
+            "solar_system_id": 30004080,
+            "value": 4609877.69,
+            "kill_id": 46043475,
+            "date": "2015-04-17 20:42:00",
+            "ship_type_id": 598,
+            "character_name": "Ransom Odunen"
+        },
+        {
+            "character_id": 1556002035,
+            "solar_system_id": 30004080,
+            "value": 4368335.94,
+            "kill_id": 46043452,
+            "date": "2015-04-17 20:42:00",
+            "ship_type_id": 589,
+            "character_name": "Banefist"
+        },
+        {
+            "character_id": 94575576,
+            "solar_system_id": 30004080,
+            "value": 3495173.58,
+            "kill_id": 46043443,
+            "date": "2015-04-17 20:41:00",
+            "ship_type_id": 597,
+            "character_name": "Sith-Lord MouseClick"
+        },
+        {
+            "character_id": 90718048,
+            "solar_system_id": 30000147,
+            "value": 1571751.14,
+            "kill_id": 45973188,
+            "date": "2015-04-14 05:32:00",
+            "ship_type_id": 34496,
+            "character_name": "Black Aivo"
+        },
+        {
+            "character_id": 94154468,
+            "solar_system_id": 31002520,
+            "value": 927473.56,
+            "kill_id": 45694706,
+            "date": "2015-04-02 21:01:00",
+            "ship_type_id": 33474,
+            "character_name": "Cap'n Rick Clusterbomb"
+        },
+        {
+            "character_id": 90718048,
+            "solar_system_id": 30000147,
+            "value": 20884.6,
+            "kill_id": 46258465,
+            "date": "2015-04-27 04:11:00",
+            "ship_type_id": 672,
+            "character_name": "Black Aivo"
+        },
+        {
+            "character_id": 94574163,
+            "solar_system_id": 30004080,
+            "value": 20398.47,
+            "kill_id": 46328982,
+            "date": "2015-04-30 21:55:00",
+            "ship_type_id": 672,
+            "character_name": "Revan Wake"
+        },
+        {
+            "character_id": 95113246,
+            "solar_system_id": 30000147,
+            "value": 10056.95,
+            "kill_id": 46258507,
+            "date": "2015-04-27 04:14:00",
+            "ship_type_id": 606,
+            "character_name": "Solvenaria Azionchenkov"
+        },
+        {
+            "character_id": 95113246,
+            "solar_system_id": 30000147,
+            "value": 10000,
+            "kill_id": 46258522,
+            "date": "2015-04-27 04:16:00",
+            "ship_type_id": 670,
+            "character_name": "Solvenaria Azionchenkov"
+        },
+        {
+            "character_id": 94997705,
+            "solar_system_id": 30013489,
+            "value": 10000,
+            "kill_id": 46179319,
+            "date": "2015-04-24 02:00:00",
+            "ship_type_id": 670,
+            "character_name": "Gigi McQuaid"
+        },
+        {
+            "character_id": 94556783,
+            "solar_system_id": 30000147,
+            "value": 10000,
+            "kill_id": 45812146,
+            "date": "2015-04-07 07:32:00",
+            "ship_type_id": 670,
+            "character_name": "Allstate Thompson"
+        }
+    ]
+}

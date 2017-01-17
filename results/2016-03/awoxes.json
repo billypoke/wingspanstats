@@ -1,0 +1,67 @@
+{
+    "kills": [
+        {
+            "character_id": 94447432,
+            "solar_system_id": 31001906,
+            "value": 339170672.91,
+            "kill_id": 52465138,
+            "date": "2016-03-07 05:36:19",
+            "ship_type_id": 11963,
+            "character_name": "Chance Ravinne"
+        },
+        {
+            "character_id": 93048287,
+            "solar_system_id": 31000447,
+            "value": 99976773.41,
+            "kill_id": 52810303,
+            "date": "2016-03-26 00:49:12",
+            "ship_type_id": 670,
+            "character_name": "Nikolei Darkflier"
+        },
+        {
+            "character_id": 96236270,
+            "solar_system_id": 31000482,
+            "value": 46688565.73,
+            "kill_id": 52944099,
+            "date": "2016-03-31 23:12:58",
+            "ship_type_id": 12032,
+            "character_name": "Lexa Griffin"
+        },
+        {
+            "character_id": 1221514457,
+            "solar_system_id": 31000384,
+            "value": 40843328.72,
+            "kill_id": 52942386,
+            "date": "2016-03-31 22:11:21",
+            "ship_type_id": 12034,
+            "character_name": "SsjGhost"
+        },
+        {
+            "character_id": 95229965,
+            "solar_system_id": 31000853,
+            "value": 24292892.12,
+            "kill_id": 52515141,
+            "date": "2016-03-10 05:53:57",
+            "ship_type_id": 631,
+            "character_name": "Sabrez Haklar"
+        },
+        {
+            "character_id": 92631711,
+            "solar_system_id": 31000447,
+            "value": 708496.44,
+            "kill_id": 52810309,
+            "date": "2016-03-26 00:49:42",
+            "ship_type_id": 670,
+            "character_name": "Boon Hawkes"
+        },
+        {
+            "character_id": 94188565,
+            "solar_system_id": 30003277,
+            "value": 10000,
+            "kill_id": 52413506,
+            "date": "2016-03-05 04:25:50",
+            "ship_type_id": 670,
+            "character_name": "Sibestus Bererund"
+        }
+    ]
+}

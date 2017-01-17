@@ -1,0 +1,60 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 15,
+            "character_id": 93892169,
+            "isk_destroyed": 3302363763.0599995,
+            "character_name": "Tyr Carter"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 14,
+            "character_id": 92805979,
+            "isk_destroyed": 2960402356.67,
+            "character_name": "Valtyr Farshield"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 93317595,
+            "isk_destroyed": 3766921504.32,
+            "character_name": "Gillion Wyrddych"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95638558,
+            "isk_destroyed": 1464370356.1999998,
+            "character_name": "Sharps"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 94056770,
+            "isk_destroyed": 46823734.95,
+            "character_name": "Inta Vakaria"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95715380,
+            "isk_destroyed": 55349734.76,
+            "character_name": "Nicholas Chance Kile"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1221514457,
+            "isk_destroyed": 83250695.23,
+            "character_name": "SsjGhost"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95679172,
+            "isk_destroyed": 3885452.23,
+            "character_name": "Arcdale"
+        }
+    ]
+}

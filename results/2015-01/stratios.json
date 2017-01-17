@@ -1,0 +1,81 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 15,
+            "character_id": 91835155,
+            "isk_destroyed": 5782337201.27,
+            "character_name": "Tali Lyrae"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 28,
+            "character_id": 1640448394,
+            "isk_destroyed": 3087391371.290101,
+            "character_name": "Saria Dehmov"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 19,
+            "character_id": 1227868181,
+            "isk_destroyed": 3994485272.999999,
+            "character_name": "Artik Fawkes"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 20,
+            "character_id": 94894989,
+            "isk_destroyed": 2229285851.326,
+            "character_name": "Flaya Noong"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 94447432,
+            "isk_destroyed": 1999450960.1999998,
+            "character_name": "Chance Ravinne"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 775104390,
+            "isk_destroyed": 564577634.11,
+            "character_name": "lashana darkmoon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 93838416,
+            "isk_destroyed": 597736706.37,
+            "character_name": "Banshee Legend"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 94809577,
+            "isk_destroyed": 307579728.21000004,
+            "character_name": "Glade Radner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 93423050,
+            "isk_destroyed": 251989473.95,
+            "character_name": "Shaleb Heworo"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 91145898,
+            "isk_destroyed": 67623278.44,
+            "character_name": "shepard locknear"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1367120850,
+            "isk_destroyed": 15905692.35,
+            "character_name": "Vince Condor"
+        }
+    ]
+}

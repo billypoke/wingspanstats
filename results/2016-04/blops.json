@@ -1,0 +1,25 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 95229965,
+            "isk_destroyed": 3925934994.21,
+            "character_name": "Sabrez Haklar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 93317595,
+            "isk_destroyed": 3246279106.7,
+            "character_name": "Gillion Wyrddych"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 933583905,
+            "isk_destroyed": 679655887.51,
+            "character_name": "Rnubby18"
+        }
+    ]
+}

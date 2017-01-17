@@ -1,0 +1,81 @@
+{
+    "agents": [
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 851221968,
+            "isk_destroyed": 2776626752.31,
+            "character_name": "Vothor"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 93838416,
+            "isk_destroyed": 1452905611.78,
+            "character_name": "Banshee Legend"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94654675,
+            "isk_destroyed": 1271618680.1399999,
+            "character_name": "General Waaargh"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 91821874,
+            "isk_destroyed": 1718569676.65,
+            "character_name": "Louis Ferreira"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 329485041,
+            "isk_destroyed": 697239978.94,
+            "character_name": "Eriol Hiiragizawa"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 93532393,
+            "isk_destroyed": 298521070.35,
+            "character_name": "Ransom Odunen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 92983303,
+            "isk_destroyed": 200872598.45,
+            "character_name": "Bleda Katona"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 90632148,
+            "isk_destroyed": 272529685.61,
+            "character_name": "Lewby Lews"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93701091,
+            "isk_destroyed": 522256395.73,
+            "character_name": "Robichaux Garsk"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 94809577,
+            "isk_destroyed": 106972183.83999999,
+            "character_name": "Glade Radner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94623708,
+            "isk_destroyed": 625770.94,
+            "character_name": "Bustrr Bluth"
+        }
+    ]
+}
