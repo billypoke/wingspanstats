@@ -37,6 +37,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 94623708,
+            "isk_destroyed": 131651250.12999998,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 2,
             "character_id": 95996172,
             "isk_destroyed": 400103899.38,
@@ -178,9 +185,9 @@
         {
             "position": 0,
             "ships_destroyed": 2,
-            "character_id": 94623708,
-            "isk_destroyed": 52113284.739999995,
-            "character_name": "Bustrr Bluth"
+            "character_id": 461451287,
+            "isk_destroyed": 38556280.68,
+            "character_name": "Garrett Wilson"
         },
         {
             "position": 0,
@@ -398,13 +405,6 @@
             "character_id": 1791973580,
             "isk_destroyed": 980452.4,
             "character_name": "Terram alWathani"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 461451287,
-            "isk_destroyed": 980452.4,
-            "character_name": "Garrett Wilson"
         },
         {
             "position": 0,

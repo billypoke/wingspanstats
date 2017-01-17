@@ -5,7 +5,7 @@
             "solar_system_id": 31001418,
             "value": 2555895959.78,
             "kill_id": 52377766,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-03 05:54:37",
             "ship_type_id": 670,
             "character_name": "ballsy12"
@@ -15,7 +15,7 @@
             "solar_system_id": 31001913,
             "value": 1730865776.29,
             "kill_id": 52699929,
-            "shipName": "",
+            "agent_id": 95909784,
             "date": "2016-03-20 08:43:49",
             "ship_type_id": 670,
             "character_name": "PainBall"
@@ -25,7 +25,7 @@
             "solar_system_id": 31000785,
             "value": 1346294171.31,
             "kill_id": 52789960,
-            "shipName": "",
+            "agent_id": 145498758,
             "date": "2016-03-25 01:42:38",
             "ship_type_id": 670,
             "character_name": "Sparki 22"
@@ -35,7 +35,7 @@
             "solar_system_id": 31000296,
             "value": 1048734499.1,
             "kill_id": 52762703,
-            "shipName": "",
+            "agent_id": 1366631333,
             "date": "2016-03-23 18:12:04",
             "ship_type_id": 670,
             "character_name": "Raven Hawkeyes"
@@ -45,7 +45,7 @@
             "solar_system_id": 31002335,
             "value": 1024486984.83,
             "kill_id": 52462836,
-            "shipName": "",
+            "agent_id": 851221968,
             "date": "2016-03-07 02:39:58",
             "ship_type_id": 670,
             "character_name": "Adolf Rusalkovi4"
@@ -55,7 +55,7 @@
             "solar_system_id": 30001222,
             "value": 587681068.3,
             "kill_id": 52694959,
-            "shipName": "",
+            "agent_id": 730334580,
             "date": "2016-03-20 01:54:22",
             "ship_type_id": 670,
             "character_name": "Ling Ellecon"
@@ -65,7 +65,7 @@
             "solar_system_id": 30003797,
             "value": 581494710.52,
             "kill_id": 52763448,
-            "shipName": "",
+            "agent_id": 93195629,
             "date": "2016-03-23 18:55:41",
             "ship_type_id": 670,
             "character_name": "Tani Makia"
@@ -75,7 +75,7 @@
             "solar_system_id": 31000065,
             "value": 551401163.78,
             "kill_id": 52579220,
-            "shipName": "",
+            "agent_id": 94518342,
             "date": "2016-03-13 16:46:25",
             "ship_type_id": 670,
             "character_name": "Satori Komeizi"
@@ -85,7 +85,7 @@
             "solar_system_id": 31000065,
             "value": 551401163.78,
             "kill_id": 52579216,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-13 16:46:10",
             "ship_type_id": 670,
             "character_name": "OR Himawari"
@@ -95,7 +95,7 @@
             "solar_system_id": 31000005,
             "value": 544905844.79,
             "kill_id": 52672895,
-            "shipName": "",
+            "agent_id": 1502557835,
             "date": "2016-03-19 03:38:08",
             "ship_type_id": 670,
             "character_name": "Malice Cadelanne"
@@ -105,7 +105,7 @@
             "solar_system_id": 31001591,
             "value": 500107101.76,
             "kill_id": 52737033,
-            "shipName": "",
+            "agent_id": 789916335,
             "date": "2016-03-22 01:51:20",
             "ship_type_id": 670,
             "character_name": "Leonidus Smash"
@@ -115,7 +115,7 @@
             "solar_system_id": 31001732,
             "value": 484304984.69,
             "kill_id": 52907875,
-            "shipName": "",
+            "agent_id": 618214468,
             "date": "2016-03-30 05:52:40",
             "ship_type_id": 670,
             "character_name": "VVLast"
@@ -125,7 +125,7 @@
             "solar_system_id": 31000065,
             "value": 441054565.82,
             "kill_id": 52579241,
-            "shipName": "",
+            "agent_id": 94922237,
             "date": "2016-03-13 16:48:09",
             "ship_type_id": 670,
             "character_name": "Chocola Sweets"
@@ -135,7 +135,7 @@
             "solar_system_id": 31000065,
             "value": 441054565.82,
             "kill_id": 52579236,
-            "shipName": "",
+            "agent_id": 92863054,
             "date": "2016-03-13 16:47:50",
             "ship_type_id": 670,
             "character_name": "Fruits Sweets"
@@ -145,7 +145,7 @@
             "solar_system_id": 31000065,
             "value": 441054565.82,
             "kill_id": 52579232,
-            "shipName": "",
+            "agent_id": 92863054,
             "date": "2016-03-13 16:47:19",
             "ship_type_id": 670,
             "character_name": "Vanilla Sweets"
@@ -155,7 +155,7 @@
             "solar_system_id": 31000065,
             "value": 441054565.82,
             "kill_id": 52579228,
-            "shipName": "",
+            "agent_id": 94518342,
             "date": "2016-03-13 16:46:55",
             "ship_type_id": 670,
             "character_name": "Milk Sweets"
@@ -165,7 +165,7 @@
             "solar_system_id": 31000785,
             "value": 194208945.16,
             "kill_id": 52789971,
-            "shipName": "",
+            "agent_id": 94636463,
             "date": "2016-03-25 01:43:31",
             "ship_type_id": 670,
             "character_name": "Rusta Miner"
@@ -175,7 +175,7 @@
             "solar_system_id": 31001139,
             "value": 176554678.94,
             "kill_id": 52882524,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-28 23:13:14",
             "ship_type_id": 670,
             "character_name": "Buklau Proseeds"
@@ -185,7 +185,7 @@
             "solar_system_id": 31000458,
             "value": 159512549.45,
             "kill_id": 52840260,
-            "shipName": "",
+            "agent_id": 95916167,
             "date": "2016-03-27 05:06:52",
             "ship_type_id": 670,
             "character_name": "Morpheus Atari"
@@ -195,7 +195,7 @@
             "solar_system_id": 31000214,
             "value": 158686552.84,
             "kill_id": 52344508,
-            "shipName": "",
+            "agent_id": 94720086,
             "date": "2016-03-01 11:56:08",
             "ship_type_id": 670,
             "character_name": "Mitrich Aldent"
@@ -205,7 +205,7 @@
             "solar_system_id": 31000647,
             "value": 152435758.17,
             "kill_id": 52823772,
-            "shipName": "",
+            "agent_id": 94154468,
             "date": "2016-03-26 16:38:51",
             "ship_type_id": 670,
             "character_name": "JX2"
@@ -215,7 +215,7 @@
             "solar_system_id": 31000526,
             "value": 144653728.05,
             "kill_id": 52778131,
-            "shipName": "",
+            "agent_id": 426924101,
             "date": "2016-03-24 13:55:19",
             "ship_type_id": 670,
             "character_name": "bri Lazy"
@@ -225,7 +225,7 @@
             "solar_system_id": 31000366,
             "value": 127764498.29,
             "kill_id": 52617659,
-            "shipName": "",
+            "agent_id": 93608383,
             "date": "2016-03-15 21:12:42",
             "ship_type_id": 670,
             "character_name": "Max Caulfield"
@@ -235,7 +235,7 @@
             "solar_system_id": 30004365,
             "value": 122810831.56,
             "kill_id": 52933082,
-            "shipName": "",
+            "agent_id": 95344823,
             "date": "2016-03-31 14:52:19",
             "ship_type_id": 670,
             "character_name": "Heinrich Schickelgruber"
@@ -245,7 +245,7 @@
             "solar_system_id": 31000522,
             "value": 115372347.74,
             "kill_id": 52377561,
-            "shipName": "",
+            "agent_id": 95051074,
             "date": "2016-03-03 05:30:12",
             "ship_type_id": 670,
             "character_name": "Hugh Hustla"
@@ -255,7 +255,7 @@
             "solar_system_id": 30003732,
             "value": 108617462.3,
             "kill_id": 52417584,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-05 10:19:04",
             "ship_type_id": 670,
             "character_name": "XMapstoneX"
@@ -265,7 +265,7 @@
             "solar_system_id": 31001093,
             "value": 104380423.65,
             "kill_id": 52340513,
-            "shipName": "",
+            "agent_id": 96031529,
             "date": "2016-03-01 03:29:36",
             "ship_type_id": 670,
             "character_name": "Minetu"
@@ -275,7 +275,7 @@
             "solar_system_id": 31000005,
             "value": 103291841.83,
             "kill_id": 52435745,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-06 00:52:35",
             "ship_type_id": 670,
             "character_name": "Tani Makia"
@@ -285,7 +285,7 @@
             "solar_system_id": 30002024,
             "value": 101766916.49,
             "kill_id": 52613843,
-            "shipName": "",
+            "agent_id": 1159912758,
             "date": "2016-03-15 17:45:29",
             "ship_type_id": 670,
             "character_name": "Pike Engstrom"
@@ -295,7 +295,7 @@
             "solar_system_id": 31000005,
             "value": 100778174.73,
             "kill_id": 52704225,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-20 14:26:13",
             "ship_type_id": 670,
             "character_name": "Xynapze"
@@ -305,7 +305,7 @@
             "solar_system_id": 31000948,
             "value": 100351118.48,
             "kill_id": 52745559,
-            "shipName": "",
+            "agent_id": 94154468,
             "date": "2016-03-22 17:58:49",
             "ship_type_id": 670,
             "character_name": "Violet Eras"
@@ -315,7 +315,7 @@
             "solar_system_id": 31000785,
             "value": 100067944.68,
             "kill_id": 52789970,
-            "shipName": "",
+            "agent_id": 95051074,
             "date": "2016-03-25 01:43:29",
             "ship_type_id": 670,
             "character_name": "Mr Jiles"
@@ -325,7 +325,7 @@
             "solar_system_id": 31000785,
             "value": 100067944.68,
             "kill_id": 52789962,
-            "shipName": "",
+            "agent_id": 95010003,
             "date": "2016-03-25 01:42:55",
             "ship_type_id": 670,
             "character_name": "Giles Crowley"
@@ -335,7 +335,7 @@
             "solar_system_id": 31001156,
             "value": 99551837.76,
             "kill_id": 52859999,
-            "shipName": "",
+            "agent_id": 618214468,
             "date": "2016-03-28 00:42:08",
             "ship_type_id": 670,
             "character_name": "Lina Aivoras"
@@ -345,7 +345,7 @@
             "solar_system_id": 31000895,
             "value": 86525230.19,
             "kill_id": 52732187,
-            "shipName": "",
+            "agent_id": 608423770,
             "date": "2016-03-21 21:10:28",
             "ship_type_id": 670,
             "character_name": "Toalpaz Coaliotus"
@@ -355,7 +355,7 @@
             "solar_system_id": 31001032,
             "value": 83488841.66,
             "kill_id": 52358772,
-            "shipName": "",
+            "agent_id": 1213436905,
             "date": "2016-03-02 04:04:58",
             "ship_type_id": 670,
             "character_name": "Ofeigur 1 grimulfsson"
@@ -365,7 +365,7 @@
             "solar_system_id": 30004359,
             "value": 82023314.66,
             "kill_id": 52528952,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-11 02:20:04",
             "ship_type_id": 670,
             "character_name": "Crazy warrPLA"
@@ -375,7 +375,7 @@
             "solar_system_id": 30004365,
             "value": 81365037.22,
             "kill_id": 52694348,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-20 01:07:37",
             "ship_type_id": 670,
             "character_name": "Lichao Xi"
@@ -385,7 +385,7 @@
             "solar_system_id": 31001139,
             "value": 79310181.15,
             "kill_id": 52882536,
-            "shipName": "",
+            "agent_id": 95051074,
             "date": "2016-03-28 23:13:29",
             "ship_type_id": 670,
             "character_name": "dany lafaucheuse"
@@ -395,7 +395,7 @@
             "solar_system_id": 30004386,
             "value": 65022727.72,
             "kill_id": 52544343,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-11 23:45:03",
             "ship_type_id": 670,
             "character_name": "Sgt Hulkaa"
@@ -405,7 +405,7 @@
             "solar_system_id": 31001835,
             "value": 59135514.12,
             "kill_id": 52501073,
-            "shipName": "",
+            "agent_id": 93748164,
             "date": "2016-03-09 10:08:11",
             "ship_type_id": 670,
             "character_name": "Trogir"
@@ -415,7 +415,7 @@
             "solar_system_id": 31001139,
             "value": 58968894.14,
             "kill_id": 52882639,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-28 23:16:24",
             "ship_type_id": 670,
             "character_name": "Capt Jeff Bond"
@@ -425,7 +425,7 @@
             "solar_system_id": 30002466,
             "value": 58399459.05,
             "kill_id": 52929414,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-31 07:55:06",
             "ship_type_id": 670,
             "character_name": "December Mills"
@@ -435,7 +435,7 @@
             "solar_system_id": 31001116,
             "value": 52920931.96,
             "kill_id": 52897061,
-            "shipName": "",
+            "agent_id": 95051074,
             "date": "2016-03-29 19:11:11",
             "ship_type_id": 670,
             "character_name": "jimka bukin"
@@ -445,7 +445,7 @@
             "solar_system_id": 30001272,
             "value": 49565770.83,
             "kill_id": 52754443,
-            "shipName": "",
+            "agent_id": 91646823,
             "date": "2016-03-23 02:24:08",
             "ship_type_id": 670,
             "character_name": "longyuorik"
@@ -455,7 +455,7 @@
             "solar_system_id": 31001139,
             "value": 49526741.47,
             "kill_id": 52882546,
-            "shipName": "",
+            "agent_id": 95051074,
             "date": "2016-03-28 23:13:50",
             "ship_type_id": 670,
             "character_name": "Mike BiLL"
@@ -465,7 +465,7 @@
             "solar_system_id": 31002532,
             "value": 45431615.45,
             "kill_id": 52341070,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-01 04:06:48",
             "ship_type_id": 670,
             "character_name": "Luna Noven"
@@ -475,7 +475,7 @@
             "solar_system_id": 31002286,
             "value": 45257601.26,
             "kill_id": 52438775,
-            "shipName": "",
+            "agent_id": 93562942,
             "date": "2016-03-06 04:13:29",
             "ship_type_id": 670,
             "character_name": "Mellexia Rin"
@@ -485,7 +485,7 @@
             "solar_system_id": 31000868,
             "value": 45074333.74,
             "kill_id": 52516967,
-            "shipName": "",
+            "agent_id": 2052163101,
             "date": "2016-03-10 09:48:37",
             "ship_type_id": 670,
             "character_name": "Blade Sinak"
@@ -495,7 +495,7 @@
             "solar_system_id": 30004359,
             "value": 45002580.67,
             "kill_id": 52529022,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-11 02:27:53",
             "ship_type_id": 670,
             "character_name": "Crazy National war"
@@ -505,7 +505,7 @@
             "solar_system_id": 30003732,
             "value": 44474307.21,
             "kill_id": 52688024,
-            "shipName": "",
+            "agent_id": 93648199,
             "date": "2016-03-19 20:34:54",
             "ship_type_id": 670,
             "character_name": "Minurva Long"
@@ -515,7 +515,7 @@
             "solar_system_id": 30000848,
             "value": 44393030.02,
             "kill_id": 52715164,
-            "shipName": "",
+            "agent_id": 92863054,
             "date": "2016-03-20 22:04:19",
             "ship_type_id": 670,
             "character_name": "SCOOBY Raholan"
@@ -525,7 +525,7 @@
             "solar_system_id": 30000848,
             "value": 44195805.1,
             "kill_id": 52768010,
-            "shipName": "",
+            "agent_id": 95486687,
             "date": "2016-03-23 22:04:10",
             "ship_type_id": 670,
             "character_name": "Vex Shana"
@@ -535,7 +535,7 @@
             "solar_system_id": 30004386,
             "value": 44195805.1,
             "kill_id": 52757231,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-23 07:45:41",
             "ship_type_id": 670,
             "character_name": "vivek kumar Andedare"
@@ -545,7 +545,7 @@
             "solar_system_id": 31000784,
             "value": 44072499.86,
             "kill_id": 52812068,
-            "shipName": "",
+            "agent_id": 95647265,
             "date": "2016-03-26 02:42:09",
             "ship_type_id": 670,
             "character_name": "Arec Pserad"
@@ -555,7 +555,7 @@
             "solar_system_id": 31000647,
             "value": 43420202.71,
             "kill_id": 52460116,
-            "shipName": "",
+            "agent_id": 95921260,
             "date": "2016-03-06 23:30:16",
             "ship_type_id": 670,
             "character_name": "Tarris Rain"
@@ -565,7 +565,7 @@
             "solar_system_id": 31001116,
             "value": 41820961.26,
             "kill_id": 52895135,
-            "shipName": "",
+            "agent_id": 94154468,
             "date": "2016-03-29 17:45:02",
             "ship_type_id": 670,
             "character_name": "Ragnon Storm"
@@ -575,7 +575,7 @@
             "solar_system_id": 30000262,
             "value": 41399548.39,
             "kill_id": 52405048,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-04 20:27:38",
             "ship_type_id": 670,
             "character_name": "Hephaestus Farrier"
@@ -585,7 +585,7 @@
             "solar_system_id": 30004391,
             "value": 39913565.18,
             "kill_id": 52740047,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-22 06:34:33",
             "ship_type_id": 670,
             "character_name": "Shiroe Beddelver"
@@ -595,7 +595,7 @@
             "solar_system_id": 31001100,
             "value": 36105601.41,
             "kill_id": 52866777,
-            "shipName": "",
+            "agent_id": 95707291,
             "date": "2016-03-28 11:47:17",
             "ship_type_id": 670,
             "character_name": "GratefulDeadLotSon Malukker"
@@ -605,7 +605,7 @@
             "solar_system_id": 31000142,
             "value": 35581769.14,
             "kill_id": 52724659,
-            "shipName": "",
+            "agent_id": 2052163101,
             "date": "2016-03-21 12:46:10",
             "ship_type_id": 670,
             "character_name": "Alexander Odium"
@@ -615,7 +615,7 @@
             "solar_system_id": 31001084,
             "value": 34383799.87,
             "kill_id": 52375885,
-            "shipName": "",
+            "agent_id": 95638558,
             "date": "2016-03-03 03:22:11",
             "ship_type_id": 670,
             "character_name": "Telemadir"
@@ -625,7 +625,7 @@
             "solar_system_id": 30004704,
             "value": 31620585.82,
             "kill_id": 52713510,
-            "shipName": "",
+            "agent_id": 569282950,
             "date": "2016-03-20 20:54:18",
             "ship_type_id": 670,
             "character_name": "Damoklez Aeonire"
@@ -635,7 +635,7 @@
             "solar_system_id": 30001990,
             "value": 28087189.88,
             "kill_id": 52340884,
-            "shipName": "",
+            "agent_id": 94922237,
             "date": "2016-03-01 03:54:11",
             "ship_type_id": 670,
             "character_name": "Lateris"
@@ -645,7 +645,7 @@
             "solar_system_id": 31000497,
             "value": 27174972.83,
             "kill_id": 52488760,
-            "shipName": "",
+            "agent_id": 1366631333,
             "date": "2016-03-08 17:10:12",
             "ship_type_id": 670,
             "character_name": "ArcAngel7 saken"
@@ -655,7 +655,7 @@
             "solar_system_id": 30003277,
             "value": 19659958.59,
             "kill_id": 52477383,
-            "shipName": "",
+            "agent_id": 1458968055,
             "date": "2016-03-07 22:23:02",
             "ship_type_id": 670,
             "character_name": "Boneswe"
@@ -665,7 +665,7 @@
             "solar_system_id": 31000005,
             "value": 19583726.34,
             "kill_id": 52672834,
-            "shipName": "",
+            "agent_id": 1502557835,
             "date": "2016-03-19 03:34:40",
             "ship_type_id": 670,
             "character_name": "Spar Multendor"
@@ -675,7 +675,7 @@
             "solar_system_id": 30003277,
             "value": 19483013.04,
             "kill_id": 52736913,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-22 01:39:53",
             "ship_type_id": 670,
             "character_name": "lupo87"
@@ -685,7 +685,7 @@
             "solar_system_id": 30002468,
             "value": 19072651.02,
             "kill_id": 52890334,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-29 10:40:47",
             "ship_type_id": 670,
             "character_name": "XOLLOPYP"
@@ -695,7 +695,7 @@
             "solar_system_id": 30003277,
             "value": 18979184.07,
             "kill_id": 52944590,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-31 23:36:33",
             "ship_type_id": 670,
             "character_name": "Sly Visionz"
@@ -705,7 +705,7 @@
             "solar_system_id": 30005297,
             "value": 17814938.02,
             "kill_id": 52680484,
-            "shipName": "",
+            "agent_id": 91435934,
             "date": "2016-03-19 14:43:27",
             "ship_type_id": 670,
             "character_name": "Kagorf Ambraelle"
@@ -715,7 +715,7 @@
             "solar_system_id": 31000426,
             "value": 17791086.12,
             "kill_id": 52740722,
-            "shipName": "",
+            "agent_id": 2052163101,
             "date": "2016-03-22 08:18:16",
             "ship_type_id": 670,
             "character_name": "Roric Enaari"
@@ -725,7 +725,7 @@
             "solar_system_id": 30000171,
             "value": 16972259.03,
             "kill_id": 52836867,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-27 01:16:43",
             "ship_type_id": 670,
             "character_name": "Zeanea K"
@@ -735,7 +735,7 @@
             "solar_system_id": 30003277,
             "value": 16838431.98,
             "kill_id": 52942696,
-            "shipName": "",
+            "agent_id": 1159912758,
             "date": "2016-03-31 22:26:05",
             "ship_type_id": 670,
             "character_name": "Gregor Hutton"
@@ -745,7 +745,7 @@
             "solar_system_id": 31001309,
             "value": 16732934.23,
             "kill_id": 52914521,
-            "shipName": "",
+            "agent_id": 94753469,
             "date": "2016-03-30 17:15:05",
             "ship_type_id": 670,
             "character_name": "Maxi Multi"
@@ -755,7 +755,7 @@
             "solar_system_id": 30003277,
             "value": 14155994.43,
             "kill_id": 52477366,
-            "shipName": "",
+            "agent_id": 93048287,
             "date": "2016-03-07 22:22:08",
             "ship_type_id": 670,
             "character_name": "Bond Strit"
@@ -765,7 +765,7 @@
             "solar_system_id": 31001081,
             "value": 13113008.75,
             "kill_id": 52568016,
-            "shipName": "",
+            "agent_id": 91233379,
             "date": "2016-03-13 02:14:51",
             "ship_type_id": 670,
             "character_name": "Christopher Carmine"
@@ -775,7 +775,7 @@
             "solar_system_id": 30003277,
             "value": 11015856.35,
             "kill_id": 52718122,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-21 00:35:08",
             "ship_type_id": 670,
             "character_name": "Dar-Luas Kondur"
@@ -785,7 +785,7 @@
             "solar_system_id": 31000683,
             "value": 8942048.47,
             "kill_id": 52622350,
-            "shipName": "",
+            "agent_id": 94518342,
             "date": "2016-03-16 02:25:22",
             "ship_type_id": 670,
             "character_name": "Ohura IGji"
@@ -795,7 +795,7 @@
             "solar_system_id": 31001165,
             "value": 8904887.67,
             "kill_id": 52517683,
-            "shipName": "",
+            "agent_id": 91233379,
             "date": "2016-03-10 12:17:55",
             "ship_type_id": 670,
             "character_name": "Rosetta Twist"
@@ -805,7 +805,7 @@
             "solar_system_id": 31000763,
             "value": 5292104.89,
             "kill_id": 52594987,
-            "shipName": "",
+            "agent_id": 96031529,
             "date": "2016-03-14 10:48:37",
             "ship_type_id": 670,
             "character_name": "Darkisurin Cravel"
@@ -815,7 +815,7 @@
             "solar_system_id": 31000482,
             "value": 5139895.56,
             "kill_id": 52637046,
-            "shipName": "",
+            "agent_id": 95647266,
             "date": "2016-03-17 00:45:05",
             "ship_type_id": 670,
             "character_name": "Ginni Kashada"
@@ -825,7 +825,7 @@
             "solar_system_id": 31000455,
             "value": 4816998.81,
             "kill_id": 52814839,
-            "shipName": "",
+            "agent_id": 96236270,
             "date": "2016-03-26 05:41:04",
             "ship_type_id": 670,
             "character_name": "mr tsum"
@@ -835,7 +835,7 @@
             "solar_system_id": 30003764,
             "value": 4137145.88,
             "kill_id": 52640202,
-            "shipName": "",
+            "agent_id": 93317595,
             "date": "2016-03-17 05:42:21",
             "ship_type_id": 670,
             "character_name": "Leonnemeios"
@@ -845,7 +845,7 @@
             "solar_system_id": 31002532,
             "value": 3248690.76,
             "kill_id": 52700622,
-            "shipName": "",
+            "agent_id": 95707291,
             "date": "2016-03-20 09:45:46",
             "ship_type_id": 670,
             "character_name": "Kugisa Shi"
@@ -855,7 +855,7 @@
             "solar_system_id": 31000482,
             "value": 1119527.05,
             "kill_id": 52393994,
-            "shipName": "",
+            "agent_id": 851221968,
             "date": "2016-03-04 03:56:22",
             "ship_type_id": 670,
             "character_name": "morolum Peter"
@@ -865,7 +865,7 @@
             "solar_system_id": 31000784,
             "value": 1022836.56,
             "kill_id": 52814930,
-            "shipName": "",
+            "agent_id": 95647265,
             "date": "2016-03-26 05:47:59",
             "ship_type_id": 670,
             "character_name": "Loren Arji"
@@ -875,7 +875,7 @@
             "solar_system_id": 30000848,
             "value": 943480.65,
             "kill_id": 52810070,
-            "shipName": "",
+            "agent_id": 95122104,
             "date": "2016-03-26 00:36:25",
             "ship_type_id": 670,
             "character_name": "Lorakai Yessam"
@@ -885,7 +885,7 @@
             "solar_system_id": 31001171,
             "value": 932222.24,
             "kill_id": 52469046,
-            "shipName": "",
+            "agent_id": 95707291,
             "date": "2016-03-07 14:13:04",
             "ship_type_id": 670,
             "character_name": "Jace Bond"
@@ -895,7 +895,7 @@
             "solar_system_id": 30003534,
             "value": 817284.43,
             "kill_id": 52885442,
-            "shipName": "",
+            "agent_id": 237608053,
             "date": "2016-03-29 02:17:27",
             "ship_type_id": 670,
             "character_name": "Domedi Incarnatus"
@@ -905,7 +905,7 @@
             "solar_system_id": 30003277,
             "value": 781544.65,
             "kill_id": 52634675,
-            "shipName": "",
+            "agent_id": 93823439,
             "date": "2016-03-16 22:08:49",
             "ship_type_id": 670,
             "character_name": "Tataanka Heluene"
@@ -915,7 +915,7 @@
             "solar_system_id": 31000444,
             "value": 726070.96,
             "kill_id": 52440445,
-            "shipName": "",
+            "agent_id": 1877013808,
             "date": "2016-03-06 06:02:47",
             "ship_type_id": 33328,
             "character_name": "Taumaril Kashuken"
@@ -925,7 +925,7 @@
             "solar_system_id": 30003062,
             "value": 597886.21,
             "kill_id": 52382060,
-            "shipName": "",
+            "agent_id": 93563659,
             "date": "2016-03-03 15:39:59",
             "ship_type_id": 670,
             "character_name": "Jay Hoban"
@@ -935,7 +935,7 @@
             "solar_system_id": 30003732,
             "value": 542644.17,
             "kill_id": 52594126,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-14 08:30:29",
             "ship_type_id": 670,
             "character_name": "Desvoc Synchronized"
@@ -945,7 +945,7 @@
             "solar_system_id": 31000518,
             "value": 83189.54,
             "kill_id": 52373007,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-02 23:47:18",
             "ship_type_id": 670,
             "character_name": "katarina vu"
@@ -955,7 +955,7 @@
             "solar_system_id": 31000214,
             "value": 83189.54,
             "kill_id": 52358392,
-            "shipName": "",
+            "agent_id": 95586434,
             "date": "2016-03-02 03:34:05",
             "ship_type_id": 670,
             "character_name": "Yoatius Falvius"
@@ -965,7 +965,7 @@
             "solar_system_id": 31000879,
             "value": 74629.83,
             "kill_id": 52526733,
-            "shipName": "",
+            "agent_id": 93048287,
             "date": "2016-03-10 23:29:33",
             "ship_type_id": 670,
             "character_name": "Dmitry Vels"
@@ -975,7 +975,7 @@
             "solar_system_id": 31000459,
             "value": 72759.32,
             "kill_id": 52557781,
-            "shipName": "",
+            "agent_id": 608423770,
             "date": "2016-03-12 18:01:46",
             "ship_type_id": 670,
             "character_name": "Goblin Techies"
@@ -985,7 +985,7 @@
             "solar_system_id": 31000296,
             "value": 68729.79,
             "kill_id": 52750634,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-22 22:03:04",
             "ship_type_id": 670,
             "character_name": "Eranova Alabel"
@@ -995,7 +995,7 @@
             "solar_system_id": 31000253,
             "value": 68697.14,
             "kill_id": 52762444,
-            "shipName": "",
+            "agent_id": 94518342,
             "date": "2016-03-23 17:56:35",
             "ship_type_id": 670,
             "character_name": "Linda Brook"
@@ -1005,7 +1005,7 @@
             "solar_system_id": 31001095,
             "value": 64022.64,
             "kill_id": 52904496,
-            "shipName": "",
+            "agent_id": 96179191,
             "date": "2016-03-30 01:46:28",
             "ship_type_id": 670,
             "character_name": "Septius Maxonus"
@@ -1015,7 +1015,7 @@
             "solar_system_id": 31000161,
             "value": 63223.08,
             "kill_id": 52906587,
-            "shipName": "",
+            "agent_id": 94634110,
             "date": "2016-03-30 03:58:40",
             "ship_type_id": 670,
             "character_name": "Leht"
@@ -1025,7 +1025,7 @@
             "solar_system_id": 31000276,
             "value": 62538.97,
             "kill_id": 52927655,
-            "shipName": "",
+            "agent_id": 92168995,
             "date": "2016-03-31 04:39:51",
             "ship_type_id": 670,
             "character_name": "Paha Armanchev"
@@ -1035,7 +1035,7 @@
             "solar_system_id": 30003274,
             "value": 49625.64,
             "kill_id": 52410555,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-05 00:44:53",
             "ship_type_id": 670,
             "character_name": "Toni Garbanzo"
@@ -1045,7 +1045,7 @@
             "solar_system_id": 31001064,
             "value": 49625.64,
             "kill_id": 52392385,
-            "shipName": "",
+            "agent_id": 1502557835,
             "date": "2016-03-04 01:55:48",
             "ship_type_id": 670,
             "character_name": "Nathan Messenger"
@@ -1055,7 +1055,7 @@
             "solar_system_id": 31000823,
             "value": 42290.82,
             "kill_id": 52843462,
-            "shipName": "",
+            "agent_id": 96193133,
             "date": "2016-03-27 09:42:27",
             "ship_type_id": 670,
             "character_name": "Drivewine Wine"
@@ -1065,7 +1065,7 @@
             "solar_system_id": 31000847,
             "value": 42059.41,
             "kill_id": 52873716,
-            "shipName": "",
+            "agent_id": 94803277,
             "date": "2016-03-28 18:34:02",
             "ship_type_id": 670,
             "character_name": "Gaspar Kadruz"
@@ -1075,7 +1075,7 @@
             "solar_system_id": 31000869,
             "value": 31837.61,
             "kill_id": 52936240,
-            "shipName": "",
+            "agent_id": 95921260,
             "date": "2016-03-31 18:04:31",
             "ship_type_id": 670,
             "character_name": "AdmShepard Kraiton"
@@ -1085,7 +1085,7 @@
             "solar_system_id": 31000483,
             "value": 10000,
             "kill_id": 52944436,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-31 23:29:08",
             "ship_type_id": 670,
             "character_name": "Yurok Gyurza"
@@ -1095,7 +1095,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52944192,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-31 23:16:23",
             "ship_type_id": 670,
             "character_name": "Sexy Lord"
@@ -1105,7 +1105,7 @@
             "solar_system_id": 30002789,
             "value": 10000,
             "kill_id": 52944053,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-31 23:10:22",
             "ship_type_id": 670,
             "character_name": "Sorgia"
@@ -1115,7 +1115,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52943939,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-31 23:05:23",
             "ship_type_id": 670,
             "character_name": "Nighteye Plaude"
@@ -1125,7 +1125,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52943731,
-            "shipName": "",
+            "agent_id": 1159912758,
             "date": "2016-03-31 22:55:23",
             "ship_type_id": 670,
             "character_name": "Mustard Annages"
@@ -1135,7 +1135,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52943628,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-31 22:50:23",
             "ship_type_id": 670,
             "character_name": "Kosmodirka Keikira"
@@ -1145,7 +1145,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52943563,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-31 22:48:23",
             "ship_type_id": 670,
             "character_name": "PsyKoPow"
@@ -1155,7 +1155,7 @@
             "solar_system_id": 31000384,
             "value": 10000,
             "kill_id": 52942468,
-            "shipName": "",
+            "agent_id": 95107372,
             "date": "2016-03-31 22:13:52",
             "ship_type_id": 670,
             "character_name": "Bobb Bobbington"
@@ -1165,7 +1165,7 @@
             "solar_system_id": 30003764,
             "value": 10000,
             "kill_id": 52939107,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-31 20:04:28",
             "ship_type_id": 670,
             "character_name": "PunchBelt LoneStarr"
@@ -1175,7 +1175,7 @@
             "solar_system_id": 31000482,
             "value": 10000,
             "kill_id": 52930644,
-            "shipName": "",
+            "agent_id": 93048287,
             "date": "2016-03-31 10:36:53",
             "ship_type_id": 670,
             "character_name": "ANGELINA DEMLER"
@@ -1185,7 +1185,7 @@
             "solar_system_id": 30000999,
             "value": 10000,
             "kill_id": 52929739,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-31 08:42:27",
             "ship_type_id": 670,
             "character_name": "Nashurka RF"
@@ -1195,7 +1195,7 @@
             "solar_system_id": 31001756,
             "value": 10000,
             "kill_id": 52929357,
-            "shipName": "",
+            "agent_id": 618214468,
             "date": "2016-03-31 07:47:59",
             "ship_type_id": 670,
             "character_name": "Starcorn"
@@ -1205,7 +1205,7 @@
             "solar_system_id": 31000365,
             "value": 10000,
             "kill_id": 52926656,
-            "shipName": "",
+            "agent_id": 618214468,
             "date": "2016-03-31 03:18:02",
             "ship_type_id": 670,
             "character_name": "Jul Stekin"
@@ -1215,7 +1215,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52923606,
-            "shipName": "",
+            "agent_id": 1159912758,
             "date": "2016-03-30 23:51:49",
             "ship_type_id": 670,
             "character_name": "Marin Lunaire"
@@ -1225,7 +1225,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52923505,
-            "shipName": "",
+            "agent_id": 92631711,
             "date": "2016-03-30 23:46:49",
             "ship_type_id": 670,
             "character_name": "Drago Anasazy"
@@ -1235,7 +1235,7 @@
             "solar_system_id": 30000867,
             "value": 10000,
             "kill_id": 52922135,
-            "shipName": "",
+            "agent_id": 1640448394,
             "date": "2016-03-30 22:24:29",
             "ship_type_id": 670,
             "character_name": "Lady2 Deninard"
@@ -1245,7 +1245,7 @@
             "solar_system_id": 31002472,
             "value": 10000,
             "kill_id": 52913594,
-            "shipName": "",
+            "agent_id": 96241042,
             "date": "2016-03-30 16:15:48",
             "ship_type_id": 670,
             "character_name": "Emma Hilanen"
@@ -1255,7 +1255,7 @@
             "solar_system_id": 30001249,
             "value": 10000,
             "kill_id": 52911097,
-            "shipName": "",
+            "agent_id": 95329086,
             "date": "2016-03-30 12:50:29",
             "ship_type_id": 670,
             "character_name": "Mom ImBusy"
@@ -1265,7 +1265,7 @@
             "solar_system_id": 31000161,
             "value": 10000,
             "kill_id": 52909837,
-            "shipName": "",
+            "agent_id": 94634110,
             "date": "2016-03-30 09:56:03",
             "ship_type_id": 670,
             "character_name": "zahara Acami"
@@ -1275,7 +1275,7 @@
             "solar_system_id": 31001095,
             "value": 10000,
             "kill_id": 52904580,
-            "shipName": "",
+            "agent_id": 96278355,
             "date": "2016-03-30 01:52:51",
             "ship_type_id": 670,
             "character_name": "Ket Ikkala"
@@ -1285,7 +1285,7 @@
             "solar_system_id": 31000784,
             "value": 10000,
             "kill_id": 52904119,
-            "shipName": "",
+            "agent_id": 95647265,
             "date": "2016-03-30 01:17:03",
             "ship_type_id": 670,
             "character_name": "Chalashaska The'Kossack"
@@ -1295,7 +1295,7 @@
             "solar_system_id": 31001116,
             "value": 10000,
             "kill_id": 52895175,
-            "shipName": "",
+            "agent_id": 94154468,
             "date": "2016-03-29 17:47:37",
             "ship_type_id": 670,
             "character_name": "Artusia"
@@ -1305,7 +1305,7 @@
             "solar_system_id": 30001762,
             "value": 10000,
             "kill_id": 52892048,
-            "shipName": "",
+            "agent_id": 721072306,
             "date": "2016-03-29 14:16:08",
             "ship_type_id": 670,
             "character_name": "WYU-TANG"
@@ -1315,7 +1315,7 @@
             "solar_system_id": 31000376,
             "value": 10000,
             "kill_id": 52891727,
-            "shipName": "",
+            "agent_id": 92215001,
             "date": "2016-03-29 13:46:22",
             "ship_type_id": 670,
             "character_name": "SIERRAOMEGA"
@@ -1325,7 +1325,7 @@
             "solar_system_id": 31000376,
             "value": 10000,
             "kill_id": 52891722,
-            "shipName": "",
+            "agent_id": 92215001,
             "date": "2016-03-29 13:45:22",
             "ship_type_id": 670,
             "character_name": "Illiana ShadowGlade"
@@ -1335,7 +1335,7 @@
             "solar_system_id": 31001161,
             "value": 10000,
             "kill_id": 52890299,
-            "shipName": "",
+            "agent_id": 96193133,
             "date": "2016-03-29 10:35:14",
             "ship_type_id": 670,
             "character_name": "Paul Filatenkov"
@@ -1345,7 +1345,7 @@
             "solar_system_id": 30002428,
             "value": 10000,
             "kill_id": 52885652,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-29 02:36:51",
             "ship_type_id": 670,
             "character_name": "Vonni Anneto"
@@ -1355,7 +1355,7 @@
             "solar_system_id": 30002813,
             "value": 10000,
             "kill_id": 52885594,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-29 02:31:00",
             "ship_type_id": 670,
             "character_name": "Dima Solodilov77"
@@ -1365,7 +1365,7 @@
             "solar_system_id": 30000848,
             "value": 10000,
             "kill_id": 52885247,
-            "shipName": "",
+            "agent_id": 1159912758,
             "date": "2016-03-29 02:07:42",
             "ship_type_id": 670,
             "character_name": "DaFaz Endashi"
@@ -1375,7 +1375,7 @@
             "solar_system_id": 30000848,
             "value": 10000,
             "kill_id": 52884426,
-            "shipName": "",
+            "agent_id": 833050087,
             "date": "2016-03-29 01:08:41",
             "ship_type_id": 670,
             "character_name": "Nazurel"
@@ -1385,7 +1385,7 @@
             "solar_system_id": 30000848,
             "value": 10000,
             "kill_id": 52883136,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-28 23:43:20",
             "ship_type_id": 670,
             "character_name": "Syrra Fox"
@@ -1395,7 +1395,7 @@
             "solar_system_id": 31000482,
             "value": 10000,
             "kill_id": 52874986,
-            "shipName": "",
+            "agent_id": 92631711,
             "date": "2016-03-28 19:33:27",
             "ship_type_id": 670,
             "character_name": "HAM Shazih"
@@ -1405,7 +1405,7 @@
             "solar_system_id": 31000689,
             "value": 10000,
             "kill_id": 52872728,
-            "shipName": "",
+            "agent_id": 95921260,
             "date": "2016-03-28 17:51:53",
             "ship_type_id": 670,
             "character_name": "Kasia BumBum"
@@ -1415,7 +1415,7 @@
             "solar_system_id": 31000689,
             "value": 10000,
             "kill_id": 52872705,
-            "shipName": "",
+            "agent_id": 95921260,
             "date": "2016-03-28 17:50:53",
             "ship_type_id": 670,
             "character_name": "Artur Lewandowski"
@@ -1425,7 +1425,7 @@
             "solar_system_id": 31001114,
             "value": 10000,
             "kill_id": 52866935,
-            "shipName": "",
+            "agent_id": 95344823,
             "date": "2016-03-28 12:00:29",
             "ship_type_id": 670,
             "character_name": "igorian Skor"
@@ -1435,7 +1435,7 @@
             "solar_system_id": 31001100,
             "value": 10000,
             "kill_id": 52866778,
-            "shipName": "",
+            "agent_id": 95707291,
             "date": "2016-03-28 11:47:21",
             "ship_type_id": 670,
             "character_name": "Jhonny Carcinogen"
@@ -1445,7 +1445,7 @@
             "solar_system_id": 30004592,
             "value": 10000,
             "kill_id": 52863615,
-            "shipName": "",
+            "agent_id": 730334580,
             "date": "2016-03-28 05:10:10",
             "ship_type_id": 670,
             "character_name": "Project 28"
@@ -1455,7 +1455,7 @@
             "solar_system_id": 31001075,
             "value": 10000,
             "kill_id": 52863316,
-            "shipName": "",
+            "agent_id": 94634110,
             "date": "2016-03-28 04:32:17",
             "ship_type_id": 670,
             "character_name": "Caves Eginald"
@@ -1465,7 +1465,7 @@
             "solar_system_id": 31001075,
             "value": 10000,
             "kill_id": 52862946,
-            "shipName": "",
+            "agent_id": 618214468,
             "date": "2016-03-28 04:00:17",
             "ship_type_id": 670,
             "character_name": "Caves Eginald"
@@ -1475,7 +1475,7 @@
             "solar_system_id": 30000250,
             "value": 10000,
             "kill_id": 52861574,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-28 02:23:06",
             "ship_type_id": 670,
             "character_name": "Full Potato"
@@ -1485,7 +1485,7 @@
             "solar_system_id": 31000784,
             "value": 10000,
             "kill_id": 52848787,
-            "shipName": "",
+            "agent_id": 95647265,
             "date": "2016-03-27 16:31:11",
             "ship_type_id": 670,
             "character_name": "Retoran"
@@ -1495,7 +1495,7 @@
             "solar_system_id": 31001949,
             "value": 10000,
             "kill_id": 52848645,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-27 16:24:48",
             "ship_type_id": 670,
             "character_name": "Nionis Alucard"
@@ -1505,7 +1505,7 @@
             "solar_system_id": 31000296,
             "value": 10000,
             "kill_id": 52841608,
-            "shipName": "",
+            "agent_id": 95133648,
             "date": "2016-03-27 06:47:23",
             "ship_type_id": 670,
             "character_name": "Raven Hawkeyes"
@@ -1515,7 +1515,7 @@
             "solar_system_id": 30000180,
             "value": 10000,
             "kill_id": 52840781,
-            "shipName": "",
+            "agent_id": 95896955,
             "date": "2016-03-27 05:40:40",
             "ship_type_id": 670,
             "character_name": "Raven644"
@@ -1525,7 +1525,7 @@
             "solar_system_id": 30000284,
             "value": 10000,
             "kill_id": 52834668,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-26 23:25:09",
             "ship_type_id": 670,
             "character_name": "xxxKATxxx"
@@ -1535,7 +1535,7 @@
             "solar_system_id": 30004360,
             "value": 10000,
             "kill_id": 52832639,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-26 22:06:26",
             "ship_type_id": 670,
             "character_name": "GD CORP"
@@ -1545,7 +1545,7 @@
             "solar_system_id": 31000399,
             "value": 10000,
             "kill_id": 52832603,
-            "shipName": "",
+            "agent_id": 94634110,
             "date": "2016-03-26 22:05:17",
             "ship_type_id": 670,
             "character_name": "Mus Tar"
@@ -1555,7 +1555,7 @@
             "solar_system_id": 31000296,
             "value": 10000,
             "kill_id": 52824465,
-            "shipName": "",
+            "agent_id": 1366631333,
             "date": "2016-03-26 17:16:20",
             "ship_type_id": 670,
             "character_name": "Raven Hawkeyes"
@@ -1565,7 +1565,7 @@
             "solar_system_id": 31000412,
             "value": 10000,
             "kill_id": 52823139,
-            "shipName": "",
+            "agent_id": 92805979,
             "date": "2016-03-26 16:10:20",
             "ship_type_id": 670,
             "character_name": "Merronsk"
@@ -1575,7 +1575,7 @@
             "solar_system_id": 31000277,
             "value": 10000,
             "kill_id": 52822676,
-            "shipName": "",
+            "agent_id": 96241042,
             "date": "2016-03-26 15:47:37",
             "ship_type_id": 670,
             "character_name": "Inari Inkura"
@@ -1585,7 +1585,7 @@
             "solar_system_id": 30004319,
             "value": 10000,
             "kill_id": 52817192,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-26 09:15:34",
             "ship_type_id": 670,
             "character_name": "Tuang Meo"
@@ -1595,7 +1595,7 @@
             "solar_system_id": 30003611,
             "value": 10000,
             "kill_id": 52816333,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-26 08:02:03",
             "ship_type_id": 670,
             "character_name": "Koronas Aideron"
@@ -1605,7 +1605,7 @@
             "solar_system_id": 31001164,
             "value": 10000,
             "kill_id": 52815779,
-            "shipName": "",
+            "agent_id": 2016716051,
             "date": "2016-03-26 07:10:53",
             "ship_type_id": 670,
             "character_name": "Vlad Greivs"
@@ -1615,7 +1615,7 @@
             "solar_system_id": 30000254,
             "value": 10000,
             "kill_id": 52814628,
-            "shipName": "",
+            "agent_id": 90032436,
             "date": "2016-03-26 05:26:41",
             "ship_type_id": 670,
             "character_name": "Sabotaged"
@@ -1625,7 +1625,7 @@
             "solar_system_id": 30000254,
             "value": 10000,
             "kill_id": 52814627,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-26 05:26:41",
             "ship_type_id": 670,
             "character_name": "Ajax Orel"
@@ -1635,7 +1635,7 @@
             "solar_system_id": 30000256,
             "value": 10000,
             "kill_id": 52813752,
-            "shipName": "",
+            "agent_id": 1159912758,
             "date": "2016-03-26 04:24:28",
             "ship_type_id": 670,
             "character_name": "Krevin Swizeman"
@@ -1645,7 +1645,7 @@
             "solar_system_id": 30001380,
             "value": 10000,
             "kill_id": 52812386,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-26 03:04:33",
             "ship_type_id": 670,
             "character_name": "Efrosyni Dora"
@@ -1655,7 +1655,7 @@
             "solar_system_id": 30001380,
             "value": 10000,
             "kill_id": 52812385,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-26 03:04:33",
             "ship_type_id": 670,
             "character_name": "Melina Timothea"
@@ -1665,7 +1665,7 @@
             "solar_system_id": 30002057,
             "value": 10000,
             "kill_id": 52811270,
-            "shipName": "",
+            "agent_id": 94942936,
             "date": "2016-03-26 01:50:47",
             "ship_type_id": 670,
             "character_name": "Brotosz"
@@ -1675,7 +1675,7 @@
             "solar_system_id": 31000447,
             "value": 10000,
             "kill_id": 52810434,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-26 00:56:11",
             "ship_type_id": 670,
             "character_name": "Jose Lozoya"
@@ -1685,7 +1685,7 @@
             "solar_system_id": 31000296,
             "value": 10000,
             "kill_id": 52801332,
-            "shipName": "",
+            "agent_id": 1366631333,
             "date": "2016-03-25 18:34:47",
             "ship_type_id": 670,
             "character_name": "Hawkeys Hunter"
@@ -1695,7 +1695,7 @@
             "solar_system_id": 31000447,
             "value": 10000,
             "kill_id": 52800163,
-            "shipName": "",
+            "agent_id": 96241042,
             "date": "2016-03-25 17:29:09",
             "ship_type_id": 670,
             "character_name": "Ronin Orti"
@@ -1705,7 +1705,7 @@
             "solar_system_id": 30000282,
             "value": 10000,
             "kill_id": 52794659,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-25 09:34:49",
             "ship_type_id": 670,
             "character_name": "Torsten Silberlocke"
@@ -1715,7 +1715,7 @@
             "solar_system_id": 30000072,
             "value": 10000,
             "kill_id": 52792409,
-            "shipName": "",
+            "agent_id": 92094003,
             "date": "2016-03-25 04:39:12",
             "ship_type_id": 670,
             "character_name": "McDeath God"
@@ -1725,7 +1725,7 @@
             "solar_system_id": 30003942,
             "value": 10000,
             "kill_id": 52785075,
-            "shipName": "",
+            "agent_id": 95332003,
             "date": "2016-03-24 21:03:03",
             "ship_type_id": 670,
             "character_name": "Amandola"
@@ -1735,7 +1735,7 @@
             "solar_system_id": 30003942,
             "value": 10000,
             "kill_id": 52782710,
-            "shipName": "",
+            "agent_id": 95177553,
             "date": "2016-03-24 19:24:02",
             "ship_type_id": 670,
             "character_name": "Kreka Teradax"
@@ -1745,7 +1745,7 @@
             "solar_system_id": 30003942,
             "value": 10000,
             "kill_id": 52782649,
-            "shipName": "",
+            "agent_id": 90749561,
             "date": "2016-03-24 19:21:02",
             "ship_type_id": 670,
             "character_name": "HAM Shazih"
@@ -1755,7 +1755,7 @@
             "solar_system_id": 30005035,
             "value": 10000,
             "kill_id": 52779904,
-            "shipName": "",
+            "agent_id": 95675630,
             "date": "2016-03-24 16:42:22",
             "ship_type_id": 670,
             "character_name": "Valeron Crendraven"
@@ -1765,7 +1765,7 @@
             "solar_system_id": 30001215,
             "value": 10000,
             "kill_id": 52778660,
-            "shipName": "",
+            "agent_id": 1634962585,
             "date": "2016-03-24 14:46:14",
             "ship_type_id": 670,
             "character_name": "Sandy Freir"
@@ -1775,7 +1775,7 @@
             "solar_system_id": 30003669,
             "value": 10000,
             "kill_id": 52776002,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-24 08:39:05",
             "ship_type_id": 670,
             "character_name": "Asen Ragnar"
@@ -1785,7 +1785,7 @@
             "solar_system_id": 31000035,
             "value": 10000,
             "kill_id": 52774377,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-24 04:41:19",
             "ship_type_id": 670,
             "character_name": "Tienna Olerie"
@@ -1795,7 +1795,7 @@
             "solar_system_id": 31000200,
             "value": 10000,
             "kill_id": 52773582,
-            "shipName": "",
+            "agent_id": 504639795,
             "date": "2016-03-24 03:29:57",
             "ship_type_id": 670,
             "character_name": "Orion Toralen"
@@ -1805,7 +1805,7 @@
             "solar_system_id": 30001085,
             "value": 10000,
             "kill_id": 52770196,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-24 00:03:27",
             "ship_type_id": 670,
             "character_name": "soulreaper3379"
@@ -1815,7 +1815,7 @@
             "solar_system_id": 30002651,
             "value": 10000,
             "kill_id": 52769917,
-            "shipName": "",
+            "agent_id": 96179191,
             "date": "2016-03-23 23:45:54",
             "ship_type_id": 670,
             "character_name": "Aslan Valid"
@@ -1825,7 +1825,7 @@
             "solar_system_id": 30004267,
             "value": 10000,
             "kill_id": 52769421,
-            "shipName": "",
+            "agent_id": 730334580,
             "date": "2016-03-23 23:11:24",
             "ship_type_id": 670,
             "character_name": "xXSTAFFORDSHIREXx"
@@ -1835,7 +1835,7 @@
             "solar_system_id": 30000848,
             "value": 10000,
             "kill_id": 52767681,
-            "shipName": "",
+            "agent_id": 951420810,
             "date": "2016-03-23 21:53:17",
             "ship_type_id": 670,
             "character_name": "Luc426"
@@ -1845,7 +1845,7 @@
             "solar_system_id": 30003764,
             "value": 10000,
             "kill_id": 52760316,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-23 15:12:14",
             "ship_type_id": 670,
             "character_name": "Yeegh'cer'deik"
@@ -1855,7 +1855,7 @@
             "solar_system_id": 30000287,
             "value": 10000,
             "kill_id": 52758322,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-23 10:36:51",
             "ship_type_id": 670,
             "character_name": "Pavel Virpio"
@@ -1865,7 +1865,7 @@
             "solar_system_id": 30005297,
             "value": 10000,
             "kill_id": 52758168,
-            "shipName": "",
+            "agent_id": 95638558,
             "date": "2016-03-23 10:20:24",
             "ship_type_id": 670,
             "character_name": "H-11 H-77"
@@ -1875,7 +1875,7 @@
             "solar_system_id": 30000144,
             "value": 10000,
             "kill_id": 52753967,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-23 01:47:39",
             "ship_type_id": 670,
             "character_name": "Rhaegar Ellecon"
@@ -1885,7 +1885,7 @@
             "solar_system_id": 31000296,
             "value": 10000,
             "kill_id": 52750523,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-22 21:57:36",
             "ship_type_id": 670,
             "character_name": "Hawkeys Hunter"
@@ -1895,7 +1895,7 @@
             "solar_system_id": 30003764,
             "value": 10000,
             "kill_id": 52740437,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-22 07:33:37",
             "ship_type_id": 670,
             "character_name": "Leonnemeios"
@@ -1905,7 +1905,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52738759,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-22 04:00:00",
             "ship_type_id": 670,
             "character_name": "juist Moliko"
@@ -1915,7 +1915,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52738709,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-22 03:55:59",
             "ship_type_id": 670,
             "character_name": "NayLuvsMe Ostus"
@@ -1925,7 +1925,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52738702,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-22 03:54:59",
             "ship_type_id": 670,
             "character_name": "juist Moliko"
@@ -1935,7 +1935,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52738659,
-            "shipName": "",
+            "agent_id": 730334580,
             "date": "2016-03-22 03:50:59",
             "ship_type_id": 670,
             "character_name": "juist Moliko"
@@ -1945,7 +1945,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52738621,
-            "shipName": "",
+            "agent_id": 730334580,
             "date": "2016-03-22 03:46:59",
             "ship_type_id": 670,
             "character_name": "juist Moliko"
@@ -1955,7 +1955,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52738568,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-22 03:41:59",
             "ship_type_id": 670,
             "character_name": "juist Moliko"
@@ -1965,7 +1965,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52738384,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-22 03:21:59",
             "ship_type_id": 670,
             "character_name": "juist Moliko"
@@ -1975,7 +1975,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52737894,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-22 02:37:59",
             "ship_type_id": 670,
             "character_name": "Andromeda Beast"
@@ -1985,7 +1985,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52737250,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-22 02:04:59",
             "ship_type_id": 670,
             "character_name": "Morpheus Atari"
@@ -1995,7 +1995,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52737158,
-            "shipName": "",
+            "agent_id": 92863054,
             "date": "2016-03-22 01:59:59",
             "ship_type_id": 670,
             "character_name": "za kuii"
@@ -2005,7 +2005,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52737063,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-22 01:54:59",
             "ship_type_id": 670,
             "character_name": "Hermes Multipass"
@@ -2015,7 +2015,7 @@
             "solar_system_id": 30003732,
             "value": 10000,
             "kill_id": 52731101,
-            "shipName": "",
+            "agent_id": 93648199,
             "date": "2016-03-21 20:25:53",
             "ship_type_id": 670,
             "character_name": "Nick Zander"
@@ -2025,7 +2025,7 @@
             "solar_system_id": 31002532,
             "value": 10000,
             "kill_id": 52725431,
-            "shipName": "",
+            "agent_id": 94720086,
             "date": "2016-03-21 14:12:33",
             "ship_type_id": 670,
             "character_name": "Maya oMaya"
@@ -2035,7 +2035,7 @@
             "solar_system_id": 31000482,
             "value": 10000,
             "kill_id": 52721652,
-            "shipName": "",
+            "agent_id": 1889846214,
             "date": "2016-03-21 05:25:25",
             "ship_type_id": 670,
             "character_name": "Alora Anophis"
@@ -2045,7 +2045,7 @@
             "solar_system_id": 30000848,
             "value": 10000,
             "kill_id": 52715187,
-            "shipName": "",
+            "agent_id": 92863054,
             "date": "2016-03-20 22:05:27",
             "ship_type_id": 670,
             "character_name": "Sa Rin"
@@ -2055,7 +2055,7 @@
             "solar_system_id": 30004319,
             "value": 10000,
             "kill_id": 52709715,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-20 18:59:35",
             "ship_type_id": 670,
             "character_name": "Tuang Meo"
@@ -2065,7 +2065,7 @@
             "solar_system_id": 31002580,
             "value": 10000,
             "kill_id": 52709344,
-            "shipName": "",
+            "agent_id": 95858209,
             "date": "2016-03-20 18:41:07",
             "ship_type_id": 670,
             "character_name": "Angel Sultan"
@@ -2075,7 +2075,7 @@
             "solar_system_id": 31001089,
             "value": 10000,
             "kill_id": 52702587,
-            "shipName": "",
+            "agent_id": 95233310,
             "date": "2016-03-20 12:48:22",
             "ship_type_id": 670,
             "character_name": "Zerk Tuback"
@@ -2085,7 +2085,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52698156,
-            "shipName": "",
+            "agent_id": 91646823,
             "date": "2016-03-20 05:35:40",
             "ship_type_id": 670,
             "character_name": "Liquid Lace"
@@ -2095,7 +2095,7 @@
             "solar_system_id": 30004333,
             "value": 10000,
             "kill_id": 52696612,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-20 03:45:30",
             "ship_type_id": 670,
             "character_name": "Patty Loveless"
@@ -2105,7 +2105,7 @@
             "solar_system_id": 31000276,
             "value": 10000,
             "kill_id": 52687656,
-            "shipName": "",
+            "agent_id": 94154468,
             "date": "2016-03-19 20:23:38",
             "ship_type_id": 670,
             "character_name": "reaper8722"
@@ -2115,7 +2115,7 @@
             "solar_system_id": 31001332,
             "value": 10000,
             "kill_id": 52680153,
-            "shipName": "",
+            "agent_id": 92311170,
             "date": "2016-03-19 14:24:04",
             "ship_type_id": 670,
             "character_name": "Alexey Haginen"
@@ -2125,7 +2125,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674855,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-19 06:11:39",
             "ship_type_id": 670,
             "character_name": "Lawrence Lawton"
@@ -2135,7 +2135,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674839,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-19 06:10:39",
             "ship_type_id": 670,
             "character_name": "Justin Kusion"
@@ -2145,7 +2145,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674838,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-19 06:10:39",
             "ship_type_id": 670,
             "character_name": "Jackson Kusion"
@@ -2155,7 +2155,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674837,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-19 06:10:39",
             "ship_type_id": 670,
             "character_name": "Jake Kusion"
@@ -2165,7 +2165,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674836,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-19 06:10:39",
             "ship_type_id": 670,
             "character_name": "Assassn Gallic"
@@ -2175,7 +2175,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674835,
-            "shipName": "",
+            "agent_id": 94307623,
             "date": "2016-03-19 06:10:39",
             "ship_type_id": 670,
             "character_name": "Johnathan Kusion"
@@ -2185,7 +2185,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674832,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-19 06:10:39",
             "ship_type_id": 670,
             "character_name": "loyalanon"
@@ -2195,7 +2195,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674818,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-19 06:09:39",
             "ship_type_id": 670,
             "character_name": "Joel Kusion"
@@ -2205,7 +2205,7 @@
             "solar_system_id": 30003504,
             "value": 10000,
             "kill_id": 52674797,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-19 06:07:39",
             "ship_type_id": 670,
             "character_name": "Jayson Kusion"
@@ -2215,7 +2215,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52673588,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-19 04:25:53",
             "ship_type_id": 670,
             "character_name": "Tate Gaterau"
@@ -2225,7 +2225,7 @@
             "solar_system_id": 30045347,
             "value": 10000,
             "kill_id": 52667711,
-            "shipName": "",
+            "agent_id": 92956893,
             "date": "2016-03-18 22:38:27",
             "ship_type_id": 670,
             "character_name": "PeanutButter BaconJam"
@@ -2235,7 +2235,7 @@
             "solar_system_id": 30004913,
             "value": 10000,
             "kill_id": 52664245,
-            "shipName": "",
+            "agent_id": 93220962,
             "date": "2016-03-18 20:07:06",
             "ship_type_id": 670,
             "character_name": "Weini0101 Nosha"
@@ -2245,7 +2245,7 @@
             "solar_system_id": 31001091,
             "value": 10000,
             "kill_id": 52660968,
-            "shipName": "",
+            "agent_id": 95921260,
             "date": "2016-03-18 16:56:43",
             "ship_type_id": 670,
             "character_name": "Mai Maiskiy"
@@ -2255,7 +2255,7 @@
             "solar_system_id": 31000803,
             "value": 10000,
             "kill_id": 52659079,
-            "shipName": "",
+            "agent_id": 94922237,
             "date": "2016-03-18 14:15:57",
             "ship_type_id": 670,
             "character_name": "Eva Cruise"
@@ -2265,7 +2265,7 @@
             "solar_system_id": 30004369,
             "value": 10000,
             "kill_id": 52654913,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-18 04:02:41",
             "ship_type_id": 670,
             "character_name": "WarDen ShadowSong"
@@ -2275,7 +2275,7 @@
             "solar_system_id": 30003681,
             "value": 10000,
             "kill_id": 52654431,
-            "shipName": "",
+            "agent_id": 95269724,
             "date": "2016-03-18 03:21:11",
             "ship_type_id": 670,
             "character_name": "Lydia Herodotus"
@@ -2285,7 +2285,7 @@
             "solar_system_id": 31000191,
             "value": 10000,
             "kill_id": 52654192,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-18 03:02:43",
             "ship_type_id": 670,
             "character_name": "Zerpex Silver"
@@ -2295,7 +2295,7 @@
             "solar_system_id": 31001091,
             "value": 10000,
             "kill_id": 52652610,
-            "shipName": "",
+            "agent_id": 95921260,
             "date": "2016-03-18 00:56:17",
             "ship_type_id": 670,
             "character_name": "March rain1"
@@ -2305,7 +2305,7 @@
             "solar_system_id": 31000555,
             "value": 10000,
             "kill_id": 52649918,
-            "shipName": "",
+            "agent_id": 93048287,
             "date": "2016-03-17 21:42:01",
             "ship_type_id": 670,
             "character_name": "Sho01 Solaris"
@@ -2315,7 +2315,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52634389,
-            "shipName": "",
+            "agent_id": 92863054,
             "date": "2016-03-16 21:51:11",
             "ship_type_id": 670,
             "character_name": "Raven Morbid"
@@ -2325,7 +2325,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52634203,
-            "shipName": "",
+            "agent_id": 96193133,
             "date": "2016-03-16 21:43:11",
             "ship_type_id": 670,
             "character_name": "PurplePicklePepper PPP"
@@ -2335,7 +2335,7 @@
             "solar_system_id": 30045346,
             "value": 10000,
             "kill_id": 52623308,
-            "shipName": "",
+            "agent_id": 96049787,
             "date": "2016-03-16 03:58:41",
             "ship_type_id": 670,
             "character_name": "Yolo Swagtron"
@@ -2345,7 +2345,7 @@
             "solar_system_id": 31001075,
             "value": 10000,
             "kill_id": 52616485,
-            "shipName": "",
+            "agent_id": 90430124,
             "date": "2016-03-15 20:18:55",
             "ship_type_id": 670,
             "character_name": "Aleksei Ohmiras"
@@ -2355,7 +2355,7 @@
             "solar_system_id": 31000187,
             "value": 10000,
             "kill_id": 52603636,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-14 22:29:25",
             "ship_type_id": 670,
             "character_name": "Caramon Majeren"
@@ -2365,7 +2365,7 @@
             "solar_system_id": 31000291,
             "value": 10000,
             "kill_id": 52601807,
-            "shipName": "",
+            "agent_id": 1889846214,
             "date": "2016-03-14 20:54:21",
             "ship_type_id": 670,
             "character_name": "RuDante Nebail"
@@ -2375,7 +2375,7 @@
             "solar_system_id": 30005000,
             "value": 10000,
             "kill_id": 52596732,
-            "shipName": "",
+            "agent_id": 91435934,
             "date": "2016-03-14 15:20:03",
             "ship_type_id": 670,
             "character_name": "Curtz Sunrider"
@@ -2385,7 +2385,7 @@
             "solar_system_id": 30003274,
             "value": 10000,
             "kill_id": 52594604,
-            "shipName": "",
+            "agent_id": 95720869,
             "date": "2016-03-14 09:50:39",
             "ship_type_id": 670,
             "character_name": "Sebo Sindy"
@@ -2395,7 +2395,7 @@
             "solar_system_id": 31000526,
             "value": 10000,
             "kill_id": 52591164,
-            "shipName": "",
+            "agent_id": 94894989,
             "date": "2016-03-14 02:37:57",
             "ship_type_id": 670,
             "character_name": "Zen Amatin"
@@ -2405,7 +2405,7 @@
             "solar_system_id": 30003730,
             "value": 10000,
             "kill_id": 52584565,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-13 20:37:22",
             "ship_type_id": 670,
             "character_name": "Jaquelin Arsten"
@@ -2415,7 +2415,7 @@
             "solar_system_id": 30003730,
             "value": 10000,
             "kill_id": 52580118,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-13 17:32:21",
             "ship_type_id": 670,
             "character_name": "Lupus Pappotte"
@@ -2425,7 +2425,7 @@
             "solar_system_id": 31000390,
             "value": 10000,
             "kill_id": 52569953,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-13 04:29:44",
             "ship_type_id": 670,
             "character_name": "N7-DestroyeR-N7"
@@ -2435,7 +2435,7 @@
             "solar_system_id": 31000410,
             "value": 10000,
             "kill_id": 52561185,
-            "shipName": "",
+            "agent_id": 93594488,
             "date": "2016-03-12 20:40:07",
             "ship_type_id": 670,
             "character_name": "Fanell Disnaris"
@@ -2445,7 +2445,7 @@
             "solar_system_id": 31000005,
             "value": 10000,
             "kill_id": 52554857,
-            "shipName": "",
+            "agent_id": 96179191,
             "date": "2016-03-12 15:08:39",
             "ship_type_id": 670,
             "character_name": "Jangobro Alac"
@@ -2455,7 +2455,7 @@
             "solar_system_id": 30003732,
             "value": 10000,
             "kill_id": 52550326,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-12 08:02:12",
             "ship_type_id": 670,
             "character_name": "Aubaris Dain"
@@ -2465,7 +2465,7 @@
             "solar_system_id": 31000868,
             "value": 10000,
             "kill_id": 52536278,
-            "shipName": "",
+            "agent_id": 2052163101,
             "date": "2016-03-11 17:11:25",
             "ship_type_id": 670,
             "character_name": "Ghorso Jakuard"
@@ -2475,7 +2475,7 @@
             "solar_system_id": 30004347,
             "value": 10000,
             "kill_id": 52530591,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-11 05:09:23",
             "ship_type_id": 670,
             "character_name": "Pasely"
@@ -2485,7 +2485,7 @@
             "solar_system_id": 30004333,
             "value": 10000,
             "kill_id": 52530421,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-11 04:52:41",
             "ship_type_id": 670,
             "character_name": "Patty Loveless"
@@ -2495,7 +2495,7 @@
             "solar_system_id": 31000508,
             "value": 10000,
             "kill_id": 52527948,
-            "shipName": "",
+            "agent_id": 95921260,
             "date": "2016-03-11 00:56:44",
             "ship_type_id": 670,
             "character_name": "Melkiy Vanmeyr"
@@ -2505,7 +2505,7 @@
             "solar_system_id": 31000853,
             "value": 10000,
             "kill_id": 52516072,
-            "shipName": "",
+            "agent_id": 95732953,
             "date": "2016-03-10 07:28:22",
             "ship_type_id": 670,
             "character_name": "Petro Bamper"
@@ -2515,7 +2515,7 @@
             "solar_system_id": 31000198,
             "value": 10000,
             "kill_id": 52515050,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-10 05:43:50",
             "ship_type_id": 670,
             "character_name": "Blastronaut"
@@ -2525,7 +2525,7 @@
             "solar_system_id": 31000189,
             "value": 10000,
             "kill_id": 52509931,
-            "shipName": "",
+            "agent_id": 94636463,
             "date": "2016-03-09 22:26:51",
             "ship_type_id": 670,
             "character_name": "Ikari Itovuo"
@@ -2535,7 +2535,7 @@
             "solar_system_id": 31000989,
             "value": 10000,
             "kill_id": 52502363,
-            "shipName": "",
+            "agent_id": 1714860058,
             "date": "2016-03-09 14:30:56",
             "ship_type_id": 670,
             "character_name": "Alla Kasenumi"
@@ -2545,7 +2545,7 @@
             "solar_system_id": 31001835,
             "value": 10000,
             "kill_id": 52501107,
-            "shipName": "",
+            "agent_id": 95262782,
             "date": "2016-03-09 10:12:17",
             "ship_type_id": 670,
             "character_name": "JawDuku"
@@ -2555,7 +2555,7 @@
             "solar_system_id": 31000005,
             "value": 10000,
             "kill_id": 52496911,
-            "shipName": "",
+            "agent_id": 96179191,
             "date": "2016-03-09 02:17:34",
             "ship_type_id": 670,
             "character_name": "Trig K'Ryon"
@@ -2565,7 +2565,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52493177,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-08 21:35:18",
             "ship_type_id": 670,
             "character_name": "Mitchy Mitchymitch"
@@ -2575,7 +2575,7 @@
             "solar_system_id": 31000497,
             "value": 10000,
             "kill_id": 52491034,
-            "shipName": "",
+            "agent_id": 1366631333,
             "date": "2016-03-08 19:43:11",
             "ship_type_id": 670,
             "character_name": "ArcAngel7 saken"
@@ -2585,7 +2585,7 @@
             "solar_system_id": 30003734,
             "value": 10000,
             "kill_id": 52485747,
-            "shipName": "",
+            "agent_id": 92783231,
             "date": "2016-03-08 12:16:29",
             "ship_type_id": 670,
             "character_name": "Barash Kuval"
@@ -2595,7 +2595,7 @@
             "solar_system_id": 31001580,
             "value": 10000,
             "kill_id": 52483625,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-08 07:13:41",
             "ship_type_id": 670,
             "character_name": "Marionne"
@@ -2605,7 +2605,7 @@
             "solar_system_id": 31001580,
             "value": 10000,
             "kill_id": 52483613,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-08 07:12:41",
             "ship_type_id": 670,
             "character_name": "Tapadsou"
@@ -2615,7 +2615,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52481407,
-            "shipName": "",
+            "agent_id": 1640448394,
             "date": "2016-03-08 03:38:15",
             "ship_type_id": 670,
             "character_name": "Selene Evgenia"
@@ -2625,7 +2625,7 @@
             "solar_system_id": 31000005,
             "value": 10000,
             "kill_id": 52480081,
-            "shipName": "",
+            "agent_id": 94649276,
             "date": "2016-03-08 01:50:14",
             "ship_type_id": 670,
             "character_name": "tibbles Maricadie"
@@ -2635,7 +2635,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52480064,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-08 01:49:14",
             "ship_type_id": 670,
             "character_name": "Max Young"
@@ -2645,7 +2645,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52480035,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-08 01:47:14",
             "ship_type_id": 670,
             "character_name": "Kaylan Thor"
@@ -2655,7 +2655,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52479822,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-08 01:27:14",
             "ship_type_id": 670,
             "character_name": "Lystriana"
@@ -2665,7 +2665,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52479605,
-            "shipName": "",
+            "agent_id": 91835155,
             "date": "2016-03-08 01:09:14",
             "ship_type_id": 670,
             "character_name": "Nadia Andard"
@@ -2675,7 +2675,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52479552,
-            "shipName": "",
+            "agent_id": 91835155,
             "date": "2016-03-08 01:03:14",
             "ship_type_id": 670,
             "character_name": "Nadia Andard"
@@ -2685,7 +2685,7 @@
             "solar_system_id": 31001171,
             "value": 10000,
             "kill_id": 52469696,
-            "shipName": "",
+            "agent_id": 95707291,
             "date": "2016-03-07 15:10:23",
             "ship_type_id": 670,
             "character_name": "Bingo Bango Bongo"
@@ -2695,7 +2695,7 @@
             "solar_system_id": 31001171,
             "value": 10000,
             "kill_id": 52469590,
-            "shipName": "",
+            "agent_id": 95707291,
             "date": "2016-03-07 15:01:23",
             "ship_type_id": 670,
             "character_name": "Roman Deasel"
@@ -2705,7 +2705,7 @@
             "solar_system_id": 31001906,
             "value": 10000,
             "kill_id": 52465147,
-            "shipName": "",
+            "agent_id": 92205847,
             "date": "2016-03-07 05:37:15",
             "ship_type_id": 670,
             "character_name": "Tsawind Gallente"
@@ -2715,7 +2715,7 @@
             "solar_system_id": 31000172,
             "value": 10000,
             "kill_id": 52463423,
-            "shipName": "",
+            "agent_id": 94922237,
             "date": "2016-03-07 03:22:50",
             "ship_type_id": 670,
             "character_name": "Aidei Da'wan"
@@ -2725,7 +2725,7 @@
             "solar_system_id": 30002911,
             "value": 10000,
             "kill_id": 52463315,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-07 03:14:29",
             "ship_type_id": 670,
             "character_name": "Shoujiro Ogara"
@@ -2735,7 +2735,7 @@
             "solar_system_id": 31001545,
             "value": 10000,
             "kill_id": 52461649,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-07 01:07:26",
             "ship_type_id": 670,
             "character_name": "Fldr Kiev"
@@ -2745,7 +2745,7 @@
             "solar_system_id": 30004019,
             "value": 10000,
             "kill_id": 52455008,
-            "shipName": "",
+            "agent_id": 96176728,
             "date": "2016-03-06 20:32:03",
             "ship_type_id": 670,
             "character_name": "Kush Arcadian"
@@ -2755,7 +2755,7 @@
             "solar_system_id": 31000449,
             "value": 10000,
             "kill_id": 52451974,
-            "shipName": "",
+            "agent_id": 951156860,
             "date": "2016-03-06 18:49:24",
             "ship_type_id": 670,
             "character_name": "Eboga Arbosa"
@@ -2765,7 +2765,7 @@
             "solar_system_id": 31000444,
             "value": 10000,
             "kill_id": 52440460,
-            "shipName": "",
+            "agent_id": 1625587809,
             "date": "2016-03-06 06:03:37",
             "ship_type_id": 670,
             "character_name": "James Rapture"
@@ -2775,7 +2775,7 @@
             "solar_system_id": 31000444,
             "value": 10000,
             "kill_id": 52439963,
-            "shipName": "",
+            "agent_id": 95715380,
             "date": "2016-03-06 05:26:37",
             "ship_type_id": 670,
             "character_name": "deadeye johnson"
@@ -2785,7 +2785,7 @@
             "solar_system_id": 30003222,
             "value": 10000,
             "kill_id": 52431673,
-            "shipName": "",
+            "agent_id": 1813048054,
             "date": "2016-03-05 22:17:42",
             "ship_type_id": 670,
             "character_name": "mrmeaner90"
@@ -2795,7 +2795,7 @@
             "solar_system_id": 31000542,
             "value": 10000,
             "kill_id": 52431266,
-            "shipName": "",
+            "agent_id": 608423770,
             "date": "2016-03-05 22:04:02",
             "ship_type_id": 670,
             "character_name": "Fre Garcia"
@@ -2805,7 +2805,7 @@
             "solar_system_id": 30004999,
             "value": 10000,
             "kill_id": 52420046,
-            "shipName": "",
+            "agent_id": 91435934,
             "date": "2016-03-05 14:13:09",
             "ship_type_id": 670,
             "character_name": "DRON61"
@@ -2815,7 +2815,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52413107,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-05 03:55:50",
             "ship_type_id": 670,
             "character_name": "TheDamned"
@@ -2825,7 +2825,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52412651,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-05 03:22:49",
             "ship_type_id": 670,
             "character_name": "Gibon zzz"
@@ -2835,7 +2835,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52412123,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-05 02:48:49",
             "ship_type_id": 670,
             "character_name": "Seamonster Rawr"
@@ -2845,7 +2845,7 @@
             "solar_system_id": 30003274,
             "value": 10000,
             "kill_id": 52410209,
-            "shipName": "",
+            "agent_id": 93954400,
             "date": "2016-03-05 00:21:13",
             "ship_type_id": 670,
             "character_name": "School Nickname Worldmonkey"
@@ -2855,7 +2855,7 @@
             "solar_system_id": 30003274,
             "value": 10000,
             "kill_id": 52410101,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-05 00:14:13",
             "ship_type_id": 670,
             "character_name": "Ncol"
@@ -2865,7 +2865,7 @@
             "solar_system_id": 30003274,
             "value": 10000,
             "kill_id": 52410024,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-05 00:08:13",
             "ship_type_id": 670,
             "character_name": "Danny Lonnegan"
@@ -2875,7 +2875,7 @@
             "solar_system_id": 31001073,
             "value": 10000,
             "kill_id": 52409409,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-04 23:36:18",
             "ship_type_id": 670,
             "character_name": "Schneefuchs Fuchsbau"
@@ -2885,7 +2885,7 @@
             "solar_system_id": 31001073,
             "value": 10000,
             "kill_id": 52409383,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-04 23:34:18",
             "ship_type_id": 670,
             "character_name": "Vilshofen Amatin"
@@ -2895,7 +2895,7 @@
             "solar_system_id": 30003274,
             "value": 10000,
             "kill_id": 52409381,
-            "shipName": "",
+            "agent_id": 93954400,
             "date": "2016-03-04 23:34:13",
             "ship_type_id": 670,
             "character_name": "John Cailan"
@@ -2905,7 +2905,7 @@
             "solar_system_id": 31001073,
             "value": 10000,
             "kill_id": 52408429,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-04 22:50:18",
             "ship_type_id": 670,
             "character_name": "NoNeGoDie"
@@ -2915,7 +2915,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52392705,
-            "shipName": "",
+            "agent_id": 95994309,
             "date": "2016-03-04 02:18:37",
             "ship_type_id": 670,
             "character_name": "Sylycon"
@@ -2925,7 +2925,7 @@
             "solar_system_id": 31001227,
             "value": 10000,
             "kill_id": 52388715,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-03 21:56:18",
             "ship_type_id": 670,
             "character_name": "Psyker Bragg"
@@ -2935,7 +2935,7 @@
             "solar_system_id": 30003090,
             "value": 10000,
             "kill_id": 52382169,
-            "shipName": "",
+            "agent_id": 93563659,
             "date": "2016-03-03 15:50:45",
             "ship_type_id": 670,
             "character_name": "Reyrketill"
@@ -2945,7 +2945,7 @@
             "solar_system_id": 31001332,
             "value": 10000,
             "kill_id": 52381750,
-            "shipName": "",
+            "agent_id": 93954400,
             "date": "2016-03-03 15:11:20",
             "ship_type_id": 670,
             "character_name": "mat' ebal"
@@ -2955,7 +2955,7 @@
             "solar_system_id": 31001099,
             "value": 10000,
             "kill_id": 52374716,
-            "shipName": "",
+            "agent_id": 237608053,
             "date": "2016-03-03 02:04:28",
             "ship_type_id": 670,
             "character_name": "darkani"
@@ -2965,7 +2965,7 @@
             "solar_system_id": 31000283,
             "value": 10000,
             "kill_id": 52374302,
-            "shipName": "",
+            "agent_id": 91646823,
             "date": "2016-03-03 01:35:06",
             "ship_type_id": 670,
             "character_name": "DD Gibus"
@@ -2975,7 +2975,7 @@
             "solar_system_id": 31000283,
             "value": 10000,
             "kill_id": 52374301,
-            "shipName": "",
+            "agent_id": 91646823,
             "date": "2016-03-03 01:35:06",
             "ship_type_id": 670,
             "character_name": "Gakusei Solo"
@@ -2985,7 +2985,7 @@
             "solar_system_id": 31000289,
             "value": 10000,
             "kill_id": 52374300,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-03-03 01:35:04",
             "ship_type_id": 670,
             "character_name": "Armadillo Rhoboat"
@@ -2995,7 +2995,7 @@
             "solar_system_id": 30002786,
             "value": 10000,
             "kill_id": 52374031,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-03 01:11:52",
             "ship_type_id": 670,
             "character_name": "Joshua Kusion"
@@ -3005,7 +3005,7 @@
             "solar_system_id": 30002786,
             "value": 10000,
             "kill_id": 52374013,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-03 01:10:52",
             "ship_type_id": 670,
             "character_name": "Jake Kusion"
@@ -3015,7 +3015,7 @@
             "solar_system_id": 30002786,
             "value": 10000,
             "kill_id": 52374011,
-            "shipName": "",
+            "agent_id": 93543693,
             "date": "2016-03-03 01:10:52",
             "ship_type_id": 670,
             "character_name": "Jayson Kusion"
@@ -3025,7 +3025,7 @@
             "solar_system_id": 30002786,
             "value": 10000,
             "kill_id": 52374010,
-            "shipName": "",
+            "agent_id": 93543693,
             "date": "2016-03-03 01:10:52",
             "ship_type_id": 670,
             "character_name": "Justin Kusion"
@@ -3035,7 +3035,7 @@
             "solar_system_id": 30002786,
             "value": 10000,
             "kill_id": 52374008,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-03 01:10:52",
             "ship_type_id": 670,
             "character_name": "Joel Kusion"
@@ -3045,7 +3045,7 @@
             "solar_system_id": 30002786,
             "value": 10000,
             "kill_id": 52373994,
-            "shipName": "",
+            "agent_id": 94809577,
             "date": "2016-03-03 01:09:52",
             "ship_type_id": 670,
             "character_name": "Joseph Kusion"
@@ -3055,7 +3055,7 @@
             "solar_system_id": 31000518,
             "value": 10000,
             "kill_id": 52370110,
-            "shipName": "",
+            "agent_id": 96049384,
             "date": "2016-03-02 21:27:02",
             "ship_type_id": 670,
             "character_name": "Hercules Mulligan"
@@ -3065,7 +3065,7 @@
             "solar_system_id": 31000005,
             "value": 10000,
             "kill_id": 52359202,
-            "shipName": "",
+            "agent_id": 94188565,
             "date": "2016-03-02 04:42:27",
             "ship_type_id": 670,
             "character_name": "Boson Clownstep"
@@ -3075,7 +3075,7 @@
             "solar_system_id": 30000970,
             "value": 10000,
             "kill_id": 52357951,
-            "shipName": "",
+            "agent_id": 1159912758,
             "date": "2016-03-02 03:01:56",
             "ship_type_id": 670,
             "character_name": "Dasha Rawley"
@@ -3085,7 +3085,7 @@
             "solar_system_id": 31001032,
             "value": 10000,
             "kill_id": 52352384,
-            "shipName": "",
+            "agent_id": 1114659754,
             "date": "2016-03-01 21:00:43",
             "ship_type_id": 670,
             "character_name": "Xrated Legacy"
@@ -3095,7 +3095,7 @@
             "solar_system_id": 30001990,
             "value": 10000,
             "kill_id": 52341433,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-03-01 04:42:13",
             "ship_type_id": 670,
             "character_name": "KatoNe TheTrainLady"

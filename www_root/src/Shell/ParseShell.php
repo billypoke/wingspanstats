@@ -261,16 +261,16 @@ class ParseShell extends Shell{
 	// public function parsevictims
 	
 	public function main(){
-		// for ($i = 2015; $i<2018; $i++){
-		// 	for ($j = 1; $j <13;$j++){
-			$i = 2017;
-			$j = 1;
+		for ($i = 2015; $i<2018; $i++){
+			for ($j = 1; $j <13;$j++){
+			// $i = 2017;
+			// $j = 1;
 				if ($j < 10) $str = "$i-0$j"; else $file= "$i-$j";
 				$this->Log("Parsing file " . $str);
 				$this->parseJsonAgents($str);
 				$this->parseKills($str);		
-			// }
-		// }
+			}
+		}
 		// $this->parseKills();
 		// $this->parseShipTypes();
 		// $this->checkIfAgentExists(1);

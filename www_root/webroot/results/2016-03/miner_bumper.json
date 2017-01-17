@@ -86,6 +86,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 94623708,
+            "isk_destroyed": 146668732.19,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 3,
             "character_id": 93317595,
             "isk_destroyed": 277767083.89,
@@ -188,13 +195,6 @@
             "character_id": 92631711,
             "isk_destroyed": 47094033.120000005,
             "character_name": "Boon Hawkes"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 94623708,
-            "isk_destroyed": 68124030.86,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

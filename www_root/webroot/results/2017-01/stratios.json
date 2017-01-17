@@ -2,9 +2,9 @@
     "agents": [
         {
             "position": 0,
-            "ships_destroyed": 46,
+            "ships_destroyed": 48,
             "character_id": 93736762,
-            "isk_destroyed": 5573852856.680001,
+            "isk_destroyed": 5591530633.900001,
             "character_name": "Sylnn Severn"
         },
         {
@@ -16,9 +16,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 25,
+            "ships_destroyed": 26,
             "character_id": 1840051786,
-            "isk_destroyed": 8920420588.1973,
+            "isk_destroyed": 8925526303.957298,
             "character_name": "AusTiger"
         },
         {
@@ -27,6 +27,13 @@
             "character_id": 94843116,
             "isk_destroyed": 4547842770.858099,
             "character_name": "Gareth Adoudel"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 29,
+            "character_id": 95067667,
+            "isk_destroyed": 4930317330.24,
+            "character_name": "Zevenz"
         },
         {
             "position": 0,
@@ -44,13 +51,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 18,
-            "character_id": 95067667,
-            "isk_destroyed": 4873351424.309999,
-            "character_name": "Zevenz"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 41,
             "character_id": 94336675,
             "isk_destroyed": 2055130267.52,
@@ -58,9 +58,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 11,
+            "ships_destroyed": 12,
             "character_id": 1038370218,
-            "isk_destroyed": 5699068675.13,
+            "isk_destroyed": 6210576257.75,
             "character_name": "Alex Bianci"
         },
         {
@@ -72,6 +72,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 95745482,
+            "isk_destroyed": 4702276272.201699,
+            "character_name": "Jessi MalDoran"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 14,
             "character_id": 95263766,
             "isk_destroyed": 2769767065.14,
@@ -79,17 +86,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 95745482,
-            "isk_destroyed": 4678796592.3217,
-            "character_name": "Jessi MalDoran"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 15,
             "character_id": 96049384,
             "isk_destroyed": 2420603304.84,
             "character_name": "Quintus Va'Lari"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 91911291,
+            "isk_destroyed": 3585172338.3117,
+            "character_name": "Phaedrus Paine"
         },
         {
             "position": 0,
@@ -128,10 +135,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 7,
-            "character_id": 91911291,
-            "isk_destroyed": 3561692658.4317,
-            "character_name": "Phaedrus Paine"
+            "ships_destroyed": 10,
+            "character_id": 96698085,
+            "isk_destroyed": 2311455659.3999996,
+            "character_name": "Richter Barret"
         },
         {
             "position": 0,
@@ -160,13 +167,6 @@
             "character_id": 95454553,
             "isk_destroyed": 1519559559.17,
             "character_name": "Al3x Oaks"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 96698085,
-            "isk_destroyed": 2254579753.47,
-            "character_name": "Richter Barret"
         },
         {
             "position": 0,
@@ -205,16 +205,16 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 8,
+            "ships_destroyed": 9,
             "character_id": 1288992423,
-            "isk_destroyed": 972667003.0400002,
+            "isk_destroyed": 981676484.4600002,
             "character_name": "Crankball"
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
+            "ships_destroyed": 6,
             "character_id": 96202200,
-            "isk_destroyed": 1031513935.74,
+            "isk_destroyed": 1297511740.1599998,
             "character_name": "Xaeli"
         },
         {
@@ -258,6 +258,20 @@
             "character_id": 96331596,
             "isk_destroyed": 1218838155.79,
             "character_name": "Bdan en Gravonere"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 333762373,
+            "isk_destroyed": 536819230.54,
+            "character_name": "bumnz"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 94623708,
+            "isk_destroyed": 342387476.03,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -307,13 +321,6 @@
             "character_id": 92805979,
             "isk_destroyed": 723407190.1800001,
             "character_name": "Valtyr Farshield"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 94623708,
-            "isk_destroyed": 338907956.02,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -380,6 +387,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 93951704,
+            "isk_destroyed": 50786101.05,
+            "character_name": "Avacado Salad"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 1,
             "character_id": 94355631,
             "isk_destroyed": 169316575.34,
@@ -387,10 +401,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 93951704,
-            "isk_destroyed": 42143606.11,
-            "character_name": "Avacado Salad"
+            "ships_destroyed": 2,
+            "character_id": 649853166,
+            "isk_destroyed": 80246787.78,
+            "character_name": "Witchdoctor24"
         },
         {
             "position": 0,
@@ -433,6 +447,13 @@
             "character_id": 95285657,
             "isk_destroyed": 34875027.84,
             "character_name": "Merlin Avalon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 909011369,
+            "isk_destroyed": 31248663.69,
+            "character_name": "Shaellon"
         },
         {
             "position": 0,

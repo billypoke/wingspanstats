@@ -191,6 +191,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 26,
+            "character_id": 94623708,
+            "isk_destroyed": 206405920.96,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 30,
             "character_id": 1759501031,
             "isk_destroyed": 170150947.10999998,
@@ -517,13 +524,6 @@
             "character_id": 95769875,
             "isk_destroyed": 77431669.35,
             "character_name": "Ethnicolor Akiga"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 94623708,
-            "isk_destroyed": 60256662.13,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

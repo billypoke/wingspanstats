@@ -100,6 +100,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 19,
+            "character_id": 94623708,
+            "isk_destroyed": 234631570.18000004,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 10,
             "character_id": 95647265,
             "isk_destroyed": 337329439.61,
@@ -440,13 +447,6 @@
             "character_id": 1213436905,
             "isk_destroyed": 83488841.66,
             "character_name": "Murmadamus"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 94623708,
-            "isk_destroyed": 41522826.22,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

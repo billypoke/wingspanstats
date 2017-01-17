@@ -1,57 +1,77 @@
 {
-    "total_kills_wh": 861,
-    "total_kills_hs": 28,
-    "total_value": 93912602761.52675,
+    "total_kills_wh": 16012,
+    "total_kills_hs": 1284,
+    "total_value": 2134442650503.3591,
     "date_end": "2017-01-17",
-    "solo_total_value": 25034097804.647808,
+    "solo_total_value": 603784315424.7762,
     "corp_names": [
         "WiNGSPAN Delivery Services",
         "WiNGSPAN Academy for Enterprising Pilots"
     ],
-    "total_kills_ls": 156,
-    "total_value_ns": 9939678225.320095,
+    "total_kills_ls": 3560,
+    "total_value_ns": 326282235343.6936,
     "wh_stats": [
         {
-            "destroyed": 354,
+            "destroyed": 6743,
             "type": "c2",
-            "total_value": 35214099765.72849
+            "total_value": 608112164832.5376
         },
         {
-            "destroyed": 186,
+            "destroyed": 3262,
             "type": "c1",
-            "total_value": 7850171577.298201
+            "total_value": 235033469237.78107
         },
         {
-            "destroyed": 235,
+            "destroyed": 3692,
             "type": "c3",
-            "total_value": 26222662370.420006
+            "total_value": 426089973041.80084
         },
         {
-            "destroyed": 50,
+            "destroyed": 1229,
             "type": "c4",
-            "total_value": 3293119275.0300007
+            "total_value": 195784271696.93692
         },
         {
-            "destroyed": 3,
-            "type": "c13",
-            "total_value": 11304913.59
+            "destroyed": 271,
+            "type": "c12",
+            "total_value": 19583750532.425987
         },
         {
-            "destroyed": 25,
+            "destroyed": 422,
             "type": "c5",
-            "total_value": 3072530273.17
+            "total_value": 89448934920.9156
         },
         {
-            "destroyed": 8,
+            "destroyed": 73,
+            "type": "c13",
+            "total_value": 3043490922.0302997
+        },
+        {
+            "destroyed": 308,
             "type": "c6",
-            "total_value": 450742594.75
+            "total_value": 40871939360.11248
+        },
+        {
+            "destroyed": 10,
+            "type": "c14",
+            "total_value": 218721348.13000003
+        },
+        {
+            "destroyed": 1,
+            "type": "c16",
+            "total_value": 103017132.16
+        },
+        {
+            "destroyed": 1,
+            "type": "c18",
+            "total_value": 36913307.38
         }
     ],
-    "total_value_ls": 7648483761.749997,
-    "date_start": "2017-01-01",
-    "total_kills_ns": 125,
-    "total_value_wh": 76114630769.98666,
-    "total_value_hs": 209810004.47000003,
-    "total_kills": 1170,
-    "solo_total_kills": 801
+    "total_value_ls": 140164057628.73575,
+    "date_start": "2015-01-01",
+    "total_kills_ns": 3249,
+    "total_value_wh": 1618326646332.2107,
+    "total_value_hs": 49669711198.7205,
+    "total_kills": 24105,
+    "solo_total_kills": 14226
 }

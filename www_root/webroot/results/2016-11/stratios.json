@@ -219,6 +219,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 94623708,
+            "isk_destroyed": 372333472.54999995,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 11,
             "character_id": 93484437,
             "isk_destroyed": 147209030.64,
@@ -251,13 +258,6 @@
             "character_id": 2016716051,
             "isk_destroyed": 487264464.77000004,
             "character_name": "Dakodai"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 94623708,
-            "isk_destroyed": 290240326.40000004,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

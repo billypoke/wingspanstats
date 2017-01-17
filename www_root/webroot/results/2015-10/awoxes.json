@@ -5,6 +5,7 @@
             "solar_system_id": 30002187,
             "value": 556633577,
             "kill_id": 49391206,
+            "agent_id": 1640448394,
             "date": "2015-10-03 06:24:00",
             "ship_type_id": 33470,
             "character_name": "Tali Lyrae"
@@ -14,6 +15,7 @@
             "solar_system_id": 30002187,
             "value": 210838594.75,
             "kill_id": 49409881,
+            "agent_id": 93669013,
             "date": "2015-10-04 00:14:00",
             "ship_type_id": 33157,
             "character_name": "Tali Lyrae"
@@ -23,6 +25,7 @@
             "solar_system_id": 31001669,
             "value": 117892492.34,
             "kill_id": 49644627,
+            "agent_id": 0,
             "date": "2015-10-17 06:25:00",
             "ship_type_id": 11377,
             "character_name": "Scarabat"
@@ -32,6 +35,7 @@
             "solar_system_id": 30000900,
             "value": 97377592.19,
             "kill_id": 49577282,
+            "agent_id": 94373976,
             "date": "2015-10-13 03:27:00",
             "ship_type_id": 34317,
             "character_name": "Jerythas"
@@ -41,6 +45,7 @@
             "solar_system_id": 31001669,
             "value": 30473669.56,
             "kill_id": 49644666,
+            "agent_id": 0,
             "date": "2015-10-17 06:30:00",
             "ship_type_id": 11377,
             "character_name": "Boexl"
@@ -50,6 +55,7 @@
             "solar_system_id": 31001669,
             "value": 10000,
             "kill_id": 49644763,
+            "agent_id": 94336675,
             "date": "2015-10-17 06:43:00",
             "ship_type_id": 670,
             "character_name": "Scarabat"
@@ -59,6 +65,7 @@
             "solar_system_id": 30002986,
             "value": 10000,
             "kill_id": 49515099,
+            "agent_id": 1158072549,
             "date": "2015-10-10 00:49:00",
             "ship_type_id": 670,
             "character_name": "Lainis Pootis"
@@ -68,6 +75,7 @@
             "solar_system_id": 30003069,
             "value": 10000,
             "kill_id": 49412373,
+            "agent_id": 95859864,
             "date": "2015-10-04 03:43:00",
             "ship_type_id": 670,
             "character_name": "AnalogTom Rotineque"

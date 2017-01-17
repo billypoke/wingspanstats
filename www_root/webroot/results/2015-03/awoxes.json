@@ -5,6 +5,7 @@
             "solar_system_id": 30000250,
             "value": 2002405209.75,
             "kill_id": 45486735,
+            "agent_id": 91835155,
             "date": "2015-03-25 00:49:00",
             "ship_type_id": 33328,
             "character_name": "Chance Ravinne"
@@ -14,6 +15,7 @@
             "solar_system_id": 31000507,
             "value": 57546727.65,
             "kill_id": 45530398,
+            "agent_id": 1190622669,
             "date": "2015-03-27 02:04:00",
             "ship_type_id": 670,
             "character_name": "Alebrelle Kuatu"
@@ -23,6 +25,7 @@
             "solar_system_id": 31000507,
             "value": 52216123.59,
             "kill_id": 45530380,
+            "agent_id": 778792840,
             "date": "2015-03-27 02:03:00",
             "ship_type_id": 12038,
             "character_name": "Zeke Airuta"
@@ -32,6 +35,7 @@
             "solar_system_id": 31000663,
             "value": 50161751.77,
             "kill_id": 45006808,
+            "agent_id": 94447432,
             "date": "2015-03-04 02:13:00",
             "ship_type_id": 12032,
             "character_name": "Vothor"
@@ -41,6 +45,7 @@
             "solar_system_id": 30002538,
             "value": 30927065.19,
             "kill_id": 45050043,
+            "agent_id": 92686621,
             "date": "2015-03-06 04:14:00",
             "ship_type_id": 12044,
             "character_name": "Cadno Llewellyn"
@@ -50,6 +55,7 @@
             "solar_system_id": 30002187,
             "value": 18807164.63,
             "kill_id": 45348424,
+            "agent_id": 1361169818,
             "date": "2015-03-19 09:11:00",
             "ship_type_id": 621,
             "character_name": "Alebrelle Kuatu"
@@ -59,6 +65,7 @@
             "solar_system_id": 30002187,
             "value": 12730562.91,
             "kill_id": 45348905,
+            "agent_id": 91835155,
             "date": "2015-03-19 10:02:00",
             "ship_type_id": 583,
             "character_name": "Revan Wake"
@@ -68,6 +75,7 @@
             "solar_system_id": 30002187,
             "value": 9902883.89,
             "kill_id": 45348354,
+            "agent_id": 91835155,
             "date": "2015-03-19 09:03:00",
             "ship_type_id": 584,
             "character_name": "Revan Wake"
@@ -77,6 +85,7 @@
             "solar_system_id": 30002187,
             "value": 9702578.56,
             "kill_id": 45348372,
+            "agent_id": 95183233,
             "date": "2015-03-19 09:06:00",
             "ship_type_id": 589,
             "character_name": "Tali Lyrae"
@@ -86,6 +95,7 @@
             "solar_system_id": 30003067,
             "value": 9201379.51,
             "kill_id": 45520639,
+            "agent_id": 93838416,
             "date": "2015-03-26 18:29:00",
             "ship_type_id": 16242,
             "character_name": "Koji Vaille"
@@ -95,6 +105,7 @@
             "solar_system_id": 30002298,
             "value": 5417466.94,
             "kill_id": 45048624,
+            "agent_id": 851221968,
             "date": "2015-03-06 02:50:00",
             "ship_type_id": 670,
             "character_name": "shepard locknear"
@@ -104,6 +115,7 @@
             "solar_system_id": 30000250,
             "value": 3168758.09,
             "kill_id": 45486730,
+            "agent_id": 91835155,
             "date": "2015-03-25 00:49:00",
             "ship_type_id": 34496,
             "character_name": "Chance Ravinne"
@@ -113,6 +125,7 @@
             "solar_system_id": 30000147,
             "value": 1102692.96,
             "kill_id": 45472259,
+            "agent_id": 90718048,
             "date": "2015-03-24 07:53:00",
             "ship_type_id": 593,
             "character_name": "Koji Vaille"
@@ -122,6 +135,7 @@
             "solar_system_id": 30003067,
             "value": 452239.14,
             "kill_id": 45520090,
+            "agent_id": 1367120850,
             "date": "2015-03-26 17:56:00",
             "ship_type_id": 594,
             "character_name": "AnalogTom Rotineque"
@@ -131,6 +145,7 @@
             "solar_system_id": 30000147,
             "value": 23825.37,
             "kill_id": 45558378,
+            "agent_id": 90718048,
             "date": "2015-03-28 06:35:00",
             "ship_type_id": 672,
             "character_name": "Glade Radner"
@@ -140,6 +155,7 @@
             "solar_system_id": 31000825,
             "value": 10000,
             "kill_id": 45163705,
+            "agent_id": 95269774,
             "date": "2015-03-10 22:34:00",
             "ship_type_id": 670,
             "character_name": "Revan Wake"
@@ -149,6 +165,7 @@
             "solar_system_id": 30002298,
             "value": 10000,
             "kill_id": 45048655,
+            "agent_id": 851221968,
             "date": "2015-03-06 02:51:00",
             "ship_type_id": 670,
             "character_name": "Ransom Odunen"

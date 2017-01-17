@@ -51,9 +51,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 41,
+            "ships_destroyed": 42,
             "character_id": 90600483,
-            "isk_destroyed": 10973848085.08,
+            "isk_destroyed": 10981633599.03,
             "character_name": "Jin Hadah"
         },
         {
@@ -100,6 +100,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 66,
+            "character_id": 91117813,
+            "isk_destroyed": 5276546396.96,
+            "character_name": "Kanly Aideron"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 46,
             "character_id": 93317595,
             "isk_destroyed": 7568337406.3345995,
@@ -107,10 +114,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 65,
-            "character_id": 91117813,
-            "isk_destroyed": 5268760883.01,
-            "character_name": "Kanly Aideron"
+            "ships_destroyed": 26,
+            "character_id": 95067667,
+            "isk_destroyed": 12399168593.360098,
+            "character_name": "Zevenz"
         },
         {
             "position": 0,
@@ -118,13 +125,6 @@
             "character_id": 1400783403,
             "isk_destroyed": 8031302281.110001,
             "character_name": "Epoch Veli"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 25,
-            "character_id": 95067667,
-            "isk_destroyed": 12391383079.410097,
-            "character_name": "Zevenz"
         },
         {
             "position": 0,
@@ -205,6 +205,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 23,
+            "character_id": 95547196,
+            "isk_destroyed": 5379007121.72,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 18,
             "character_id": 1221514457,
             "isk_destroyed": 6763777434.9800005,
@@ -216,6 +223,13 @@
             "character_id": 95263766,
             "isk_destroyed": 5982759581.87,
             "character_name": "Czechbox"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 21,
+            "character_id": 94871467,
+            "isk_destroyed": 5585345350.89,
+            "character_name": "David Brannigan"
         },
         {
             "position": 0,
@@ -233,24 +247,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 22,
-            "character_id": 95547196,
-            "isk_destroyed": 5189659522.52,
-            "character_name": "Doris Andedarie"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 19,
             "character_id": 92045034,
             "isk_destroyed": 5749305401.360001,
             "character_name": "Alex Pyzi"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 20,
-            "character_id": 94871467,
-            "isk_destroyed": 5395997751.690001,
-            "character_name": "David Brannigan"
         },
         {
             "position": 0,
@@ -527,17 +527,17 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 19,
+            "character_id": 93253112,
+            "isk_destroyed": 1171027495.78,
+            "character_name": "Mister McQueen"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 10,
             "character_id": 96410439,
             "isk_destroyed": 2189704469.04,
             "character_name": "Okaga Utama"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 18,
-            "character_id": 93253112,
-            "isk_destroyed": 1163241981.83,
-            "character_name": "Mister McQueen"
         },
         {
             "position": 0,
@@ -639,6 +639,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 91868212,
+            "isk_destroyed": 707118464.5699999,
+            "character_name": "Roluf Engberg"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 7,
             "character_id": 92863054,
             "isk_destroyed": 574066197.1,
@@ -650,13 +657,6 @@
             "character_id": 90073933,
             "isk_destroyed": 619241009.39,
             "character_name": "Grenadith"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 91868212,
-            "isk_destroyed": 699332950.6199999,
-            "character_name": "Roluf Engberg"
         },
         {
             "position": 0,

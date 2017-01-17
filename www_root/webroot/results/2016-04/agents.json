@@ -422,6 +422,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 50,
+            "character_id": 94623708,
+            "isk_destroyed": 1140518636.2200003,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 13,
             "character_id": 92168995,
             "isk_destroyed": 4310358109.47,
@@ -1014,13 +1021,6 @@
             "character_id": 93054997,
             "isk_destroyed": 342445599.34,
             "character_name": "Ela van Black"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 6,
-            "character_id": 94623708,
-            "isk_destroyed": 111195652.71000001,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

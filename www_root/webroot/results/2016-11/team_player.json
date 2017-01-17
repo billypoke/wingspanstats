@@ -9,9 +9,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 58,
+            "ships_destroyed": 59,
             "character_id": 93560666,
-            "isk_destroyed": 11971194256.700006,
+            "isk_destroyed": 11971808015.960007,
             "character_name": "Malak Saren"
         },
         {
@@ -233,17 +233,17 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 95547196,
+            "isk_destroyed": 3137034066.9700003,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 11,
             "character_id": 95229965,
             "isk_destroyed": 2326215488.5482,
             "character_name": "Sabrez Haklar"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 95547196,
-            "isk_destroyed": 3136420307.71,
-            "character_name": "Doris Andedarie"
         },
         {
             "position": 0,

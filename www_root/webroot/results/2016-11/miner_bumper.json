@@ -9,6 +9,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 16,
+            "character_id": 94623708,
+            "isk_destroyed": 96169571.11,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 4,
             "character_id": 96562368,
             "isk_destroyed": 269850232.29,
@@ -275,13 +282,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 94623708,
-            "isk_destroyed": 2318816.6500000004,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 1,
             "character_id": 92045034,
             "isk_destroyed": 3928706.96,
@@ -314,6 +314,20 @@
             "character_id": 94099936,
             "isk_destroyed": 759011.03,
             "character_name": "Crazy Dogbreath"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95547196,
+            "isk_destroyed": 613759.26,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93560666,
+            "isk_destroyed": 613759.26,
+            "character_name": "Malak Saren"
         },
         {
             "position": 0,

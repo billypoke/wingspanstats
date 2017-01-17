@@ -2,9 +2,9 @@
     "agents": [
         {
             "position": 0,
-            "ships_destroyed": 37,
+            "ships_destroyed": 38,
             "character_id": 90977887,
-            "isk_destroyed": 4587099066.500001,
+            "isk_destroyed": 4592241796.040001,
             "character_name": "Yosh Maken"
         },
         {
@@ -37,10 +37,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 10,
+            "ships_destroyed": 12,
             "character_id": 93913610,
-            "isk_destroyed": 7992300602.660001,
+            "isk_destroyed": 7994373019.67,
             "character_name": "DeLlave Verdun"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 13,
+            "character_id": 92538439,
+            "isk_destroyed": 6131421375.25,
+            "character_name": "Xfinity Misner"
         },
         {
             "position": 0,
@@ -76,13 +83,6 @@
             "character_id": 489343128,
             "isk_destroyed": 2618815943.32,
             "character_name": "Rogue Seven"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 92538439,
-            "isk_destroyed": 5561748031.08,
-            "character_name": "Xfinity Misner"
         },
         {
             "position": 0,
@@ -352,9 +352,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 18,
+            "ships_destroyed": 19,
             "character_id": 95996172,
-            "isk_destroyed": 117496433.01,
+            "isk_destroyed": 119074300.43999998,
             "character_name": "Corrupted Aideron"
         },
         {
@@ -429,10 +429,31 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 93253112,
+            "isk_destroyed": 273977588.44,
+            "character_name": "Mister McQueen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 506137512,
+            "isk_destroyed": 266007804.42,
+            "character_name": "Albin wood"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 2,
             "character_id": 1840051786,
             "isk_destroyed": 212869413.03,
             "character_name": "AusTiger"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 96031502,
+            "isk_destroyed": 57047835.43,
+            "character_name": "Arteris Longesprit"
         },
         {
             "position": 0,
@@ -450,17 +471,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 96031502,
-            "isk_destroyed": 56168501.230000004,
-            "character_name": "Arteris Longesprit"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 1,
             "character_id": 96163700,
             "isk_destroyed": 217969359.57,
             "character_name": "May'n Nome"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 201138562,
+            "isk_destroyed": 53607041.9,
+            "character_name": "Mobreen"
         },
         {
             "position": 0,
@@ -475,13 +496,6 @@
             "character_id": 96550436,
             "isk_destroyed": 40858268.21,
             "character_name": "Cloaks McGee"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 201138562,
-            "isk_destroyed": 43926127.01,
-            "character_name": "Mobreen"
         },
         {
             "position": 0,
@@ -527,13 +541,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 93253112,
-            "isk_destroyed": 7979784.02,
-            "character_name": "Mister McQueen"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 2,
             "character_id": 94355263,
             "isk_destroyed": 5248034,
@@ -545,6 +552,13 @@
             "character_id": 1809180788,
             "isk_destroyed": 8699292.82,
             "character_name": "Xirke"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1453265947,
+            "isk_destroyed": 871378.01,
+            "character_name": "minold heifer"
         },
         {
             "position": 0,

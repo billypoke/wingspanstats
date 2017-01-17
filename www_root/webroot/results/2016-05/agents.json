@@ -695,6 +695,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 33,
+            "character_id": 94623708,
+            "isk_destroyed": 722234257.2399999,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 6,
             "character_id": 94720086,
             "isk_destroyed": 3724361042.7100005,
@@ -1196,13 +1203,6 @@
             "character_id": 93754225,
             "isk_destroyed": 26438387.270000003,
             "character_name": "Seabrony"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 94623708,
-            "isk_destroyed": 71337521.17,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

@@ -23,9 +23,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 27,
+            "ships_destroyed": 28,
             "character_id": 95732953,
-            "isk_destroyed": 4673209693.530001,
+            "isk_destroyed": 4673219693.530001,
             "character_name": "Mei Long"
         },
         {
@@ -478,6 +478,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 461451287,
+            "isk_destroyed": 275534065.61,
+            "character_name": "Garrett Wilson"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 9,
             "character_id": 92956893,
             "isk_destroyed": 81032555.12,
@@ -510,13 +517,6 @@
             "character_id": 94099936,
             "isk_destroyed": 96932055.06,
             "character_name": "Crazy Dogbreath"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 461451287,
-            "isk_destroyed": 237958237.33,
-            "character_name": "Garrett Wilson"
         },
         {
             "position": 0,

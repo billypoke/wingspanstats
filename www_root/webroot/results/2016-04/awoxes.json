@@ -5,7 +5,7 @@
             "solar_system_id": 30001400,
             "value": 304885762.58,
             "kill_id": 52999128,
-            "shipName": "",
+            "agent_id": 96241042,
             "date": "2016-04-03 03:16:44",
             "ship_type_id": 33818,
             "character_name": "Ross Walton"
@@ -15,7 +15,7 @@
             "solar_system_id": 31001148,
             "value": 170880516.18,
             "kill_id": 53255809,
-            "shipName": "",
+            "agent_id": 92701781,
             "date": "2016-04-13 00:55:24",
             "ship_type_id": 670,
             "character_name": "Fulmen Celer"
@@ -25,7 +25,7 @@
             "solar_system_id": 31001148,
             "value": 129282456.32,
             "kill_id": 53255804,
-            "shipName": "",
+            "agent_id": 93658790,
             "date": "2016-04-13 00:55:11",
             "ship_type_id": 37482,
             "character_name": "Fulmen Celer"
@@ -35,7 +35,7 @@
             "solar_system_id": 30003277,
             "value": 39400701.44,
             "kill_id": 52999179,
-            "shipName": "",
+            "agent_id": 1556592285,
             "date": "2016-04-03 03:20:57",
             "ship_type_id": 12032,
             "character_name": "Nikolei Darkflier"
@@ -45,7 +45,7 @@
             "solar_system_id": 31002319,
             "value": 2729315.94,
             "kill_id": 52951719,
-            "shipName": "",
+            "agent_id": 95499736,
             "date": "2016-04-01 08:13:18",
             "ship_type_id": 650,
             "character_name": "Marco Jacks"
@@ -55,7 +55,7 @@
             "solar_system_id": 31002319,
             "value": 465699.52,
             "kill_id": 52951716,
-            "shipName": "",
+            "agent_id": 96236270,
             "date": "2016-04-01 08:12:38",
             "ship_type_id": 605,
             "character_name": "AusTiger"
@@ -65,7 +65,7 @@
             "solar_system_id": 30001393,
             "value": 21998.15,
             "kill_id": 53491804,
-            "shipName": "",
+            "agent_id": 2052163101,
             "date": "2016-04-23 07:48:12",
             "ship_type_id": 11134,
             "character_name": "Bails Naskingar"
@@ -75,7 +75,7 @@
             "solar_system_id": 31001648,
             "value": 18120.11,
             "kill_id": 53034361,
-            "shipName": "",
+            "agent_id": 96193133,
             "date": "2016-04-04 06:48:22",
             "ship_type_id": 606,
             "character_name": "Quintus Va'Lari"

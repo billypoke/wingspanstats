@@ -143,7 +143,8 @@ def main():
     if not check_csv_files():
         print "Cannot obtain CSV file(s)."
         return
-
+    if len(args) == 2:
+        daterange = get_daterange("2015-01",args[1])
     analyze_data(map(lambda x: (x['year'], x['month']), daterange))
 
 if __name__ == "__main__":

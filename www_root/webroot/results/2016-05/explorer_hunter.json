@@ -212,6 +212,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94623708,
+            "isk_destroyed": 34534413.02,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 2,
             "character_id": 731851538,
             "isk_destroyed": 47453033.14,

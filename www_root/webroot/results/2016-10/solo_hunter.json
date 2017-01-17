@@ -380,6 +380,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94623708,
+            "isk_destroyed": 36090968.32,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 1,
             "character_id": 94891204,
             "isk_destroyed": 70724580.0601,
@@ -475,6 +482,13 @@
             "character_id": 91868594,
             "isk_destroyed": 20678797.12,
             "character_name": "Fl0w Onzo"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94060725,
+            "isk_destroyed": 9528067.74,
+            "character_name": "Gort getrekt"
         },
         {
             "position": 0,

@@ -44,17 +44,17 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 15,
+            "character_id": 91117813,
+            "isk_destroyed": 774228275.8599999,
+            "character_name": "Kanly Aideron"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 26,
             "character_id": 909011369,
             "isk_destroyed": 436117744.6700998,
             "character_name": "Shaellon"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 14,
-            "character_id": 91117813,
-            "isk_destroyed": 766442761.9099998,
-            "character_name": "Kanly Aideron"
         },
         {
             "position": 0,
@@ -121,6 +121,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 94871467,
+            "isk_destroyed": 613933490.77,
+            "character_name": "David Brannigan"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 6,
             "character_id": 94336675,
             "isk_destroyed": 739098397.16,
@@ -170,6 +177,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 90600483,
+            "isk_destroyed": 430661959.83,
+            "character_name": "Jin Hadah"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 15,
             "character_id": 95745482,
             "isk_destroyed": 257976424.43009996,
@@ -184,13 +198,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 90600483,
-            "isk_destroyed": 422876445.88,
-            "character_name": "Jin Hadah"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 14,
             "character_id": 92114102,
             "isk_destroyed": 226849194.17999998,
@@ -202,13 +209,6 @@
             "character_id": 97106804,
             "isk_destroyed": 621063951.36,
             "character_name": "Rootey Tootey"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 7,
-            "character_id": 94871467,
-            "isk_destroyed": 424585891.57,
-            "character_name": "David Brannigan"
         },
         {
             "position": 0,
@@ -380,6 +380,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95547196,
+            "isk_destroyed": 280008461.82,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 3,
             "character_id": 93317595,
             "isk_destroyed": 349861592.1546,
@@ -401,6 +408,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 93253112,
+            "isk_destroyed": 80554380.23,
+            "character_name": "Mister McQueen"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 3,
             "character_id": 95638558,
             "isk_destroyed": 285180534.9701,
@@ -415,10 +429,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 10,
-            "character_id": 93253112,
-            "isk_destroyed": 72768866.28,
-            "character_name": "Mister McQueen"
+            "ships_destroyed": 6,
+            "character_id": 95067667,
+            "isk_destroyed": 127478672.99010001,
+            "character_name": "Zevenz"
         },
         {
             "position": 0,
@@ -426,13 +440,6 @@
             "character_id": 94447432,
             "isk_destroyed": 207247576.34,
             "character_name": "Chance Ravinne"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 95067667,
-            "isk_destroyed": 119693159.04010001,
-            "character_name": "Zevenz"
         },
         {
             "position": 0,
@@ -549,13 +556,6 @@
         {
             "position": 0,
             "ships_destroyed": 3,
-            "character_id": 95547196,
-            "isk_destroyed": 90660862.62,
-            "character_name": "Doris Andedarie"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 3,
             "character_id": 93488613,
             "isk_destroyed": 78867182.0,
             "character_name": "Sachenka Cadelanne"
@@ -618,6 +618,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94623708,
+            "isk_destroyed": 57371497.03,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 1,
             "character_id": 97140931,
             "isk_destroyed": 87109978.53,
@@ -660,13 +667,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 94623708,
-            "isk_destroyed": 55922413,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 4,
             "character_id": 95344823,
             "isk_destroyed": 11180949.9901,
@@ -692,6 +692,13 @@
             "character_id": 96214637,
             "isk_destroyed": 18332103.310000002,
             "character_name": "Caligulas"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 91868212,
+            "isk_destroyed": 11565865.559999999,
+            "character_name": "Roluf Engberg"
         },
         {
             "position": 0,
@@ -734,13 +741,6 @@
             "character_id": 93627089,
             "isk_destroyed": 4202974.96,
             "character_name": "Eamonn McKelly"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 91868212,
-            "isk_destroyed": 3780351.61,
-            "character_name": "Roluf Engberg"
         },
         {
             "position": 0,

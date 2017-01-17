@@ -5,7 +5,7 @@
             "solar_system_id": 31000417,
             "value": 335047111.29,
             "kill_id": 55869027,
-            "shipName": "",
+            "agent_id": 1976024633,
             "date": "2016-09-02 02:31:27",
             "ship_type_id": 670,
             "character_name": "Avacado Salad"
@@ -15,7 +15,7 @@
             "solar_system_id": 30003714,
             "value": 216089540.62,
             "kill_id": 55885276,
-            "shipName": "",
+            "agent_id": 92488897,
             "date": "2016-09-03 00:16:33",
             "ship_type_id": 11971,
             "character_name": "Xavier Hex"
@@ -25,7 +25,7 @@
             "solar_system_id": 31001147,
             "value": 53495027.12,
             "kill_id": 56302743,
-            "shipName": "",
+            "agent_id": 95009795,
             "date": "2016-09-26 20:36:56",
             "ship_type_id": 12032,
             "character_name": "Charles Monday"
@@ -35,7 +35,7 @@
             "solar_system_id": 31001123,
             "value": 45526844.84,
             "kill_id": 56168959,
-            "shipName": "",
+            "agent_id": 342639044,
             "date": "2016-09-18 20:49:45",
             "ship_type_id": 11377,
             "character_name": "Ishtar d'Asmodai"
@@ -45,7 +45,7 @@
             "solar_system_id": 31001087,
             "value": 43205794.86,
             "kill_id": 55924922,
-            "shipName": "",
+            "agent_id": 92283039,
             "date": "2016-09-04 20:57:19",
             "ship_type_id": 11377,
             "character_name": "Ishtar d'Asmodai"
@@ -55,7 +55,7 @@
             "solar_system_id": 31000262,
             "value": 16934254.62,
             "kill_id": 55962164,
-            "shipName": "",
+            "agent_id": 96331596,
             "date": "2016-09-07 01:24:29",
             "ship_type_id": 670,
             "character_name": "Blackhawk Bordeaux"
@@ -65,7 +65,7 @@
             "solar_system_id": 30002806,
             "value": 7681909,
             "kill_id": 55956937,
-            "shipName": "",
+            "agent_id": 92956893,
             "date": "2016-09-06 19:17:22",
             "ship_type_id": 596,
             "character_name": "Okaga Utama"
@@ -75,7 +75,7 @@
             "solar_system_id": 31000453,
             "value": 5173041.58,
             "kill_id": 55951709,
-            "shipName": "",
+            "agent_id": 95344823,
             "date": "2016-09-06 12:57:07",
             "ship_type_id": 670,
             "character_name": "Ronni Ormand"
@@ -85,7 +85,7 @@
             "solar_system_id": 30002438,
             "value": 639582.59,
             "kill_id": 56133907,
-            "shipName": "",
+            "agent_id": 91233379,
             "date": "2016-09-17 05:16:28",
             "ship_type_id": 670,
             "character_name": "Sabrez Haklar"

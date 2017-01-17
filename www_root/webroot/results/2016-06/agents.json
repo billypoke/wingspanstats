@@ -303,6 +303,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 26,
+            "character_id": 94623708,
+            "isk_destroyed": 376960744.8125,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 9,
             "character_id": 94279512,
             "isk_destroyed": 1018722054.97,
@@ -531,13 +538,6 @@
             "character_id": 96289901,
             "isk_destroyed": 347644636.93,
             "character_name": "Eicke"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 94623708,
-            "isk_destroyed": 125728122.19999999,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

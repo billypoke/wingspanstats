@@ -184,6 +184,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 94623708,
+            "isk_destroyed": 419847199.42,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 3,
             "character_id": 285551533,
             "isk_destroyed": 870182832.6899999,
@@ -272,13 +279,6 @@
             "character_id": 94056770,
             "isk_destroyed": 5557919.29,
             "character_name": "Inta Vakaria"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 94623708,
-            "isk_destroyed": 1644610.82,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

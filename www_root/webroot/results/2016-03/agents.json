@@ -688,6 +688,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 21,
+            "character_id": 94623708,
+            "isk_destroyed": 299003774.26000005,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 8,
             "character_id": 94571445,
             "isk_destroyed": 779109229.38,
@@ -1091,13 +1098,6 @@
             "character_id": 1924623903,
             "isk_destroyed": 220538309.98,
             "character_name": "Farnath"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 94623708,
-            "isk_destroyed": 72553313.47,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

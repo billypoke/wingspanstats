@@ -5,6 +5,7 @@
             "solar_system_id": 31002019,
             "value": 616635006.42,
             "kill_id": 47672129,
+            "agent_id": 2016716051,
             "date": "2015-07-05 01:26:00",
             "ship_type_id": 12032,
             "character_name": "Hanzl Lang"
@@ -14,6 +15,7 @@
             "solar_system_id": 30002064,
             "value": 499426105.63,
             "kill_id": 47599823,
+            "agent_id": 94809577,
             "date": "2015-07-01 06:40:00",
             "ship_type_id": 12032,
             "character_name": "Fubar Umangiar"
@@ -23,6 +25,7 @@
             "solar_system_id": 30003903,
             "value": 497840132.72,
             "kill_id": 47613433,
+            "agent_id": 92367423,
             "date": "2015-07-02 02:44:00",
             "ship_type_id": 12038,
             "character_name": "Caleb Arody"
@@ -32,6 +35,7 @@
             "solar_system_id": 30003504,
             "value": 235106472.78,
             "kill_id": 47640326,
+            "agent_id": 94056770,
             "date": "2015-07-03 18:47:00",
             "ship_type_id": 11377,
             "character_name": "Glade Radner"
@@ -41,6 +45,7 @@
             "solar_system_id": 31000469,
             "value": 188143120.23,
             "kill_id": 47877747,
+            "agent_id": 851221968,
             "date": "2015-07-16 02:37:00",
             "ship_type_id": 34317,
             "character_name": "Damien Oxytocin"
@@ -50,6 +55,7 @@
             "solar_system_id": 30002818,
             "value": 103682768.15,
             "kill_id": 47595972,
+            "agent_id": 1367120850,
             "date": "2015-07-01 00:20:00",
             "ship_type_id": 12034,
             "character_name": "Ransom Odunen"
@@ -59,6 +65,7 @@
             "solar_system_id": 30002818,
             "value": 82517289.75,
             "kill_id": 47602577,
+            "agent_id": 1367120850,
             "date": "2015-07-01 13:21:00",
             "ship_type_id": 12032,
             "character_name": "M104"
@@ -68,6 +75,7 @@
             "solar_system_id": 30002644,
             "value": 79854535.18,
             "kill_id": 47597208,
+            "agent_id": 937234386,
             "date": "2015-07-01 01:58:00",
             "ship_type_id": 12032,
             "character_name": "General Waaargh"
@@ -77,6 +85,7 @@
             "solar_system_id": 30002718,
             "value": 72906141.46,
             "kill_id": 47598437,
+            "agent_id": 937234386,
             "date": "2015-07-01 03:35:00",
             "ship_type_id": 670,
             "character_name": "Tali Lyrae"
@@ -86,6 +95,7 @@
             "solar_system_id": 30002644,
             "value": 65832031.34,
             "kill_id": 47596627,
+            "agent_id": 937234386,
             "date": "2015-07-01 01:14:00",
             "ship_type_id": 12032,
             "character_name": "Steven StarKillers"
@@ -95,6 +105,7 @@
             "solar_system_id": 30001363,
             "value": 64461620.73,
             "kill_id": 47596829,
+            "agent_id": 91059988,
             "date": "2015-07-01 01:30:00",
             "ship_type_id": 12032,
             "character_name": "Aurelie Solvay"
@@ -104,6 +115,7 @@
             "solar_system_id": 30001425,
             "value": 56274877.06,
             "kill_id": 47622683,
+            "agent_id": 1662095684,
             "date": "2015-07-02 18:59:00",
             "ship_type_id": 11377,
             "character_name": "Freddey"
@@ -113,6 +125,7 @@
             "solar_system_id": 30031392,
             "value": 50411107.88,
             "kill_id": 47802172,
+            "agent_id": 1367120850,
             "date": "2015-07-11 20:22:00",
             "ship_type_id": 12032,
             "character_name": "Try2CatchMe ActEstFabula"
@@ -122,6 +135,7 @@
             "solar_system_id": 30002718,
             "value": 48126096.36,
             "kill_id": 47598433,
+            "agent_id": 937234386,
             "date": "2015-07-01 03:35:00",
             "ship_type_id": 12038,
             "character_name": "Tali Lyrae"
@@ -131,6 +145,7 @@
             "solar_system_id": 30001425,
             "value": 43410943.9,
             "kill_id": 47710116,
+            "agent_id": 94056770,
             "date": "2015-07-06 21:06:00",
             "ship_type_id": 12032,
             "character_name": "Vothor"
@@ -140,6 +155,7 @@
             "solar_system_id": 30031392,
             "value": 41420797.36,
             "kill_id": 47802196,
+            "agent_id": 1662095684,
             "date": "2015-07-11 20:23:00",
             "ship_type_id": 11377,
             "character_name": "Vince Condor"
@@ -149,6 +165,7 @@
             "solar_system_id": 30002644,
             "value": 40239194.93,
             "kill_id": 47597931,
+            "agent_id": 91059988,
             "date": "2015-07-01 03:01:00",
             "ship_type_id": 11377,
             "character_name": "Baine Mangeiri"
@@ -158,6 +175,7 @@
             "solar_system_id": 30031392,
             "value": 40221330.04,
             "kill_id": 47802070,
+            "agent_id": 1662095684,
             "date": "2015-07-11 20:18:00",
             "ship_type_id": 12034,
             "character_name": "Sabrez Haklar"
@@ -167,6 +185,7 @@
             "solar_system_id": 30003885,
             "value": 38746160.14,
             "kill_id": 47613665,
+            "agent_id": 851221968,
             "date": "2015-07-02 03:06:00",
             "ship_type_id": 12038,
             "character_name": "Fade Badasaz"
@@ -176,6 +195,7 @@
             "solar_system_id": 30002717,
             "value": 36563608.58,
             "kill_id": 47605842,
+            "agent_id": 92367423,
             "date": "2015-07-01 18:34:00",
             "ship_type_id": 11377,
             "character_name": "Iwata s"
@@ -185,6 +205,7 @@
             "solar_system_id": 30001161,
             "value": 30158263.13,
             "kill_id": 47633053,
+            "agent_id": 90418493,
             "date": "2015-07-03 07:46:00",
             "ship_type_id": 11190,
             "character_name": "Damien Oxytocin"
@@ -194,6 +215,7 @@
             "solar_system_id": 30003731,
             "value": 26530027.05,
             "kill_id": 48166033,
+            "agent_id": 91596371,
             "date": "2015-07-30 00:39:00",
             "ship_type_id": 634,
             "character_name": "NovaMoon Enaka"
@@ -203,6 +225,7 @@
             "solar_system_id": 30002187,
             "value": 8084407.06,
             "kill_id": 47748653,
+            "agent_id": 94056770,
             "date": "2015-07-09 00:45:00",
             "ship_type_id": 16240,
             "character_name": "Gillion Wyrddych"
@@ -212,6 +235,7 @@
             "solar_system_id": 31002019,
             "value": 2753707.12,
             "kill_id": 47672107,
+            "agent_id": 2016716051,
             "date": "2015-07-05 01:23:00",
             "ship_type_id": 33591,
             "character_name": "Hanzl Lang"
@@ -221,6 +245,7 @@
             "solar_system_id": 30002818,
             "value": 1428080.2,
             "kill_id": 47596450,
+            "agent_id": 94654675,
             "date": "2015-07-01 01:00:00",
             "ship_type_id": 33474,
             "character_name": "Vothor"
@@ -230,6 +255,7 @@
             "solar_system_id": 30031392,
             "value": 10052.01,
             "kill_id": 47803120,
+            "agent_id": 1367120850,
             "date": "2015-07-11 20:58:00",
             "ship_type_id": 588,
             "character_name": "Sabrez Haklar"
@@ -239,6 +265,7 @@
             "solar_system_id": 30001425,
             "value": 10000,
             "kill_id": 47622796,
+            "agent_id": 1662095684,
             "date": "2015-07-02 19:05:00",
             "ship_type_id": 670,
             "character_name": "Freddey"

@@ -5,7 +5,7 @@
             "solar_system_id": 30003066,
             "value": 115386358.22,
             "kill_id": 54816006,
-            "shipName": "",
+            "agent_id": 92956893,
             "date": "2016-06-26 18:49:20",
             "ship_type_id": 627,
             "character_name": "khomeini"
@@ -15,7 +15,7 @@
             "solar_system_id": 30000139,
             "value": 95700158.93,
             "kill_id": 54865034,
-            "shipName": "",
+            "agent_id": 95454553,
             "date": "2016-06-29 22:04:26",
             "ship_type_id": 628,
             "character_name": "Sith-Lord MouseClick"
@@ -25,7 +25,7 @@
             "solar_system_id": 30000144,
             "value": 91856981.8,
             "kill_id": 54839422,
-            "shipName": "",
+            "agent_id": 95344823,
             "date": "2016-06-28 04:51:11",
             "ship_type_id": 624,
             "character_name": "Jenna Lost"
@@ -35,7 +35,7 @@
             "solar_system_id": 30004095,
             "value": 33578933.73,
             "kill_id": 54762009,
-            "shipName": "",
+            "agent_id": 94154468,
             "date": "2016-06-23 19:30:59",
             "ship_type_id": 626,
             "character_name": "Lenai Chelien"
@@ -45,7 +45,7 @@
             "solar_system_id": 30002959,
             "value": 4605611.49,
             "kill_id": 54753307,
-            "shipName": "",
+            "agent_id": 851221968,
             "date": "2016-06-23 03:18:42",
             "ship_type_id": 598,
             "character_name": "Cain Patrouette"
@@ -55,7 +55,7 @@
             "solar_system_id": 30002788,
             "value": 409774.15,
             "kill_id": 54836817,
-            "shipName": "",
+            "agent_id": 851221968,
             "date": "2016-06-28 00:37:26",
             "ship_type_id": 609,
             "character_name": "Inta Vakaria"
@@ -65,7 +65,7 @@
             "solar_system_id": 30002800,
             "value": 378736.07,
             "kill_id": 54823187,
-            "shipName": "",
+            "agent_id": 95715380,
             "date": "2016-06-27 01:20:45",
             "ship_type_id": 589,
             "character_name": "Kirill Virpio"
@@ -75,7 +75,7 @@
             "solar_system_id": 30000129,
             "value": 29353.6,
             "kill_id": 54790328,
-            "shipName": "",
+            "agent_id": 731851538,
             "date": "2016-06-25 14:27:57",
             "ship_type_id": 672,
             "character_name": "Avacado Salad"
@@ -85,7 +85,7 @@
             "solar_system_id": 30002813,
             "value": 10000,
             "kill_id": 54767168,
-            "shipName": "",
+            "agent_id": 94056770,
             "date": "2016-06-24 01:02:19",
             "ship_type_id": 670,
             "character_name": "Sabrez Haklar"
@@ -95,7 +95,7 @@
             "solar_system_id": 30002959,
             "value": 10000,
             "kill_id": 54753321,
-            "shipName": "",
+            "agent_id": 851221968,
             "date": "2016-06-23 03:20:00",
             "ship_type_id": 670,
             "character_name": "Cain Patrouette"
@@ -105,7 +105,7 @@
             "solar_system_id": 30003751,
             "value": 10000,
             "kill_id": 54501822,
-            "shipName": "",
+            "agent_id": 96065154,
             "date": "2016-06-08 23:46:28",
             "ship_type_id": 670,
             "character_name": "khomeini"

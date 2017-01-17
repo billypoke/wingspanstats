@@ -100,6 +100,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 90977887,
+            "isk_destroyed": 77459507.17999999,
+            "character_name": "Yosh Maken"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 3,
             "character_id": 489343128,
             "isk_destroyed": 102456259.13,
@@ -125,13 +132,6 @@
             "character_id": 950538141,
             "isk_destroyed": 74057388.97999999,
             "character_name": "EXILIANT"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 90977887,
-            "isk_destroyed": 72316777.64,
-            "character_name": "Yosh Maken"
         },
         {
             "position": 0,
@@ -163,6 +163,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 909011369,
+            "isk_destroyed": 66716347.49,
+            "character_name": "Shaellon"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 4,
             "character_id": 95732953,
             "isk_destroyed": 39905260.300000004,
@@ -184,17 +191,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 95454553,
-            "isk_destroyed": 43680839.11,
-            "character_name": "Al3x Oaks"
+            "ships_destroyed": 3,
+            "character_id": 94623708,
+            "isk_destroyed": 38863397.79000001,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
             "ships_destroyed": 2,
-            "character_id": 909011369,
-            "isk_destroyed": 35467683.8,
-            "character_name": "Shaellon"
+            "character_id": 95454553,
+            "isk_destroyed": 43680839.11,
+            "character_name": "Al3x Oaks"
         },
         {
             "position": 0,
@@ -265,13 +272,6 @@
             "character_id": 504639795,
             "isk_destroyed": 36350147.65,
             "character_name": "Aafen"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 94623708,
-            "isk_destroyed": 35383877.78,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -352,6 +352,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 96331596,
+            "isk_destroyed": 12210640.62,
+            "character_name": "Bdan en Gravonere"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 1,
             "character_id": 92650713,
             "isk_destroyed": 21354150.78,
@@ -370,13 +377,6 @@
             "character_id": 305601006,
             "isk_destroyed": 13816022.8,
             "character_name": "Bjurn Akely"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 96331596,
-            "isk_destroyed": 7765525.85,
-            "character_name": "Bdan en Gravonere"
         },
         {
             "position": 0,
@@ -440,6 +440,13 @@
             "character_id": 96885236,
             "isk_destroyed": 1808985.54,
             "character_name": "G Indahowse"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 91296860,
+            "isk_destroyed": 3606182.16,
+            "character_name": "Archimedes Vanguard"
         },
         {
             "position": 0,

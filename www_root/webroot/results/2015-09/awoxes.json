@@ -5,6 +5,7 @@
             "solar_system_id": 31002408,
             "value": 89243124.3,
             "kill_id": 49175703,
+            "agent_id": 94447432,
             "date": "2015-09-21 03:08:00",
             "ship_type_id": 33816,
             "character_name": "Vothor"
@@ -14,6 +15,7 @@
             "solar_system_id": 31000268,
             "value": 42305808.85,
             "kill_id": 48807810,
+            "agent_id": 90659470,
             "date": "2015-09-01 02:42:00",
             "ship_type_id": 12032,
             "character_name": "Gigi McQuaid"
@@ -23,6 +25,7 @@
             "solar_system_id": 30004993,
             "value": 28724724.02,
             "kill_id": 49341031,
+            "agent_id": 93532393,
             "date": "2015-09-30 04:09:00",
             "ship_type_id": 12042,
             "character_name": "Tali Lyrae"
@@ -32,6 +35,7 @@
             "solar_system_id": 30000144,
             "value": 23234372.43,
             "kill_id": 49234059,
+            "agent_id": 94056770,
             "date": "2015-09-24 19:16:00",
             "ship_type_id": 622,
             "character_name": "Sabrez Haklar"
@@ -41,6 +45,7 @@
             "solar_system_id": 30003522,
             "value": 15668945.11,
             "kill_id": 48821581,
+            "agent_id": 95229965,
             "date": "2015-09-01 23:16:00",
             "ship_type_id": 32872,
             "character_name": "Xepheer"
@@ -50,6 +55,7 @@
             "solar_system_id": 31001153,
             "value": 14152823.68,
             "kill_id": 48915201,
+            "agent_id": 1339850509,
             "date": "2015-09-06 21:46:00",
             "ship_type_id": 670,
             "character_name": "Tekkera"
@@ -59,6 +65,7 @@
             "solar_system_id": 30004993,
             "value": 9022587.17,
             "kill_id": 49340984,
+            "agent_id": 91835155,
             "date": "2015-09-30 04:04:00",
             "ship_type_id": 593,
             "character_name": "Inta Vakaria"
@@ -68,6 +75,7 @@
             "solar_system_id": 30004993,
             "value": 7195957.08,
             "kill_id": 49341058,
+            "agent_id": 94056770,
             "date": "2015-09-30 04:11:00",
             "ship_type_id": 593,
             "character_name": "Caboosette"
@@ -77,6 +85,7 @@
             "solar_system_id": 31002408,
             "value": 1520048.64,
             "kill_id": 48969433,
+            "agent_id": 91835155,
             "date": "2015-09-10 00:56:00",
             "ship_type_id": 670,
             "character_name": "Reed Icculus"
@@ -86,6 +95,7 @@
             "solar_system_id": 31002408,
             "value": 10000,
             "kill_id": 49096122,
+            "agent_id": 94574163,
             "date": "2015-09-16 23:38:00",
             "ship_type_id": 670,
             "character_name": "Gigi McQuaid"

@@ -128,9 +128,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 43,
+            "ships_destroyed": 44,
             "character_id": 95732953,
-            "isk_destroyed": 5651212817.8600025,
+            "isk_destroyed": 5651222817.8600025,
             "character_name": "Mei Long"
         },
         {
@@ -492,6 +492,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 32,
+            "character_id": 94623708,
+            "isk_destroyed": 301975567.90999997,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 5,
             "character_id": 95586434,
             "isk_destroyed": 1765972168.64,
@@ -737,6 +744,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 461451287,
+            "isk_destroyed": 275534065.61,
+            "character_name": "Garrett Wilson"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 4,
             "character_id": 91117119,
             "isk_destroyed": 172993484.23,
@@ -759,23 +773,9 @@
         {
             "position": 0,
             "ships_destroyed": 2,
-            "character_id": 461451287,
-            "isk_destroyed": 237958237.33,
-            "character_name": "Garrett Wilson"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
             "character_id": 93508231,
             "isk_destroyed": 117654100.46,
             "character_name": "Xan Dievs"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 94623708,
-            "isk_destroyed": 54095350.64,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

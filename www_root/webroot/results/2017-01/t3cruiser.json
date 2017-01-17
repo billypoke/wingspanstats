@@ -2,9 +2,9 @@
     "agents": [
         {
             "position": 0,
-            "ships_destroyed": 68,
+            "ships_destroyed": 69,
             "character_id": 96410439,
-            "isk_destroyed": 13486591050.419998,
+            "isk_destroyed": 13752588854.839998,
             "character_name": "Okaga Utama"
         },
         {
@@ -16,17 +16,17 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 13,
+            "character_id": 96626700,
+            "isk_destroyed": 6521905343.739998,
+            "character_name": "Leptys Finbulventr"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 35,
             "character_id": 909011369,
             "isk_destroyed": 2255789686.25,
             "character_name": "Shaellon"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 12,
-            "character_id": 96626700,
-            "isk_destroyed": 6520946629.299998,
-            "character_name": "Leptys Finbulventr"
         },
         {
             "position": 0,
@@ -65,9 +65,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
+            "ships_destroyed": 6,
             "character_id": 95095428,
-            "isk_destroyed": 2768437795.09,
+            "isk_destroyed": 3054140798.83,
             "character_name": "Xee Yoona-451"
         },
         {
@@ -108,16 +108,16 @@
         {
             "position": 0,
             "ships_destroyed": 6,
-            "character_id": 92550166,
-            "isk_destroyed": 686568895.19,
-            "character_name": "Fandoragon Lunarsy"
+            "character_id": 90023107,
+            "isk_destroyed": 859134351.07,
+            "character_name": "Pippinthehobbit"
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 90023107,
-            "isk_destroyed": 802268445.14,
-            "character_name": "Pippinthehobbit"
+            "ships_destroyed": 6,
+            "character_id": 92550166,
+            "isk_destroyed": 686568895.19,
+            "character_name": "Fandoragon Lunarsy"
         },
         {
             "position": 0,
@@ -125,6 +125,20 @@
             "character_id": 90600483,
             "isk_destroyed": 1010225896.03,
             "character_name": "Jin Hadah"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 96331596,
+            "isk_destroyed": 333530356.56,
+            "character_name": "Bdan en Gravonere"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 95229965,
+            "isk_destroyed": 517778035.77,
+            "character_name": "Sabrez Haklar"
         },
         {
             "position": 0,
@@ -139,13 +153,6 @@
             "character_id": 96863911,
             "isk_destroyed": 1067187471.16,
             "character_name": "Aldard Aldard"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 96331596,
-            "isk_destroyed": 329075241.79,
-            "character_name": "Bdan en Gravonere"
         },
         {
             "position": 0,
@@ -177,6 +184,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95572840,
+            "isk_destroyed": 262974944.66,
+            "character_name": "Darum Rinah"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 2,
             "character_id": 94355631,
             "isk_destroyed": 83710786.57000001,
@@ -195,13 +209,6 @@
             "character_id": 93488613,
             "isk_destroyed": 7704479.5901,
             "character_name": "Sachenka Cadelanne"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 95229965,
-            "isk_destroyed": 6270453.15,
-            "character_name": "Sabrez Haklar"
         },
         {
             "position": 0,

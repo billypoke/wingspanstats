@@ -5,7 +5,7 @@
             "solar_system_id": 30002466,
             "value": 3343319870.08,
             "kill_id": 58419522,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-12-20 06:46:19",
             "ship_type_id": 23911,
             "character_name": "Alexey Semeynov"
@@ -15,7 +15,7 @@
             "solar_system_id": 30002868,
             "value": 3217423497.63,
             "kill_id": 57857739,
-            "shipName": "",
+            "agent_id": 490435218,
             "date": "2016-12-04 03:09:47",
             "ship_type_id": 23911,
             "character_name": "servitkovij Belvar"
@@ -25,7 +25,7 @@
             "solar_system_id": 30003779,
             "value": 2342425453.22,
             "kill_id": 57745607,
-            "shipName": "",
+            "agent_id": 1463256980,
             "date": "2016-12-01 01:48:54",
             "ship_type_id": 23911,
             "character_name": "zbarjr"
@@ -35,7 +35,7 @@
             "solar_system_id": 30003718,
             "value": 1655724045.51,
             "kill_id": 57815924,
-            "shipName": "",
+            "agent_id": 640170087,
             "date": "2016-12-03 05:33:24",
             "ship_type_id": 23757,
             "character_name": "Father Wah"

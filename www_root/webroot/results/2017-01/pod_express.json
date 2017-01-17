@@ -321,6 +321,16 @@
             "character_name": "Ravano"
         },
         {
+            "character_id": 2112211036,
+            "solar_system_id": 31001109,
+            "value": 38511708.77,
+            "kill_id": 59266143,
+            "agent_id": 96410439,
+            "date": "2017-01-17 14:13:16",
+            "ship_type_id": 670,
+            "character_name": "Maliki Koraka"
+        },
+        {
             "character_id": 2112118373,
             "solar_system_id": 31000813,
             "value": 38324862.79,
@@ -951,6 +961,16 @@
             "character_name": "Belfigora Inkura"
         },
         {
+            "character_id": 2112200590,
+            "solar_system_id": 31000275,
+            "value": 70084.42,
+            "kill_id": 59269353,
+            "agent_id": 93913610,
+            "date": "2017-01-17 17:15:35",
+            "ship_type_id": 670,
+            "character_name": "Velemira Bronimira"
+        },
+        {
             "character_id": 2112221996,
             "solar_system_id": 30001388,
             "value": 69699.72,
@@ -1189,6 +1209,216 @@
             "date": "2017-01-08 04:41:50",
             "ship_type_id": 670,
             "character_name": "Pirat0iz0kolomna Nardieu"
+        },
+        {
+            "character_id": 2112033581,
+            "solar_system_id": 31000501,
+            "value": 10000,
+            "kill_id": 59274676,
+            "agent_id": 96031502,
+            "date": "2017-01-17 20:30:41",
+            "ship_type_id": 670,
+            "character_name": "Bradberri Estemarie"
+        },
+        {
+            "character_id": 94582888,
+            "solar_system_id": 30000144,
+            "value": 10000,
+            "kill_id": 59273584,
+            "agent_id": 506137512,
+            "date": "2017-01-17 19:55:26",
+            "ship_type_id": 33328,
+            "character_name": "Fade Vox"
+        },
+        {
+            "character_id": 2112200590,
+            "solar_system_id": 31000275,
+            "value": 10000,
+            "kill_id": 59270700,
+            "agent_id": 93913610,
+            "date": "2017-01-17 18:17:15",
+            "ship_type_id": 670,
+            "character_name": "Velemira Bronimira"
+        },
+        {
+            "character_id": 90584035,
+            "solar_system_id": 31001109,
+            "value": 10000,
+            "kill_id": 59266705,
+            "agent_id": 96410439,
+            "date": "2017-01-17 14:51:02",
+            "ship_type_id": 670,
+            "character_name": "GRoM Zadipa"
+        },
+        {
+            "character_id": 97209780,
+            "solar_system_id": 31001109,
+            "value": 10000,
+            "kill_id": 59265496,
+            "agent_id": 96410439,
+            "date": "2017-01-17 13:26:01",
+            "ship_type_id": 670,
+            "character_name": "Aryan White"
+        },
+        {
+            "character_id": 97154959,
+            "solar_system_id": 31000395,
+            "value": 10000,
+            "kill_id": 59262120,
+            "agent_id": 96863911,
+            "date": "2017-01-17 08:07:38",
+            "ship_type_id": 670,
+            "character_name": "726529"
+        },
+        {
+            "character_id": 96377364,
+            "solar_system_id": 31000198,
+            "value": 10000,
+            "kill_id": 59261738,
+            "agent_id": 333762373,
+            "date": "2017-01-17 07:33:42",
+            "ship_type_id": 670,
+            "character_name": "leo Itinen"
+        },
+        {
+            "character_id": 2112250839,
+            "solar_system_id": 31001126,
+            "value": 10000,
+            "kill_id": 59260676,
+            "agent_id": 1453265947,
+            "date": "2017-01-17 05:55:24",
+            "ship_type_id": 670,
+            "character_name": "Fourth Actaeon"
+        },
+        {
+            "character_id": 96231098,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260577,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:46:53",
+            "ship_type_id": 670,
+            "character_name": "Unwarranted Assumption"
+        },
+        {
+            "character_id": 96231921,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260576,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:46:53",
+            "ship_type_id": 670,
+            "character_name": "Logical Fatality"
+        },
+        {
+            "character_id": 95905906,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260575,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:46:53",
+            "ship_type_id": 670,
+            "character_name": "Hayley"
+        },
+        {
+            "character_id": 96238709,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260573,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:46:53",
+            "ship_type_id": 670,
+            "character_name": "big brutor one"
+        },
+        {
+            "character_id": 95344752,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260571,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:46:53",
+            "ship_type_id": 670,
+            "character_name": "Morrigan Laima"
+        },
+        {
+            "character_id": 96238712,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260556,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:45:53",
+            "ship_type_id": 670,
+            "character_name": "big brutor three"
+        },
+        {
+            "character_id": 95766655,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260555,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:45:53",
+            "ship_type_id": 670,
+            "character_name": "Logical Fallacy"
+        },
+        {
+            "character_id": 96039713,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260554,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:45:52",
+            "ship_type_id": 670,
+            "character_name": "Miner Compliance Officer"
+        },
+        {
+            "character_id": 95608161,
+            "solar_system_id": 30003504,
+            "value": 10000,
+            "kill_id": 59260553,
+            "agent_id": 95067667,
+            "date": "2017-01-17 05:45:52",
+            "ship_type_id": 670,
+            "character_name": "Mr Cellophane"
+        },
+        {
+            "character_id": 95845138,
+            "solar_system_id": 31000707,
+            "value": 10000,
+            "kill_id": 59260274,
+            "agent_id": 649853166,
+            "date": "2017-01-17 05:24:24",
+            "ship_type_id": 670,
+            "character_name": "Stronc Kornak"
+        },
+        {
+            "character_id": 94740888,
+            "solar_system_id": 31000794,
+            "value": 10000,
+            "kill_id": 59259964,
+            "agent_id": 91911291,
+            "date": "2017-01-17 05:06:23",
+            "ship_type_id": 670,
+            "character_name": "katatonicus kronicwalker"
+        },
+        {
+            "character_id": 97006822,
+            "solar_system_id": 31000554,
+            "value": 10000,
+            "kill_id": 59258699,
+            "agent_id": 96698085,
+            "date": "2017-01-17 03:51:59",
+            "ship_type_id": 670,
+            "character_name": "Alodiy Aliev"
+        },
+        {
+            "character_id": 2112217792,
+            "solar_system_id": 31000783,
+            "value": 10000,
+            "kill_id": 59256913,
+            "agent_id": 96331596,
+            "date": "2017-01-17 02:15:07",
+            "ship_type_id": 670,
+            "character_name": "Blowdumps AryanNation"
         },
         {
             "character_id": 94778080,
@@ -3659,6 +3889,26 @@
             "date": "2017-01-01 04:43:15",
             "ship_type_id": 670,
             "character_name": "Raiatea"
+        },
+        {
+            "character_id": 2112097774,
+            "solar_system_id": 31000641,
+            "value": 10000,
+            "kill_id": 58767350,
+            "agent_id": 93951704,
+            "date": "2017-01-01 02:53:13",
+            "ship_type_id": 670,
+            "character_name": "MrBuchy"
+        },
+        {
+            "character_id": 94315824,
+            "solar_system_id": 31000174,
+            "value": 10000,
+            "kill_id": 58767304,
+            "agent_id": 91296860,
+            "date": "2017-01-01 02:49:04",
+            "ship_type_id": 670,
+            "character_name": "Solara Dallocort"
         }
     ]
 }

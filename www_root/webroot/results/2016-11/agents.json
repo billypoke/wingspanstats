@@ -16,9 +16,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 63,
+            "ships_destroyed": 64,
             "character_id": 93560666,
-            "isk_destroyed": 11978384154.620007,
+            "isk_destroyed": 11978997913.880007,
             "character_name": "Malak Saren"
         },
         {
@@ -303,6 +303,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 95547196,
+            "isk_destroyed": 3137034066.9700003,
+            "character_name": "Doris Andedarie"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 20,
             "character_id": 94133670,
             "isk_destroyed": 1293777924.25,
@@ -321,13 +328,6 @@
             "character_id": 563226579,
             "isk_destroyed": 1817302070.28,
             "character_name": "Crazymooon"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 95547196,
-            "isk_destroyed": 3136420307.71,
-            "character_name": "Doris Andedarie"
         },
         {
             "position": 0,
@@ -356,6 +356,13 @@
             "character_id": 95009795,
             "isk_destroyed": 3588828215.3199997,
             "character_name": "Tasmine Cha-Tien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 41,
+            "character_id": 94623708,
+            "isk_destroyed": 503940754.17999995,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -510,13 +517,6 @@
             "character_id": 96360116,
             "isk_destroyed": 254786747.62,
             "character_name": "Nik Volsk"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 13,
-            "character_id": 94623708,
-            "isk_destroyed": 308753902.76,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

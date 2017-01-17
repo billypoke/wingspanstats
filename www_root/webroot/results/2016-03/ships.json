@@ -1,10 +1,10 @@
 {
     "ships": [
         {
-            "ships_destroyed": 583,
+            "ships_destroyed": 585,
             "ship_type_id": 12032,
             "ship_name": "Manticore",
-            "isk_destroyed": 120009823457.32394
+            "isk_destroyed": 120045680739.63394
         },
         {
             "ships_destroyed": 535,
@@ -73,16 +73,16 @@
             "isk_destroyed": 5315965949.0599985
         },
         {
+            "ships_destroyed": 105,
+            "ship_type_id": 35683,
+            "ship_name": "Hecate",
+            "isk_destroyed": 1730288108.710001
+        },
+        {
             "ships_destroyed": 28,
             "ship_type_id": 11965,
             "ship_name": "Pilgrim",
             "isk_destroyed": 5646768373.959997
-        },
-        {
-            "ships_destroyed": 98,
-            "ship_type_id": 35683,
-            "ship_name": "Hecate",
-            "isk_destroyed": 1600904656.9300005
         },
         {
             "ships_destroyed": 23,
@@ -109,16 +109,16 @@
             "isk_destroyed": 9933351169.97
         },
         {
+            "ships_destroyed": 24,
+            "ship_type_id": 29988,
+            "ship_name": "Proteus",
+            "isk_destroyed": 2682683919.430001
+        },
+        {
             "ships_destroyed": 31,
             "ship_type_id": 11957,
             "ship_name": "Falcon",
             "isk_destroyed": 1848311663.19
-        },
-        {
-            "ships_destroyed": 21,
-            "ship_type_id": 29988,
-            "ship_name": "Proteus",
-            "isk_destroyed": 2677608622.9900002
         },
         {
             "ships_destroyed": 8,
@@ -259,6 +259,12 @@
             "isk_destroyed": 436556804.37
         },
         {
+            "ships_destroyed": 5,
+            "ship_type_id": 37456,
+            "ship_name": "Maulus Navy Issue",
+            "isk_destroyed": 78635166.55999999
+        },
+        {
             "ships_destroyed": 4,
             "ship_type_id": 33151,
             "ship_name": "Brutix Navy Issue",
@@ -283,22 +289,28 @@
             "isk_destroyed": 28048595.63
         },
         {
+            "ships_destroyed": 2,
+            "ship_type_id": 17841,
+            "ship_name": "Federation Navy Comet",
+            "isk_destroyed": 47637621.6
+        },
+        {
             "ships_destroyed": 1,
             "ship_type_id": 24698,
             "ship_name": "Drake",
             "isk_destroyed": 88446114.98
         },
         {
-            "ships_destroyed": 2,
-            "ship_type_id": 37456,
-            "ship_name": "Maulus Navy Issue",
-            "isk_destroyed": 42855755.769999996
-        },
-        {
             "ships_destroyed": 1,
             "ship_type_id": 16242,
             "ship_name": "Thrasher",
             "isk_destroyed": 79517472.4
+        },
+        {
+            "ships_destroyed": 2,
+            "ship_type_id": 12005,
+            "ship_name": "Ishtar",
+            "isk_destroyed": 39476339.25
         },
         {
             "ships_destroyed": 4,
@@ -319,12 +331,6 @@
             "isk_destroyed": 45246790.49
         },
         {
-            "ships_destroyed": 1,
-            "ship_type_id": 12005,
-            "ship_name": "Ishtar",
-            "isk_destroyed": 37093543.61
-        },
-        {
             "ships_destroyed": 2,
             "ship_type_id": 12023,
             "ship_name": "Deimos",
@@ -335,12 +341,6 @@
             "ship_type_id": 11959,
             "ship_name": "Rook",
             "isk_destroyed": 33247020.31
-        },
-        {
-            "ships_destroyed": 1,
-            "ship_type_id": 17841,
-            "ship_name": "Federation Navy Comet",
-            "isk_destroyed": 31030487.25
         },
         {
             "ships_destroyed": 1,
@@ -377,6 +377,12 @@
             "ship_type_id": 627,
             "ship_name": "Thorax",
             "isk_destroyed": 2306529.86
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 11993,
+            "ship_name": "Cerberus",
+            "isk_destroyed": 1365089.48
         },
         {
             "ships_destroyed": 1,

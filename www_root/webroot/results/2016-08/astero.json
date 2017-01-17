@@ -87,6 +87,13 @@
         {
             "position": 0,
             "ships_destroyed": 1,
+            "character_id": 94623708,
+            "isk_destroyed": 1337351.76,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
             "character_id": 94060725,
             "isk_destroyed": 25200.73,
             "character_name": "Gort getrekt"

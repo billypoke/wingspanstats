@@ -79,6 +79,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 30,
+            "character_id": 94623708,
+            "isk_destroyed": 254575866.92999998,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 18,
             "character_id": 783655284,
             "isk_destroyed": 380901252.29999995,
@@ -321,13 +328,6 @@
             "character_id": 91679131,
             "isk_destroyed": 31452505.090000004,
             "character_name": "Captain Steve White"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 94623708,
-            "isk_destroyed": 52123284.739999995,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

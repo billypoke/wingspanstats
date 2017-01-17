@@ -5,7 +5,7 @@
             "solar_system_id": 31001906,
             "value": 339170672.91,
             "kill_id": 52465138,
-            "shipName": "",
+            "agent_id": 1158072549,
             "date": "2016-03-07 05:36:19",
             "ship_type_id": 11963,
             "character_name": "Chance Ravinne"
@@ -15,7 +15,7 @@
             "solar_system_id": 31000447,
             "value": 99976773.41,
             "kill_id": 52810303,
-            "shipName": "",
+            "agent_id": 92283620,
             "date": "2016-03-26 00:49:12",
             "ship_type_id": 670,
             "character_name": "Nikolei Darkflier"
@@ -25,7 +25,7 @@
             "solar_system_id": 31000482,
             "value": 46688565.73,
             "kill_id": 52944099,
-            "shipName": "",
+            "agent_id": 1640448394,
             "date": "2016-03-31 23:12:58",
             "ship_type_id": 12032,
             "character_name": "Lexa Griffin"
@@ -35,7 +35,7 @@
             "solar_system_id": 31000384,
             "value": 40843328.72,
             "kill_id": 52942386,
-            "shipName": "",
+            "agent_id": 93613873,
             "date": "2016-03-31 22:11:21",
             "ship_type_id": 12034,
             "character_name": "SsjGhost"
@@ -45,7 +45,7 @@
             "solar_system_id": 31000853,
             "value": 24292892.12,
             "kill_id": 52515141,
-            "shipName": "",
+            "agent_id": 96054090,
             "date": "2016-03-10 05:53:57",
             "ship_type_id": 631,
             "character_name": "Sabrez Haklar"
@@ -55,7 +55,7 @@
             "solar_system_id": 31000447,
             "value": 708496.44,
             "kill_id": 52810309,
-            "shipName": "",
+            "agent_id": 92283620,
             "date": "2016-03-26 00:49:42",
             "ship_type_id": 670,
             "character_name": "Boon Hawkes"
@@ -65,7 +65,7 @@
             "solar_system_id": 30003277,
             "value": 10000,
             "kill_id": 52413506,
-            "shipName": "",
+            "agent_id": 320555957,
             "date": "2016-03-05 04:25:50",
             "ship_type_id": 670,
             "character_name": "Sibestus Bererund"
