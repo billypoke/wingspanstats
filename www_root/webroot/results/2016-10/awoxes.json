@@ -5,6 +5,7 @@
             "solar_system_id": 30002016,
             "value": 43604494.83,
             "kill_id": 56404949,
+            "shipName": "",
             "date": "2016-10-02 21:06:24",
             "ship_type_id": 626,
             "character_name": "Mei Long"
@@ -14,6 +15,7 @@
             "solar_system_id": 30002813,
             "value": 38000038.78,
             "kill_id": 56376262,
+            "shipName": "",
             "date": "2016-10-01 14:43:51",
             "ship_type_id": 12032,
             "character_name": "Swift Isu"
@@ -23,6 +25,7 @@
             "solar_system_id": 31000604,
             "value": 37335500.91,
             "kill_id": 56502524,
+            "shipName": "",
             "date": "2016-10-08 23:14:41",
             "ship_type_id": 670,
             "character_name": "Alebrelle Kuatu"
@@ -32,6 +35,7 @@
             "solar_system_id": 30045346,
             "value": 29366682.21,
             "kill_id": 56373669,
+            "shipName": "",
             "date": "2016-10-01 10:29:53",
             "ship_type_id": 17841,
             "character_name": "Ronni Ormand"
@@ -41,6 +45,7 @@
             "solar_system_id": 30001376,
             "value": 27630844.91,
             "kill_id": 56371378,
+            "shipName": "",
             "date": "2016-10-01 05:39:48",
             "ship_type_id": 593,
             "character_name": "Bails Naskingar"
@@ -50,6 +55,7 @@
             "solar_system_id": 30002813,
             "value": 18506427.5,
             "kill_id": 56376232,
+            "shipName": "",
             "date": "2016-10-01 14:42:53",
             "ship_type_id": 17703,
             "character_name": "Ronni Ormand"
@@ -59,6 +65,7 @@
             "solar_system_id": 31000604,
             "value": 17773.69,
             "kill_id": 56503717,
+            "shipName": "",
             "date": "2016-10-09 00:31:16",
             "ship_type_id": 606,
             "character_name": "Inta Vakaria"
@@ -68,6 +75,7 @@
             "solar_system_id": 30003735,
             "value": 10000,
             "kill_id": 56828346,
+            "shipName": "",
             "date": "2016-10-28 09:22:45",
             "ship_type_id": 670,
             "character_name": "Zontor"
@@ -77,6 +85,7 @@
             "solar_system_id": 31000930,
             "value": 10000,
             "kill_id": 56550446,
+            "shipName": "",
             "date": "2016-10-11 18:55:13",
             "ship_type_id": 670,
             "character_name": "Jin Hadah"

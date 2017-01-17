@@ -7,7 +7,8 @@ class Kill(object):
         ship_type_id,
         solar_system_id,
         date,
-            value):
+        value,
+        shipName = ''):
         self.kill_id = kill_id
         self.character_id = character_id
         self.character_name = character_name
@@ -15,3 +16,4 @@ class Kill(object):
         self.solar_system_id = solar_system_id
         self.date = date
         self.value = value
+        self.shipName = shipName

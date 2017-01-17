@@ -4039,12 +4039,6 @@
             "character_name": "JETFIRE RAIHAN"
         },
         {
-            "isk_lost": 644295.95,
-            "character_id": 96899426,
-            "ships_lost": 2,
-            "character_name": "DiHey Smart"
-        },
-        {
             "isk_lost": 1282335.62,
             "character_id": 96876765,
             "ships_lost": 1,
@@ -4409,6 +4403,12 @@
             "character_id": 96865594,
             "ships_lost": 1,
             "character_name": "Gengis Marony"
+        },
+        {
+            "isk_lost": 30536.69,
+            "character_id": 96899426,
+            "ships_lost": 1,
+            "character_name": "DiHey Smart"
         },
         {
             "isk_lost": 22100.68,

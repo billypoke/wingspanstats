@@ -3,6 +3,13 @@
         {
             "position": 0,
             "ships_destroyed": 4,
+            "character_id": 95009795,
+            "isk_destroyed": 1285667782.65,
+            "character_name": "Tasmine Cha-Tien"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
             "character_id": 96410439,
             "isk_destroyed": 394566793.32,
             "character_name": "Okaga Utama"
@@ -226,13 +233,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 95009795,
-            "isk_destroyed": 28708115.83,
-            "character_name": "Tasmine Cha-Tien"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 2,
             "character_id": 96550436,
             "isk_destroyed": 35658467.07,
@@ -255,6 +255,13 @@
         {
             "position": 0,
             "ships_destroyed": 1,
+            "character_id": 95454553,
+            "isk_destroyed": 35854239.99,
+            "character_name": "Al3x Oaks"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
             "character_id": 93913610,
             "isk_destroyed": 31451033.44,
             "character_name": "DeLlave Verdun"
@@ -265,6 +272,20 @@
             "character_id": 1463256980,
             "isk_destroyed": 31451033.44,
             "character_name": "Kerie Thomas"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 318437299,
+            "isk_destroyed": 27256625.59,
+            "character_name": "Patrick Moon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95732953,
+            "isk_destroyed": 14052706.72,
+            "character_name": "Mei Long"
         },
         {
             "position": 0,
@@ -321,6 +342,20 @@
             "character_id": 1453265947,
             "isk_destroyed": 6220669.7,
             "character_name": "minold heifer"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 93309886,
+            "isk_destroyed": 4534848.27,
+            "character_name": "Benaiah Barrington"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 91595946,
+            "isk_destroyed": 3495122.86,
+            "character_name": "Mishka Privyet"
         },
         {
             "position": 0,

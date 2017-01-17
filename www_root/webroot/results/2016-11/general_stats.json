@@ -1,7 +1,7 @@
 {
-    "total_kills_wh": 1020,
+    "total_kills_wh": 1019,
     "total_kills_hs": 29,
-    "total_value": 62765503746.700325,
+    "total_value": 62764889987.44032,
     "date_end": "2016-11-30",
     "solo_total_value": 19358995726.81212,
     "corp_names": [
@@ -11,9 +11,9 @@
     "total_value_ns": 12003825980.029997,
     "wh_stats": [
         {
-            "destroyed": 291,
+            "destroyed": 290,
             "type": "c1",
-            "total_value": 13112812882.935795
+            "total_value": 13112199123.675795
         },
         {
             "destroyed": 204,
@@ -54,8 +54,8 @@
     "total_value_ls": 1350115567.6010997,
     "date_start": "2016-11-01",
     "total_kills_ns": 91,
-    "total_value_wh": 48478147926.21919,
+    "total_value_wh": 48477534166.95919,
     "total_value_hs": 933414272.85,
-    "total_kills": 1242,
+    "total_kills": 1241,
     "solo_total_kills": 848
 }

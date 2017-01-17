@@ -51,9 +51,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 33,
+            "ships_destroyed": 32,
             "character_id": 94871467,
-            "isk_destroyed": 4886808742.900002,
+            "isk_destroyed": 4697461143.700001,
             "character_name": "David Brannigan"
         },
         {
@@ -185,13 +185,6 @@
         {
             "position": 0,
             "ships_destroyed": 9,
-            "character_id": 95547196,
-            "isk_destroyed": 3342152403.8599997,
-            "character_name": "Doris Andedarie"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 9,
             "character_id": 92045034,
             "isk_destroyed": 3209776627.72,
             "character_name": "Alex Pyzi"
@@ -202,6 +195,13 @@
             "character_id": 92326553,
             "isk_destroyed": 3333600965.84,
             "character_name": "Snoa Avalhar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 95547196,
+            "isk_destroyed": 3152804804.66,
+            "character_name": "Doris Andedarie"
         },
         {
             "position": 0,
@@ -401,9 +401,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 17,
+            "ships_destroyed": 16,
             "character_id": 93253112,
-            "isk_destroyed": 226105145.54000002,
+            "isk_destroyed": 218319631.59,
             "character_name": "Mister McQueen"
         },
         {

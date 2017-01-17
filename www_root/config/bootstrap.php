@@ -231,3 +231,5 @@ if (Configure::read('debug')) {
 Plugin::load('Muffin/Webservice');
 
 Plugin::load('DebugKit');
+
+Plugin::load('Migrations');

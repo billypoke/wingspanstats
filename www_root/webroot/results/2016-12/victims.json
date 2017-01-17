@@ -1255,12 +1255,6 @@
             "character_name": "Antares Cucumber"
         },
         {
-            "isk_lost": 189347599.2,
-            "character_id": 95565709,
-            "ships_lost": 1,
-            "character_name": "Alba Shi-Kai"
-        },
-        {
             "isk_lost": 94587188.66,
             "character_id": 96322348,
             "ships_lost": 2,
@@ -3697,12 +3691,6 @@
             "character_name": "Andrys Hoholskiy"
         },
         {
-            "isk_lost": 15815579.07,
-            "character_id": 96847442,
-            "ships_lost": 2,
-            "character_name": "Paul Uta"
-        },
-        {
             "isk_lost": 31535950.23,
             "character_id": 95748772,
             "ships_lost": 1,
@@ -5363,6 +5351,12 @@
             "character_id": 96950280,
             "ships_lost": 2,
             "character_name": "Xezt Alex"
+        },
+        {
+            "isk_lost": 8030065.12,
+            "character_id": 96847442,
+            "ships_lost": 1,
+            "character_name": "Paul Uta"
         },
         {
             "isk_lost": 7958532.28,

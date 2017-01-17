@@ -23,9 +23,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 122,
+            "ships_destroyed": 121,
             "character_id": 95009795,
-            "isk_destroyed": 20358756460.07,
+            "isk_destroyed": 20356825577.039997,
             "character_name": "Tasmine Cha-Tien"
         },
         {
@@ -79,9 +79,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 73,
+            "ships_destroyed": 72,
             "character_id": 93913610,
-            "isk_destroyed": 6808741214.300001,
+            "isk_destroyed": 6806810331.270001,
             "character_name": "DeLlave Verdun"
         },
         {
@@ -226,17 +226,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 54,
-            "character_id": 95547196,
-            "isk_destroyed": 3856275520.809999,
-            "character_name": "Doris Andedarie"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 32,
             "character_id": 93317595,
             "isk_destroyed": 6497328659.000001,
             "character_name": "Gillion Wyrddych"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 53,
+            "character_id": 95547196,
+            "isk_destroyed": 3854344637.7799993,
+            "character_name": "Doris Andedarie"
         },
         {
             "position": 0,

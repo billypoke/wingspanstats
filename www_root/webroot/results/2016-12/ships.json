@@ -7,16 +7,16 @@
             "isk_destroyed": 110853008123.63765
         },
         {
-            "ships_destroyed": 429,
+            "ships_destroyed": 428,
             "ship_type_id": 12032,
             "ship_name": "Manticore",
-            "isk_destroyed": 84085782097.58015
+            "isk_destroyed": 84077996583.63016
         },
         {
-            "ships_destroyed": 287,
+            "ships_destroyed": 285,
             "ship_type_id": 11377,
             "ship_name": "Nemesis",
-            "isk_destroyed": 53086701286.208405
+            "isk_destroyed": 52708006087.8084
         },
         {
             "ships_destroyed": 224,
@@ -67,10 +67,10 @@
             "isk_destroyed": 5123406557.120096
         },
         {
-            "ships_destroyed": 48,
+            "ships_destroyed": 47,
             "ship_type_id": 29986,
             "ship_name": "Legion",
-            "isk_destroyed": 11062293807.584501
+            "isk_destroyed": 11054508293.6345
         },
         {
             "ships_destroyed": 66,
@@ -223,10 +223,10 @@
             "isk_destroyed": 1269084198.47
         },
         {
-            "ships_destroyed": 25,
+            "ships_destroyed": 24,
             "ship_type_id": 37482,
             "ship_name": "Stork",
-            "isk_destroyed": 459477321.07000005
+            "isk_destroyed": 451691807.12000006
         },
         {
             "ships_destroyed": 3,
@@ -307,12 +307,6 @@
             "isk_destroyed": 355131447.77
         },
         {
-            "ships_destroyed": 6,
-            "ship_type_id": 11959,
-            "ship_name": "Rook",
-            "isk_destroyed": 410542878.10999995
-        },
-        {
             "ships_destroyed": 10,
             "ship_type_id": 22464,
             "ship_name": "Flycatcher",
@@ -325,6 +319,12 @@
             "isk_destroyed": 1135560148.06
         },
         {
+            "ships_destroyed": 5,
+            "ship_type_id": 11959,
+            "ship_name": "Rook",
+            "isk_destroyed": 402757364.15999997
+        },
+        {
             "ships_destroyed": 6,
             "ship_type_id": 42685,
             "ship_name": "Sunesis",
@@ -335,12 +335,6 @@
             "ship_type_id": 11178,
             "ship_name": "Raptor",
             "isk_destroyed": 335586151.95
-        },
-        {
-            "ships_destroyed": 5,
-            "ship_type_id": 627,
-            "ship_name": "Thorax",
-            "isk_destroyed": 306204914.27
         },
         {
             "ships_destroyed": 3,
@@ -359,6 +353,12 @@
             "ship_type_id": 29340,
             "ship_name": "Osprey Navy Issue",
             "isk_destroyed": 318004021.91999996
+        },
+        {
+            "ships_destroyed": 4,
+            "ship_type_id": 627,
+            "ship_name": "Thorax",
+            "isk_destroyed": 298419400.32
         },
         {
             "ships_destroyed": 10,

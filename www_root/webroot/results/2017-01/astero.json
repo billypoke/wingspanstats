@@ -16,6 +16,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 29,
+            "character_id": 95415231,
+            "isk_destroyed": 2401760329.3199997,
+            "character_name": "Hae Joo Chang"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 22,
             "character_id": 95745482,
             "isk_destroyed": 2742898847.6199994,
@@ -30,10 +37,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 24,
-            "character_id": 95415231,
-            "isk_destroyed": 973910831.5899998,
-            "character_name": "Hae Joo Chang"
+            "ships_destroyed": 21,
+            "character_id": 95382680,
+            "isk_destroyed": 1213617573.8500004,
+            "character_name": "Deathwush Pitchblack"
         },
         {
             "position": 0,
@@ -44,10 +51,24 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 8,
+            "ships_destroyed": 24,
+            "character_id": 1463256980,
+            "isk_destroyed": 750406947.86,
+            "character_name": "Kerie Thomas"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 9,
             "character_id": 1400783403,
-            "isk_destroyed": 901464433.6699998,
+            "isk_destroyed": 965650038.7199998,
             "character_name": "Epoch Veli"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 97106804,
+            "isk_destroyed": 1394101237.1100001,
+            "character_name": "Rootey Tootey"
         },
         {
             "position": 0,
@@ -58,13 +79,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 97106804,
-            "isk_destroyed": 1072625295.95,
-            "character_name": "Rootey Tootey"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 14,
             "character_id": 96246120,
             "isk_destroyed": 382034296.43999994,
@@ -72,24 +86,24 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 14,
-            "character_id": 95382680,
-            "isk_destroyed": 314474957.02,
-            "character_name": "Deathwush Pitchblack"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 19,
-            "character_id": 1463256980,
-            "isk_destroyed": 174198124.42,
-            "character_name": "Kerie Thomas"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 5,
             "character_id": 731851538,
             "isk_destroyed": 588921044.0,
             "character_name": "QuarantineEng"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 94133670,
+            "isk_destroyed": 309065384.0,
+            "character_name": "Dorphin Ghekon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 96831502,
+            "isk_destroyed": 271206279.28,
+            "character_name": "Grimm Horizon"
         },
         {
             "position": 0,
@@ -104,6 +118,13 @@
             "character_id": 1817763414,
             "isk_destroyed": 57413730.38,
             "character_name": "TOPSTER"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 1840051786,
+            "isk_destroyed": 278501440.68,
+            "character_name": "AusTiger"
         },
         {
             "position": 0,
@@ -156,17 +177,24 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 96885236,
+            "isk_destroyed": 14418349.36,
+            "character_name": "G Indahowse"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 93309886,
+            "isk_destroyed": 27924717.04,
+            "character_name": "Benaiah Barrington"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 2,
             "character_id": 584976954,
             "isk_destroyed": 17785433.28,
             "character_name": "Jerythas"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 96831502,
-            "isk_destroyed": 7485739.880000001,
-            "character_name": "Grimm Horizon"
         },
         {
             "position": 0,
@@ -191,27 +219,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 94133670,
-            "isk_destroyed": 14780901.28,
-            "character_name": "Dorphin Ghekon"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 1840051786,
-            "isk_destroyed": 14780901.28,
-            "character_name": "AusTiger"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 96885236,
-            "isk_destroyed": 7137990.49,
-            "character_name": "G Indahowse"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 2,
             "character_id": 91233379,
             "isk_destroyed": 4582588.23,
@@ -223,6 +230,13 @@
             "character_id": 93957497,
             "isk_destroyed": 4104431.12,
             "character_name": "Damien Kobee"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 91296860,
+            "isk_destroyed": 3616182.16,
+            "character_name": "Archimedes Vanguard"
         },
         {
             "position": 0,

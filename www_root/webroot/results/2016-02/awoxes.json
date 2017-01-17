@@ -5,6 +5,7 @@
             "solar_system_id": 30003752,
             "value": 104638886.93,
             "kill_id": 52287622,
+            "shipName": "",
             "date": "2016-02-27 14:19:30",
             "ship_type_id": 37482,
             "character_name": "Alphecca Lazair"
@@ -14,6 +15,7 @@
             "solar_system_id": 31000005,
             "value": 37296402.15,
             "kill_id": 52114164,
+            "shipName": "",
             "date": "2016-02-19 03:19:21",
             "ship_type_id": 12034,
             "character_name": "Murmadamus"
@@ -23,6 +25,7 @@
             "solar_system_id": 30002959,
             "value": 16401965.17,
             "kill_id": 52092444,
+            "shipName": "",
             "date": "2016-02-17 23:36:19",
             "ship_type_id": 591,
             "character_name": "Inta Vakaria"
@@ -32,6 +35,7 @@
             "solar_system_id": 31000198,
             "value": 11652405.55,
             "kill_id": 52329869,
+            "shipName": "",
             "date": "2016-02-29 00:55:12",
             "ship_type_id": 621,
             "character_name": "Newbus"
@@ -41,6 +45,7 @@
             "solar_system_id": 30003752,
             "value": 5649819.44,
             "kill_id": 52287702,
+            "shipName": "",
             "date": "2016-02-27 14:24:10",
             "ship_type_id": 670,
             "character_name": "Alphecca Lazair"
@@ -50,6 +55,7 @@
             "solar_system_id": 31000005,
             "value": 1560637.6,
             "kill_id": 51870762,
+            "shipName": "",
             "date": "2016-02-07 03:30:51",
             "ship_type_id": 33474,
             "character_name": "Chance Ravinne"
@@ -59,6 +65,7 @@
             "solar_system_id": 31000453,
             "value": 13682.88,
             "kill_id": 52040627,
+            "shipName": "",
             "date": "2016-02-15 06:36:37",
             "ship_type_id": 588,
             "character_name": "Sabrez Haklar"
@@ -68,6 +75,7 @@
             "solar_system_id": 31000005,
             "value": 10000,
             "kill_id": 52019157,
+            "shipName": "",
             "date": "2016-02-14 10:25:33",
             "ship_type_id": 670,
             "character_name": "Desiree Delene"
@@ -77,6 +85,7 @@
             "solar_system_id": 31001191,
             "value": 10000,
             "kill_id": 51988977,
+            "shipName": "",
             "date": "2016-02-13 06:01:57",
             "ship_type_id": 670,
             "character_name": "Gillion Wyrddych"
@@ -86,24 +95,17 @@
             "solar_system_id": 30002097,
             "value": 10000,
             "kill_id": 51969765,
+            "shipName": "",
             "date": "2016-02-12 07:51:41",
             "ship_type_id": 670,
             "character_name": "0BAKEE"
-        },
-        {
-            "character_id": 95547196,
-            "solar_system_id": 31000005,
-            "value": 10000,
-            "kill_id": 51878810,
-            "date": "2016-02-07 13:54:29",
-            "ship_type_id": 670,
-            "character_name": "Doris Andedarie"
         },
         {
             "character_id": 94571445,
             "solar_system_id": 31001659,
             "value": 8028.91,
             "kill_id": 51978707,
+            "shipName": "",
             "date": "2016-02-12 20:29:11",
             "ship_type_id": 601,
             "character_name": "Trip Erata"
@@ -113,6 +115,7 @@
             "solar_system_id": 31001659,
             "value": 8028.91,
             "kill_id": 51978703,
+            "shipName": "",
             "date": "2016-02-12 20:29:05",
             "ship_type_id": 601,
             "character_name": "Trip Erata"
@@ -122,6 +125,7 @@
             "solar_system_id": 31001659,
             "value": 8028.91,
             "kill_id": 51977939,
+            "shipName": "",
             "date": "2016-02-12 19:56:11",
             "ship_type_id": 601,
             "character_name": "Trip Erata"

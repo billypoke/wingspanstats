@@ -2,51 +2,51 @@
     "agents": [
         {
             "position": 0,
-            "ships_destroyed": 44,
+            "ships_destroyed": 68,
             "character_id": 96410439,
-            "isk_destroyed": 11132969326.999994,
+            "isk_destroyed": 13486591050.419998,
             "character_name": "Okaga Utama"
         },
         {
             "position": 0,
-            "ships_destroyed": 18,
+            "ships_destroyed": 20,
             "character_id": 96202200,
-            "isk_destroyed": 8929332167.390001,
+            "isk_destroyed": 10192363776.460001,
             "character_name": "Xaeli"
         },
         {
             "position": 0,
-            "ships_destroyed": 31,
-            "character_id": 909011369,
-            "isk_destroyed": 2250139499.72,
-            "character_name": "Shaellon"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 14,
-            "character_id": 94447432,
-            "isk_destroyed": 3998455218.509999,
-            "character_name": "Chance Ravinne"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 8,
+            "ships_destroyed": 13,
             "character_id": 96626700,
-            "isk_destroyed": 5928277170.709999,
+            "isk_destroyed": 6521905343.739998,
             "character_name": "Leptys Finbulventr"
         },
         {
             "position": 0,
-            "ships_destroyed": 22,
+            "ships_destroyed": 35,
+            "character_id": 909011369,
+            "isk_destroyed": 2255789686.25,
+            "character_name": "Shaellon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 17,
+            "character_id": 94447432,
+            "isk_destroyed": 4049754374.3399987,
+            "character_name": "Chance Ravinne"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 24,
             "character_id": 369240015,
-            "isk_destroyed": 2093848577.4299998,
+            "isk_destroyed": 2537447613.9999995,
             "character_name": "Kronovestan"
         },
         {
             "position": 0,
-            "ships_destroyed": 8,
+            "ships_destroyed": 9,
             "character_id": 93007709,
-            "isk_destroyed": 4342231892.44,
+            "isk_destroyed": 4808889332.75,
             "character_name": "Orianna Okanata"
         },
         {
@@ -58,17 +58,45 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 95067667,
+            "isk_destroyed": 5009247364.32,
+            "character_name": "Zevenz"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 5,
+            "character_id": 95095428,
+            "isk_destroyed": 2768437795.09,
+            "character_name": "Xee Yoona-451"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
             "character_id": 91117813,
-            "isk_destroyed": 2144059399.41,
+            "isk_destroyed": 2221474209.55,
             "character_name": "Kanly Aideron"
         },
         {
             "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 95067667,
-            "isk_destroyed": 4250251259.17,
-            "character_name": "Zevenz"
+            "ships_destroyed": 11,
+            "character_id": 92650713,
+            "isk_destroyed": 962281011.7400002,
+            "character_name": "Haruko Kitsune"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 94056770,
+            "isk_destroyed": 740267994.6300001,
+            "character_name": "Inta Vakaria"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 96054090,
+            "isk_destroyed": 591611644.9100001,
+            "character_name": "Vek Chiasson"
         },
         {
             "position": 0,
@@ -79,16 +107,16 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 7,
-            "character_id": 96054090,
-            "isk_destroyed": 581145440.49,
-            "character_name": "Vek Chiasson"
+            "ships_destroyed": 6,
+            "character_id": 90023107,
+            "isk_destroyed": 859134351.07,
+            "character_name": "Pippinthehobbit"
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
+            "ships_destroyed": 6,
             "character_id": 92550166,
-            "isk_destroyed": 609154085.0500001,
+            "isk_destroyed": 686568895.19,
             "character_name": "Fandoragon Lunarsy"
         },
         {
@@ -97,6 +125,20 @@
             "character_id": 90600483,
             "isk_destroyed": 1010225896.03,
             "character_name": "Jin Hadah"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 96331596,
+            "isk_destroyed": 333530356.56,
+            "character_name": "Bdan en Gravonere"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 95229965,
+            "isk_destroyed": 517778035.77,
+            "character_name": "Sabrez Haklar"
         },
         {
             "position": 0,
@@ -121,13 +163,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 90023107,
-            "isk_destroyed": 722209596.6,
-            "character_name": "Pippinthehobbit"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 3,
             "character_id": 305601006,
             "isk_destroyed": 233279417.27,
@@ -135,10 +170,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 96331596,
-            "isk_destroyed": 251660431.65,
-            "character_name": "Bdan en Gravonere"
+            "ships_destroyed": 3,
+            "character_id": 96616178,
+            "isk_destroyed": 128576861.89999999,
+            "character_name": "Capcan"
         },
         {
             "position": 0,
@@ -149,6 +184,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 95572840,
+            "isk_destroyed": 262974944.66,
+            "character_name": "Darum Rinah"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 2,
             "character_id": 94355631,
             "isk_destroyed": 83710786.57000001,
@@ -156,31 +198,31 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 96616178,
-            "isk_destroyed": 16754220.7,
-            "character_name": "Capcan"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 1,
-            "character_id": 92650713,
-            "isk_destroyed": 14780901.28,
-            "character_name": "Haruko Kitsune"
+            "character_id": 94843116,
+            "isk_destroyed": 67272032.67,
+            "character_name": "Gareth Adoudel"
         },
         {
             "position": 0,
             "ships_destroyed": 2,
-            "character_id": 95229965,
-            "isk_destroyed": 6270453.15,
-            "character_name": "Sabrez Haklar"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 1,
             "character_id": 93488613,
-            "isk_destroyed": 5428500.9901,
+            "isk_destroyed": 7704479.5901,
             "character_name": "Sachenka Cadelanne"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94894989,
+            "isk_destroyed": 1579940.64,
+            "character_name": "Flaya Noong"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94623708,
+            "isk_destroyed": 1589671.42,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -188,6 +230,13 @@
             "character_id": 96562368,
             "isk_destroyed": 761689.26,
             "character_name": "Ronni Ormand"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 1463256980,
+            "isk_destroyed": 40018.71,
+            "character_name": "Kerie Thomas"
         }
     ]
 }
