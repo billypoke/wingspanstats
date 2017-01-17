@@ -153,14 +153,15 @@ class ParseShell extends Shell{
 			// debug($ship);die();
 			if ($this->Kills->save($ship)){
 
-				$this->out("Salvat");
+				// $this->out("Salvat");
 				return true;
 			}else{
-				$this->out($ship);die();
+				$this->out($ship);
 				$this->out("NOT Salvat");
 				return false;
 			}	
 		}catch (Exception $e){
+			$this->Log($s);
 			$this->Log($e->getMessage());
 			return false;
 		}
@@ -263,9 +264,10 @@ class ParseShell extends Shell{
 	public function main(){
 		for ($i = 2015; $i<2018; $i++){
 			for ($j = 1; $j <13;$j++){
-			// $i = 2017;
-			// $j = 1;
-				if ($j < 10) $str = "$i-0$j"; else $file= "$i-$j";
+				// $i = 2016;
+				// $j = 10;
+				if ($j < 10) $str = "$i-0$j"; 
+				else $str= "$i-$j";
 				$this->Log("Parsing file " . $str);
 				$this->parseJsonAgents($str);
 				$this->parseKills($str);		

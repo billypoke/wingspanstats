@@ -85,7 +85,7 @@ class KillsTable extends Table
         $rules->add($rules->existsIn(['ship_type_id'], 'ShipTypes'));
         $rules->add($rules->existsIn(['solar_system_id'], 'SolarSystems'));
         
-        $rules->add($rules->existsIn(['agent_id'], 'Characters'));
+        // $rules->add($rules->existsIn(['agent_id'], 'Characters'));
 
         return $rules;
     }
