@@ -38,16 +38,16 @@ class SolarSystemsTable extends Table
         $this->displayField('name');
         $this->primaryKey('id');
 
-        $this->belongsTo('SolarSystems', [
-            'foreignKey' => 'solar_system_id',
-            'joinType' => 'INNER'
-        ]);
+        // $this->belongsTo('SolarSystems', [
+        //     'foreignKey' => 'solar_system_id',
+        //     'joinType' => 'INNER'
+        // ]);
         $this->hasMany('Kills', [
             'foreignKey' => 'solar_system_id'
         ]);
-        $this->hasMany('SolarSystems', [
-            'foreignKey' => 'solar_system_id'
-        ]);
+        // $this->hasMany('SolarSystems', [
+        //     'foreignKey' => 'solar_system_id'
+        // ]);
     }
 
     /**

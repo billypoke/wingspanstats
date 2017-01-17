@@ -90,14 +90,14 @@ class ParseShell extends Shell{
 			$character = $this->Characters->patchEntity($character,$c);
 			if ($this->Characters->save($character)){
 
-				$this->out("Salvat");
+				// $this->out("Salvat");
 				return true;
 			}else{
 				$this->out("NOT Salvat");
 				return false;
 			}	
 		}catch (Exception $e){
-			$this->Log($e->getMessage());
+			// $this->Log($e->getMessage());
 			return false;
 		}
 		return true;
@@ -110,14 +110,14 @@ class ParseShell extends Shell{
 			$SolarSystems = $this->SolarSystems->patchEntity($SolarSystems,$s);
 			if ($this->SolarSystems->save($SolarSystems)){
 
-				$this->out("Salvat");
+				// $this->out("Salvat");
 				return true;
 			}else{
 				$this->out("NOT Salvat");
 				return false;
 			}	
 		}catch (Exception $e){
-			$this->Log($e->getMessage());
+			// $this->Log($e->getMessage());
 			return false;
 		}
 		return true;
@@ -131,14 +131,14 @@ class ParseShell extends Shell{
 			$ship = $this->ShipTypes->patchEntity($ship,$s);
 			if ($this->ShipTypes->save($ship)){
 
-				$this->out("Salvat");
+				// $this->out("Salvat");
 				return true;
 			}else{
 				$this->out("NOT Salvat");
 				return false;
 			}	
 		}catch (Exception $e){
-			$this->Log($e->getMessage());
+			// $this->Log($e->getMessage());
 			return false;
 		}
 		return true;
@@ -150,16 +150,18 @@ class ParseShell extends Shell{
 			if ($this->checkIfKillExists((int)$s['kill_id'])) throw new Exception('kill_id exists');
 			$ship = $this->Kills->newEntity();
 			$ship = $this->Kills->patchEntity($ship,$s);
+			// debug($ship);die();
 			if ($this->Kills->save($ship)){
 
-				$this->out("Salvat");
+				// $this->out("Salvat");
 				return true;
 			}else{
+				$this->out($ship);die();
 				$this->out("NOT Salvat");
 				return false;
 			}	
 		}catch (Exception $e){
-			$this->Log($e->getMessage());
+			// $this->Log($e->getMessage());
 			return false;
 		}
 		return true;
@@ -227,18 +229,25 @@ class ParseShell extends Shell{
          }
 	}
 
-
+	//
+	//should modify tfor item id and value to update with real name as there seems to be a bit of a debate upon what 
+	//the fuck the item type id really is
 	public function parseKills($date = '2017-01'){
 		 $root = WWW_ROOT.'results/'.$date.'/';
 		 $data = file_get_contents($root.'kills.json');
          $agentData = json_decode($data);
+         $this->out("File is $root/kills.json");
          foreach ($agentData->kills as $a){
-         	// $c = array(
-         	// 	'name' => ($a->ship_type_id == 0 ? 'Unknown':$a->ship_name),
-         	// 	'ship_type_id' =>(int)$a->ship_type_id
-         	// 	);
+         	$c = array(
+         		'solar_system_id' => (int) $a->solar_system_id,
+         		'character_id' =>(int)$a->character_id,
+         		'value' => (float) $a->value,
+         		'kill_id'=>$a->kill_id,
+         		'date' => $a->date,
+         		'ship_type_id'=>$a->ship_type_id
+         		);
          	// debug($c);die();
-         	$this->addShips($c);
+         	$this->addKill($c);
          }
 	}
 
@@ -250,6 +259,16 @@ class ParseShell extends Shell{
 	// public function parsevictims
 	
 	public function main(){
+		for ($i = 2015; $i<2018; $i++){
+			for ($j = 1; $j <13;$j++){
+
+				if ($j < 10) $str = "$i-0$j"; else $file= "$i-$j";
+				$this->Log("Parsing file " . $str);
+				$this->parseJsonAgents($str);
+				$this->parseKills($str);		
+			}
+		}
+		$this->parseKills();
 		// $this->parseShipTypes();
 		// $this->checkIfAgentExists(1);
 		// $c = ['character_name' =>"Test",

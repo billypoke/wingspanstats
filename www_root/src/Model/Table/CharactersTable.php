@@ -37,7 +37,7 @@ class CharactersTable extends Table
         parent::initialize($config);
 
         $this->table('characters');
-        $this->displayField('id');
+        $this->displayField('character_name');
         $this->primaryKey('id');
 
         $this->belongsTo('Characters', [
@@ -47,9 +47,9 @@ class CharactersTable extends Table
         $this->hasMany('Agents', [
             'foreignKey' => 'character_id'
         ]);
-        $this->hasMany('Characters', [
-            'foreignKey' => 'character_id'
-        ]);
+        // $this->hasMany('Characters', [
+        //     'foreignKey' => 'character_id'
+        // ]);
         $this->hasMany('Kills', [
             'foreignKey' => 'character_id'
         ]);

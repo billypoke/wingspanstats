@@ -52,12 +52,12 @@ class KillsTable extends Table
             'foreignKey' => 'solar_system_id',
             'joinType' => 'INNER'
         ]);
-        $this->belongsTo('Kills', [
-            'foreignKey' => 'kill_id'
-        ]);
-        $this->hasMany('Kills', [
-            'foreignKey' => 'kill_id'
-        ]);
+        // $this->belongsTo('Kills', [
+        //     'foreignKey' => 'kill_id'
+        // ]);
+        // $this->hasMany('Kills', [
+        //     'foreignKey' => 'kill_id'
+        // ]);
     }
 
     /**
@@ -71,15 +71,15 @@ class KillsTable extends Table
         $validator
             ->allowEmpty('id', 'create');
 
-        $validator
-            ->dateTime('date')
-            ->requirePresence('date', 'create')
-            ->notEmpty('date');
+        // $validator
+        //     ->dateTime('date')
+        //     ->requirePresence('date', 'create')
+        //     ->notEmpty('date');
 
-        $validator
-            ->numeric('value')
-            ->requirePresence('value', 'create')
-            ->notEmpty('value');
+        // $validator
+        //     ->numeric('value')
+        //     ->requirePresence('value', 'create')
+        //     ->notEmpty('value');
 
         return $validator;
     }
@@ -93,9 +93,9 @@ class KillsTable extends Table
      */
     public function buildRules(RulesChecker $rules)
     {
-        $rules->add($rules->existsIn(['character_id'], 'Characters'));
-        $rules->add($rules->existsIn(['ship_type_id'], 'ShipTypes'));
-        $rules->add($rules->existsIn(['solar_system_id'], 'SolarSystems'));
+        // $rules->add($rules->existsIn(['character_id'], 'Characters'));
+        // $rules->add($rules->existsIn(['ship_type_id'], 'ShipTypes'));
+        // $rules->add($rules->existsIn(['solar_system_id'], 'SolarSystems'));
         // $rules->add($rules->existsIn(['kill_id'], 'Kills'));
 
         return $rules;

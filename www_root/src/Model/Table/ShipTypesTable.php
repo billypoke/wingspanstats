@@ -39,19 +39,19 @@ class ShipTypesTable extends Table
         $this->displayField('name');
         $this->primaryKey('id');
 
-        $this->belongsTo('ShipTypes', [
-            'foreignKey' => 'ship_type_id',
-            'joinType' => 'INNER'
-        ]);
+        // $this->belongsTo('ShipTypes', [
+        //     'foreignKey' => 'ship_type_id',
+        //     'joinType' => 'INNER'
+        // ]);
         $this->hasMany('Kills', [
             'foreignKey' => 'ship_type_id'
         ]);
-        $this->hasMany('ShipTypes', [
-            'foreignKey' => 'ship_type_id'
-        ]);
-        $this->hasMany('Ships', [
-            'foreignKey' => 'ship_type_id'
-        ]);
+        // $this->hasMany('ShipTypes', [
+        //     'foreignKey' => 'ship_type_id'
+        // ]);
+        // $this->hasMany('Ships', [
+        //     'foreignKey' => 'ship_type_id'
+        // ]);
     }
 
     /**
