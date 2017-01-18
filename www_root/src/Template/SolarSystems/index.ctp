@@ -2,8 +2,6 @@
     <ul class="side-nav">
         <li class="heading"><?= __('Actions') ?></li>
         <li><?= $this->Html->link(__('New Solar System'), ['action' => 'add']) ?></li>
-        <li><?= $this->Html->link(__('List Kills'), ['controller' => 'Kills', 'action' => 'index']) ?></li>
-        <li><?= $this->Html->link(__('New Kill'), ['controller' => 'Kills', 'action' => 'add']) ?></li>
     </ul>
 </nav>
 <div class="solarSystems index large-9 medium-8 columns content">
@@ -11,7 +9,6 @@
     <table cellpadding="0" cellspacing="0">
         <thead>
             <tr>
-                <th scope="col"><?= $this->Paginator->sort('id') ?></th>
                 <th scope="col"><?= $this->Paginator->sort('name') ?></th>
                 <th scope="col"><?= $this->Paginator->sort('solar_system_id') ?></th>
                 <th scope="col" class="actions"><?= __('Actions') ?></th>
@@ -20,13 +17,12 @@
         <tbody>
             <?php foreach ($solarSystems as $solarSystem): ?>
             <tr>
-                <td><?= $this->Number->format($solarSystem->id) ?></td>
                 <td><?= h($solarSystem->name) ?></td>
-                <td><?= $this->Number->format($solarSystem->solar_system_id) ?></td>
+                <td><?= $solarSystem->has('solar_system') ? $this->Html->link($solarSystem->solar_system->name, ['controller' => 'SolarSystems', 'action' => 'view', $solarSystem->solar_system->solar_system_id]) : '' ?></td>
                 <td class="actions">
-                    <?= $this->Html->link(__('View'), ['action' => 'view', $solarSystem->id]) ?>
-                    <?= $this->Html->link(__('Edit'), ['action' => 'edit', $solarSystem->id]) ?>
-                    <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $solarSystem->id], ['confirm' => __('Are you sure you want to delete # {0}?', $solarSystem->id)]) ?>
+                    <?= $this->Html->link(__('View'), ['action' => 'view', $solarSystem->solar_system_id]) ?>
+                    <?= $this->Html->link(__('Edit'), ['action' => 'edit', $solarSystem->solar_system_id]) ?>
+                    <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $solarSystem->solar_system_id], ['confirm' => __('Are you sure you want to delete # {0}?', $solarSystem->solar_system_id)]) ?>
                 </td>
             </tr>
             <?php endforeach; ?>

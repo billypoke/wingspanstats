@@ -2,12 +2,8 @@
     <ul class="side-nav">
         <li class="heading"><?= __('Actions') ?></li>
         <li><?= $this->Html->link(__('New Character'), ['action' => 'add']) ?></li>
-        <li><?= $this->Html->link(__('List Agents'), ['controller' => 'Agents', 'action' => 'index']) ?></li>
-        <li><?= $this->Html->link(__('New Agent'), ['controller' => 'Agents', 'action' => 'add']) ?></li>
-        <li><?= $this->Html->link(__('List Kills'), ['controller' => 'Kills', 'action' => 'index']) ?></li>
-        <li><?= $this->Html->link(__('New Kill'), ['controller' => 'Kills', 'action' => 'add']) ?></li>
-        <li><?= $this->Html->link(__('List Victims'), ['controller' => 'Victims', 'action' => 'index']) ?></li>
-        <li><?= $this->Html->link(__('New Victim'), ['controller' => 'Victims', 'action' => 'add']) ?></li>
+        <li><?= $this->Html->link(__('List Corporations'), ['controller' => 'Corporations', 'action' => 'index']) ?></li>
+        <li><?= $this->Html->link(__('New Corporation'), ['controller' => 'Corporations', 'action' => 'add']) ?></li>
     </ul>
 </nav>
 <div class="characters index large-9 medium-8 columns content">
@@ -15,22 +11,22 @@
     <table cellpadding="0" cellspacing="0">
         <thead>
             <tr>
-                <th scope="col"><?= $this->Paginator->sort('id') ?></th>
                 <th scope="col"><?= $this->Paginator->sort('character_name') ?></th>
                 <th scope="col"><?= $this->Paginator->sort('character_id') ?></th>
+                <th scope="col"><?= $this->Paginator->sort('corporation_id') ?></th>
                 <th scope="col" class="actions"><?= __('Actions') ?></th>
             </tr>
         </thead>
         <tbody>
             <?php foreach ($characters as $character): ?>
             <tr>
-                <td><?= $this->Number->format($character->id) ?></td>
                 <td><?= h($character->character_name) ?></td>
                 <td><?= $this->Number->format($character->character_id) ?></td>
+                <td><?= $character->has('corporation') ? $this->Html->link($character->corporation->corporation_name, ['controller' => 'Corporations', 'action' => 'view', $character->corporation->corporation_id]) : '' ?></td>
                 <td class="actions">
                     <?= $this->Html->link(__('View'), ['action' => 'view', $character->character_id]) ?>
                     <?= $this->Html->link(__('Edit'), ['action' => 'edit', $character->character_id]) ?>
-                    <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $character->id], ['confirm' => __('Are you sure you want to delete # {0}?', $character->character_id)]) ?>
+                    <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $character->character_id], ['confirm' => __('Are you sure you want to delete # {0}?', $character->character_id)]) ?>
                 </td>
             </tr>
             <?php endforeach; ?>

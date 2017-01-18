@@ -2,10 +2,6 @@
     <ul class="side-nav">
         <li class="heading"><?= __('Actions') ?></li>
         <li><?= $this->Html->link(__('New Ship Type'), ['action' => 'add']) ?></li>
-        <li><?= $this->Html->link(__('List Kills'), ['controller' => 'Kills', 'action' => 'index']) ?></li>
-        <li><?= $this->Html->link(__('New Kill'), ['controller' => 'Kills', 'action' => 'add']) ?></li>
-        <li><?= $this->Html->link(__('List Ships'), ['controller' => 'Ships', 'action' => 'index']) ?></li>
-        <li><?= $this->Html->link(__('New Ship'), ['controller' => 'Ships', 'action' => 'add']) ?></li>
     </ul>
 </nav>
 <div class="shipTypes index large-9 medium-8 columns content">
@@ -13,7 +9,6 @@
     <table cellpadding="0" cellspacing="0">
         <thead>
             <tr>
-                <th scope="col"><?= $this->Paginator->sort('id') ?></th>
                 <th scope="col"><?= $this->Paginator->sort('name') ?></th>
                 <th scope="col"><?= $this->Paginator->sort('ship_type_id') ?></th>
                 <th scope="col" class="actions"><?= __('Actions') ?></th>
@@ -22,13 +17,12 @@
         <tbody>
             <?php foreach ($shipTypes as $shipType): ?>
             <tr>
-                <td><?= $this->Number->format($shipType->id) ?></td>
                 <td><?= h($shipType->name) ?></td>
-                <td><?= $this->Number->format($shipType->ship_type_id) ?></td>
+                <td><?= $shipType->has('ship_type') ? $this->Html->link($shipType->ship_type->name, ['controller' => 'ShipTypes', 'action' => 'view', $shipType->ship_type->ship_type_id]) : '' ?></td>
                 <td class="actions">
-                    <?= $this->Html->link(__('View'), ['action' => 'view', $shipType->id]) ?>
-                    <?= $this->Html->link(__('Edit'), ['action' => 'edit', $shipType->id]) ?>
-                    <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $shipType->id], ['confirm' => __('Are you sure you want to delete # {0}?', $shipType->id)]) ?>
+                    <?= $this->Html->link(__('View'), ['action' => 'view', $shipType->ship_type_id]) ?>
+                    <?= $this->Html->link(__('Edit'), ['action' => 'edit', $shipType->ship_type_id]) ?>
+                    <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $shipType->ship_type_id], ['confirm' => __('Are you sure you want to delete # {0}?', $shipType->ship_type_id)]) ?>
                 </td>
             </tr>
             <?php endforeach; ?>
