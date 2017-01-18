@@ -59,6 +59,6 @@ target/
 # custom
 .idea
 #templates
-template/
+/template/
 #ftp configs
 sftp-config.json
