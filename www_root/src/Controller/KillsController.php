@@ -2,7 +2,7 @@
 namespace App\Controller;
 
 use App\Controller\AppController;
-
+use Cake\Event\Event;
 /**
  * Kills Controller
  *
@@ -11,6 +11,18 @@ use App\Controller\AppController;
 class KillsController extends AppController
 {
 
+    public function initialize()
+    {
+        parent::initialize();
+        
+    }
+    public function beforeRender(Event $event)
+    {
+        parent::beforeRender($event);
+        // $this->RequestHandler->renderAs($this, 'json');
+        // $this->response->type('application/json');
+        // $this->set('_serialize', true);
+    }
     /**
      * Index method
      *
