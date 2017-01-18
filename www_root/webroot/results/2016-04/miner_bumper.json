@@ -9,13 +9,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 23,
-            "character_id": 94623708,
-            "isk_destroyed": 390883469.6099999,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 8,
             "character_id": 96236270,
             "isk_destroyed": 688073346.28,
@@ -454,6 +447,13 @@
             "character_id": 94720086,
             "isk_destroyed": 17236358.58,
             "character_name": "Vargo Shahni"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94623708,
+            "isk_destroyed": 5106030.22,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

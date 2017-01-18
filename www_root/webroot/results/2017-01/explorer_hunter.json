@@ -23,13 +23,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 95095428,
-            "isk_destroyed": 1305454581.83,
-            "character_name": "Xee Yoona-451"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 5,
             "character_id": 333762373,
             "isk_destroyed": 1037518382.5200001,
@@ -97,6 +90,13 @@
             "character_id": 97210253,
             "isk_destroyed": 448764645.71,
             "character_name": "Father Nye"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 95095428,
+            "isk_destroyed": 1019751578.09,
+            "character_name": "Xee Yoona-451"
         },
         {
             "position": 0,
@@ -248,13 +248,6 @@
         {
             "position": 0,
             "ships_destroyed": 4,
-            "character_id": 96031502,
-            "isk_destroyed": 157023855.12,
-            "character_name": "Arteris Longesprit"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 4,
             "character_id": 90977887,
             "isk_destroyed": 143839164.6,
             "character_name": "Yosh Maken"
@@ -279,6 +272,13 @@
             "character_id": 95131263,
             "isk_destroyed": 237390880.88,
             "character_name": "William Peccav"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 96031502,
+            "isk_destroyed": 156154520.92,
+            "character_name": "Arteris Longesprit"
         },
         {
             "position": 0,

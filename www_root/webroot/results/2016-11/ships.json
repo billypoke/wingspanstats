@@ -1,22 +1,22 @@
 {
     "ships": [
         {
-            "ships_destroyed": 596,
+            "ships_destroyed": 594,
             "ship_type_id": 33470,
             "ship_name": "Stratios",
-            "isk_destroyed": 61310497233.14187
+            "isk_destroyed": 61228404086.991875
         },
         {
-            "ships_destroyed": 249,
+            "ships_destroyed": 247,
             "ship_type_id": 12032,
             "ship_name": "Manticore",
-            "isk_destroyed": 46611761177.70636
+            "isk_destroyed": 46608780651.946365
         },
         {
-            "ships_destroyed": 163,
+            "ships_destroyed": 162,
             "ship_type_id": 11377,
             "ship_name": "Nemesis",
-            "isk_destroyed": 38042371115.04999
+            "isk_destroyed": 38041757355.78999
         },
         {
             "ships_destroyed": 134,
@@ -32,15 +32,15 @@
         },
         {
             "ships_destroyed": 104,
-            "ship_type_id": 29988,
-            "ship_name": "Proteus",
-            "isk_destroyed": 16411819646.830004
-        },
-        {
-            "ships_destroyed": 104,
             "ship_type_id": 29984,
             "ship_name": "Tengu",
             "isk_destroyed": 16354718133.760002
+        },
+        {
+            "ships_destroyed": 103,
+            "ship_type_id": 29988,
+            "ship_name": "Proteus",
+            "isk_destroyed": 16410900598.130003
         },
         {
             "ships_destroyed": 51,
@@ -97,10 +97,10 @@
             "isk_destroyed": 1689485909.9282
         },
         {
-            "ships_destroyed": 44,
+            "ships_destroyed": 43,
             "ship_type_id": 12021,
             "ship_name": "Phobos",
-            "isk_destroyed": 766760697.3199999
+            "isk_destroyed": 766146938.06
         },
         {
             "ships_destroyed": 14,
@@ -115,10 +115,10 @@
             "isk_destroyed": 1634323901.8263998
         },
         {
-            "ships_destroyed": 31,
+            "ships_destroyed": 25,
             "ship_type_id": 35683,
             "ship_name": "Hecate",
-            "isk_destroyed": 773601344.3199997
+            "isk_destroyed": 684787507.1799998
         },
         {
             "ships_destroyed": 6,
@@ -139,12 +139,6 @@
             "isk_destroyed": 1370584362.8600001
         },
         {
-            "ships_destroyed": 32,
-            "ship_type_id": 37456,
-            "ship_name": "Maulus Navy Issue",
-            "isk_destroyed": 143335884.67999998
-        },
-        {
             "ships_destroyed": 5,
             "ship_type_id": 11987,
             "ship_name": "Guardian",
@@ -161,6 +155,12 @@
             "ship_type_id": 42685,
             "ship_name": "Sunesis",
             "isk_destroyed": 296582058.94
+        },
+        {
+            "ships_destroyed": 15,
+            "ship_type_id": 37456,
+            "ship_name": "Maulus Navy Issue",
+            "isk_destroyed": 122955591.01
         },
         {
             "ships_destroyed": 2,

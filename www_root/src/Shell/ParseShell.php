@@ -18,6 +18,8 @@ class ParseShell extends Shell{
 		$this->loadModel('SolarSystems');
 		$this->loadModel('ShipTypes');
 		$this->loadModel('Kills');
+		$this->loadModel('Corporations');
+		$this->loadModel('AgentKills');
 	}
 
 	
@@ -30,6 +32,24 @@ class ParseShell extends Shell{
 			
 			
 			if (empty($result)) throw new Exception(__('_noUserFound'));
+		}
+		catch(Exception $e){
+			// $this->out($e->getMessage());
+			return false;
+		}
+		return true;
+		
+	}
+
+	public function checkIfCorpExists($corporation_id){
+		$corporation = false;
+		try{
+			$corporation = $this->Corporations->find('all')->where(['Corporations.corporation_id = ' => $corporation_id]);
+			
+			$result = $corporation->all()->toArray();
+			
+			
+			if (empty($result)) throw new Exception(__('_noCorpFOund'));
 		}
 		catch(Exception $e){
 			// $this->out($e->getMessage());
@@ -52,6 +72,19 @@ class ParseShell extends Shell{
 		}
 		return true;
 		
+	}
+	public function checkIfAgentIsOnKill($kill_id,$agent_id){
+		$ss = false;
+		try{
+			$ss = $this->AgentKills->find('all')->where(['AgentKills.kill_id = ' => $kill_id,'AgentKills.character_id'=>$agent_id]);
+			$result = $ss->all()->toArray();
+			if (empty($result)) throw new Exception(__('_noConnectionFound'));
+		}
+		catch(Exception $e){
+			// $this->out($e->getMessage());
+			return false;
+		}
+		return true;
 	}
 
 	public function checkIfShipExists($ship_type_id){
@@ -85,15 +118,68 @@ class ParseShell extends Shell{
 	}
 	public function addCharacter($c){
 		try{
+			$c['id'] = $c['character_id'];
 			if ($this->checkIfAgentExists((int)$c['character_id'])) throw new Exception('Character exists');
 			$character = $this->Characters->newEntity();
 			$character = $this->Characters->patchEntity($character,$c);
+			$character->character_id = $c['id'];
+			// die();
 			if ($this->Characters->save($character)){
 
 				// $this->out("Salvat");
 				return true;
 			}else{
-				$this->out("NOT Salvat");
+				// $this->out("Character - NOT Salvat");
+				return false;
+			}	
+		}catch (Exception $e){
+			// $this->Log($e->getMessage());
+			return false;
+		}
+		return true;
+		
+	}
+	public function addCorporation($c){
+		try{
+			
+			if ($this->checkIfCorpExists((int)$c['corporation_id'])) throw new Exception('Corp exists');
+			$corp = $this->Corporations->newEntity();
+			$corp = $this->Corporations->patchEntity($corp,$c);
+			$corp->corporation_id = $c['corporation_id'];
+
+			// die();
+			if ($this->Corporations->save($corp)){
+
+				// $this->out("Salvat");
+				return true;
+			}else{
+				$this->out("Corp - NOT Salvat");
+				return false;
+			}	
+		}catch (Exception $e){
+			// $this->Log($e->getMessage());
+			return false;
+		}
+		return true;
+		
+	}
+	public function addAgentToKill($c){
+		try{
+			
+			if ($this->checkIfAgentIsOnKill((int)$c['kill_id'],(int)$c['character_id'])) throw new Exception('Char is on kill already');
+			$agk = $this->AgentKills->newEntity();
+			$agk = $this->AgentKills->patchEntity($agk,$c);
+			// $agk->agkoration_id = $c['agkoration_id'];
+
+			// die();
+			if ($this->AgentKills->save($agk)){
+
+				// $this->out("Salvat");
+				return true;
+			}else{
+				debug($agk);
+				die();
+				$this->out("AgentKill - NOT Salvat");
 				return false;
 			}	
 		}catch (Exception $e){
@@ -144,12 +230,18 @@ class ParseShell extends Shell{
 		return true;
 		
 	}
+ 	public function updateCorporationForUser($character_id, $corp_id){
 
+ 		$c = $this->Characters->get($character_id);
+ 		$c->corporation_id = $corp_id;
+ 		$this->Characters->save($c);
+ 	}
 	public function addKill($s){
 		try{
 			if ($this->checkIfKillExists((int)$s['kill_id'])) throw new Exception('kill_id exists');
 			$ship = $this->Kills->newEntity();
 			$ship = $this->Kills->patchEntity($ship,$s);
+			$ship->kill_id = $s['kill_id'];		
 			// debug($ship);die();
 			if ($this->Kills->save($ship)){
 
@@ -248,9 +340,37 @@ class ParseShell extends Shell{
          		'date' => $a->date,
          		'ship_type_id'=>$a->ship_type_id,
          		'agent_id'=>$a->agent_id,
+         		'totalWingspanPct' => $a->totalWingspanPct * 100
          		);
+         	if ($this->addKill($c)){
+         		foreach ($a->attackers as $atc){
+	         		//parsam corporati
+	         		$corp = array(
+	         			'corporation_id'=>$atc->corporation_id,
+	         			'corporation_name'=>$atc->corporation_name
+	         			);
+	         		$user = array(
+	         			'character_id' => $atc->character_id,
+	         			'character_name'=>$atc->character_name,
+	         			);
+	         		$this->addCharacter($user);
+	         		$this->addCorporation($corp);
+	         		$this->updateCorporationForUser($atc->character_id,$atc->corporation_id);
+	         		//linking agent to kill
+	         		$atokill = array(
+	         			'kill_id'=>$a->kill_id,
+	         			'character_id'=>$atc->character_id,
+	         			'killingBlow'=>$atc->killingBlow,
+	         			'ship_type_id'=>$atc->ship_type_id,
+	         			'damageDone'=>$atc->damageDone,
+	         			'corporation_id'=>$atc->corporation_id
+	         			);
+	         		$this->addAgentToKill($atokill);
+	         	}
+         	}
+         	
          	// debug($c);die();
-         	$this->addKill($c);
+         	
          }
 	}
 
@@ -260,8 +380,7 @@ class ParseShell extends Shell{
 	// public function parseAKills()
 	// public function parseShips()
 	// public function parsevictims
-	
-	public function main(){
+	public function parseOldData(){
 		for ($i = 2015; $i<2018; $i++){
 			for ($j = 1; $j <13;$j++){
 				// $i = 2016;
@@ -273,6 +392,15 @@ class ParseShell extends Shell{
 				$this->parseKills($str);		
 			}
 		}
+	}
+	public function parseCurrentMonth(){
+				$str = date('Y') . '-' . (date('m') < 10 ? '0'.date('m') : date('m'));
+				$this->parseJsonAgents($str);
+				$this->parseKills($str);		
+	}
+	public function main(){
+		// $this->updateCorporationForUser(0,1);die();
+		$this->parseOldData();
 		// $this->parseKills();
 		// $this->parseShipTypes();
 		// $this->checkIfAgentExists(1);

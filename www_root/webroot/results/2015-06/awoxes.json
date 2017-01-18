@@ -1,60 +1,252 @@
 {
     "kills": [
         {
+            "npc": 1,
             "character_id": 94574163,
             "solar_system_id": 30045347,
+            "totalDamage": 46964,
+            "wingspanAgents": 1,
             "value": 84656605.14,
             "kill_id": 47188140,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91835155,
+                    "damageDone": 14533,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Tali Lyrae"
+                },
+                {
+                    "corporation_name": "Shits N Giggles",
+                    "character_id": 90072550,
+                    "damageDone": 3936,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 24700,
+                    "corporation_id": 98072399,
+                    "character_name": "Quiggvia"
+                },
+                {
+                    "corporation_name": "Shits N Giggles",
+                    "character_id": 1184122048,
+                    "damageDone": 7682,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 24700,
+                    "corporation_id": 98072399,
+                    "character_name": "Atuesuel"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 1184122048,
             "date": "2015-06-11 07:15:00",
             "ship_type_id": 16233,
             "character_name": "Revan Wake"
         },
         {
+            "npc": 0,
             "character_id": 94997705,
             "solar_system_id": 30003779,
+            "totalDamage": 2236,
+            "wingspanAgents": 2,
             "value": 46318185.18,
             "kill_id": 47046134,
+            "totalWingspanPct": 0.667,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93532393,
+                    "damageDone": 1680,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Ransom Odunen"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 93532393,
             "date": "2015-06-04 03:10:00",
             "ship_type_id": 12032,
             "character_name": "Gigi McQuaid"
         },
         {
+            "npc": 0,
             "character_id": 197930988,
             "solar_system_id": 30000142,
+            "totalDamage": 2561,
+            "wingspanAgents": 1,
             "value": 41565119.15,
             "kill_id": 47587496,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 937234386,
+                    "damageDone": 1393,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "M104"
+                },
+                {
+                    "corporation_name": "Concentrated Evil",
+                    "character_id": 90247594,
+                    "damageDone": 1168,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 1687770569,
+                    "character_name": "Genius Crims0n"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 90247594,
             "date": "2015-06-30 16:01:00",
             "ship_type_id": 12032,
             "character_name": "Xeromos"
         },
         {
+            "npc": 0,
             "character_id": 92036061,
             "solar_system_id": 31000848,
+            "totalDamage": 1811,
+            "wingspanAgents": 1,
             "value": 36806429.51,
             "kill_id": 47469042,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Galactic Miners",
+                    "character_id": 95242668,
+                    "damageDone": 1572,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98343772,
+                    "character_name": "Kalgecin Solette"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92491547,
+                    "damageDone": 239,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Phoenix Thynome"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 95242668,
             "date": "2015-06-24 13:53:00",
             "ship_type_id": 11377,
             "character_name": "Alt Sokarad"
         },
         {
+            "npc": 0,
             "character_id": 92257961,
             "solar_system_id": 30002187,
+            "totalDamage": 983,
+            "wingspanAgents": 1,
             "value": 14419703.89,
             "kill_id": 47067752,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91835155,
+                    "damageDone": 983,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33083,
+                    "corporation_id": 98330748,
+                    "character_name": "Tali Lyrae"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 91835155,
             "date": "2015-06-05 06:19:00",
             "ship_type_id": 605,
             "character_name": "Damien Oxytocin"
         },
         {
+            "npc": 0,
             "character_id": 94997705,
             "solar_system_id": 30003779,
+            "totalDamage": 447,
+            "wingspanAgents": 5,
             "value": 10000,
             "kill_id": 47048449,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95229965,
+                    "damageDone": 312,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Sabrez Haklar"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94654675,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "General Waaargh"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92863054,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Narcisse Nightmare"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 135,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95229965,
             "date": "2015-06-04 04:15:00",
             "ship_type_id": 670,

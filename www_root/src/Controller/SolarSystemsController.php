@@ -18,6 +18,9 @@ class SolarSystemsController extends AppController
      */
     public function index()
     {
+        $this->paginate = [
+            'contain' => ['SolarSystems']
+        ];
         $solarSystems = $this->paginate($this->SolarSystems);
 
         $this->set(compact('solarSystems'));
@@ -34,7 +37,7 @@ class SolarSystemsController extends AppController
     public function view($id = null)
     {
         $solarSystem = $this->SolarSystems->get($id, [
-            'contain' => ['Kills']
+            'contain' => ['SolarSystems']
         ]);
 
         $this->set('solarSystem', $solarSystem);
@@ -59,7 +62,8 @@ class SolarSystemsController extends AppController
                 $this->Flash->error(__('The solar system could not be saved. Please, try again.'));
             }
         }
-        $this->set(compact('solarSystem'));
+        $solarSystems = $this->SolarSystems->SolarSystems->find('list', ['limit' => 200]);
+        $this->set(compact('solarSystem', 'solarSystems'));
         $this->set('_serialize', ['solarSystem']);
     }
 
@@ -85,7 +89,8 @@ class SolarSystemsController extends AppController
                 $this->Flash->error(__('The solar system could not be saved. Please, try again.'));
             }
         }
-        $this->set(compact('solarSystem'));
+        $solarSystems = $this->SolarSystems->SolarSystems->find('list', ['limit' => 200]);
+        $this->set(compact('solarSystem', 'solarSystems'));
         $this->set('_serialize', ['solarSystem']);
     }
 

@@ -10,9 +10,6 @@ use Cake\Validation\Validator;
  * ShipTypes Model
  *
  * @property \Cake\ORM\Association\BelongsTo $ShipTypes
- * @property \Cake\ORM\Association\HasMany $Kills
- * @property \Cake\ORM\Association\HasMany $ShipTypes
- * @property \Cake\ORM\Association\HasMany $Ships
  *
  * @method \App\Model\Entity\ShipType get($primaryKey, $options = [])
  * @method \App\Model\Entity\ShipType newEntity($data = null, array $options = [])
@@ -39,19 +36,10 @@ class ShipTypesTable extends Table
         $this->displayField('name');
         $this->primaryKey('ship_type_id');
 
-        // $this->belongsTo('ShipTypes', [
-        //     'foreignKey' => 'ship_type_id',
-        //     'joinType' => 'INNER'
-        // ]);
-        $this->hasMany('Kills', [
-            'foreignKey' => 'ship_type_id'
+        $this->belongsTo('ShipTypes', [
+            'foreignKey' => 'ship_type_id',
+            'joinType' => 'INNER'
         ]);
-        // $this->hasMany('Kills', [
-        //     'foreignKey' => 'ship_type_id'
-        // ]);
-        // // $this->hasMany('Ships', [
-        //     'foreignKey' => 'ship_type_id'
-        // ]);
     }
 
     /**
@@ -62,9 +50,6 @@ class ShipTypesTable extends Table
      */
     public function validationDefault(Validator $validator)
     {
-        $validator
-            ->allowEmpty('id', 'create');
-
         $validator
             ->requirePresence('name', 'create')
             ->notEmpty('name');
@@ -81,7 +66,7 @@ class ShipTypesTable extends Table
      */
     public function buildRules(RulesChecker $rules)
     {
-        // $rules->add($rules->existsIn(['ship_type_id'], 'ShipTypes'));
+        $rules->add($rules->existsIn(['ship_type_id'], 'ShipTypes'));
 
         return $rules;
     }

@@ -18,6 +18,9 @@ class CharactersController extends AppController
      */
     public function index()
     {
+        $this->paginate = [
+            'contain' => ['Corporations']
+        ];
         $characters = $this->paginate($this->Characters);
 
         $this->set(compact('characters'));
@@ -34,7 +37,7 @@ class CharactersController extends AppController
     public function view($id = null)
     {
         $character = $this->Characters->get($id, [
-            'contain' => [ 'Agents', 'Kills', 'Victims']
+            'contain' => ['Corporations']
         ]);
 
         $this->set('character', $character);
@@ -50,7 +53,6 @@ class CharactersController extends AppController
     {
         $character = $this->Characters->newEntity();
         if ($this->request->is('post')) {
-            
             $character = $this->Characters->patchEntity($character, $this->request->data);
             if ($this->Characters->save($character)) {
                 $this->Flash->success(__('The character has been saved.'));
@@ -60,7 +62,8 @@ class CharactersController extends AppController
                 $this->Flash->error(__('The character could not be saved. Please, try again.'));
             }
         }
-        $this->set(compact('character'));
+        $corporations = $this->Characters->Corporations->find('list', ['limit' => 200]);
+        $this->set(compact('character', 'corporations'));
         $this->set('_serialize', ['character']);
     }
 
@@ -86,7 +89,8 @@ class CharactersController extends AppController
                 $this->Flash->error(__('The character could not be saved. Please, try again.'));
             }
         }
-        $this->set(compact('character'));
+        $corporations = $this->Characters->Corporations->find('list', ['limit' => 200]);
+        $this->set(compact('character', 'corporations'));
         $this->set('_serialize', ['character']);
     }
 

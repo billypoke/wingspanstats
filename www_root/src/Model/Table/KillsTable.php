@@ -14,7 +14,6 @@ use Cake\Validation\Validator;
  * @property \Cake\ORM\Association\BelongsTo $SolarSystems
  * @property \Cake\ORM\Association\BelongsTo $Kills
  * @property \Cake\ORM\Association\BelongsTo $Agents
- * @property \Cake\ORM\Association\HasMany $Kills
  *
  * @method \App\Model\Entity\Kill get($primaryKey, $options = [])
  * @method \App\Model\Entity\Kill newEntity($data = null, array $options = [])
@@ -38,8 +37,8 @@ class KillsTable extends Table
         parent::initialize($config);
 
         $this->table('kills');
-        $this->displayField('id');
-        $this->primaryKey('id');
+        $this->displayField('kill_id');
+        $this->primaryKey('kill_id');
 
         $this->belongsTo('Characters', [
             'foreignKey' => 'character_id',
@@ -53,10 +52,10 @@ class KillsTable extends Table
             'foreignKey' => 'solar_system_id',
             'joinType' => 'INNER'
         ]);
-
-        $this->hasMany('Kills', [
-            'foreignKey' => 'kill_id'
-        ]);
+        $this->hasMany('AgentKills',[
+            'foreignKey' => 'kill_id',
+            'joinType' => 'INNER'
+            ]);
     }
 
     /**
@@ -67,7 +66,20 @@ class KillsTable extends Table
      */
     public function validationDefault(Validator $validator)
     {
+        // $validator
+        //     ->dateTime('date')
+        //     ->requirePresence('date', 'create')
+        //     ->notEmpty('date');
 
+        // $validator
+        //     ->numeric('value')
+        //     ->requirePresence('value', 'create')
+        //     ->notEmpty('value');
+
+        // $validator
+        //     ->numeric('totalWingspanPct')
+        //     ->requirePresence('totalWingspanPct', 'create')
+        //     ->notEmpty('totalWingspanPct');
 
         return $validator;
     }
@@ -84,8 +96,8 @@ class KillsTable extends Table
         $rules->add($rules->existsIn(['character_id'], 'Characters'));
         $rules->add($rules->existsIn(['ship_type_id'], 'ShipTypes'));
         $rules->add($rules->existsIn(['solar_system_id'], 'SolarSystems'));
-        
-        // $rules->add($rules->existsIn(['agent_id'], 'Characters'));
+        // $rules->add($rules->existsIn(['kill_id'], 'Kills'));
+        // $rules->add($rules->existsIn(['agent_id'], 'Agents'));
 
         return $rules;
     }

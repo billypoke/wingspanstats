@@ -65,13 +65,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 7,
-            "character_id": 94623708,
-            "isk_destroyed": 74721364.51,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 3,
             "character_id": 95675630,
             "isk_destroyed": 121996187.47,
@@ -97,6 +90,13 @@
             "character_id": 94364845,
             "isk_destroyed": 64518887.33,
             "character_name": "Shahta Kopatel"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94623708,
+            "isk_destroyed": 71337521.17,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

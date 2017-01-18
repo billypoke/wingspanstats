@@ -198,13 +198,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 7,
-            "character_id": 1400783403,
-            "isk_destroyed": 1339394467.1099997,
-            "character_name": "Epoch Veli"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 9,
             "character_id": 1288992423,
             "isk_destroyed": 981676484.4600002,
@@ -212,9 +205,16 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 6,
+            "ships_destroyed": 5,
+            "character_id": 1400783403,
+            "isk_destroyed": 1281884927.7999997,
+            "character_name": "Epoch Veli"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
             "character_id": 96202200,
-            "isk_destroyed": 1297511740.1599998,
+            "isk_destroyed": 1031513935.74,
             "character_name": "Xaeli"
         },
         {

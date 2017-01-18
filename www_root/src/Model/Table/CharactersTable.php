@@ -10,10 +10,6 @@ use Cake\Validation\Validator;
  * Characters Model
  *
  * @property \Cake\ORM\Association\BelongsTo $Characters
- * @property \Cake\ORM\Association\HasMany $Agents
- * @property \Cake\ORM\Association\HasMany $Characters
- * @property \Cake\ORM\Association\HasMany $Kills
- * @property \Cake\ORM\Association\HasMany $Victims
  *
  * @method \App\Model\Entity\Character get($primaryKey, $options = [])
  * @method \App\Model\Entity\Character newEntity($data = null, array $options = [])
@@ -39,23 +35,11 @@ class CharactersTable extends Table
         $this->table('characters');
         $this->displayField('character_name');
         $this->primaryKey('character_id');
-
-        $this->belongsTo('Characters', [
-            'foreignKey' => 'character_id',
+        $this->belongsTo('Corporations', [
+            'foreignKey' => 'corporation_id',
             'joinType' => 'INNER'
         ]);
-        $this->hasMany('Agents', [
-            'foreignKey' => 'character_id'
-        ]);
-        // $this->hasMany('Characters', [
-        //     'foreignKey' => 'character_id'
-        // ]);
-        $this->hasMany('Kills', [
-            'foreignKey' => 'character_id'
-        ]);
-        $this->hasMany('Victims', [
-            'foreignKey' => 'character_id'
-        ]);
+       
     }
 
     /**
@@ -67,14 +51,9 @@ class CharactersTable extends Table
     public function validationDefault(Validator $validator)
     {
         // $validator
-        //     ->allowEmpty('id', 'create');
-
-        // $validator
         //     ->requirePresence('character_name', 'create')
         //     ->notEmpty('character_name');
-        // $validator
-        //     ->requirePresence('character_id', 'create')
-        //     ->notEmpty('character_name');
+
         return $validator;
     }
 

@@ -1,70 +1,249 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 775104390,
             "solar_system_id": 31000259,
+            "totalDamage": 22437,
+            "wingspanAgents": 1,
             "value": 1176131899.8,
             "kill_id": 59229961,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92538439,
+                    "damageDone": 0,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Xfinity Misner"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 92538439,
             "date": "2017-01-16 02:52:56",
             "ship_type_id": 33470,
             "character_name": "lashana darkmoon"
         },
         {
+            "npc": 0,
             "character_id": 649853166,
             "solar_system_id": 31001168,
+            "totalDamage": 4011,
+            "wingspanAgents": 1,
             "value": 145646492.03,
             "kill_id": 59103334,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "Taladi Federation",
+                    "character_id": 846387175,
+                    "damageDone": 2442,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 33818,
+                    "corporation_id": 98069527,
+                    "character_name": "Sentinel Roqeze"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96831502,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Grimm Horizon"
+                },
+                {
+                    "corporation_name": "Taladi Federation",
+                    "character_id": 1961681075,
+                    "damageDone": 1569,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 0,
+                    "corporation_id": 98069527,
+                    "character_name": "Willl Parr"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 846387175,
             "date": "2017-01-11 23:58:27",
             "ship_type_id": 33468,
             "character_name": "Witchdoctor24"
         },
         {
+            "npc": 0,
             "character_id": 96214637,
             "solar_system_id": 31000380,
+            "totalDamage": 1885,
+            "wingspanAgents": 1,
             "value": 45712136.71,
             "kill_id": 58793433,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "ArcJet Heavy Industries",
+                    "character_id": 1829448753,
+                    "damageDone": 1369,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17918,
+                    "corporation_id": 98448544,
+                    "character_name": "USS Hauler"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1221514457,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12013,
+                    "corporation_id": 98330748,
+                    "character_name": "SsjGhost"
+                },
+                {
+                    "corporation_name": "ArcJet Heavy Industries",
+                    "character_id": 724441616,
+                    "damageDone": 516,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98448544,
+                    "character_name": "Faith Longstar"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 1829448753,
             "date": "2017-01-01 23:28:16",
             "ship_type_id": 11377,
             "character_name": "Caligulas"
         },
         {
+            "npc": 0,
             "character_id": 96410439,
             "solar_system_id": 31000787,
+            "totalDamage": 3304,
+            "wingspanAgents": 1,
             "value": 32657684.23,
             "kill_id": 59141387,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Birdsquad",
+                    "character_id": 92959960,
+                    "damageDone": 3304,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 608,
+                    "corporation_id": 98454893,
+                    "character_name": "Xackattack Avianson"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95547196,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12017,
+                    "corporation_id": 98330748,
+                    "character_name": "Doris Andedarie"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 92959960,
             "date": "2017-01-13 16:37:58",
             "ship_type_id": 16242,
             "character_name": "Okaga Utama"
         },
         {
+            "npc": 0,
             "character_id": 94056770,
             "solar_system_id": 30002066,
+            "totalDamage": 5146,
+            "wingspanAgents": 2,
             "value": 17135878.92,
             "kill_id": 58916308,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 851221968,
+                    "damageDone": 4400,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 23915,
+                    "corporation_id": 98330748,
+                    "character_name": "Vothor"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95229965,
+                    "damageDone": 746,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 24483,
+                    "corporation_id": 98330748,
+                    "character_name": "Sabrez Haklar"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95229965,
             "date": "2017-01-06 00:17:09",
             "ship_type_id": 2006,
             "character_name": "Inta Vakaria"
         },
         {
+            "npc": 0,
             "character_id": 94056770,
             "solar_system_id": 30001376,
+            "totalDamage": 462,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 58919159,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 318437299,
+                    "damageDone": 462,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 17841,
+                    "corporation_id": 98330748,
+                    "character_name": "Patrick Moon"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 318437299,
             "date": "2017-01-06 02:37:33",
             "ship_type_id": 670,
             "character_name": "Inta Vakaria"
         },
         {
+            "npc": 0,
             "character_id": 96054090,
             "solar_system_id": 30001160,
+            "totalDamage": 461,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 58769202,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 584976954,
+                    "damageDone": 461,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 2006,
+                    "corporation_id": 98330748,
+                    "character_name": "Jerythas"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 584976954,
             "date": "2017-01-01 05:05:12",
             "ship_type_id": 670,

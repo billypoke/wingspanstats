@@ -1,80 +1,314 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 91835155,
             "solar_system_id": 30002187,
+            "totalDamage": 19726,
+            "wingspanAgents": 1,
             "value": 556633577,
             "kill_id": 49391206,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1640448394,
+                    "damageDone": 19726,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 24700,
+                    "corporation_id": 98330748,
+                    "character_name": "Saria Dehmov"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1640448394,
             "date": "2015-10-03 06:24:00",
             "ship_type_id": 33470,
             "character_name": "Tali Lyrae"
         },
         {
+            "npc": 0,
             "character_id": 91835155,
             "solar_system_id": 30002187,
+            "totalDamage": 23029,
+            "wingspanAgents": 1,
             "value": 210838594.75,
             "kill_id": 49409881,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93669013,
+                    "damageDone": 0,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 24700,
+                    "corporation_id": 98330748,
+                    "character_name": "AnalogTom Rotineque"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 93669013,
             "date": "2015-10-04 00:14:00",
             "ship_type_id": 33157,
             "character_name": "Tali Lyrae"
         },
         {
+            "npc": 0,
             "character_id": 94901741,
             "solar_system_id": 31001669,
+            "totalDamage": 2350,
+            "wingspanAgents": 1,
             "value": 117892492.34,
             "kill_id": 49644627,
+            "totalWingspanPct": 1.0,
+            "attackers": [],
+            "thirdParty": 0,
             "agent_id": 0,
             "date": "2015-10-17 06:25:00",
             "ship_type_id": 11377,
             "character_name": "Scarabat"
         },
         {
+            "npc": 0,
             "character_id": 584976954,
             "solar_system_id": 30000900,
+            "totalDamage": 3627,
+            "wingspanAgents": 1,
             "value": 97377592.19,
             "kill_id": 49577282,
+            "totalWingspanPct": 0.167,
+            "attackers": [
+                {
+                    "corporation_name": "Status Unknown.",
+                    "character_id": 94373976,
+                    "damageDone": 1356,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98336196,
+                    "character_name": "Sean Blair"
+                },
+                {
+                    "corporation_name": "Status Unknown.",
+                    "character_id": 94759781,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11176,
+                    "corporation_id": 98336196,
+                    "character_name": "Daxon Thaelus"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1640448394,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22464,
+                    "corporation_id": 98330748,
+                    "character_name": "Saria Dehmov"
+                },
+                {
+                    "corporation_name": "Reckless-Endangerment",
+                    "character_id": 93118910,
+                    "damageDone": 494,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 626,
+                    "corporation_id": 98299542,
+                    "character_name": "Shred Bane"
+                },
+                {
+                    "corporation_name": "Status Unknown.",
+                    "character_id": 95016369,
+                    "damageDone": 838,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98336196,
+                    "character_name": "Xander Avalhar"
+                },
+                {
+                    "corporation_name": "Reckless-Endangerment",
+                    "character_id": 94401704,
+                    "damageDone": 939,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98299542,
+                    "character_name": "Captain Onzo"
+                }
+            ],
+            "thirdParty": 5,
             "agent_id": 94373976,
             "date": "2015-10-13 03:27:00",
             "ship_type_id": 34317,
             "character_name": "Jerythas"
         },
         {
+            "npc": 0,
             "character_id": 1612816832,
             "solar_system_id": 31001669,
+            "totalDamage": 2074,
+            "wingspanAgents": 1,
             "value": 30473669.56,
             "kill_id": 49644666,
+            "totalWingspanPct": 1.0,
+            "attackers": [],
+            "thirdParty": 0,
             "agent_id": 0,
             "date": "2015-10-17 06:30:00",
             "ship_type_id": 11377,
             "character_name": "Boexl"
         },
         {
+            "npc": 0,
             "character_id": 94901741,
             "solar_system_id": 31001669,
+            "totalDamage": 506,
+            "wingspanAgents": 7,
             "value": 10000,
             "kill_id": 49644763,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94336675,
+                    "damageDone": 467,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Reed Icculus"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95732953,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98415327,
+                    "character_name": "Mei Long"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 94487782,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Animal Hellbringer"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92805979,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Valtyr Farshield"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93007709,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 28606,
+                    "corporation_id": 98330748,
+                    "character_name": "Orianna Okanata"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94571445,
+                    "damageDone": 39,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Trip Erata"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94336675,
             "date": "2015-10-17 06:43:00",
             "ship_type_id": 670,
             "character_name": "Scarabat"
         },
         {
+            "npc": 0,
             "character_id": 94947315,
             "solar_system_id": 30002986,
+            "totalDamage": 481,
+            "wingspanAgents": 2,
             "value": 10000,
             "kill_id": 49515099,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1158072549,
+                    "damageDone": 481,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Abaddon Nergal"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1158072549,
             "date": "2015-10-10 00:49:00",
             "ship_type_id": 670,
             "character_name": "Lainis Pootis"
         },
         {
+            "npc": 0,
             "character_id": 93669013,
             "solar_system_id": 30003069,
+            "totalDamage": 480,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 49412373,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95859864,
+                    "damageDone": 480,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 603,
+                    "corporation_id": 98415327,
+                    "character_name": "Narka Larker"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95859864,
             "date": "2015-10-04 03:43:00",
             "ship_type_id": 670,

@@ -1,16 +1,16 @@
 {
     "ships": [
         {
-            "ships_destroyed": 525,
+            "ships_destroyed": 512,
             "ship_type_id": 33470,
             "ship_name": "Stratios",
-            "isk_destroyed": 93828905831.26004
+            "isk_destroyed": 93677481974.16005
         },
         {
-            "ships_destroyed": 308,
+            "ships_destroyed": 307,
             "ship_type_id": 11377,
             "ship_name": "Nemesis",
-            "isk_destroyed": 60691030491.709915
+            "isk_destroyed": 60691020491.709915
         },
         {
             "ships_destroyed": 294,
@@ -25,16 +25,16 @@
             "isk_destroyed": 25385141328.50001
         },
         {
-            "ships_destroyed": 87,
+            "ships_destroyed": 86,
             "ship_type_id": 12038,
             "ship_name": "Purifier",
-            "isk_destroyed": 27982947435.25
+            "isk_destroyed": 27945371606.97
         },
         {
-            "ships_destroyed": 70,
+            "ships_destroyed": 69,
             "ship_type_id": 29984,
             "ship_name": "Tengu",
-            "isk_destroyed": 14537543997.389996
+            "isk_destroyed": 14537148458.299995
         },
         {
             "ships_destroyed": 70,
@@ -295,12 +295,6 @@
             "isk_destroyed": 257112164.54000002
         },
         {
-            "ships_destroyed": 5,
-            "ship_type_id": 11971,
-            "ship_name": "Lachesis",
-            "isk_destroyed": 205076638.8
-        },
-        {
             "ships_destroyed": 4,
             "ship_type_id": 17843,
             "ship_name": "Vexor Navy Issue",
@@ -319,10 +313,10 @@
             "isk_destroyed": 388371291.81
         },
         {
-            "ships_destroyed": 8,
-            "ship_type_id": 11200,
-            "ship_name": "Taranis",
-            "isk_destroyed": 83548161.25
+            "ships_destroyed": 3,
+            "ship_type_id": 11971,
+            "ship_name": "Lachesis",
+            "isk_destroyed": 203232168.73000002
         },
         {
             "ships_destroyed": 3,
@@ -341,12 +335,6 @@
             "ship_type_id": 22444,
             "ship_name": "Sleipnir",
             "isk_destroyed": 143983963.74
-        },
-        {
-            "ships_destroyed": 9,
-            "ship_type_id": 12005,
-            "ship_name": "Ishtar",
-            "isk_destroyed": 46250378.63999999
         },
         {
             "ships_destroyed": 2,
@@ -407,6 +395,12 @@
             "ship_type_id": 584,
             "ship_name": "Griffin",
             "isk_destroyed": 204842670.85
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 11200,
+            "ship_name": "Taranis",
+            "isk_destroyed": 35582188.88
         },
         {
             "ships_destroyed": 4,

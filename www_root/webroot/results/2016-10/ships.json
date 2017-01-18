@@ -1,28 +1,28 @@
 {
     "ships": [
         {
-            "ships_destroyed": 567,
+            "ships_destroyed": 566,
             "ship_type_id": 33470,
             "ship_name": "Stratios",
-            "isk_destroyed": 112990848828.3872
+            "isk_destroyed": 112981320760.6472
         },
         {
-            "ships_destroyed": 443,
+            "ships_destroyed": 442,
             "ship_type_id": 12032,
             "ship_name": "Manticore",
-            "isk_destroyed": 78034455413.74713
+            "isk_destroyed": 78032524530.71713
         },
         {
-            "ships_destroyed": 349,
+            "ships_destroyed": 348,
             "ship_type_id": 11377,
             "ship_name": "Nemesis",
-            "isk_destroyed": 80025413893.39792
+            "isk_destroyed": 80023483010.36792
         },
         {
-            "ships_destroyed": 275,
+            "ships_destroyed": 274,
             "ship_type_id": 12038,
             "ship_name": "Purifier",
-            "isk_destroyed": 27852809137.148994
+            "isk_destroyed": 27850878254.118996
         },
         {
             "ships_destroyed": 140,
@@ -49,10 +49,10 @@
             "isk_destroyed": 18617019183.959
         },
         {
-            "ships_destroyed": 132,
+            "ships_destroyed": 131,
             "ship_type_id": 33468,
             "ship_name": "Astero",
-            "isk_destroyed": 6872474846.980002
+            "isk_destroyed": 6869654740.820003
         },
         {
             "ships_destroyed": 45,
@@ -437,12 +437,6 @@
             "ship_type_id": 629,
             "ship_name": "Rupture",
             "isk_destroyed": 38728302.57
-        },
-        {
-            "ships_destroyed": 1,
-            "ship_type_id": 11971,
-            "ship_name": "Lachesis",
-            "isk_destroyed": 33270862.16
         },
         {
             "ships_destroyed": 3,

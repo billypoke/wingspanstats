@@ -1,80 +1,256 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 95229965,
             "solar_system_id": 30000144,
+            "totalDamage": 15597,
+            "wingspanAgents": 1,
             "value": 41619873.56,
             "kill_id": 46922112,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92257961,
+                    "damageDone": 15597,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98330748,
+                    "character_name": "Damien Oxytocin"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 92257961,
             "date": "2015-05-29 00:15:00",
             "ship_type_id": 16231,
             "character_name": "Sabrez Haklar"
         },
         {
+            "npc": 0,
             "character_id": 94574163,
             "solar_system_id": 30000142,
+            "totalDamage": 11604,
+            "wingspanAgents": 1,
             "value": 30890580.07,
             "kill_id": 46486196,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 145074554,
+                    "damageDone": 6458,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 626,
+                    "corporation_id": 98330748,
+                    "character_name": "Nyrram"
+                },
+                {
+                    "corporation_name": "Space Knights Templar",
+                    "character_id": 161684017,
+                    "damageDone": 5146,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 4310,
+                    "corporation_id": 98057065,
+                    "character_name": "Doctor Per"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 161684017,
             "date": "2015-05-08 05:59:00",
             "ship_type_id": 621,
             "character_name": "Revan Wake"
         },
         {
+            "npc": 0,
             "character_id": 95229965,
             "solar_system_id": 30002187,
+            "totalDamage": 5353,
+            "wingspanAgents": 1,
             "value": 16887989.36,
             "kill_id": 46822484,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93532393,
+                    "damageDone": 5353,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33816,
+                    "corporation_id": 98330748,
+                    "character_name": "Ransom Odunen"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 93532393,
             "date": "2015-05-24 03:55:00",
             "ship_type_id": 2006,
             "character_name": "Sabrez Haklar"
         },
         {
+            "npc": 0,
             "character_id": 95095428,
             "solar_system_id": 30000144,
+            "totalDamage": 5008,
+            "wingspanAgents": 3,
             "value": 9791818.57,
             "kill_id": 46944636,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 5008,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 17920,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94654675,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "General Waaargh"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93532393,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Ransom Odunen"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94574163,
             "date": "2015-05-30 03:43:00",
             "ship_type_id": 16236,
             "character_name": "Xee Yoona-451"
         },
         {
+            "npc": 0,
             "character_id": 94809577,
             "solar_system_id": 30002187,
+            "totalDamage": 5510,
+            "wingspanAgents": 1,
             "value": 2770350.23,
             "kill_id": 46487276,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 5510,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 605,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94574163,
             "date": "2015-05-08 08:12:00",
             "ship_type_id": 607,
             "character_name": "Glade Radner"
         },
         {
+            "npc": 0,
             "character_id": 95229965,
             "solar_system_id": 30002187,
+            "totalDamage": 2465,
+            "wingspanAgents": 1,
             "value": 2001194.39,
             "kill_id": 46822538,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95095428,
+                    "damageDone": 2465,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 24696,
+                    "corporation_id": 98330748,
+                    "character_name": "Xee Yoona-451"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95095428,
             "date": "2015-05-24 04:00:00",
             "ship_type_id": 598,
             "character_name": "Sabrez Haklar"
         },
         {
+            "npc": 0,
             "character_id": 448190409,
             "solar_system_id": 31001627,
+            "totalDamage": 1053,
+            "wingspanAgents": 1,
             "value": 487603.07,
             "kill_id": 46846308,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 1053,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 29984,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2015-05-25 03:40:00",
             "ship_type_id": 608,
             "character_name": "Jarirk"
         },
         {
+            "npc": 0,
             "character_id": 93532393,
             "solar_system_id": 31000860,
+            "totalDamage": 451,
+            "wingspanAgents": 2,
             "value": 10000,
             "kill_id": 46701620,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93317595,
+                    "damageDone": 253,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Gillion Wyrddych"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95229965,
+                    "damageDone": 198,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98330748,
+                    "character_name": "Sabrez Haklar"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95229965,
             "date": "2015-05-18 00:08:00",
             "ship_type_id": 670,

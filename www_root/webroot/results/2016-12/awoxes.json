@@ -1,110 +1,447 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 94447432,
             "solar_system_id": 31001504,
+            "totalDamage": 480,
+            "wingspanAgents": 1,
             "value": 462406997.3,
             "kill_id": 58527680,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Respice Ad Astra",
+                    "character_id": 1235491259,
+                    "damageDone": 480,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 34828,
+                    "corporation_id": 98244936,
+                    "character_name": "Firepreliator"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 1235491259,
             "date": "2016-12-23 21:13:38",
             "ship_type_id": 33328,
             "character_name": "Chance Ravinne"
         },
         {
+            "npc": 0,
             "character_id": 92045034,
             "solar_system_id": 30003277,
+            "totalDamage": 461,
+            "wingspanAgents": 1,
             "value": 136143475.79,
             "kill_id": 58342964,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "InterSun Freelance",
+                    "character_id": 744422450,
+                    "damageDone": 461,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 11995,
+                    "corporation_id": 698548476,
+                    "character_name": "No457Reg"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 987468952,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 3756,
+                    "corporation_id": 98330748,
+                    "character_name": "NoGo Rose"
+                },
+                {
+                    "corporation_name": "InterSun Freelance",
+                    "character_id": 1502557835,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17703,
+                    "corporation_id": 698548476,
+                    "character_name": "Toit"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 744422450,
             "date": "2016-12-18 01:12:33",
             "ship_type_id": 670,
             "character_name": "Alex Pyzi"
         },
         {
+            "npc": 1,
             "character_id": 94470439,
             "solar_system_id": 30003918,
+            "totalDamage": 1782,
+            "wingspanAgents": 1,
             "value": 119237696.29,
             "kill_id": 58253084,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94470439,
+                    "damageDone": 1782,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98330748,
+                    "character_name": "Parsimony Kate"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94470439,
             "date": "2016-12-15 14:15:40",
             "ship_type_id": 33468,
             "character_name": "Parsimony Kate"
         },
         {
+            "npc": 0,
             "character_id": 92045034,
             "solar_system_id": 30003277,
+            "totalDamage": 14236,
+            "wingspanAgents": 1,
             "value": 108573009.55,
             "kill_id": 58342950,
+            "totalWingspanPct": 0.2,
+            "attackers": [
+                {
+                    "corporation_name": "Trigger Warning.",
+                    "character_id": 616320740,
+                    "damageDone": 10028,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17722,
+                    "corporation_id": 98459043,
+                    "character_name": "Luko Melis"
+                },
+                {
+                    "corporation_name": "InterSun Freelance",
+                    "character_id": 744422450,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11995,
+                    "corporation_id": 698548476,
+                    "character_name": "No457Reg"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 987468952,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 3756,
+                    "corporation_id": 98330748,
+                    "character_name": "NoGo Rose"
+                },
+                {
+                    "corporation_name": "InterSun Freelance",
+                    "character_id": 1502557835,
+                    "damageDone": 900,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17703,
+                    "corporation_id": 698548476,
+                    "character_name": "Toit"
+                },
+                {
+                    "corporation_name": "Vanishing Point.",
+                    "character_id": 93347245,
+                    "damageDone": 3308,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33157,
+                    "corporation_id": 1753357224,
+                    "character_name": "DEEZNIUTS dickerson"
+                }
+            ],
+            "thirdParty": 4,
             "agent_id": 1502557835,
             "date": "2016-12-18 01:12:04",
             "ship_type_id": 4308,
             "character_name": "Alex Pyzi"
         },
         {
+            "npc": 0,
             "character_id": 91117813,
             "solar_system_id": 30003277,
+            "totalDamage": 7095,
+            "wingspanAgents": 1,
             "value": 77692847.59,
             "kill_id": 58341417,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "Trigger Warning.",
+                    "character_id": 616320740,
+                    "damageDone": 4137,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 28665,
+                    "corporation_id": 98459043,
+                    "character_name": "Luko Melis"
+                },
+                {
+                    "corporation_name": "Big Shadows",
+                    "character_id": 219086100,
+                    "damageDone": 964,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 626,
+                    "corporation_id": 339346867,
+                    "character_name": "Boneswe"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93307529,
+                    "damageDone": 1994,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33328,
+                    "corporation_id": 98330748,
+                    "character_name": "Miles Bothari"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 616320740,
             "date": "2016-12-18 00:15:39",
             "ship_type_id": 22464,
             "character_name": "Kanly Aideron"
         },
         {
+            "npc": 0,
             "character_id": 93307529,
             "solar_system_id": 30003277,
+            "totalDamage": 4937,
+            "wingspanAgents": 1,
             "value": 67414924.15,
             "kill_id": 58341378,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Trigger Warning.",
+                    "character_id": 616320740,
+                    "damageDone": 4609,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 28665,
+                    "corporation_id": 98459043,
+                    "character_name": "Luko Melis"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91117813,
+                    "damageDone": 328,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22464,
+                    "corporation_id": 98330748,
+                    "character_name": "Kanly Aideron"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 616320740,
             "date": "2016-12-18 00:14:02",
             "ship_type_id": 34562,
             "character_name": "Miles Bothari"
         },
         {
+            "npc": 0,
             "character_id": 96872235,
             "solar_system_id": 30001967,
+            "totalDamage": 0,
+            "wingspanAgents": 1,
             "value": 45481783.9,
             "kill_id": 58079689,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91568131,
+                    "damageDone": 0,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "FZ Falzar"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 91568131,
             "date": "2016-12-10 17:48:13",
             "ship_type_id": 12032,
             "character_name": "ianDao"
         },
         {
+            "npc": 0,
             "character_id": 95547196,
             "solar_system_id": 31000554,
+            "totalDamage": 9501,
+            "wingspanAgents": 1,
             "value": 23443450.98,
             "kill_id": 58277092,
+            "totalWingspanPct": 0.2,
+            "attackers": [
+                {
+                    "corporation_name": "New Jovian Exploration Department",
+                    "character_id": 639876113,
+                    "damageDone": 4649,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98367024,
+                    "character_name": "Sebesto"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95229965,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 28606,
+                    "corporation_id": 98330748,
+                    "character_name": "Sabrez Haklar"
+                },
+                {
+                    "corporation_name": "New Jovian Exploration Department",
+                    "character_id": 94571520,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29988,
+                    "corporation_id": 98367024,
+                    "character_name": "Freddy Eriker"
+                },
+                {
+                    "corporation_name": "New Jovian Exploration Department",
+                    "character_id": 224846390,
+                    "damageDone": 1479,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 35683,
+                    "corporation_id": 98367024,
+                    "character_name": "Bluedagger"
+                },
+                {
+                    "corporation_name": "New Jovian Exploration Department",
+                    "character_id": 90686470,
+                    "damageDone": 3373,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 98367024,
+                    "character_name": "WakeRider"
+                }
+            ],
+            "thirdParty": 4,
             "agent_id": 639876113,
             "date": "2016-12-16 06:13:38",
             "ship_type_id": 632,
             "character_name": "Doris Andedarie"
         },
         {
+            "npc": 0,
             "character_id": 1400783403,
             "solar_system_id": 30005038,
+            "totalDamage": 594,
+            "wingspanAgents": 1,
             "value": 19552.7,
             "kill_id": 58676350,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1062752512,
+                    "damageDone": 594,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Rillek Ratseye"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1062752512,
             "date": "2016-12-28 22:03:44",
             "ship_type_id": 588,
             "character_name": "Epoch Veli"
         },
         {
+            "npc": 0,
             "character_id": 95095428,
             "solar_system_id": 30002466,
+            "totalDamage": 460,
+            "wingspanAgents": 2,
             "value": 10000,
             "kill_id": 58419579,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96049384,
+                    "damageDone": 331,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Quintus Va'Lari"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 640170087,
+                    "damageDone": 129,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "JK Shadow"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 96049384,
             "date": "2016-12-20 06:50:18",
             "ship_type_id": 670,
             "character_name": "Xee Yoona-451"
         },
         {
+            "npc": 0,
             "character_id": 92685542,
             "solar_system_id": 31001470,
+            "totalDamage": 461,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 57802080,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Singularity Services inc",
+                    "character_id": 94397754,
+                    "damageDone": 461,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 16227,
+                    "corporation_id": 98333528,
+                    "character_name": "Chou Yakumo"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1463256980,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98330748,
+                    "character_name": "Kerie Thomas"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 94397754,
             "date": "2016-12-02 21:27:44",
             "ship_type_id": 33328,

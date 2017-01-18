@@ -29,7 +29,7 @@ class Awox(Skeleton):
             solar_system_id = killmail['solarSystemID']
             date = killmail['killTime']
             isk_destroyed = killmail['zkb']['totalValue']
-
+            attackers = killmail['attackers']
             self.kills.append(
                 Kill(
                     kill_id,
@@ -39,6 +39,7 @@ class Awox(Skeleton):
                     solar_system_id,
                     date,
                     isk_destroyed,
-                    agent_id
+                    agent_id,
+                    attackers
                 )
             )

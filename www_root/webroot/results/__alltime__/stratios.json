@@ -58,9 +58,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 192,
+            "ships_destroyed": 191,
             "character_id": 92863054,
-            "isk_destroyed": 45613468580.29619,
+            "isk_destroyed": 45611873305.50619,
             "character_name": "Narcisse Nightmare"
         },
         {
@@ -275,13 +275,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 124,
-            "character_id": 94623708,
-            "isk_destroyed": 12590240005.08599,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 64,
             "character_id": 96193133,
             "isk_destroyed": 23843979235.37999,
@@ -349,6 +342,13 @@
             "character_id": 96548967,
             "isk_destroyed": 21331230524.557297,
             "character_name": "Mrs Boom"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 84,
+            "character_id": 94623708,
+            "isk_destroyed": 11032847973.086,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -877,17 +877,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 18,
-            "character_id": 94060725,
-            "isk_destroyed": 6002081565.18,
-            "character_name": "Gort getrekt"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 19,
             "character_id": 1102439040,
             "isk_destroyed": 5473308403.57,
             "character_name": "Romanholiday"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 17,
+            "character_id": 94060725,
+            "isk_destroyed": 5992553497.440001,
+            "character_name": "Gort getrekt"
         },
         {
             "position": 0,
@@ -1143,13 +1143,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 15,
-            "character_id": 1400783403,
-            "isk_destroyed": 2683632700.93,
-            "character_name": "Epoch Veli"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 7,
             "character_id": 94133670,
             "isk_destroyed": 5722790046.2699995,
@@ -1217,6 +1210,13 @@
             "character_id": 94732545,
             "isk_destroyed": 2012224320.0400004,
             "character_name": "Reaver Decimator"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 13,
+            "character_id": 1400783403,
+            "isk_destroyed": 2626123161.62,
+            "character_name": "Epoch Veli"
         },
         {
             "position": 0,
@@ -1626,13 +1626,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 6,
-            "character_id": 96202200,
-            "isk_destroyed": 1297511740.1599998,
-            "character_name": "Xaeli"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 7,
             "character_id": 95984738,
             "isk_destroyed": 1094275118.1943,
@@ -1756,6 +1749,13 @@
             "character_id": 1512685356,
             "isk_destroyed": 582868266.97,
             "character_name": "Sabioo"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 96202200,
+            "isk_destroyed": 1031513935.74,
+            "character_name": "Xaeli"
         },
         {
             "position": 0,

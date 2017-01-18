@@ -37,13 +37,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 32,
-            "character_id": 94623708,
-            "isk_destroyed": 719506364.6499999,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 15,
             "character_id": 93892169,
             "isk_destroyed": 1532085686.3600001,
@@ -377,6 +370,13 @@
             "character_id": 95638558,
             "isk_destroyed": 30621677.520000003,
             "character_name": "Sharps"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94623708,
+            "isk_destroyed": 71337521.17,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

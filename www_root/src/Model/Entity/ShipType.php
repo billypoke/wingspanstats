@@ -6,12 +6,10 @@ use Cake\ORM\Entity;
 /**
  * ShipType Entity
  *
- * @property int $id
  * @property string $name
  * @property int $ship_type_id
  *
- * @property \App\Model\Entity\Kill[] $kills
- * @property \App\Model\Entity\Ship[] $ships
+ * @property \App\Model\Entity\ShipType $ship_type
  */
 class ShipType extends Entity
 {
@@ -27,6 +25,6 @@ class ShipType extends Entity
      */
     protected $_accessible = [
         '*' => true,
-        'id' => false
+        'ship_type_id' => false
     ];
 }

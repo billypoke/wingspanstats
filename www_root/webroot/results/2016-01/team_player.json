@@ -23,9 +23,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 151,
+            "ships_destroyed": 150,
             "character_id": 92863054,
-            "isk_destroyed": 31243986942.229992,
+            "isk_destroyed": 31242391667.43999,
             "character_name": "Narcisse Nightmare"
         },
         {
@@ -793,13 +793,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 14,
-            "character_id": 92608515,
-            "isk_destroyed": 2110522978.1999998,
-            "character_name": "Zip Zap WaPZaP"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 8,
             "character_id": 94018595,
             "isk_destroyed": 3503488515.35,
@@ -825,6 +818,13 @@
             "character_id": 432602014,
             "isk_destroyed": 2856352426.19,
             "character_name": "Vrayis Vanderfel"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 12,
+            "character_id": 92608515,
+            "isk_destroyed": 2106646671.7799997,
+            "character_name": "Zip Zap WaPZaP"
         },
         {
             "position": 0,
@@ -884,17 +884,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 10,
-            "character_id": 1507333016,
-            "isk_destroyed": 1533538905.6999998,
-            "character_name": "0BAKEE"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 11,
             "character_id": 93616180,
             "isk_destroyed": 1286944894.68,
             "character_name": "Zache Lannister"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 1507333016,
+            "isk_destroyed": 1521734298.11,
+            "character_name": "0BAKEE"
         },
         {
             "position": 0,
@@ -1059,13 +1059,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 9,
-            "character_id": 95547196,
-            "isk_destroyed": 579691892.89,
-            "character_name": "Doris Andedarie"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 6,
             "character_id": 94995770,
             "isk_destroyed": 830847487.37,
@@ -1105,6 +1098,13 @@
             "character_id": 488273886,
             "isk_destroyed": 483869498.48,
             "character_name": "Jedi VanDiemen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 6,
+            "character_id": 95547196,
+            "isk_destroyed": 564010978.88,
+            "character_name": "Doris Andedarie"
         },
         {
             "position": 0,

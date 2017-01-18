@@ -268,13 +268,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 94623708,
-            "isk_destroyed": 147082228.11,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 7,
             "character_id": 93754225,
             "isk_destroyed": 56569592.190000005,
@@ -286,6 +279,13 @@
             "character_id": 95499736,
             "isk_destroyed": 118304306.32000001,
             "character_name": "Analius Glover"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94623708,
+            "isk_destroyed": 120013429.43,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

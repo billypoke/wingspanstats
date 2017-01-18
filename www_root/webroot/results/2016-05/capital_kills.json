@@ -1,20 +1,534 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 260145609,
             "solar_system_id": 31000641,
+            "totalDamage": 901225,
+            "wingspanAgents": 10,
             "value": 3624593601.34,
             "kill_id": 54218994,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 1516029607,
+                    "damageDone": 126984,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 11993,
+                    "corporation_id": 98323701,
+                    "character_name": "Spiteful Joke"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1158072549,
+                    "damageDone": 1082,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11978,
+                    "corporation_id": 98415327,
+                    "character_name": "Abaddon Nergal"
+                },
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 95025416,
+                    "damageDone": 3092,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11959,
+                    "corporation_id": 98323701,
+                    "character_name": "Aurelian Machiavelli"
+                },
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 1688801238,
+                    "damageDone": 4786,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 22456,
+                    "corporation_id": 98323701,
+                    "character_name": "ChaeDoc II"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94922237,
+                    "damageDone": 6860,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11978,
+                    "corporation_id": 98330748,
+                    "character_name": "Raddic Darkworth"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96312450,
+                    "damageDone": 7314,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98330748,
+                    "character_name": "SirFirehawk"
+                },
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 749513715,
+                    "damageDone": 11120,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11978,
+                    "corporation_id": 98323701,
+                    "character_name": "Lurina Ridali"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94720086,
+                    "damageDone": 12584,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98330748,
+                    "character_name": "Vargo Shahni"
+                },
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 1688790336,
+                    "damageDone": 15733,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 22456,
+                    "corporation_id": 98323701,
+                    "character_name": "Clean Head"
+                },
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 782613178,
+                    "damageDone": 36323,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33818,
+                    "corporation_id": 98323701,
+                    "character_name": "Zat'Nickatel"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 90678353,
+                    "damageDone": 37172,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98415327,
+                    "character_name": "Shadow Ataru"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95995287,
+                    "damageDone": 40055,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98415327,
+                    "character_name": "Djari Sah"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 94926051,
+                    "damageDone": 43477,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Cyrex Voltan"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95344823,
+                    "damageDone": 56235,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Bails Naskingar"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1203210376,
+                    "damageDone": 57107,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Zontor"
+                },
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 92734216,
+                    "damageDone": 60043,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98323701,
+                    "character_name": "Purple Doom"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1840051786,
+                    "damageDone": 79995,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "AusTiger"
+                },
+                {
+                    "corporation_name": "Boundless Exploration",
+                    "character_id": 95196950,
+                    "damageDone": 93588,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98364836,
+                    "character_name": "Bex"
+                },
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 95555883,
+                    "damageDone": 99966,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11993,
+                    "corporation_id": 98323701,
+                    "character_name": "Dennet Utrigas"
+                },
+                {
+                    "corporation_name": "No Vacancies",
+                    "character_id": 91980698,
+                    "damageDone": 107709,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11993,
+                    "corporation_id": 98323701,
+                    "character_name": "Caedus Halcyon"
+                }
+            ],
+            "thirdParty": 10,
             "agent_id": 1516029607,
             "date": "2016-05-25 09:36:22",
             "ship_type_id": 19726,
             "character_name": "PhilGood"
         },
         {
+            "npc": 0,
             "character_id": 403175306,
             "solar_system_id": 30002537,
+            "totalDamage": 355312,
+            "wingspanAgents": 22,
             "value": 1796742262.2,
             "kill_id": 53771922,
+            "totalWingspanPct": 0.733,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94571445,
+                    "damageDone": 37490,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Trip Erata"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 237608053,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12017,
+                    "corporation_id": 98330748,
+                    "character_name": "Massive Black"
+                },
+                {
+                    "corporation_name": "Kayak Inc.",
+                    "character_id": 94927731,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12021,
+                    "corporation_id": 98350160,
+                    "character_name": "Huck Moreau"
+                },
+                {
+                    "corporation_name": "LowSec Holdings",
+                    "character_id": 96124816,
+                    "damageDone": 350,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 634,
+                    "corporation_id": 1077748068,
+                    "character_name": "Chase Brookes"
+                },
+                {
+                    "corporation_name": "LowSec Holdings",
+                    "character_id": 94630620,
+                    "damageDone": 871,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 0,
+                    "corporation_id": 1077748068,
+                    "character_name": "JohnJacob JinglesHeime"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 489343128,
+                    "damageDone": 3382,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Rogue Seven"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95732953,
+                    "damageDone": 3650,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11969,
+                    "corporation_id": 98330748,
+                    "character_name": "Mei Long"
+                },
+                {
+                    "corporation_name": "LowSec Holdings",
+                    "character_id": 96219583,
+                    "damageDone": 3791,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 0,
+                    "corporation_id": 1077748068,
+                    "character_name": "Hycro"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96388029,
+                    "damageDone": 4556,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Vi Rhea"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 92274994,
+                    "damageDone": 4649,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98415327,
+                    "character_name": "Fyodor Ivanov Svoboda"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 618214468,
+                    "damageDone": 5326,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Vordec"
+                },
+                {
+                    "corporation_name": "LowSec Holdings",
+                    "character_id": 776797117,
+                    "damageDone": 6014,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 670,
+                    "corporation_id": 1077748068,
+                    "character_name": "Jintoo Cranspar"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95720869,
+                    "damageDone": 7872,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Clavaine"
+                },
+                {
+                    "corporation_name": "Sun Guard PMC",
+                    "character_id": 94201442,
+                    "damageDone": 8490,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 634,
+                    "corporation_id": 98377469,
+                    "character_name": "Aaron Anduelle"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 149263239,
+                    "damageDone": 9777,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Longaz"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92205847,
+                    "damageDone": 10310,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Gorki Irvam"
+                },
+                {
+                    "corporation_name": "Wrath of Valhalla",
+                    "character_id": 685916579,
+                    "damageDone": 10864,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29988,
+                    "corporation_id": 98446079,
+                    "character_name": "CrewSandwich"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94803277,
+                    "damageDone": 11326,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Xavier Hex"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 12364,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96236270,
+                    "damageDone": 12439,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Lexa Griffin"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95518758,
+                    "damageDone": 12709,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "firecast77 Tao"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 94132853,
+                    "damageDone": 14000,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98415327,
+                    "character_name": "Tethys Luxor"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95263766,
+                    "damageDone": 15834,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98415327,
+                    "character_name": "Czechbox"
+                },
+                {
+                    "corporation_name": "LowSec Holdings",
+                    "character_id": 1717202514,
+                    "damageDone": 19394,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 626,
+                    "corporation_id": 1077748068,
+                    "character_name": "NongICkong"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 621278675,
+                    "damageDone": 19895,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98415327,
+                    "character_name": "Convel Wolfrin"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93547063,
+                    "damageDone": 20338,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Viktor Hakeem"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96049384,
+                    "damageDone": 21988,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Quintus Va'Lari"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 92094003,
+                    "damageDone": 23794,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Xakin Black"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96193133,
+                    "damageDone": 25284,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98415327,
+                    "character_name": "Amielia Evangelon"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92491547,
+                    "damageDone": 28555,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Phoenix Thynome"
+                }
+            ],
+            "thirdParty": 8,
             "agent_id": 621278675,
             "date": "2016-05-05 07:16:15",
             "ship_type_id": 23911,

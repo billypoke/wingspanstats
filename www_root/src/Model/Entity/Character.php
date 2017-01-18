@@ -6,14 +6,10 @@ use Cake\ORM\Entity;
 /**
  * Character Entity
  *
- * @property int $id
  * @property string $character_name
  * @property int $character_id
  *
- * @property \App\Model\Entity\Character[] $characters
- * @property \App\Model\Entity\Agent[] $agents
- * @property \App\Model\Entity\Kill[] $kills
- * @property \App\Model\Entity\Victim[] $victims
+ * @property \App\Model\Entity\Character $character
  */
 class Character extends Entity
 {
@@ -29,6 +25,6 @@ class Character extends Entity
      */
     protected $_accessible = [
         '*' => true,
-        'id' => false
+        'character_id' => false
     ];
 }

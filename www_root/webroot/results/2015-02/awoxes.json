@@ -1,20 +1,84 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 90577825,
             "solar_system_id": 31000509,
+            "totalDamage": 542,
+            "wingspanAgents": 1,
             "value": 414776817.23,
             "kill_id": 44467144,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "LOL Corporation ggg",
+                    "character_id": 94647509,
+                    "damageDone": 542,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98256041,
+                    "character_name": "Lola Lolowa"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 337515468,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11969,
+                    "corporation_id": 98330748,
+                    "character_name": "BATEAU47"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 94647509,
             "date": "2015-02-08 13:32:00",
             "ship_type_id": 670,
             "character_name": "DERELICT MYBALLS"
         },
         {
+            "npc": 0,
             "character_id": 92863054,
             "solar_system_id": 31001132,
+            "totalDamage": 1641,
+            "wingspanAgents": 1,
             "value": 42622062.14,
             "kill_id": 44619639,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "all your bases are belong to us",
+                    "character_id": 1986175041,
+                    "damageDone": 1641,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 29990,
+                    "corporation_id": 98180614,
+                    "character_name": "StellaArtois469"
+                },
+                {
+                    "corporation_name": "all your bases are belong to us",
+                    "character_id": 94195321,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 643,
+                    "corporation_id": 98180614,
+                    "character_name": "Darkeshi D'Lor"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 987468952,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11995,
+                    "corporation_id": 98330748,
+                    "character_name": "NoGo Rose"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 1986175041,
             "date": "2015-02-15 03:13:00",
             "ship_type_id": 12034,

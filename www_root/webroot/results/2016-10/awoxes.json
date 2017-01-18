@@ -1,90 +1,603 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 95732953,
             "solar_system_id": 30002016,
+            "totalDamage": 19607,
+            "wingspanAgents": 1,
             "value": 43604494.83,
             "kill_id": 56404949,
+            "totalWingspanPct": 0.042,
+            "attackers": [
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 96319167,
+                    "damageDone": 5000,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17715,
+                    "corporation_id": 98388312,
+                    "character_name": "Sudekis Elapidae"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 93896447,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 623,
+                    "corporation_id": 98388312,
+                    "character_name": "Bacon Pizza"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 96573359,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 3766,
+                    "corporation_id": 98388312,
+                    "character_name": "Wa Em"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 90353285,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 585,
+                    "corporation_id": 98388312,
+                    "character_name": "Carina Aldeland"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 96146300,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11190,
+                    "corporation_id": 98388312,
+                    "character_name": "Stryider Tivianne"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 93277082,
+                    "damageDone": 109,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11186,
+                    "corporation_id": 98388312,
+                    "character_name": "Kangt Yvormes"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 96112348,
+                    "damageDone": 115,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98388312,
+                    "character_name": "Dartias Krawss"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 95156448,
+                    "damageDone": 115,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11202,
+                    "corporation_id": 98388312,
+                    "character_name": "Astrosis Mikakka"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 1372153653,
+                    "damageDone": 121,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17713,
+                    "corporation_id": 98388312,
+                    "character_name": "Mr Garrett"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 96394839,
+                    "damageDone": 128,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 623,
+                    "corporation_id": 98388312,
+                    "character_name": "Scape Blacksheep"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96410439,
+                    "damageDone": 181,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 625,
+                    "corporation_id": 98330748,
+                    "character_name": "Okaga Utama"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 96481760,
+                    "damageDone": 216,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11198,
+                    "corporation_id": 98388312,
+                    "character_name": "Moriarty o7"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 94913415,
+                    "damageDone": 223,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98388312,
+                    "character_name": "Doing Ice"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 95692102,
+                    "damageDone": 322,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 2006,
+                    "corporation_id": 98388312,
+                    "character_name": "Promthus Sotken"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 96614149,
+                    "damageDone": 373,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98388312,
+                    "character_name": "Adam Zamoyski"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 95842101,
+                    "damageDone": 397,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11196,
+                    "corporation_id": 98388312,
+                    "character_name": "Ania Fidard"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 93541184,
+                    "damageDone": 549,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 622,
+                    "corporation_id": 98388312,
+                    "character_name": "IEatCarbohydrates CHO"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 96532844,
+                    "damageDone": 757,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11381,
+                    "corporation_id": 98388312,
+                    "character_name": "Alejandro Onzo"
+                },
+                {
+                    "corporation_name": "Concordiat",
+                    "character_id": 711138684,
+                    "damageDone": 1053,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98097817,
+                    "character_name": "Avalon Ranger"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 95792570,
+                    "damageDone": 1199,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 22464,
+                    "corporation_id": 98388312,
+                    "character_name": "Ender Thiesant"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 832062357,
+                    "damageDone": 1255,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 24702,
+                    "corporation_id": 98388312,
+                    "character_name": "Renfus"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 93212487,
+                    "damageDone": 1604,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98388312,
+                    "character_name": "Allistair Adama"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 1296974270,
+                    "damageDone": 2682,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 4306,
+                    "corporation_id": 98388312,
+                    "character_name": "DoctorWu"
+                },
+                {
+                    "corporation_name": "Pandemic Horde Inc.",
+                    "character_id": 1233237956,
+                    "damageDone": 3208,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 623,
+                    "corporation_id": 98388312,
+                    "character_name": "Lach Stonewall"
+                }
+            ],
+            "thirdParty": 23,
             "agent_id": 96319167,
             "date": "2016-10-02 21:06:24",
             "ship_type_id": 626,
             "character_name": "Mei Long"
         },
         {
+            "npc": 0,
             "character_id": 92900253,
             "solar_system_id": 30002813,
+            "totalDamage": 3126,
+            "wingspanAgents": 1,
             "value": 38000038.78,
             "kill_id": 56376262,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96562368,
+                    "damageDone": 1817,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Ronni Ormand"
+                },
+                {
+                    "corporation_name": "Beyond Divinity Inc",
+                    "character_id": 951420810,
+                    "damageDone": 1309,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17932,
+                    "corporation_id": 430577669,
+                    "character_name": "TrouserDeagle"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 951420810,
             "date": "2016-10-01 14:43:51",
             "ship_type_id": 12032,
             "character_name": "Swift Isu"
         },
         {
+            "npc": 0,
             "character_id": 95183233,
             "solar_system_id": 31000604,
+            "totalDamage": 65,
+            "wingspanAgents": 1,
             "value": 37335500.91,
             "kill_id": 56502524,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93253112,
+                    "damageDone": 65,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Mister McQueen"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 93253112,
             "date": "2016-10-08 23:14:41",
             "ship_type_id": 670,
             "character_name": "Alebrelle Kuatu"
         },
         {
+            "npc": 0,
             "character_id": 96562368,
             "solar_system_id": 30045346,
+            "totalDamage": 3889,
+            "wingspanAgents": 1,
             "value": 29366682.21,
             "kill_id": 56373669,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "ElitistOps",
+                    "character_id": 1116817396,
+                    "damageDone": 3889,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17930,
+                    "corporation_id": 302750157,
+                    "character_name": "alchemist8"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92900253,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 37455,
+                    "corporation_id": 98330748,
+                    "character_name": "Swift Isu"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 1116817396,
             "date": "2016-10-01 10:29:53",
             "ship_type_id": 17841,
             "character_name": "Ronni Ormand"
         },
         {
+            "npc": 0,
             "character_id": 95344823,
             "solar_system_id": 30001376,
+            "totalDamage": 1991,
+            "wingspanAgents": 2,
             "value": 27630844.91,
             "kill_id": 56371378,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1418323216,
+                    "damageDone": 1991,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 603,
+                    "corporation_id": 98330748,
+                    "character_name": "XLR Escher"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92900253,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 37455,
+                    "corporation_id": 98330748,
+                    "character_name": "Swift Isu"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1418323216,
             "date": "2016-10-01 05:39:48",
             "ship_type_id": 593,
             "character_name": "Bails Naskingar"
         },
         {
+            "npc": 1,
             "character_id": 96562368,
             "solar_system_id": 30002813,
+            "totalDamage": 3630,
+            "wingspanAgents": 1,
             "value": 18506427.5,
             "kill_id": 56376232,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Beyond Divinity Inc",
+                    "character_id": 951420810,
+                    "damageDone": 2835,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17932,
+                    "corporation_id": 430577669,
+                    "character_name": "TrouserDeagle"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92900253,
+                    "damageDone": 220,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Swift Isu"
+                },
+                {
+                    "corporation_name": "Central Military Commission",
+                    "character_id": 96425753,
+                    "damageDone": 575,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 0,
+                    "corporation_id": 98426503,
+                    "character_name": "Neo 0122"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 951420810,
             "date": "2016-10-01 14:42:53",
             "ship_type_id": 17703,
             "character_name": "Ronni Ormand"
         },
         {
+            "npc": 0,
             "character_id": 94056770,
             "solar_system_id": 31000604,
+            "totalDamage": 813,
+            "wingspanAgents": 1,
             "value": 17773.69,
             "kill_id": 56503717,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "Spoopy Newbies",
+                    "character_id": 96388647,
+                    "damageDone": 813,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17715,
+                    "corporation_id": 98472700,
+                    "character_name": "PiccoloNL"
+                },
+                {
+                    "corporation_name": "Brave Newbies Inc.",
+                    "character_id": 2036884244,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11978,
+                    "corporation_id": 98169165,
+                    "character_name": "Donark"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94596240,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Jack The Slipper"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 96388647,
             "date": "2016-10-09 00:31:16",
             "ship_type_id": 606,
             "character_name": "Inta Vakaria"
         },
         {
+            "npc": 0,
             "character_id": 1203210376,
             "solar_system_id": 30003735,
+            "totalDamage": 430,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 56828346,
+            "totalWingspanPct": 0.2,
+            "attackers": [
+                {
+                    "corporation_name": "The Tall Order",
+                    "character_id": 93004267,
+                    "damageDone": 258,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98198207,
+                    "character_name": "Ixen Orlenard"
+                },
+                {
+                    "corporation_name": "Roid destoyed",
+                    "character_id": 887520883,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11957,
+                    "corporation_id": 98038404,
+                    "character_name": "CowKiller"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96236270,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 29984,
+                    "corporation_id": 98330748,
+                    "character_name": "Lexa Griffin"
+                },
+                {
+                    "corporation_name": "The Scope",
+                    "character_id": 91619596,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11963,
+                    "corporation_id": 1000107,
+                    "character_name": "Matt Canskovar"
+                },
+                {
+                    "corporation_name": "Taladi Federation",
+                    "character_id": 1961681075,
+                    "damageDone": 172,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98069527,
+                    "character_name": "Willl Parr"
+                }
+            ],
+            "thirdParty": 4,
             "agent_id": 93004267,
             "date": "2016-10-28 09:22:45",
             "ship_type_id": 670,
             "character_name": "Zontor"
         },
         {
+            "npc": 0,
             "character_id": 90600483,
             "solar_system_id": 31000930,
+            "totalDamage": 1574,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 56550446,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "Very Drunken Eve Flying Instructors",
+                    "character_id": 92064101,
+                    "damageDone": 1077,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29336,
+                    "corporation_id": 1273124967,
+                    "character_name": "Thoregon Aubaris"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91117813,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12021,
+                    "corporation_id": 98330748,
+                    "character_name": "Kanly Aideron"
+                },
+                {
+                    "corporation_name": "Very Drunken Eve Flying Instructors",
+                    "character_id": 1893745263,
+                    "damageDone": 497,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17480,
+                    "corporation_id": 1273124967,
+                    "character_name": "Geron Crystafent"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 1893745263,
             "date": "2016-10-11 18:55:13",
             "ship_type_id": 670,

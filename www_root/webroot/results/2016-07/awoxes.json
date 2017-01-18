@@ -1,60 +1,212 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 95344823,
             "solar_system_id": 30000143,
+            "totalDamage": 41518,
+            "wingspanAgents": 1,
             "value": 107276137.84,
             "kill_id": 55083406,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94056770,
+                    "damageDone": 41518,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 634,
+                    "corporation_id": 98330748,
+                    "character_name": "Inta Vakaria"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94056770,
             "date": "2016-07-13 12:05:43",
             "ship_type_id": 624,
             "character_name": "Bails Naskingar"
         },
         {
+            "npc": 0,
             "character_id": 95105535,
             "solar_system_id": 30001376,
+            "totalDamage": 14064,
+            "wingspanAgents": 1,
             "value": 41457122.02,
             "kill_id": 55194326,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93892169,
+                    "damageDone": 14064,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 4310,
+                    "corporation_id": 98330748,
+                    "character_name": "Tyr Carter"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 93892169,
             "date": "2016-07-20 19:14:46",
             "ship_type_id": 627,
             "character_name": "Shinzo Shikimira Shinzo"
         },
         {
+            "npc": 0,
             "character_id": 94574163,
             "solar_system_id": 30000144,
+            "totalDamage": 803,
+            "wingspanAgents": 1,
             "value": 6146878.37,
             "kill_id": 55263419,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95229965,
+                    "damageDone": 803,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 588,
+                    "corporation_id": 98330748,
+                    "character_name": "Sabrez Haklar"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95229965,
             "date": "2016-07-25 01:04:35",
             "ship_type_id": 606,
             "character_name": "Revan Wake"
         },
         {
+            "npc": 0,
             "character_id": 92863054,
             "solar_system_id": 31000834,
+            "totalDamage": 1461,
+            "wingspanAgents": 3,
             "value": 4114226.36,
             "kill_id": 55121608,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93532393,
+                    "damageDone": 1257,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 17843,
+                    "corporation_id": 98330748,
+                    "character_name": "Ransom Odunen"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95638558,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12013,
+                    "corporation_id": 98330748,
+                    "character_name": "Sharps"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94056770,
+                    "damageDone": 204,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 17843,
+                    "corporation_id": 98330748,
+                    "character_name": "Inta Vakaria"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 93532393,
             "date": "2016-07-16 00:49:33",
             "ship_type_id": 657,
             "character_name": "Narcisse Nightmare"
         },
         {
+            "npc": 0,
             "character_id": 94056770,
             "solar_system_id": 31000834,
+            "totalDamage": 1431,
+            "wingspanAgents": 3,
             "value": 3811824.46,
             "kill_id": 55121609,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95638558,
+                    "damageDone": 684,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12013,
+                    "corporation_id": 98330748,
+                    "character_name": "Sharps"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92863054,
+                    "damageDone": 185,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 17843,
+                    "corporation_id": 98330748,
+                    "character_name": "Narcisse Nightmare"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93532393,
+                    "damageDone": 562,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 17843,
+                    "corporation_id": 98330748,
+                    "character_name": "Ransom Odunen"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 93532393,
             "date": "2016-07-16 00:49:37",
             "ship_type_id": 657,
             "character_name": "Inta Vakaria"
         },
         {
+            "npc": 0,
             "character_id": 95229965,
             "solar_system_id": 30000144,
+            "totalDamage": 2600,
+            "wingspanAgents": 2,
             "value": 3398740.48,
             "kill_id": 55263463,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95664053,
+                    "damageDone": 1342,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 588,
+                    "corporation_id": 98415327,
+                    "character_name": "Stanis Solar"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 1258,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33157,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95664053,
             "date": "2016-07-25 01:09:28",
             "ship_type_id": 588,

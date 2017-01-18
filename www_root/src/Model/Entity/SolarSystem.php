@@ -6,11 +6,10 @@ use Cake\ORM\Entity;
 /**
  * SolarSystem Entity
  *
- * @property int $id
  * @property string $name
  * @property int $solar_system_id
  *
- * @property \App\Model\Entity\Kill[] $kills
+ * @property \App\Model\Entity\SolarSystem $solar_system
  */
 class SolarSystem extends Entity
 {
@@ -26,6 +25,6 @@ class SolarSystem extends Entity
      */
     protected $_accessible = [
         '*' => true,
-        'id' => false
+        'solar_system_id' => false
     ];
 }

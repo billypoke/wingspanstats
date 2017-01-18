@@ -163,13 +163,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 94623708,
-            "isk_destroyed": 255734150.41000003,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 6,
             "character_id": 1400783403,
             "isk_destroyed": 165322730.62,
@@ -181,6 +174,13 @@
             "character_id": 94336675,
             "isk_destroyed": 114845488.78000003,
             "character_name": "Reed Icculus"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 94623708,
+            "isk_destroyed": 254518477.62000003,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

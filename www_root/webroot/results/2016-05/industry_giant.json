@@ -156,13 +156,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 3,
-            "character_id": 94623708,
-            "isk_destroyed": 162772598.05,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 2,
             "character_id": 96388029,
             "isk_destroyed": 240082365.63000003,
@@ -461,6 +454,13 @@
             "character_id": 1149749832,
             "isk_destroyed": 4628781.36,
             "character_name": "Saladiin"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94623708,
+            "isk_destroyed": 3576526.09,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

@@ -1,170 +1,669 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 90718048,
             "solar_system_id": 30000147,
+            "totalDamage": 461,
+            "wingspanAgents": 1,
             "value": 92058996.73,
             "kill_id": 45973226,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94556783,
+                    "damageDone": 461,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 16227,
+                    "corporation_id": 98330748,
+                    "character_name": "Allstate Thompson"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94556783,
             "date": "2015-04-14 05:35:00",
             "ship_type_id": 670,
             "character_name": "Black Aivo"
         },
         {
+            "npc": 0,
             "character_id": 94556783,
             "solar_system_id": 30000147,
+            "totalDamage": 2485,
+            "wingspanAgents": 1,
             "value": 91693052.13,
             "kill_id": 45811751,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 90718048,
+                    "damageDone": 2485,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33818,
+                    "corporation_id": 98330748,
+                    "character_name": "Black Aivo"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 90718048,
             "date": "2015-04-07 06:51:00",
             "ship_type_id": 33468,
             "character_name": "Allstate Thompson"
         },
         {
+            "npc": 0,
             "character_id": 1556002035,
             "solar_system_id": 30002187,
+            "totalDamage": 4772,
+            "wingspanAgents": 1,
             "value": 51288428.44,
             "kill_id": 46048324,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 4772,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 32872,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2015-04-18 00:14:00",
             "ship_type_id": 32874,
             "character_name": "Banefist"
         },
         {
+            "npc": 0,
             "character_id": 93838416,
             "solar_system_id": 30004080,
+            "totalDamage": 3238,
+            "wingspanAgents": 5,
             "value": 13758288.4,
             "kill_id": 46043488,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 1203,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 32872,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95156895,
+                    "damageDone": 214,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 589,
+                    "corporation_id": 98330748,
+                    "character_name": "Krassus Mena"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92863054,
+                    "damageDone": 473,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 594,
+                    "corporation_id": 98330748,
+                    "character_name": "Narcisse Nightmare"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94654675,
+                    "damageDone": 551,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 583,
+                    "corporation_id": 98330748,
+                    "character_name": "General Waaargh"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91430245,
+                    "damageDone": 797,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 597,
+                    "corporation_id": 98330748,
+                    "character_name": "Fade Badasaz"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2015-04-17 20:43:00",
             "ship_type_id": 33883,
             "character_name": "Banshee Legend"
         },
         {
+            "npc": 0,
             "character_id": 1556002035,
             "solar_system_id": 30002187,
+            "totalDamage": 4932,
+            "wingspanAgents": 1,
             "value": 11780639.8,
             "kill_id": 46047782,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 4932,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 32872,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2015-04-17 23:46:00",
             "ship_type_id": 16236,
             "character_name": "Banefist"
         },
         {
+            "npc": 0,
             "character_id": 95183233,
             "solar_system_id": 30004080,
+            "totalDamage": 978,
+            "wingspanAgents": 5,
             "value": 5172494.83,
             "kill_id": 46043399,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 956,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 32872,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95156895,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 589,
+                    "corporation_id": 98330748,
+                    "character_name": "Krassus Mena"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92863054,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 594,
+                    "corporation_id": 98330748,
+                    "character_name": "Narcisse Nightmare"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94654675,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 583,
+                    "corporation_id": 98330748,
+                    "character_name": "General Waaargh"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91430245,
+                    "damageDone": 22,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 597,
+                    "corporation_id": 98330748,
+                    "character_name": "Fade Badasaz"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2015-04-17 20:39:00",
             "ship_type_id": 583,
             "character_name": "Alebrelle Kuatu"
         },
         {
+            "npc": 0,
             "character_id": 93532393,
             "solar_system_id": 30004080,
+            "totalDamage": 4999,
+            "wingspanAgents": 5,
             "value": 4609877.69,
             "kill_id": 46043475,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 3249,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 32872,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95156895,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 589,
+                    "corporation_id": 98330748,
+                    "character_name": "Krassus Mena"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92863054,
+                    "damageDone": 19,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 594,
+                    "corporation_id": 98330748,
+                    "character_name": "Narcisse Nightmare"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91430245,
+                    "damageDone": 517,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 597,
+                    "corporation_id": 98330748,
+                    "character_name": "Fade Badasaz"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94654675,
+                    "damageDone": 1214,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 583,
+                    "corporation_id": 98330748,
+                    "character_name": "General Waaargh"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2015-04-17 20:42:00",
             "ship_type_id": 598,
             "character_name": "Ransom Odunen"
         },
         {
+            "npc": 0,
             "character_id": 1556002035,
             "solar_system_id": 30004080,
+            "totalDamage": 2555,
+            "wingspanAgents": 5,
             "value": 4368335.94,
             "kill_id": 46043452,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 1272,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 32872,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95156895,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 589,
+                    "corporation_id": 98330748,
+                    "character_name": "Krassus Mena"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92863054,
+                    "damageDone": 193,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 594,
+                    "corporation_id": 98330748,
+                    "character_name": "Narcisse Nightmare"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91430245,
+                    "damageDone": 523,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 597,
+                    "corporation_id": 98330748,
+                    "character_name": "Fade Badasaz"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94654675,
+                    "damageDone": 567,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 583,
+                    "corporation_id": 98330748,
+                    "character_name": "General Waaargh"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2015-04-17 20:42:00",
             "ship_type_id": 589,
             "character_name": "Banefist"
         },
         {
+            "npc": 0,
             "character_id": 94575576,
             "solar_system_id": 30004080,
+            "totalDamage": 3884,
+            "wingspanAgents": 5,
             "value": 3495173.58,
             "kill_id": 46043443,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 1552,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 32872,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92863054,
+                    "damageDone": 51,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 594,
+                    "corporation_id": 98330748,
+                    "character_name": "Narcisse Nightmare"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95156895,
+                    "damageDone": 489,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 589,
+                    "corporation_id": 98330748,
+                    "character_name": "Krassus Mena"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91430245,
+                    "damageDone": 555,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 597,
+                    "corporation_id": 98330748,
+                    "character_name": "Fade Badasaz"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94654675,
+                    "damageDone": 1237,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 583,
+                    "corporation_id": 98330748,
+                    "character_name": "General Waaargh"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2015-04-17 20:41:00",
             "ship_type_id": 597,
             "character_name": "Sith-Lord MouseClick"
         },
         {
+            "npc": 0,
             "character_id": 90718048,
             "solar_system_id": 30000147,
+            "totalDamage": 906,
+            "wingspanAgents": 1,
             "value": 1571751.14,
             "kill_id": 45973188,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94556783,
+                    "damageDone": 906,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98330748,
+                    "character_name": "Allstate Thompson"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94556783,
             "date": "2015-04-14 05:32:00",
             "ship_type_id": 34496,
             "character_name": "Black Aivo"
         },
         {
+            "npc": 0,
             "character_id": 94154468,
             "solar_system_id": 31002520,
+            "totalDamage": 7191,
+            "wingspanAgents": 1,
             "value": 927473.56,
             "kill_id": 45694706,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 3774,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                },
+                {
+                    "corporation_name": "Cyrk stracencow",
+                    "character_id": 825276865,
+                    "damageDone": 3417,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17715,
+                    "corporation_id": 98378722,
+                    "character_name": "Staxu"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 825276865,
             "date": "2015-04-02 21:01:00",
             "ship_type_id": 33474,
             "character_name": "Cap'n Rick Clusterbomb"
         },
         {
+            "npc": 0,
             "character_id": 90718048,
             "solar_system_id": 30000147,
+            "totalDamage": 733,
+            "wingspanAgents": 1,
             "value": 20884.6,
             "kill_id": 46258465,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95113246,
+                    "damageDone": 733,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 606,
+                    "corporation_id": 98330748,
+                    "character_name": "Solvenaria Azionchenkov"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95113246,
             "date": "2015-04-27 04:11:00",
             "ship_type_id": 672,
             "character_name": "Black Aivo"
         },
         {
+            "npc": 0,
             "character_id": 94574163,
             "solar_system_id": 30004080,
+            "totalDamage": 592,
+            "wingspanAgents": 1,
             "value": 20398.47,
             "kill_id": 46328982,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1271027454,
+                    "damageDone": 592,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 11174,
+                    "corporation_id": 98330748,
+                    "character_name": "Xepheer"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1271027454,
             "date": "2015-04-30 21:55:00",
             "ship_type_id": 672,
             "character_name": "Revan Wake"
         },
         {
+            "npc": 0,
             "character_id": 95113246,
             "solar_system_id": 30000147,
+            "totalDamage": 694,
+            "wingspanAgents": 1,
             "value": 10056.95,
             "kill_id": 46258507,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 90718048,
+                    "damageDone": 694,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98330748,
+                    "character_name": "Black Aivo"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 90718048,
             "date": "2015-04-27 04:14:00",
             "ship_type_id": 606,
             "character_name": "Solvenaria Azionchenkov"
         },
         {
+            "npc": 0,
             "character_id": 95113246,
             "solar_system_id": 30000147,
+            "totalDamage": 462,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 46258522,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 90718048,
+                    "damageDone": 462,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98330748,
+                    "character_name": "Black Aivo"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 90718048,
             "date": "2015-04-27 04:16:00",
             "ship_type_id": 670,
             "character_name": "Solvenaria Azionchenkov"
         },
         {
+            "npc": 0,
             "character_id": 94997705,
             "solar_system_id": 30013489,
+            "totalDamage": 442,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 46179319,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 90895417,
+                    "damageDone": 442,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Sister Fisterr"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 90895417,
             "date": "2015-04-24 02:00:00",
             "ship_type_id": 670,
             "character_name": "Gigi McQuaid"
         },
         {
+            "npc": 0,
             "character_id": 94556783,
             "solar_system_id": 30000147,
+            "totalDamage": 470,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 45812146,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 90718048,
+                    "damageDone": 470,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Black Aivo"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 90718048,
             "date": "2015-04-07 07:32:00",
             "ship_type_id": 670,

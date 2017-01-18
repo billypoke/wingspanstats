@@ -1,110 +1,307 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 1282453968,
             "solar_system_id": 30003066,
+            "totalDamage": 9220,
+            "wingspanAgents": 1,
             "value": 115386358.22,
             "kill_id": 54816006,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92956893,
+                    "damageDone": 9220,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 626,
+                    "corporation_id": 98330748,
+                    "character_name": "Iwata s"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 92956893,
             "date": "2016-06-26 18:49:20",
             "ship_type_id": 627,
             "character_name": "khomeini"
         },
         {
+            "npc": 0,
             "character_id": 94575576,
             "solar_system_id": 30000139,
+            "totalDamage": 12506,
+            "wingspanAgents": 1,
             "value": 95700158.93,
             "kill_id": 54865034,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95454553,
+                    "damageDone": 12506,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 626,
+                    "corporation_id": 98330748,
+                    "character_name": "Al3x Oaks"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95454553,
             "date": "2016-06-29 22:04:26",
             "ship_type_id": 628,
             "character_name": "Sith-Lord MouseClick"
         },
         {
+            "npc": 0,
             "character_id": 93608383,
             "solar_system_id": 30000144,
+            "totalDamage": 16872,
+            "wingspanAgents": 1,
             "value": 91856981.8,
             "kill_id": 54839422,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95344823,
+                    "damageDone": 16872,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 624,
+                    "corporation_id": 98330748,
+                    "character_name": "Bails Naskingar"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95344823,
             "date": "2016-06-28 04:51:11",
             "ship_type_id": 624,
             "character_name": "Jenna Lost"
         },
         {
+            "npc": 0,
             "character_id": 91435934,
             "solar_system_id": 30004095,
+            "totalDamage": 13469,
+            "wingspanAgents": 1,
             "value": 33578933.73,
             "kill_id": 54762009,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 13469,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 627,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94154468,
             "date": "2016-06-23 19:30:59",
             "ship_type_id": 626,
             "character_name": "Lenai Chelien"
         },
         {
+            "npc": 0,
             "character_id": 96133268,
             "solar_system_id": 30002959,
+            "totalDamage": 1419,
+            "wingspanAgents": 1,
             "value": 4605611.49,
             "kill_id": 54753307,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 851221968,
+                    "damageDone": 1419,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 17841,
+                    "corporation_id": 98330748,
+                    "character_name": "Vothor"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 851221968,
             "date": "2016-06-23 03:18:42",
             "ship_type_id": 598,
             "character_name": "Cain Patrouette"
         },
         {
+            "npc": 0,
             "character_id": 94056770,
             "solar_system_id": 30002788,
+            "totalDamage": 1362,
+            "wingspanAgents": 2,
             "value": 409774.15,
             "kill_id": 54836817,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 851221968,
+                    "damageDone": 1362,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 11381,
+                    "corporation_id": 98330748,
+                    "character_name": "Vothor"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11959,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 851221968,
             "date": "2016-06-28 00:37:26",
             "ship_type_id": 609,
             "character_name": "Inta Vakaria"
         },
         {
+            "npc": 0,
             "character_id": 90315942,
             "solar_system_id": 30002800,
+            "totalDamage": 1296,
+            "wingspanAgents": 1,
             "value": 378736.07,
             "kill_id": 54823187,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95715380,
+                    "damageDone": 1296,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 11965,
+                    "corporation_id": 98330748,
+                    "character_name": "Nicholas Chance Kile"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95715380,
             "date": "2016-06-27 01:20:45",
             "ship_type_id": 589,
             "character_name": "Kirill Virpio"
         },
         {
+            "npc": 0,
             "character_id": 93951704,
             "solar_system_id": 30000129,
+            "totalDamage": 587,
+            "wingspanAgents": 1,
             "value": 29353.6,
             "kill_id": 54790328,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 731851538,
+                    "damageDone": 587,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 16229,
+                    "corporation_id": 98415327,
+                    "character_name": "QuarantineEng"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 731851538,
             "date": "2016-06-25 14:27:57",
             "ship_type_id": 672,
             "character_name": "Avacado Salad"
         },
         {
+            "npc": 0,
             "character_id": 95229965,
             "solar_system_id": 30002813,
+            "totalDamage": 458,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 54767168,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94056770,
+                    "damageDone": 458,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 597,
+                    "corporation_id": 98330748,
+                    "character_name": "Inta Vakaria"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94056770,
             "date": "2016-06-24 01:02:19",
             "ship_type_id": 670,
             "character_name": "Sabrez Haklar"
         },
         {
+            "npc": 0,
             "character_id": 96133268,
             "solar_system_id": 30002959,
+            "totalDamage": 441,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 54753321,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 851221968,
+                    "damageDone": 441,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 17841,
+                    "corporation_id": 98330748,
+                    "character_name": "Vothor"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 851221968,
             "date": "2016-06-23 03:20:00",
             "ship_type_id": 670,
             "character_name": "Cain Patrouette"
         },
         {
+            "npc": 0,
             "character_id": 1282453968,
             "solar_system_id": 30003751,
+            "totalDamage": 474,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 54501822,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96065154,
+                    "damageDone": 474,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98415327,
+                    "character_name": "Vanessa Guang"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 96065154,
             "date": "2016-06-08 23:46:28",
             "ship_type_id": 670,

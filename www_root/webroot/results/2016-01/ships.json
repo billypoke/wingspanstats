@@ -1,10 +1,10 @@
 {
     "ships": [
         {
-            "ships_destroyed": 2637,
+            "ships_destroyed": 2636,
             "ship_type_id": 33470,
             "ship_name": "Stratios",
-            "isk_destroyed": 242359499832.2066
+            "isk_destroyed": 242357904557.4166
         },
         {
             "ships_destroyed": 1746,
@@ -13,10 +13,10 @@
             "isk_destroyed": 301065297045.6405
         },
         {
-            "ships_destroyed": 1732,
+            "ships_destroyed": 1730,
             "ship_type_id": 12032,
             "ship_name": "Manticore",
-            "isk_destroyed": 252489667585.43024
+            "isk_destroyed": 252485791279.01022
         },
         {
             "ships_destroyed": 1009,
@@ -25,10 +25,10 @@
             "isk_destroyed": 197818056451.59033
         },
         {
-            "ships_destroyed": 726,
+            "ships_destroyed": 723,
             "ship_type_id": 12034,
             "ship_name": "Hound",
-            "isk_destroyed": 110104798731.35005
+            "isk_destroyed": 110089117817.34006
         },
         {
             "ships_destroyed": 155,
@@ -43,10 +43,10 @@
             "isk_destroyed": 14278945608.580002
         },
         {
-            "ships_destroyed": 91,
+            "ships_destroyed": 90,
             "ship_type_id": 33468,
             "ship_name": "Astero",
-            "isk_destroyed": 12373560897.056704
+            "isk_destroyed": 12363834841.306704
         },
         {
             "ships_destroyed": 76,
@@ -440,12 +440,6 @@
         },
         {
             "ships_destroyed": 2,
-            "ship_type_id": 630,
-            "ship_name": "Bellicose",
-            "isk_destroyed": 28247072.490000002
-        },
-        {
-            "ships_destroyed": 2,
             "ship_type_id": 17480,
             "ship_name": "Procurer",
             "isk_destroyed": 25417758
@@ -461,6 +455,12 @@
             "ship_type_id": 16229,
             "ship_name": "Brutix",
             "isk_destroyed": 26623479.43
+        },
+        {
+            "ships_destroyed": 1,
+            "ship_type_id": 630,
+            "ship_name": "Bellicose",
+            "isk_destroyed": 16442464.9
         },
         {
             "ships_destroyed": 2,

@@ -2,16 +2,16 @@
     "agents": [
         {
             "position": 0,
-            "ships_destroyed": 690,
+            "ships_destroyed": 689,
             "character_id": 95009795,
-            "isk_destroyed": 127591601599.44492,
+            "isk_destroyed": 127589670716.41492,
             "character_name": "Tasmine Cha-Tien"
         },
         {
             "position": 0,
-            "ships_destroyed": 506,
+            "ships_destroyed": 505,
             "character_id": 95732953,
-            "isk_destroyed": 88314712416.62003,
+            "isk_destroyed": 88314702416.62003,
             "character_name": "Mei Long"
         },
         {
@@ -44,9 +44,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 426,
+            "ships_destroyed": 424,
             "character_id": 506137512,
-            "isk_destroyed": 45629729749.51898,
+            "isk_destroyed": 45363721945.09898,
             "character_name": "Albin wood"
         },
         {
@@ -93,9 +93,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 233,
+            "ships_destroyed": 232,
             "character_id": 92900253,
-            "isk_destroyed": 50540708194.28011,
+            "isk_destroyed": 50530149190.180115,
             "character_name": "Swift Isu"
         },
         {
@@ -107,9 +107,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 258,
+            "ships_destroyed": 256,
             "character_id": 93253112,
-            "isk_destroyed": 41309348051.620186,
+            "isk_destroyed": 41035564733.25019,
             "character_name": "Mister McQueen"
         },
         {
@@ -282,9 +282,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 128,
+            "ships_destroyed": 127,
             "character_id": 93913610,
-            "isk_destroyed": 24263213875.689995,
+            "isk_destroyed": 24261282992.659996,
             "character_name": "DeLlave Verdun"
         },
         {
@@ -401,13 +401,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 100,
-            "character_id": 95547196,
-            "isk_destroyed": 21009990247.67,
-            "character_name": "Doris Andedarie"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 126,
             "character_id": 957989996,
             "isk_destroyed": 15915691033.589998,
@@ -419,6 +412,13 @@
             "character_id": 95523534,
             "isk_destroyed": 13630049131.619999,
             "character_name": "JinBeam Tsasa"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 95,
+            "character_id": 95547196,
+            "isk_destroyed": 20814221699.76,
+            "character_name": "Doris Andedarie"
         },
         {
             "position": 0,
@@ -1101,13 +1101,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 60,
-            "character_id": 90977887,
-            "isk_destroyed": 7387069737.709999,
-            "character_name": "Yosh Maken"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 61,
             "character_id": 569282950,
             "isk_destroyed": 7226735186.13,
@@ -1133,6 +1126,13 @@
             "character_id": 95105535,
             "isk_destroyed": 12944355132.5304,
             "character_name": "Shinzo Shikimira Shinzo"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 58,
+            "character_id": 90977887,
+            "isk_destroyed": 7329560198.399999,
+            "character_name": "Yosh Maken"
         },
         {
             "position": 0,
@@ -1619,13 +1619,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 39,
-            "character_id": 94871467,
-            "isk_destroyed": 4916508943.910001,
-            "character_name": "David Brannigan"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 23,
             "character_id": 1840051786,
             "isk_destroyed": 8077790696.0,
@@ -1661,6 +1654,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 38,
+            "character_id": 94871467,
+            "isk_destroyed": 4727161344.710001,
+            "character_name": "David Brannigan"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 32,
             "character_id": 90242291,
             "isk_destroyed": 5438418749.6891,
@@ -1672,13 +1672,6 @@
             "character_id": 94596240,
             "isk_destroyed": 4005371047.1599994,
             "character_name": "Jack The Slipper"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 59,
-            "character_id": 94623708,
-            "isk_destroyed": 2817082193.646299,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -1868,6 +1861,13 @@
             "character_id": 91600171,
             "isk_destroyed": 3340823887.930001,
             "character_name": "Paddy McDaddy"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 46,
+            "character_id": 94623708,
+            "isk_destroyed": 2740438385.1962996,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -2648,13 +2648,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 17,
-            "character_id": 92608515,
-            "isk_destroyed": 2251588461.81,
-            "character_name": "Zip Zap WaPZaP"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 11,
             "character_id": 92326553,
             "isk_destroyed": 3363129508.06,
@@ -2757,6 +2750,13 @@
             "character_id": 1227868181,
             "isk_destroyed": 1784479384.9799998,
             "character_name": "Artik Fawkes"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 15,
+            "character_id": 92608515,
+            "isk_destroyed": 2247712155.39,
+            "character_name": "Zip Zap WaPZaP"
         },
         {
             "position": 0,
@@ -2984,13 +2984,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 25,
-            "character_id": 96031502,
-            "isk_destroyed": 924268759.27,
-            "character_name": "Arteris Longesprit"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 9,
             "character_id": 318437299,
             "isk_destroyed": 2515120821.6299996,
@@ -3051,6 +3044,13 @@
             "character_id": 95778304,
             "isk_destroyed": 1960895859.1400003,
             "character_name": "Scotty Erata"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 23,
+            "character_id": 96031502,
+            "isk_destroyed": 923389425.0699999,
+            "character_name": "Arteris Longesprit"
         },
         {
             "position": 0,
@@ -3236,13 +3236,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 10,
-            "character_id": 1507333016,
-            "isk_destroyed": 1533538905.6999998,
-            "character_name": "0BAKEE"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 12,
             "character_id": 93756678,
             "isk_destroyed": 1277562434.16,
@@ -3303,6 +3296,13 @@
             "character_id": 91830023,
             "isk_destroyed": 1982852541.31,
             "character_name": "Qual'tan Krayn"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 1507333016,
+            "isk_destroyed": 1521734298.11,
+            "character_name": "0BAKEE"
         },
         {
             "position": 0,
@@ -4609,13 +4609,6 @@
         {
             "position": 0,
             "ships_destroyed": 4,
-            "character_id": 461451287,
-            "isk_destroyed": 275603145.91,
-            "character_name": "Garrett Wilson"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 4,
             "character_id": 96257901,
             "isk_destroyed": 275151009.52,
             "character_name": "Lucien Dracco"
@@ -4759,6 +4752,13 @@
             "character_id": 95493723,
             "isk_destroyed": 368926556.54,
             "character_name": "Nova Mirodinn"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 461451287,
+            "isk_destroyed": 238027317.63000003,
+            "character_name": "Garrett Wilson"
         },
         {
             "position": 0,

@@ -1,30 +1,871 @@
 {
     "kills": [
         {
+            "npc": 1,
             "character_id": 94414417,
             "solar_system_id": 31002008,
+            "totalDamage": 1251178,
+            "wingspanAgents": 11,
             "value": 4758801116.57,
             "kill_id": 55289282,
+            "totalWingspanPct": 0.324,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92900253,
+                    "damageDone": 46460,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Swift Isu"
+                },
+                {
+                    "corporation_name": "Atomical Engineering Industrial Development inc.",
+                    "character_id": 94684856,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29986,
+                    "corporation_id": 98444998,
+                    "character_name": "Random name Randomize"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 90807867,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12017,
+                    "corporation_id": 1705300610,
+                    "character_name": "Ash Dadunur"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 90896480,
+                    "damageDone": 124,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11989,
+                    "corporation_id": 1705300610,
+                    "character_name": "Rook Onzo"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95105535,
+                    "damageDone": 605,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11969,
+                    "corporation_id": 98330748,
+                    "character_name": "Shinzo Shikimira Shinzo"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1533818523,
+                    "damageDone": 832,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29986,
+                    "corporation_id": 1705300610,
+                    "character_name": "Sandaru"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95664053,
+                    "damageDone": 1466,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98415327,
+                    "character_name": "Stanis Solar"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 91493551,
+                    "damageDone": 1898,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11965,
+                    "corporation_id": 1705300610,
+                    "character_name": "Melvin Coulter"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96410439,
+                    "damageDone": 1936,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11965,
+                    "corporation_id": 98415327,
+                    "character_name": "Okaga Utama"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 91327595,
+                    "damageDone": 2099,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 1705300610,
+                    "character_name": "Carroll Minayin"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94355263,
+                    "damageDone": 10750,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "WeirdBall"
+                },
+                {
+                    "corporation_name": "Dark Inquisition.",
+                    "character_id": 91362165,
+                    "damageDone": 14796,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 19722,
+                    "corporation_id": 98425839,
+                    "character_name": "Nick Eto"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 94778194,
+                    "damageDone": 16772,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98415327,
+                    "character_name": "Derreck Ming"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 817500201,
+                    "damageDone": 21311,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Admiral Stretch"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 338796598,
+                    "damageDone": 22796,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Macyo"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 353953245,
+                    "damageDone": 24640,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "v3rmin"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1438760656,
+                    "damageDone": 25458,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Demetrius Aldannus"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 91878876,
+                    "damageDone": 26809,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Vassilli Zeitseff"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1451821403,
+                    "damageDone": 27286,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "ian york"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93951704,
+                    "damageDone": 27824,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Avacado Salad"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1303008604,
+                    "damageDone": 29193,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Icarus Shame"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 92735977,
+                    "damageDone": 30045,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Vandyl Gaterau"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 91230368,
+                    "damageDone": 34214,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Flip Floppin"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 92134234,
+                    "damageDone": 35421,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Radimir Lenin"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 90023376,
+                    "damageDone": 36444,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Rana Kurban"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95285657,
+                    "damageDone": 37180,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Merlin Avalon"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 92232211,
+                    "damageDone": 37472,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Jacen Aldrathi"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 94306462,
+                    "damageDone": 39670,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Danius Arbosa"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 96379732,
+                    "damageDone": 40478,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17922,
+                    "corporation_id": 1705300610,
+                    "character_name": "Lexa Kom Trikru"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95009795,
+                    "damageDone": 41238,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98330748,
+                    "character_name": "Tasmine Cha-Tien"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1211235219,
+                    "damageDone": 42184,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Creep Behind"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 746912317,
+                    "damageDone": 42844,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Ekibiogami Jo"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 498341075,
+                    "damageDone": 44162,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "entdude"
+                }
+            ],
+            "thirdParty": 23,
             "agent_id": 1451821403,
             "date": "2016-07-26 23:47:21",
             "ship_type_id": 19726,
             "character_name": "Kris TheRED"
         },
         {
+            "npc": 1,
             "character_id": 91362165,
             "solar_system_id": 31002008,
+            "totalDamage": 780601,
+            "wingspanAgents": 11,
             "value": 4655726369.9,
             "kill_id": 55289297,
+            "totalWingspanPct": 0.314,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92900253,
+                    "damageDone": 50173,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Swift Isu"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 90807867,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12017,
+                    "corporation_id": 1705300610,
+                    "character_name": "Ash Dadunur"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95105535,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11969,
+                    "corporation_id": 98330748,
+                    "character_name": "Shinzo Shikimira Shinzo"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 91493551,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11965,
+                    "corporation_id": 1705300610,
+                    "character_name": "Melvin Coulter"
+                },
+                {
+                    "corporation_name": "Atomical Engineering Industrial Development inc.",
+                    "character_id": 94684856,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29986,
+                    "corporation_id": 98444998,
+                    "character_name": "Random name Randomize"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 249789041,
+                    "damageDone": 502,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11989,
+                    "corporation_id": 1705300610,
+                    "character_name": "Lucius Faust"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 90896480,
+                    "damageDone": 1305,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11989,
+                    "corporation_id": 1705300610,
+                    "character_name": "Rook Onzo"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1533818523,
+                    "damageDone": 1493,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29986,
+                    "corporation_id": 1705300610,
+                    "character_name": "Sandaru"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 91327595,
+                    "damageDone": 1826,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 1705300610,
+                    "character_name": "Carroll Minayin"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 353953245,
+                    "damageDone": 5752,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "v3rmin"
+                },
+                {
+                    "corporation_name": "Dark Inquisition.",
+                    "character_id": 94414417,
+                    "damageDone": 8896,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 0,
+                    "corporation_id": 98425839,
+                    "character_name": "Kris TheRED"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96410439,
+                    "damageDone": 8918,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11965,
+                    "corporation_id": 98415327,
+                    "character_name": "Okaga Utama"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 94778194,
+                    "damageDone": 10787,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98415327,
+                    "character_name": "Derreck Ming"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95285657,
+                    "damageDone": 12073,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Merlin Avalon"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94355263,
+                    "damageDone": 12326,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "WeirdBall"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1438760656,
+                    "damageDone": 15794,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Demetrius Aldannus"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 91230368,
+                    "damageDone": 16580,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Flip Floppin"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93951704,
+                    "damageDone": 16590,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Avacado Salad"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 817500201,
+                    "damageDone": 17255,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Admiral Stretch"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95664053,
+                    "damageDone": 18703,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98415327,
+                    "character_name": "Stanis Solar"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 96379732,
+                    "damageDone": 18983,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17922,
+                    "corporation_id": 1705300610,
+                    "character_name": "Lexa Kom Trikru"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 92735977,
+                    "damageDone": 20078,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Vandyl Gaterau"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1451821403,
+                    "damageDone": 20964,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "ian york"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1211235219,
+                    "damageDone": 21614,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Creep Behind"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 746912317,
+                    "damageDone": 22791,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Ekibiogami Jo"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 498341075,
+                    "damageDone": 23176,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "entdude"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 92134234,
+                    "damageDone": 23471,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Radimir Lenin"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 91878876,
+                    "damageDone": 23670,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Vassilli Zeitseff"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1303008604,
+                    "damageDone": 23734,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Icarus Shame"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 92232211,
+                    "damageDone": 24143,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Jacen Aldrathi"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 338796598,
+                    "damageDone": 25546,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Macyo"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 94306462,
+                    "damageDone": 27648,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Danius Arbosa"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 90023376,
+                    "damageDone": 28859,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 12019,
+                    "corporation_id": 1705300610,
+                    "character_name": "Rana Kurban"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95009795,
+                    "damageDone": 41739,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98330748,
+                    "character_name": "Tasmine Cha-Tien"
+                }
+            ],
+            "thirdParty": 24,
             "agent_id": 90023376,
             "date": "2016-07-26 23:49:05",
             "ship_type_id": 19722,
             "character_name": "Nick Eto"
         },
         {
+            "npc": 0,
             "character_id": 93351593,
             "solar_system_id": 30003760,
+            "totalDamage": 478146,
+            "wingspanAgents": 5,
             "value": 2011785868.71,
             "kill_id": 54936480,
+            "totalWingspanPct": 0.385,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95662540,
+                    "damageDone": 70428,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98415327,
+                    "character_name": "Sean DeTivianne"
+                },
+                {
+                    "corporation_name": "SRS-BSNS",
+                    "character_id": 96037475,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29984,
+                    "corporation_id": 98357581,
+                    "character_name": "Luke Skywalking"
+                },
+                {
+                    "corporation_name": "Failed Diplomacy",
+                    "character_id": 1476731392,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11957,
+                    "corporation_id": 1890620422,
+                    "character_name": "verruckt1975"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94355263,
+                    "damageDone": 6375,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11969,
+                    "corporation_id": 98330748,
+                    "character_name": "WeirdBall"
+                },
+                {
+                    "corporation_name": "Hidden Flame",
+                    "character_id": 93563920,
+                    "damageDone": 14717,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11963,
+                    "corporation_id": 98331648,
+                    "character_name": "Tani Makia"
+                },
+                {
+                    "corporation_name": "The Waldos",
+                    "character_id": 95931107,
+                    "damageDone": 36166,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98290735,
+                    "character_name": "tewarts Okaski"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95732953,
+                    "damageDone": 40512,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Mei Long"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96049384,
+                    "damageDone": 42446,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Quintus Va'Lari"
+                },
+                {
+                    "corporation_name": "Sisters of Vengeance",
+                    "character_id": 95687713,
+                    "damageDone": 47829,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98407447,
+                    "character_name": "Gina Chen"
+                },
+                {
+                    "corporation_name": "Hidden Flame",
+                    "character_id": 93224870,
+                    "damageDone": 48749,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98331648,
+                    "character_name": "Daminion Fruvanio"
+                },
+                {
+                    "corporation_name": "Home Schooled Snobs",
+                    "character_id": 92722001,
+                    "damageDone": 52353,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98466767,
+                    "character_name": "Tarrsius"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 92900253,
+                    "damageDone": 57637,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Swift Isu"
+                },
+                {
+                    "corporation_name": "Trivium",
+                    "character_id": 887520883,
+                    "damageDone": 60934,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98373390,
+                    "character_name": "CowKiller"
+                }
+            ],
+            "thirdParty": 8,
             "agent_id": 887520883,
             "date": "2016-07-04 04:01:35",
             "ship_type_id": 23757,

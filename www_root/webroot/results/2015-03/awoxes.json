@@ -1,170 +1,819 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 94447432,
             "solar_system_id": 30000250,
+            "totalDamage": 479,
+            "wingspanAgents": 4,
             "value": 2002405209.75,
             "kill_id": 45486735,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91835155,
+                    "damageDone": 479,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 17928,
+                    "corporation_id": 98330748,
+                    "character_name": "Tali Lyrae"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92291692,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Mars Antilles"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95095428,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Xee Yoona-451"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 91835155,
             "date": "2015-03-25 00:49:00",
             "ship_type_id": 33328,
             "character_name": "Chance Ravinne"
         },
         {
+            "npc": 0,
             "character_id": 95183233,
             "solar_system_id": 31000507,
+            "totalDamage": 448,
+            "wingspanAgents": 1,
             "value": 57546727.65,
             "kill_id": 45530398,
+            "totalWingspanPct": 0.25,
+            "attackers": [
+                {
+                    "corporation_name": "Sudden Buggery",
+                    "character_id": 91300905,
+                    "damageDone": 265,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11959,
+                    "corporation_id": 1448136910,
+                    "character_name": "Soul Wizzard"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 987468952,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "NoGo Rose"
+                },
+                {
+                    "corporation_name": "Sudden Buggery",
+                    "character_id": 778792840,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 1448136910,
+                    "character_name": "Morticia Sable"
+                },
+                {
+                    "corporation_name": "Sudden Buggery",
+                    "character_id": 1190622669,
+                    "damageDone": 183,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 1448136910,
+                    "character_name": "Trinkets friend"
+                }
+            ],
+            "thirdParty": 3,
             "agent_id": 1190622669,
             "date": "2015-03-27 02:04:00",
             "ship_type_id": 670,
             "character_name": "Alebrelle Kuatu"
         },
         {
+            "npc": 0,
             "character_id": 92740884,
             "solar_system_id": 31000507,
+            "totalDamage": 1364,
+            "wingspanAgents": 1,
             "value": 52216123.59,
             "kill_id": 45530380,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "Sudden Buggery",
+                    "character_id": 778792840,
+                    "damageDone": 1364,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 1448136910,
+                    "character_name": "Morticia Sable"
+                },
+                {
+                    "corporation_name": "Sudden Buggery",
+                    "character_id": 1190622669,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 1448136910,
+                    "character_name": "Trinkets friend"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 987468952,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22456,
+                    "corporation_id": 98330748,
+                    "character_name": "NoGo Rose"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 778792840,
             "date": "2015-03-27 02:03:00",
             "ship_type_id": 12038,
             "character_name": "Zeke Airuta"
         },
         {
+            "npc": 0,
             "character_id": 851221968,
             "solar_system_id": 31000663,
+            "totalDamage": 2261,
+            "wingspanAgents": 1,
             "value": 50161751.77,
             "kill_id": 45006808,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94447432,
+                    "damageDone": 2261,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98330748,
+                    "character_name": "Chance Ravinne"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 94447432,
             "date": "2015-03-04 02:13:00",
             "ship_type_id": 12032,
             "character_name": "Vothor"
         },
         {
+            "npc": 0,
             "character_id": 94551887,
             "solar_system_id": 30002538,
+            "totalDamage": 3648,
+            "wingspanAgents": 1,
             "value": 30927065.19,
             "kill_id": 45050043,
+            "totalWingspanPct": 0.091,
+            "attackers": [
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 94566024,
+                    "damageDone": 939,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 585,
+                    "corporation_id": 98354585,
+                    "character_name": "Dominatrae"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93317595,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12044,
+                    "corporation_id": 98330748,
+                    "character_name": "Gillion Wyrddych"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 95375206,
+                    "damageDone": 63,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 587,
+                    "corporation_id": 98354585,
+                    "character_name": "Alec Aideron"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 95362514,
+                    "damageDone": 112,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 589,
+                    "corporation_id": 98354585,
+                    "character_name": "Kalar Marlou"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 95321381,
+                    "damageDone": 119,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 608,
+                    "corporation_id": 98354585,
+                    "character_name": "Josef Lemmont"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 95373453,
+                    "damageDone": 150,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 587,
+                    "corporation_id": 98354585,
+                    "character_name": "Vikk Karisse"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 92686621,
+                    "damageDone": 173,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 598,
+                    "corporation_id": 98354585,
+                    "character_name": "Chrome Hawkins"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 95374898,
+                    "damageDone": 367,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 593,
+                    "corporation_id": 98354585,
+                    "character_name": "Maarek Redgar"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 890164160,
+                    "damageDone": 374,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 602,
+                    "corporation_id": 98354585,
+                    "character_name": "Regis Battlehammer"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 93908075,
+                    "damageDone": 670,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 602,
+                    "corporation_id": 98354585,
+                    "character_name": "Zoro Rin"
+                },
+                {
+                    "corporation_name": "Empyreal Shadow Vanguard",
+                    "character_id": 93007739,
+                    "damageDone": 681,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 602,
+                    "corporation_id": 98354585,
+                    "character_name": "Lonson Ardon"
+                }
+            ],
+            "thirdParty": 10,
             "agent_id": 92686621,
             "date": "2015-03-06 04:14:00",
             "ship_type_id": 12044,
             "character_name": "Cadno Llewellyn"
         },
         {
+            "npc": 0,
             "character_id": 95183233,
             "solar_system_id": 30002187,
+            "totalDamage": 21866,
+            "wingspanAgents": 3,
             "value": 18807164.63,
             "kill_id": 45348424,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Deadly Fingertips",
+                    "character_id": 1834839487,
+                    "damageDone": 5608,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12044,
+                    "corporation_id": 98274104,
+                    "character_name": "Ekalb81"
+                },
+                {
+                    "corporation_name": "Deadly Fingertips",
+                    "character_id": 92174487,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11200,
+                    "corporation_id": 98274104,
+                    "character_name": "Athena Aideron"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95095428,
+                    "damageDone": 2554,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Xee Yoona-451"
+                },
+                {
+                    "corporation_name": "Deadly Fingertips",
+                    "character_id": 1361169818,
+                    "damageDone": 3043,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 12044,
+                    "corporation_id": 98274104,
+                    "character_name": "Domineren"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 5118,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 17841,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91835155,
+                    "damageDone": 5543,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22460,
+                    "corporation_id": 98330748,
+                    "character_name": "Tali Lyrae"
+                }
+            ],
+            "thirdParty": 3,
             "agent_id": 1361169818,
             "date": "2015-03-19 09:11:00",
             "ship_type_id": 621,
             "character_name": "Alebrelle Kuatu"
         },
         {
+            "npc": 0,
             "character_id": 94574163,
             "solar_system_id": 30002187,
+            "totalDamage": 1096,
+            "wingspanAgents": 2,
             "value": 12730562.91,
             "kill_id": 45348905,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91835155,
+                    "damageDone": 953,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 22460,
+                    "corporation_id": 98330748,
+                    "character_name": "Tali Lyrae"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95095428,
+                    "damageDone": 143,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Xee Yoona-451"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 91835155,
             "date": "2015-03-19 10:02:00",
             "ship_type_id": 583,
             "character_name": "Revan Wake"
         },
         {
+            "npc": 0,
             "character_id": 94574163,
             "solar_system_id": 30002187,
+            "totalDamage": 1286,
+            "wingspanAgents": 1,
             "value": 9902883.89,
             "kill_id": 45348354,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91835155,
+                    "damageDone": 1286,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 589,
+                    "corporation_id": 98330748,
+                    "character_name": "Tali Lyrae"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 91835155,
             "date": "2015-03-19 09:03:00",
             "ship_type_id": 584,
             "character_name": "Revan Wake"
         },
         {
+            "npc": 0,
             "character_id": 91835155,
             "solar_system_id": 30002187,
+            "totalDamage": 3137,
+            "wingspanAgents": 3,
             "value": 9702578.56,
             "kill_id": 45348372,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95183233,
+                    "damageDone": 2606,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 621,
+                    "corporation_id": 98330748,
+                    "character_name": "Alebrelle Kuatu"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95095428,
+                    "damageDone": 111,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Xee Yoona-451"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 420,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 583,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95183233,
             "date": "2015-03-19 09:06:00",
             "ship_type_id": 589,
             "character_name": "Tali Lyrae"
         },
         {
+            "npc": 0,
             "character_id": 92990336,
             "solar_system_id": 30003067,
+            "totalDamage": 5003,
+            "wingspanAgents": 2,
             "value": 9201379.51,
             "kill_id": 45520639,
+            "totalWingspanPct": 0.667,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93838416,
+                    "damageDone": 3687,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98330748,
+                    "character_name": "Banshee Legend"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1367120850,
+                    "damageDone": 239,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Vince Condor"
+                },
+                {
+                    "corporation_name": "Crazy Filipino Pirates",
+                    "character_id": 830785119,
+                    "damageDone": 1077,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 0,
+                    "corporation_id": 98385289,
+                    "character_name": "Acronx"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 93838416,
             "date": "2015-03-26 18:29:00",
             "ship_type_id": 16242,
             "character_name": "Koji Vaille"
         },
         {
+            "npc": 0,
             "character_id": 91145898,
             "solar_system_id": 30002298,
+            "totalDamage": 441,
+            "wingspanAgents": 1,
             "value": 5417466.94,
             "kill_id": 45048624,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 851221968,
+                    "damageDone": 441,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33816,
+                    "corporation_id": 98330748,
+                    "character_name": "Vothor"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 851221968,
             "date": "2015-03-06 02:50:00",
             "ship_type_id": 670,
             "character_name": "shepard locknear"
         },
         {
+            "npc": 0,
             "character_id": 94447432,
             "solar_system_id": 30000250,
+            "totalDamage": 892,
+            "wingspanAgents": 6,
             "value": 3168758.09,
             "kill_id": 45486730,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91835155,
+                    "damageDone": 892,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 17928,
+                    "corporation_id": 98330748,
+                    "character_name": "Tali Lyrae"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92686620,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Zero Eto"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95115278,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Kandrin Hita"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94551887,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Cadno Llewellyn"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 91835155,
             "date": "2015-03-25 00:49:00",
             "ship_type_id": 34496,
             "character_name": "Chance Ravinne"
         },
         {
+            "npc": 0,
             "character_id": 92990336,
             "solar_system_id": 30000147,
+            "totalDamage": 1957,
+            "wingspanAgents": 1,
             "value": 1102692.96,
             "kill_id": 45472259,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 90718048,
+                    "damageDone": 1957,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33818,
+                    "corporation_id": 98330748,
+                    "character_name": "Black Aivo"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 90718048,
             "date": "2015-03-24 07:53:00",
             "ship_type_id": 593,
             "character_name": "Koji Vaille"
         },
         {
+            "npc": 0,
             "character_id": 93669013,
             "solar_system_id": 30003067,
+            "totalDamage": 1655,
+            "wingspanAgents": 4,
             "value": 452239.14,
             "kill_id": 45520090,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92990336,
+                    "damageDone": 1161,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 16242,
+                    "corporation_id": 98330748,
+                    "character_name": "Koji Vaille"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93838416,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98330748,
+                    "character_name": "Banshee Legend"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1367120850,
+                    "damageDone": 196,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 593,
+                    "corporation_id": 98330748,
+                    "character_name": "Vince Condor"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94574163,
+                    "damageDone": 298,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 583,
+                    "corporation_id": 98330748,
+                    "character_name": "Revan Wake"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1367120850,
             "date": "2015-03-26 17:56:00",
             "ship_type_id": 594,
             "character_name": "AnalogTom Rotineque"
         },
         {
+            "npc": 0,
             "character_id": 94809577,
             "solar_system_id": 30000147,
+            "totalDamage": 545,
+            "wingspanAgents": 1,
             "value": 23825.37,
             "kill_id": 45558378,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 90718048,
+                    "damageDone": 545,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98330748,
+                    "character_name": "Black Aivo"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 90718048,
             "date": "2015-03-28 06:35:00",
             "ship_type_id": 672,
             "character_name": "Glade Radner"
         },
         {
+            "npc": 0,
             "character_id": 94574163,
             "solar_system_id": 31000825,
+            "totalDamage": 439,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 45163705,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95269774,
+                    "damageDone": 439,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Alice Anneto"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95269774,
             "date": "2015-03-10 22:34:00",
             "ship_type_id": 670,
             "character_name": "Revan Wake"
         },
         {
+            "npc": 0,
             "character_id": 93532393,
             "solar_system_id": 30002298,
+            "totalDamage": 466,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 45048655,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 851221968,
+                    "damageDone": 466,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33816,
+                    "corporation_id": 98330748,
+                    "character_name": "Vothor"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 851221968,
             "date": "2015-03-06 02:51:00",
             "ship_type_id": 670,

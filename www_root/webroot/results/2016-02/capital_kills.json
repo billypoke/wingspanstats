@@ -1,20 +1,384 @@
 {
     "kills": [
         {
+            "npc": 1,
             "character_id": 396189735,
             "solar_system_id": 30002725,
+            "totalDamage": 594901,
+            "wingspanAgents": 16,
             "value": 3282000230.23,
             "kill_id": 52052976,
+            "totalWingspanPct": 0.762,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95921260,
+                    "damageDone": 111151,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Silentt Knightt"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94056770,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 29986,
+                    "corporation_id": 98330748,
+                    "character_name": "Inta Vakaria"
+                },
+                {
+                    "corporation_name": "Snuff Box",
+                    "character_id": 93867314,
+                    "damageDone": 159,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11957,
+                    "corporation_id": 701625211,
+                    "character_name": "E'liza"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93838416,
+                    "damageDone": 1384,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Banshee Legend"
+                },
+                {
+                    "corporation_name": "Inglourious Squirrels",
+                    "character_id": 1674202931,
+                    "damageDone": 2211,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17843,
+                    "corporation_id": 98112643,
+                    "character_name": "MR BUKEM"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95168462,
+                    "damageDone": 2620,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98415327,
+                    "character_name": "Absent Ascension"
+                },
+                {
+                    "corporation_name": "Inglourious Squirrels",
+                    "character_id": 1874607578,
+                    "damageDone": 2655,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 16229,
+                    "corporation_id": 98112643,
+                    "character_name": "Hekatos"
+                },
+                {
+                    "corporation_name": "Imperial Shipment",
+                    "character_id": 94880716,
+                    "damageDone": 3063,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17922,
+                    "corporation_id": 1000072,
+                    "character_name": "RaGe Quite"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1706721611,
+                    "damageDone": 4118,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 11965,
+                    "corporation_id": 98415327,
+                    "character_name": "Trimmaloth"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95778304,
+                    "damageDone": 4519,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98330748,
+                    "character_name": "Scotty Erata"
+                },
+                {
+                    "corporation_name": "Sonnenlegion",
+                    "character_id": 395144289,
+                    "damageDone": 4900,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12021,
+                    "corporation_id": 1005661681,
+                    "character_name": "Nahilyth"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95916167,
+                    "damageDone": 8371,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 0,
+                    "corporation_id": 98415327,
+                    "character_name": "Tota Lazhole"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1502557835,
+                    "damageDone": 13492,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 620,
+                    "corporation_id": 98415327,
+                    "character_name": "Toit"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 595698298,
+                    "damageDone": 14164,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 620,
+                    "corporation_id": 98330748,
+                    "character_name": "scopehone"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95045708,
+                    "damageDone": 14777,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 29984,
+                    "corporation_id": 98415327,
+                    "character_name": "Entreri Airuta"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 91435934,
+                    "damageDone": 55333,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98415327,
+                    "character_name": "Lenai Chelien"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 59228,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1771137724,
+                    "damageDone": 60599,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Authawy"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 94533777,
+                    "damageDone": 69011,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 17843,
+                    "corporation_id": 98415327,
+                    "character_name": "Drakoniv Jakuard"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96193822,
+                    "damageDone": 69125,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98415327,
+                    "character_name": "SoftCore"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1507333016,
+                    "damageDone": 90589,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 644,
+                    "corporation_id": 98415327,
+                    "character_name": "0BAKEE"
+                }
+            ],
+            "thirdParty": 5,
             "agent_id": 1706721611,
             "date": "2016-02-15 21:51:00",
             "ship_type_id": 23911,
             "character_name": "Triksterism"
         },
         {
+            "npc": 1,
             "character_id": 93839573,
             "solar_system_id": 31000842,
+            "totalDamage": 555820,
+            "wingspanAgents": 11,
             "value": 2197301649.65,
             "kill_id": 52139042,
+            "totalWingspanPct": 0.786,
+            "attackers": [
+                {
+                    "corporation_name": "Euphony Holdings",
+                    "character_id": 685916579,
+                    "damageDone": 95229,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 29988,
+                    "corporation_id": 98438426,
+                    "character_name": "CrewSandwich"
+                },
+                {
+                    "corporation_name": "The Scope",
+                    "character_id": 94927731,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11959,
+                    "corporation_id": 1000107,
+                    "character_name": "Huck Moreau"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96031529,
+                    "damageDone": 6294,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Sir Revan SkyStalker"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1158072549,
+                    "damageDone": 9385,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11995,
+                    "corporation_id": 98415327,
+                    "character_name": "Abaddon Nergal"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93007709,
+                    "damageDone": 10992,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11963,
+                    "corporation_id": 98330748,
+                    "character_name": "Orianna Okanata"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 95858209,
+                    "damageDone": 22791,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11965,
+                    "corporation_id": 98415327,
+                    "character_name": "Hexenzsene Dragnalus"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95909784,
+                    "damageDone": 25788,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Marco Jacks"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 2016716051,
+                    "damageDone": 28751,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 20125,
+                    "corporation_id": 98330748,
+                    "character_name": "Dakodai"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1366631333,
+                    "damageDone": 46763,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "choo t"
+                },
+                {
+                    "corporation_name": "Altar of Bob",
+                    "character_id": 1456610833,
+                    "damageDone": 49569,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17715,
+                    "corporation_id": 98417445,
+                    "character_name": "Thor Nergal"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 237608053,
+                    "damageDone": 56049,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Massive Black"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 56340,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93838416,
+                    "damageDone": 56482,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Banshee Legend"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94575576,
+                    "damageDone": 81800,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Sith-Lord MouseClick"
+                }
+            ],
+            "thirdParty": 3,
             "agent_id": 685916579,
             "date": "2016-02-20 10:11:31",
             "ship_type_id": 23915,

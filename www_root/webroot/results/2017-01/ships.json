@@ -1,28 +1,28 @@
 {
     "ships": [
         {
-            "ships_destroyed": 648,
+            "ships_destroyed": 645,
             "ship_type_id": 33470,
             "ship_name": "Stratios",
-            "isk_destroyed": 120221935633.7854
+            "isk_destroyed": 119898428290.05537
         },
         {
-            "ships_destroyed": 243,
+            "ships_destroyed": 240,
             "ship_type_id": 29984,
             "ship_name": "Tengu",
-            "isk_destroyed": 51445059266.930115
+            "isk_destroyed": 51121551923.20012
         },
         {
-            "ships_destroyed": 174,
+            "ships_destroyed": 170,
             "ship_type_id": 12032,
             "ship_name": "Manticore",
-            "isk_destroyed": 70687816557.85469
+            "isk_destroyed": 70353750210.02466
         },
         {
-            "ships_destroyed": 190,
+            "ships_destroyed": 186,
             "ship_type_id": 11377,
             "ship_name": "Nemesis",
-            "isk_destroyed": 57760295429.610016
+            "isk_destroyed": 57493408290.99001
         },
         {
             "ships_destroyed": 285,
@@ -73,10 +73,10 @@
             "isk_destroyed": 5258741198.76
         },
         {
-            "ships_destroyed": 24,
+            "ships_destroyed": 23,
             "ship_type_id": 29990,
             "ship_name": "Loki",
-            "isk_destroyed": 6653262893.919999
+            "isk_destroyed": 6367559890.179999
         },
         {
             "ships_destroyed": 21,
@@ -103,16 +103,16 @@
             "isk_destroyed": 2445038740.2000003
         },
         {
-            "ships_destroyed": 11,
-            "ship_type_id": 22444,
-            "ship_name": "Sleipnir",
-            "isk_destroyed": 6463051885.9800005
-        },
-        {
             "ships_destroyed": 20,
             "ship_type_id": 12013,
             "ship_name": "Broadsword",
             "isk_destroyed": 3266283531.9999995
+        },
+        {
+            "ships_destroyed": 9,
+            "ship_type_id": 22444,
+            "ship_name": "Sleipnir",
+            "isk_destroyed": 6415958262.72
         },
         {
             "ships_destroyed": 22,
@@ -121,16 +121,16 @@
             "isk_destroyed": 2002785847.76
         },
         {
-            "ships_destroyed": 6,
-            "ship_type_id": 29986,
-            "ship_name": "Legion",
-            "isk_destroyed": 6014769988.17
-        },
-        {
             "ships_destroyed": 5,
             "ship_type_id": 631,
             "ship_name": "Scythe",
             "isk_destroyed": 6182637083.97
+        },
+        {
+            "ships_destroyed": 5,
+            "ship_type_id": 29986,
+            "ship_name": "Legion",
+            "isk_destroyed": 6014729969.46
         },
         {
             "ships_destroyed": 6,
@@ -199,16 +199,16 @@
             "isk_destroyed": 1546797166.65
         },
         {
-            "ships_destroyed": 43,
-            "ship_type_id": 16242,
-            "ship_name": "Thrasher",
-            "isk_destroyed": 235898327.54000002
-        },
-        {
             "ships_destroyed": 5,
             "ship_type_id": 12021,
             "ship_name": "Phobos",
             "isk_destroyed": 1972008040.78
+        },
+        {
+            "ships_destroyed": 41,
+            "ship_type_id": 16242,
+            "ship_name": "Thrasher",
+            "isk_destroyed": 235380713.57
         },
         {
             "ships_destroyed": 9,

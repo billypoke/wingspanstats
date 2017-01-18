@@ -18,6 +18,9 @@ class ShipTypesController extends AppController
      */
     public function index()
     {
+        $this->paginate = [
+            'contain' => ['ShipTypes']
+        ];
         $shipTypes = $this->paginate($this->ShipTypes);
 
         $this->set(compact('shipTypes'));
@@ -34,7 +37,7 @@ class ShipTypesController extends AppController
     public function view($id = null)
     {
         $shipType = $this->ShipTypes->get($id, [
-            'contain' => ['Kills', 'Ships']
+            'contain' => ['ShipTypes']
         ]);
 
         $this->set('shipType', $shipType);
@@ -59,7 +62,8 @@ class ShipTypesController extends AppController
                 $this->Flash->error(__('The ship type could not be saved. Please, try again.'));
             }
         }
-        $this->set(compact('shipType'));
+        $shipTypes = $this->ShipTypes->ShipTypes->find('list', ['limit' => 200]);
+        $this->set(compact('shipType', 'shipTypes'));
         $this->set('_serialize', ['shipType']);
     }
 
@@ -85,7 +89,8 @@ class ShipTypesController extends AppController
                 $this->Flash->error(__('The ship type could not be saved. Please, try again.'));
             }
         }
-        $this->set(compact('shipType'));
+        $shipTypes = $this->ShipTypes->ShipTypes->find('list', ['limit' => 200]);
+        $this->set(compact('shipType', 'shipTypes'));
         $this->set('_serialize', ['shipType']);
     }
 

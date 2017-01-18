@@ -2,9 +2,9 @@
     "agents": [
         {
             "position": 0,
-            "ships_destroyed": 38,
+            "ships_destroyed": 36,
             "character_id": 90977887,
-            "isk_destroyed": 4592241796.040001,
+            "isk_destroyed": 4534732256.7300005,
             "character_name": "Yosh Maken"
         },
         {
@@ -429,31 +429,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 93253112,
-            "isk_destroyed": 273977588.44,
-            "character_name": "Mister McQueen"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 506137512,
-            "isk_destroyed": 266007804.42,
-            "character_name": "Albin wood"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 2,
             "character_id": 1840051786,
             "isk_destroyed": 212869413.03,
             "character_name": "AusTiger"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 6,
-            "character_id": 96031502,
-            "isk_destroyed": 57047835.43,
-            "character_name": "Arteris Longesprit"
         },
         {
             "position": 0,
@@ -468,6 +447,13 @@
             "character_id": 95229965,
             "isk_destroyed": 96618967.27000001,
             "character_name": "Sabrez Haklar"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 4,
+            "character_id": 96031502,
+            "isk_destroyed": 56168501.230000004,
+            "character_name": "Arteris Longesprit"
         },
         {
             "position": 0,
@@ -499,13 +485,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 92900253,
-            "isk_destroyed": 30971960.0,
-            "character_name": "Swift Isu"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 3,
             "character_id": 1662804241,
             "isk_destroyed": 26565183.229999997,
@@ -527,6 +506,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 92900253,
+            "isk_destroyed": 20412955.9,
+            "character_name": "Swift Isu"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 2,
             "character_id": 96054090,
             "isk_destroyed": 19693422.32,
@@ -538,6 +524,13 @@
             "character_id": 96885236,
             "isk_destroyed": 8490449.030000001,
             "character_name": "G Indahowse"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 93253112,
+            "isk_destroyed": 7979784.02,
+            "character_name": "Mister McQueen"
         },
         {
             "position": 0,

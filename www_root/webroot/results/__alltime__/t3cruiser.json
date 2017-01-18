@@ -37,16 +37,16 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 87,
+            "ships_destroyed": 86,
             "character_id": 90600483,
-            "isk_destroyed": 17656476475.36,
+            "isk_destroyed": 17648690961.41,
             "character_name": "Jin Hadah"
         },
         {
             "position": 0,
-            "ships_destroyed": 86,
+            "ships_destroyed": 85,
             "character_id": 96410439,
-            "isk_destroyed": 16345905315.919998,
+            "isk_destroyed": 16079907511.5,
             "character_name": "Okaga Utama"
         },
         {
@@ -408,13 +408,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 8,
-            "character_id": 95095428,
-            "isk_destroyed": 3054675592.66,
-            "character_name": "Xee Yoona-451"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 13,
             "character_id": 1509696997,
             "isk_destroyed": 1839523073.2399995,
@@ -436,10 +429,10 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 14,
-            "character_id": 92650713,
-            "isk_destroyed": 1246400628.02,
-            "character_name": "Haruko Kitsune"
+            "ships_destroyed": 7,
+            "character_id": 95095428,
+            "isk_destroyed": 2768972588.92,
+            "character_name": "Xee Yoona-451"
         },
         {
             "position": 0,
@@ -471,6 +464,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 12,
+            "character_id": 92650713,
+            "isk_destroyed": 1188891088.71,
+            "character_name": "Haruko Kitsune"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 4,
             "character_id": 95107372,
             "isk_destroyed": 3438261500.8300004,
@@ -482,13 +482,6 @@
             "character_id": 96235787,
             "isk_destroyed": 824550024.1099999,
             "character_name": "Juno T'Soni"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 31,
-            "character_id": 94623708,
-            "isk_destroyed": 368228411.46,
-            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,
@@ -590,13 +583,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 10,
-            "character_id": 1463256980,
-            "isk_destroyed": 571360126.4100001,
-            "character_name": "Kerie Thomas"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 7,
             "character_id": 93563659,
             "isk_destroyed": 789555280.78,
@@ -643,6 +629,13 @@
             "character_id": 95131263,
             "isk_destroyed": 872983468.0,
             "character_name": "William Peccav"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 1463256980,
+            "isk_destroyed": 571320107.7,
+            "character_name": "Kerie Thomas"
         },
         {
             "position": 0,
@@ -846,6 +839,13 @@
             "character_id": 1612816832,
             "isk_destroyed": 391960163.96999997,
             "character_name": "Boexl"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 11,
+            "character_id": 94623708,
+            "isk_destroyed": 62946712.87,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

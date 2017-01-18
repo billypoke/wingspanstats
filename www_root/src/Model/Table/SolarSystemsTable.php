@@ -10,8 +10,6 @@ use Cake\Validation\Validator;
  * SolarSystems Model
  *
  * @property \Cake\ORM\Association\BelongsTo $SolarSystems
- * @property \Cake\ORM\Association\HasMany $Kills
- * @property \Cake\ORM\Association\HasMany $SolarSystems
  *
  * @method \App\Model\Entity\SolarSystem get($primaryKey, $options = [])
  * @method \App\Model\Entity\SolarSystem newEntity($data = null, array $options = [])
@@ -38,16 +36,10 @@ class SolarSystemsTable extends Table
         $this->displayField('name');
         $this->primaryKey('solar_system_id');
 
-        // $this->belongsTo('SolarSystems', [
-        //     'foreignKey' => 'solar_system_id',
-        //     'joinType' => 'INNER'
-        // ]);
-        $this->belongsTo('Kills', [
-            'foreignKey' => 'solar_system_id'
+        $this->belongsTo('SolarSystems', [
+            'foreignKey' => 'solar_system_id',
+            'joinType' => 'INNER'
         ]);
-        // $this->hasMany('SolarSystems', [
-        //     'foreignKey' => 'solar_system_id'
-        // ]);
     }
 
     /**
@@ -58,10 +50,6 @@ class SolarSystemsTable extends Table
      */
     public function validationDefault(Validator $validator)
     {
-        $validator
-            ->integer('id')
-            ->allowEmpty('id', 'create');
-
         $validator
             ->requirePresence('name', 'create')
             ->notEmpty('name');
@@ -78,7 +66,7 @@ class SolarSystemsTable extends Table
      */
     public function buildRules(RulesChecker $rules)
     {
-        // $rules->add($rules->existsIn(['solar_system_id'], 'SolarSystems'));
+        $rules->add($rules->existsIn(['solar_system_id'], 'SolarSystems'));
 
         return $rules;
     }

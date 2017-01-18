@@ -93,13 +93,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 5,
-            "character_id": 94623708,
-            "isk_destroyed": 270168975.5,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 1,
             "character_id": 94154468,
             "isk_destroyed": 1134271172.9,
@@ -132,6 +125,13 @@
             "character_id": 94922237,
             "isk_destroyed": 131017781.12,
             "character_name": "Raddic Darkworth"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 1,
+            "character_id": 94623708,
+            "isk_destroyed": 34262280.67,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

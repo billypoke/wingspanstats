@@ -86,9 +86,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 46,
+            "ships_destroyed": 45,
             "character_id": 95067667,
-            "isk_destroyed": 12881945579.470097,
+            "isk_destroyed": 12874160065.520096,
             "character_name": "Zevenz"
         },
         {
@@ -100,17 +100,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 48,
-            "character_id": 90600483,
-            "isk_destroyed": 11182060787.09,
-            "character_name": "Jin Hadah"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 77,
             "character_id": 909011369,
             "isk_destroyed": 6856145630.670099,
             "character_name": "Shaellon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 47,
+            "character_id": 90600483,
+            "isk_destroyed": 11174275273.14,
+            "character_name": "Jin Hadah"
         },
         {
             "position": 0,
@@ -142,9 +142,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 73,
+            "ships_destroyed": 72,
             "character_id": 91117813,
-            "isk_destroyed": 5438245449.6532,
+            "isk_destroyed": 5430459935.7032,
             "character_name": "Kanly Aideron"
         },
         {
@@ -212,13 +212,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 38,
-            "character_id": 94871467,
-            "isk_destroyed": 5648364473.260001,
-            "character_name": "David Brannigan"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 89,
             "character_id": 1817763414,
             "isk_destroyed": 2390473258.62,
@@ -230,6 +223,13 @@
             "character_id": 92274994,
             "isk_destroyed": 7397469115.940001,
             "character_name": "Fyodor Ivanov Svoboda"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 37,
+            "character_id": 94871467,
+            "isk_destroyed": 5459016874.06,
+            "character_name": "David Brannigan"
         },
         {
             "position": 0,
@@ -318,16 +318,16 @@
         {
             "position": 0,
             "ships_destroyed": 23,
-            "character_id": 95547196,
-            "isk_destroyed": 5379007121.72,
-            "character_name": "Doris Andedarie"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 23,
             "character_id": 97106804,
             "isk_destroyed": 5361836857.25,
             "character_name": "Rootey Tootey"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 22,
+            "character_id": 95547196,
+            "isk_destroyed": 5189659522.52,
+            "character_name": "Doris Andedarie"
         },
         {
             "position": 0,
@@ -464,13 +464,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 29,
-            "character_id": 93253112,
-            "isk_destroyed": 1451692081.51,
-            "character_name": "Mister McQueen"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 26,
             "character_id": 95499736,
             "isk_destroyed": 1574500822.04,
@@ -482,6 +475,13 @@
             "character_id": 94753469,
             "isk_destroyed": 3392328035.88,
             "character_name": "Buster Atmosk"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 28,
+            "character_id": 93253112,
+            "isk_destroyed": 1443906567.5600002,
+            "character_name": "Mister McQueen"
         },
         {
             "position": 0,
@@ -625,13 +625,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 31,
-            "character_id": 94623708,
-            "isk_destroyed": 500120521.15000004,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 21,
             "character_id": 92685542,
             "isk_destroyed": 661965337.0400001,
@@ -737,13 +730,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 6,
-            "character_id": 91868212,
-            "isk_destroyed": 707118464.5699999,
-            "character_name": "Roluf Engberg"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 20,
             "character_id": 92956893,
             "isk_destroyed": 199474507.79000005,
@@ -765,6 +751,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 91868212,
+            "isk_destroyed": 699332950.6199999,
+            "character_name": "Roluf Engberg"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 14,
             "character_id": 318437299,
             "isk_destroyed": 244355521.22,
@@ -783,6 +776,13 @@
             "character_id": 93838416,
             "isk_destroyed": 655964954.4300001,
             "character_name": "Banshee Legend"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 94623708,
+            "isk_destroyed": 353971262.32,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

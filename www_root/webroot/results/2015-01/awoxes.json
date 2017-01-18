@@ -1,40 +1,138 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 91145898,
             "solar_system_id": 31000005,
+            "totalDamage": 1734,
+            "wingspanAgents": 1,
             "value": 82951409.78,
             "kill_id": 43959217,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "AQUILA INC",
+                    "character_id": 901341854,
+                    "damageDone": 1734,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 33818,
+                    "corporation_id": 389326446,
+                    "character_name": "Rengas"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1640448394,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22452,
+                    "corporation_id": 98330748,
+                    "character_name": "Saria Dehmov"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 901341854,
             "date": "2015-01-18 03:17:00",
             "ship_type_id": 11377,
             "character_name": "shepard locknear"
         },
         {
+            "npc": 0,
             "character_id": 93007709,
             "solar_system_id": 31001034,
+            "totalDamage": 1330,
+            "wingspanAgents": 1,
             "value": 41169097.93,
             "kill_id": 44203721,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "Objectless Hatred.",
+                    "character_id": 92588586,
+                    "damageDone": 1330,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 624,
+                    "corporation_id": 98352878,
+                    "character_name": "Ashai Acami"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91821874,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98330748,
+                    "character_name": "Louis Ferreira"
+                },
+                {
+                    "corporation_name": "Objectless Hatred.",
+                    "character_id": 93711894,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 670,
+                    "corporation_id": 98352878,
+                    "character_name": "Aitoren Ychareau"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 92588586,
             "date": "2015-01-28 07:42:00",
             "ship_type_id": 12034,
             "character_name": "Orianna Okanata"
         },
         {
+            "npc": 0,
             "character_id": 94447432,
             "solar_system_id": 31000244,
+            "totalDamage": 475,
+            "wingspanAgents": 1,
             "value": 101643.21,
             "kill_id": 43964468,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1701645033,
+                    "damageDone": 475,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 16240,
+                    "corporation_id": 98330748,
+                    "character_name": "Dexter Tripod"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1701645033,
             "date": "2015-01-18 08:14:00",
             "ship_type_id": 588,
             "character_name": "Chance Ravinne"
         },
         {
+            "npc": 0,
             "character_id": 94447432,
             "solar_system_id": 31000244,
+            "totalDamage": 550,
+            "wingspanAgents": 1,
             "value": 10062.82,
             "kill_id": 43964480,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1701645033,
+                    "damageDone": 550,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 16240,
+                    "corporation_id": 98330748,
+                    "character_name": "Dexter Tripod"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1701645033,
             "date": "2015-01-18 08:14:00",
             "ship_type_id": 606,

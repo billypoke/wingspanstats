@@ -1,30 +1,831 @@
 {
     "kills": [
         {
+            "npc": 1,
             "character_id": 96130736,
             "solar_system_id": 31001141,
+            "totalDamage": 552159,
+            "wingspanAgents": 16,
             "value": 6208625723.3,
             "kill_id": 55787563,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93951704,
+                    "damageDone": 71213,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Avacado Salad"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95183233,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98330748,
+                    "character_name": "Alebrelle Kuatu"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93317595,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 29986,
+                    "corporation_id": 98330748,
+                    "character_name": "Gillion Wyrddych"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1453265947,
+                    "damageDone": 13117,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11969,
+                    "corporation_id": 98330748,
+                    "character_name": "minold heifer"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96236270,
+                    "damageDone": 13650,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Lexa Griffin"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94803277,
+                    "damageDone": 15137,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Xavier Hex"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96179191,
+                    "damageDone": 15232,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22460,
+                    "corporation_id": 98330748,
+                    "character_name": "Blackhawk Bordeaux"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95229965,
+                    "damageDone": 27322,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 29988,
+                    "corporation_id": 98330748,
+                    "character_name": "Sabrez Haklar"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 881159810,
+                    "damageDone": 29060,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "scufitza"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 584976954,
+                    "damageDone": 34805,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 20125,
+                    "corporation_id": 98330748,
+                    "character_name": "Jerythas"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1994352777,
+                    "damageDone": 39227,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98415327,
+                    "character_name": "Glaedyr"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93484437,
+                    "damageDone": 39682,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Ishtar d'Asmodai"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1445779537,
+                    "damageDone": 47763,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Findlaech"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94060725,
+                    "damageDone": 50712,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Gort getrekt"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 353953245,
+                    "damageDone": 56412,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "v3rmin"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93954400,
+                    "damageDone": 59421,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Ben D'Eath"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 93954400,
             "date": "2016-08-28 00:29:57",
             "ship_type_id": 19726,
             "character_name": "DDrueding Haginen"
         },
         {
+            "npc": 0,
             "character_id": 94414417,
             "solar_system_id": 31002008,
+            "totalDamage": 1453617,
+            "wingspanAgents": 11,
             "value": 3522892071.33,
             "kill_id": 55417079,
+            "totalWingspanPct": 0.367,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96410439,
+                    "damageDone": 132041,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Okaga Utama"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 93165839,
+                    "damageDone": 11,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 37457,
+                    "corporation_id": 98252033,
+                    "character_name": "Scotty Smartypants"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92452880,
+                    "damageDone": 651,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 37457,
+                    "corporation_id": 98252033,
+                    "character_name": "Tauror Lapus"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92545277,
+                    "damageDone": 3831,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 22456,
+                    "corporation_id": 98252033,
+                    "character_name": "Julius Madullier"
+                },
+                {
+                    "corporation_name": "Dark Inquisition.",
+                    "character_id": 91362165,
+                    "damageDone": 7279,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 19722,
+                    "corporation_id": 98425839,
+                    "character_name": "Nick Eto"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1129081196,
+                    "damageDone": 13036,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17843,
+                    "corporation_id": 1705300610,
+                    "character_name": "chakazulu"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1260777080,
+                    "damageDone": 13106,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 1705300610,
+                    "character_name": "Trance Smurf"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1902105706,
+                    "damageDone": 17673,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 1705300610,
+                    "character_name": "Glasgow Dunlop"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1181548362,
+                    "damageDone": 19387,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 1705300610,
+                    "character_name": "ExookiZ"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 94473741,
+                    "damageDone": 23311,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 1705300610,
+                    "character_name": "Taylor Who"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92883141,
+                    "damageDone": 30278,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98252033,
+                    "character_name": "XX 8"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95389823,
+                    "damageDone": 38894,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Pyro Silf"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92648103,
+                    "damageDone": 39934,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "SUI MrSmith"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 95356461,
+                    "damageDone": 40596,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11377,
+                    "corporation_id": 1705300610,
+                    "character_name": "Ymenoa Merenet"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 94943264,
+                    "damageDone": 48227,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Brom Ohaya"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 1410913645,
+                    "damageDone": 55033,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Altetiemann988"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 93512218,
+                    "damageDone": 55331,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Seth Cane"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92805979,
+                    "damageDone": 56571,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Valtyr Farshield"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 190853771,
+                    "damageDone": 57569,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Buddy Freep"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91698873,
+                    "damageDone": 62027,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Psyche Ambraelle"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94355263,
+                    "damageDone": 62043,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "WeirdBall"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1198457584,
+                    "damageDone": 62966,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "CreeoniX"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95715380,
+                    "damageDone": 63375,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Nicholas Chance Kile"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 1486807629,
+                    "damageDone": 64448,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Garphos Trectes"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1946110756,
+                    "damageDone": 66136,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "GTZGodzsila"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92191317,
+                    "damageDone": 67808,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Soldier Forrester"
+                },
+                {
+                    "corporation_name": "Drones In Space",
+                    "character_id": 90833695,
+                    "damageDone": 72218,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98023926,
+                    "character_name": "Yuri RedAlert"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 80477,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96049384,
+                    "damageDone": 86079,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Quintus Va'Lari"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93317595,
+                    "damageDone": 113281,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Gillion Wyrddych"
+                }
+            ],
+            "thirdParty": 19,
             "agent_id": 1946110756,
             "date": "2016-08-04 19:40:41",
             "ship_type_id": 19726,
             "character_name": "Kris TheRED"
         },
         {
+            "npc": 0,
             "character_id": 91362165,
             "solar_system_id": 31002008,
+            "totalDamage": 1698444,
+            "wingspanAgents": 12,
             "value": 3433776950.4,
             "kill_id": 55417140,
+            "totalWingspanPct": 0.375,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96410439,
+                    "damageDone": 482455,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Okaga Utama"
+                },
+                {
+                    "corporation_name": "Atomical Engineering Industrial Development inc.",
+                    "character_id": 94684856,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29986,
+                    "corporation_id": 98444998,
+                    "character_name": "Random name Randomize"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94154468,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 29986,
+                    "corporation_id": 98330748,
+                    "character_name": "Cap'n Rick Clusterbomb"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92034919,
+                    "damageDone": 55,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 37457,
+                    "corporation_id": 98252033,
+                    "character_name": "Arminius VonSverin"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92452880,
+                    "damageDone": 187,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 37457,
+                    "corporation_id": 98252033,
+                    "character_name": "Tauror Lapus"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 1155998931,
+                    "damageDone": 242,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 37457,
+                    "corporation_id": 98252033,
+                    "character_name": "annopetri"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92545277,
+                    "damageDone": 679,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 22456,
+                    "corporation_id": 98252033,
+                    "character_name": "Julius Madullier"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 94473741,
+                    "damageDone": 10112,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 1705300610,
+                    "character_name": "Taylor Who"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1902105706,
+                    "damageDone": 12438,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 1705300610,
+                    "character_name": "Glasgow Dunlop"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92648103,
+                    "damageDone": 16121,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "SUI MrSmith"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1260777080,
+                    "damageDone": 17266,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 33470,
+                    "corporation_id": 1705300610,
+                    "character_name": "Trance Smurf"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92883141,
+                    "damageDone": 17997,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98252033,
+                    "character_name": "XX 8"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 94943264,
+                    "damageDone": 20033,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Brom Ohaya"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1181548362,
+                    "damageDone": 25710,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 1705300610,
+                    "character_name": "ExookiZ"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1198457584,
+                    "damageDone": 26399,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "CreeoniX"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 1410913645,
+                    "damageDone": 29323,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Altetiemann988"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 92191317,
+                    "damageDone": 29891,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Soldier Forrester"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 190853771,
+                    "damageDone": 32791,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Buddy Freep"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1946110756,
+                    "damageDone": 32832,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "GTZGodzsila"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 93512218,
+                    "damageDone": 32947,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Seth Cane"
+                },
+                {
+                    "corporation_name": "Drones In Space",
+                    "character_id": 90833695,
+                    "damageDone": 33077,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98023926,
+                    "character_name": "Yuri RedAlert"
+                },
+                {
+                    "corporation_name": "Vision Inc",
+                    "character_id": 1486807629,
+                    "damageDone": 34684,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98252033,
+                    "character_name": "Garphos Trectes"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91698873,
+                    "damageDone": 38280,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Psyche Ambraelle"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94809577,
+                    "damageDone": 46716,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Glade Radner"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92805979,
+                    "damageDone": 51884,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Valtyr Farshield"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96049384,
+                    "damageDone": 56474,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Quintus Va'Lari"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 95356461,
+                    "damageDone": 63701,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11377,
+                    "corporation_id": 1705300610,
+                    "character_name": "Ymenoa Merenet"
+                },
+                {
+                    "corporation_name": "The Dark Space Initiative",
+                    "character_id": 1129081196,
+                    "damageDone": 71156,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17843,
+                    "corporation_id": 1705300610,
+                    "character_name": "chakazulu"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94355263,
+                    "damageDone": 94203,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "WeirdBall"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95389823,
+                    "damageDone": 106472,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Pyro Silf"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95715380,
+                    "damageDone": 132959,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Nicholas Chance Kile"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93317595,
+                    "damageDone": 181360,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98330748,
+                    "character_name": "Gillion Wyrddych"
+                }
+            ],
+            "thirdParty": 20,
             "agent_id": 1129081196,
             "date": "2016-08-04 19:43:44",
             "ship_type_id": 19722,

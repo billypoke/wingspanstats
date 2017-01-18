@@ -44,13 +44,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 371,
-            "character_id": 94623708,
-            "isk_destroyed": 5943046027.5851,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 127,
             "character_id": 94355263,
             "isk_destroyed": 14041616442.9787,
@@ -226,6 +219,13 @@
         },
         {
             "position": 0,
+            "ships_destroyed": 154,
+            "character_id": 94623708,
+            "isk_destroyed": 2402155178.7125998,
+            "character_name": "Bustrr Bluth"
+        },
+        {
+            "position": 0,
             "ships_destroyed": 61,
             "character_id": 237608053,
             "isk_destroyed": 6051359338.0871,
@@ -338,17 +338,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 104,
-            "character_id": 93913610,
-            "isk_destroyed": 1490087702.7900004,
-            "character_name": "DeLlave Verdun"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 70,
             "character_id": 94809577,
             "isk_destroyed": 2194420663.9202003,
             "character_name": "Glade Radner"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 102,
+            "character_id": 93913610,
+            "isk_destroyed": 1489570088.8200004,
+            "character_name": "DeLlave Verdun"
         },
         {
             "position": 0,
@@ -807,13 +807,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 31,
-            "character_id": 95095428,
-            "isk_destroyed": 918765524.5199999,
-            "character_name": "Xee Yoona-451"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 18,
             "character_id": 92922536,
             "isk_destroyed": 1575472813.48,
@@ -895,6 +888,13 @@
             "character_id": 96193133,
             "isk_destroyed": 872683474.92,
             "character_name": "Amielia Evangelon"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 30,
+            "character_id": 95095428,
+            "isk_destroyed": 633062520.7799999,
+            "character_name": "Xee Yoona-451"
         },
         {
             "position": 0,
@@ -1031,13 +1031,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 23,
-            "character_id": 96031502,
-            "isk_destroyed": 447108836.28999996,
-            "character_name": "Arteris Longesprit"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 12,
             "character_id": 95856286,
             "isk_destroyed": 834207453.1901,
@@ -1056,6 +1049,13 @@
             "character_id": 92114102,
             "isk_destroyed": 457264860.8916001,
             "character_name": "Selena Na'sharr"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 21,
+            "character_id": 96031502,
+            "isk_destroyed": 446229502.09,
+            "character_name": "Arteris Longesprit"
         },
         {
             "position": 0,
@@ -1129,13 +1129,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 15,
-            "character_id": 94060725,
-            "isk_destroyed": 522160535.61000013,
-            "character_name": "Gort getrekt"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 18,
             "character_id": 1463256980,
             "isk_destroyed": 429995643.25,
@@ -1175,6 +1168,13 @@
             "character_id": 1190765392,
             "isk_destroyed": 519308841.09999996,
             "character_name": "Freddey"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 14,
+            "character_id": 94060725,
+            "isk_destroyed": 512632467.8700001,
+            "character_name": "Gort getrekt"
         },
         {
             "position": 0,
@@ -2319,13 +2319,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 6,
-            "character_id": 506137512,
-            "isk_destroyed": 66728867.0,
-            "character_name": "Albin wood"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 5,
             "character_id": 93648199,
             "isk_destroyed": 76361081.55,
@@ -2386,6 +2379,13 @@
             "character_id": 94783886,
             "isk_destroyed": 83903187.1,
             "character_name": "Scipio Zeul"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 506137512,
+            "isk_destroyed": 66718867.0,
+            "character_name": "Albin wood"
         },
         {
             "position": 0,
@@ -3702,13 +3702,6 @@
             "character_id": 95731176,
             "isk_destroyed": 9774173.88,
             "character_name": "Rookuza Ore Madullier"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 1,
-            "character_id": 95341355,
-            "isk_destroyed": 9726055.75,
-            "character_name": "Nyem Silber"
         },
         {
             "position": 0,

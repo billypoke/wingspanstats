@@ -394,13 +394,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 18,
-            "character_id": 94623708,
-            "isk_destroyed": 568753802.75,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 4,
             "character_id": 1817763414,
             "isk_destroyed": 2532710104.8700004,
@@ -636,6 +629,13 @@
             "character_id": 96165774,
             "isk_destroyed": 7080816.69,
             "character_name": "Tawk Ramsey"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 94623708,
+            "isk_destroyed": 3462975.1,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

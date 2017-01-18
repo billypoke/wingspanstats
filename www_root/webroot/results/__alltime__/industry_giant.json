@@ -212,13 +212,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 15,
-            "character_id": 94623708,
-            "isk_destroyed": 3831905780.55,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 12,
             "character_id": 93560666,
             "isk_destroyed": 4274244861.1099997,
@@ -293,6 +286,13 @@
             "character_id": 93532393,
             "isk_destroyed": 4103451103.7316995,
             "character_name": "Ransom Odunen"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 10,
+            "character_id": 94623708,
+            "isk_destroyed": 3656249876.34,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

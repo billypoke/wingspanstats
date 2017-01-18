@@ -1,80 +1,526 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 95285657,
             "solar_system_id": 31000793,
+            "totalDamage": 28628,
+            "wingspanAgents": 1,
             "value": 380655060.48,
             "kill_id": 57070263,
+            "totalWingspanPct": 0.071,
+            "attackers": [
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 296413512,
+                    "damageDone": 9730,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 22456,
+                    "corporation_id": 98017240,
+                    "character_name": "Kssy"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96331596,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22456,
+                    "corporation_id": 98330748,
+                    "character_name": "Bdan en Gravonere"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 94358193,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34317,
+                    "corporation_id": 98017240,
+                    "character_name": "kilik Striffe"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 1456654176,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "Pumma42"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 1199302756,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "cloporte"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 95920403,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11957,
+                    "corporation_id": 98017240,
+                    "character_name": "Viridiana"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 95921489,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "ze steiw"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 93600255,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "DaveFr"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 94986210,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "Shado xxx"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 926955727,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "Maresalu"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 90080499,
+                    "damageDone": 1204,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "Semirande"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 658125959,
+                    "damageDone": 4678,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "Sha mael"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 93493915,
+                    "damageDone": 6378,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98017240,
+                    "character_name": "Sophia Joringer"
+                },
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 95404673,
+                    "damageDone": 6638,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 22466,
+                    "corporation_id": 98017240,
+                    "character_name": "Ebonix Mileghere"
+                }
+            ],
+            "thirdParty": 13,
             "agent_id": 90080499,
             "date": "2016-11-10 22:47:34",
             "ship_type_id": 33470,
             "character_name": "Merlin Avalon"
         },
         {
+            "npc": 0,
             "character_id": 563226579,
             "solar_system_id": 31000793,
+            "totalDamage": 2085,
+            "wingspanAgents": 1,
             "value": 101731854.7,
             "kill_id": 57070226,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "EyEs.FR",
+                    "character_id": 95404673,
+                    "damageDone": 2085,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 22466,
+                    "corporation_id": 98017240,
+                    "character_name": "Ebonix Mileghere"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96331596,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22456,
+                    "corporation_id": 98330748,
+                    "character_name": "Bdan en Gravonere"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 95404673,
             "date": "2016-11-10 22:44:55",
             "ship_type_id": 12032,
             "character_name": "Crazymooon"
         },
         {
+            "npc": 0,
             "character_id": 95664053,
             "solar_system_id": 30000142,
+            "totalDamage": 604,
+            "wingspanAgents": 1,
             "value": 902498.51,
             "kill_id": 57130276,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1463256980,
+                    "damageDone": 604,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98330748,
+                    "character_name": "Kerie Thomas"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1463256980,
             "date": "2016-11-13 20:23:32",
             "ship_type_id": 588,
             "character_name": "Stanis Solar"
         },
         {
+            "npc": 0,
             "character_id": 96378049,
             "solar_system_id": 30000145,
+            "totalDamage": 627,
+            "wingspanAgents": 1,
             "value": 52186.37,
             "kill_id": 57176627,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93951704,
+                    "damageDone": 627,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98330748,
+                    "character_name": "Avacado Salad"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 93951704,
             "date": "2016-11-16 02:19:55",
             "ship_type_id": 601,
             "character_name": "Billy Dee Billions"
         },
         {
+            "npc": 0,
             "character_id": 95344823,
             "solar_system_id": 31000157,
+            "totalDamage": 585,
+            "wingspanAgents": 3,
             "value": 26308.52,
             "kill_id": 57153738,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92936302,
+                    "damageDone": 585,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Wolvy Badasaz"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95454553,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98330748,
+                    "character_name": "Al3x Oaks"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 987468952,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 17722,
+                    "corporation_id": 98330748,
+                    "character_name": "NoGo Rose"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 92936302,
             "date": "2016-11-15 03:55:12",
             "ship_type_id": 588,
             "character_name": "Bails Naskingar"
         },
         {
+            "npc": 0,
             "character_id": 94133670,
             "solar_system_id": 30000144,
+            "totalDamage": 545,
+            "wingspanAgents": 1,
             "value": 22560.86,
             "kill_id": 57100223,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93951704,
+                    "damageDone": 545,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98330748,
+                    "character_name": "Avacado Salad"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 93951704,
             "date": "2016-11-12 16:02:08",
             "ship_type_id": 11134,
             "character_name": "Dorphin Ghekon"
         },
         {
+            "npc": 0,
             "character_id": 93951704,
             "solar_system_id": 30000144,
+            "totalDamage": 641,
+            "wingspanAgents": 1,
             "value": 22231.19,
             "kill_id": 57100413,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96562368,
+                    "damageDone": 641,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33816,
+                    "corporation_id": 98330748,
+                    "character_name": "Ronni Ormand"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 96562368,
             "date": "2016-11-12 16:13:46",
             "ship_type_id": 672,
             "character_name": "Avacado Salad"
         },
         {
+            "npc": 1,
             "character_id": 91233379,
             "solar_system_id": 30003759,
+            "totalDamage": 463,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 56969294,
+            "totalWingspanPct": 0.067,
+            "attackers": [
+                {
+                    "corporation_name": "EVE University",
+                    "character_id": 95151114,
+                    "damageDone": 318,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 29984,
+                    "corporation_id": 917701062,
+                    "character_name": "Arnold Hita"
+                },
+                {
+                    "corporation_name": "Knights Of Shadow Hall",
+                    "character_id": 96515196,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11957,
+                    "corporation_id": 98469524,
+                    "character_name": "ZDrone17 swarm"
+                },
+                {
+                    "corporation_name": "You Only Worm Hole Once",
+                    "character_id": 94914644,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98423604,
+                    "character_name": "sin Alarma"
+                },
+                {
+                    "corporation_name": "Jaded.",
+                    "character_id": 95602900,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12034,
+                    "corporation_id": 98317405,
+                    "character_name": "Umbrash"
+                },
+                {
+                    "corporation_name": "Hidden Flame",
+                    "character_id": 1169300175,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98331648,
+                    "character_name": "Coaxster"
+                },
+                {
+                    "corporation_name": "Absolute Massive Destruction",
+                    "character_id": 93780208,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98169716,
+                    "character_name": "kraticisious Davaham"
+                },
+                {
+                    "corporation_name": "Jaded.",
+                    "character_id": 1027213676,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98317405,
+                    "character_name": "Jaxdon"
+                },
+                {
+                    "corporation_name": "Rapid Withdrawal",
+                    "character_id": 797878581,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98177721,
+                    "character_name": "tilieax"
+                },
+                {
+                    "corporation_name": "Kontained Chaos",
+                    "character_id": 96464603,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98438512,
+                    "character_name": "Michael Crusher"
+                },
+                {
+                    "corporation_name": "EVE University",
+                    "character_id": 95262940,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11377,
+                    "corporation_id": 917701062,
+                    "character_name": "Rogwar Toralen"
+                },
+                {
+                    "corporation_name": "Jaded.",
+                    "character_id": 96285748,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98317405,
+                    "character_name": "NightFox Avedon"
+                },
+                {
+                    "corporation_name": "Angelum Tenebrarum",
+                    "character_id": 94534911,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98432393,
+                    "character_name": "Neko Motoroshi"
+                },
+                {
+                    "corporation_name": "Caldari Provisions",
+                    "character_id": 565617765,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 1000009,
+                    "character_name": "Forge Omega"
+                },
+                {
+                    "corporation_name": "New Eden Special Tactics",
+                    "character_id": 95806676,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98307079,
+                    "character_name": "Panda Lennelluc"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95732953,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12038,
+                    "corporation_id": 98330748,
+                    "character_name": "Mei Long"
+                },
+                {
+                    "corporation_name": "Victory over the Sun",
+                    "character_id": 96147437,
+                    "damageDone": 145,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 12032,
+                    "corporation_id": 795045656,
+                    "character_name": "Arthur Johonson"
+                }
+            ],
+            "thirdParty": 14,
             "agent_id": 96147437,
             "date": "2016-11-05 04:53:24",
             "ship_type_id": 670,

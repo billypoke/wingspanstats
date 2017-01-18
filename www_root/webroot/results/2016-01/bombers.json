@@ -639,13 +639,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 14,
-            "character_id": 92608515,
-            "isk_destroyed": 2110522978.1999998,
-            "character_name": "Zip Zap WaPZaP"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 8,
             "character_id": 94018595,
             "isk_destroyed": 3503488515.35,
@@ -664,6 +657,13 @@
             "character_id": 432602014,
             "isk_destroyed": 2856352426.19,
             "character_name": "Vrayis Vanderfel"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 12,
+            "character_id": 92608515,
+            "isk_destroyed": 2106646671.7799997,
+            "character_name": "Zip Zap WaPZaP"
         },
         {
             "position": 0,
@@ -744,13 +744,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 10,
-            "character_id": 1507333016,
-            "isk_destroyed": 1533538905.6999998,
-            "character_name": "0BAKEE"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 12,
             "character_id": 90199120,
             "isk_destroyed": 1263355936.2299998,
@@ -776,6 +769,13 @@
             "character_id": 95399464,
             "isk_destroyed": 1792226158.5800002,
             "character_name": "trip Bypas"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 9,
+            "character_id": 1507333016,
+            "isk_destroyed": 1521734298.11,
+            "character_name": "0BAKEE"
         },
         {
             "position": 0,
@@ -1109,13 +1109,6 @@
         {
             "position": 0,
             "ships_destroyed": 4,
-            "character_id": 95547196,
-            "isk_destroyed": 273332571.77000004,
-            "character_name": "Doris Andedarie"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 4,
             "character_id": 95126040,
             "isk_destroyed": 269371748.19,
             "character_name": "Fulmen Celer"
@@ -1217,6 +1210,13 @@
             "character_id": 95091336,
             "isk_destroyed": 195804651.63,
             "character_name": "Lord Aro Nardieu"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 2,
+            "character_id": 95547196,
+            "isk_destroyed": 269456265.35,
+            "character_name": "Doris Andedarie"
         },
         {
             "position": 0,

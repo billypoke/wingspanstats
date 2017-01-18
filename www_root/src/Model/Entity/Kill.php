@@ -6,7 +6,6 @@ use Cake\ORM\Entity;
 /**
  * Kill Entity
  *
- * @property int $id
  * @property int $character_id
  * @property int $ship_type_id
  * @property int $solar_system_id
@@ -14,10 +13,12 @@ use Cake\ORM\Entity;
  * @property float $value
  * @property int $kill_id
  * @property int $agent_id
+ * @property float $totalWingspanPct
  *
  * @property \App\Model\Entity\Character $character
  * @property \App\Model\Entity\ShipType $ship_type
  * @property \App\Model\Entity\SolarSystem $solar_system
+ * @property \App\Model\Entity\Kill $kill
  */
 class Kill extends Entity
 {
@@ -33,6 +34,6 @@ class Kill extends Entity
      */
     protected $_accessible = [
         '*' => true,
-        'id' => false
+        'kill_id' => false
     ];
 }

@@ -1,10 +1,10 @@
 {
     "ships": [
         {
-            "ships_destroyed": 408,
+            "ships_destroyed": 402,
             "ship_type_id": 33470,
             "ship_name": "Stratios",
-            "isk_destroyed": 80970272852.14043
+            "isk_destroyed": 80881902728.5404
         },
         {
             "ships_destroyed": 220,
@@ -19,10 +19,10 @@
             "isk_destroyed": 13744220713.350002
         },
         {
-            "ships_destroyed": 74,
+            "ships_destroyed": 73,
             "ship_type_id": 11377,
             "ship_name": "Nemesis",
-            "isk_destroyed": 12429842868.5201
+            "isk_destroyed": 12402774069.840101
         },
         {
             "ships_destroyed": 46,
@@ -43,10 +43,10 @@
             "isk_destroyed": 5856522933.17
         },
         {
-            "ships_destroyed": 41,
+            "ships_destroyed": 39,
             "ship_type_id": 33468,
             "ship_name": "Astero",
-            "isk_destroyed": 4395063248.7179
+            "isk_destroyed": 4360105170.927901
         },
         {
             "ships_destroyed": 28,
@@ -133,16 +133,16 @@
             "isk_destroyed": 811417878.0899999
         },
         {
-            "ships_destroyed": 10,
+            "ships_destroyed": 7,
             "ship_type_id": 35683,
             "ship_name": "Hecate",
-            "isk_destroyed": 804990813.1600001
+            "isk_destroyed": 771530850.0900002
         },
         {
-            "ships_destroyed": 19,
+            "ships_destroyed": 18,
             "ship_type_id": 17841,
             "ship_name": "Federation Navy Comet",
-            "isk_destroyed": 267943140.95999998
+            "isk_destroyed": 267610452.32
         },
         {
             "ships_destroyed": 2,
@@ -227,12 +227,6 @@
             "ship_type_id": 17703,
             "ship_name": "Imperial Navy Slicer",
             "isk_destroyed": 85029266.07000001
-        },
-        {
-            "ships_destroyed": 7,
-            "ship_type_id": 17928,
-            "ship_name": "Daredevil",
-            "isk_destroyed": 60067430.912499994
         },
         {
             "ships_destroyed": 1,
@@ -427,10 +421,10 @@
             "isk_destroyed": 9129459.11
         },
         {
-            "ships_destroyed": 1,
-            "ship_type_id": 11365,
-            "ship_name": "Vengeance",
-            "isk_destroyed": 6373665.03
+            "ships_destroyed": 2,
+            "ship_type_id": 17928,
+            "ship_name": "Daredevil",
+            "isk_destroyed": 3372238.9
         },
         {
             "ships_destroyed": 1,
@@ -443,18 +437,6 @@
             "ship_type_id": 32874,
             "ship_name": "Dragoon",
             "isk_destroyed": 2888682.78
-        },
-        {
-            "ships_destroyed": 1,
-            "ship_type_id": 12042,
-            "ship_name": "Ishkur",
-            "isk_destroyed": 2127210.93
-        },
-        {
-            "ships_destroyed": 1,
-            "ship_type_id": 11200,
-            "ship_name": "Taranis",
-            "isk_destroyed": 1846902.86
         },
         {
             "ships_destroyed": 1,

@@ -32,6 +32,7 @@ class Capitals(Skeleton):
             23919, 22852, 3628, 23913, 3514, 23917,  # Supers
             11567, 671, 3764, 23773,  # Titans
         ]:
+            attackers = killmail['attackers']
             for attacker in killmail['attackers']:
                 if attacker['finalBlow'] == 1:
                     agent_id = attacker['characterID']
@@ -44,6 +45,7 @@ class Capitals(Skeleton):
                     solar_system_id,
                     date,
                     isk_destroyed,
-                    agent_id
+                    agent_id,
+                    attackers
                 )
             )

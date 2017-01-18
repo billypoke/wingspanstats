@@ -37,13 +37,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 34,
-            "character_id": 94623708,
-            "isk_destroyed": 486637014.9699999,
-            "character_name": "Bustrr Bluth"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 54,
             "character_id": 96616178,
             "isk_destroyed": 267008849.84000003,
@@ -174,6 +167,13 @@
             "character_id": 95622078,
             "isk_destroyed": 176525448.97,
             "character_name": "Mike X Katelo"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 7,
+            "character_id": 94623708,
+            "isk_destroyed": 294030582.29,
+            "character_name": "Bustrr Bluth"
         },
         {
             "position": 0,

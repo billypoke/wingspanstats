@@ -1,70 +1,359 @@
 {
     "kills": [
         {
+            "npc": 1,
             "character_id": 94447432,
             "solar_system_id": 31001906,
+            "totalDamage": 11806,
+            "wingspanAgents": 1,
             "value": 339170672.91,
             "kill_id": 52465138,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 1158072549,
+                    "damageDone": 0,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98415327,
+                    "character_name": "Abaddon Nergal"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1158072549,
             "date": "2016-03-07 05:36:19",
             "ship_type_id": 11963,
             "character_name": "Chance Ravinne"
         },
         {
+            "npc": 0,
             "character_id": 93048287,
             "solar_system_id": 31000447,
+            "totalDamage": 474,
+            "wingspanAgents": 1,
             "value": 99976773.41,
             "kill_id": 52810303,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Helion Production Labs",
+                    "character_id": 92283620,
+                    "damageDone": 474,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 24700,
+                    "corporation_id": 889057630,
+                    "character_name": "Jose Lozoya"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93560666,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22464,
+                    "corporation_id": 98330748,
+                    "character_name": "Malak Saren"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 92283620,
             "date": "2016-03-26 00:49:12",
             "ship_type_id": 670,
             "character_name": "Nikolei Darkflier"
         },
         {
+            "npc": 0,
             "character_id": 96236270,
             "solar_system_id": 31000482,
+            "totalDamage": 1951,
+            "wingspanAgents": 2,
             "value": 46688565.73,
             "kill_id": 52944099,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 851221968,
+                    "damageDone": 1297,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22464,
+                    "corporation_id": 98330748,
+                    "character_name": "Vothor"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1640448394,
+                    "damageDone": 654,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Saria Dehmov"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 1640448394,
             "date": "2016-03-31 23:12:58",
             "ship_type_id": 12032,
             "character_name": "Lexa Griffin"
         },
         {
+            "npc": 0,
             "character_id": 1221514457,
             "solar_system_id": 31000384,
+            "totalDamage": 1628,
+            "wingspanAgents": 1,
             "value": 40843328.72,
             "kill_id": 52942386,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Bros Before Holes",
+                    "character_id": 93613873,
+                    "damageDone": 1628,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 17918,
+                    "corporation_id": 98413418,
+                    "character_name": "Bobb Bobbington"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 506137512,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Albin wood"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 93613873,
             "date": "2016-03-31 22:11:21",
             "ship_type_id": 12034,
             "character_name": "SsjGhost"
         },
         {
+            "npc": 0,
             "character_id": 95229965,
             "solar_system_id": 31000853,
+            "totalDamage": 4032,
+            "wingspanAgents": 3,
             "value": 24292892.12,
             "kill_id": 52515141,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96054090,
+                    "damageDone": 3380,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98415327,
+                    "character_name": "Vek Chiasson"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 96157425,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11377,
+                    "corporation_id": 98415327,
+                    "character_name": "Dartil Mandra"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Academy for Enterprising Pilots",
+                    "character_id": 90884520,
+                    "damageDone": 652,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98415327,
+                    "character_name": "Sen-Aylet"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 96054090,
             "date": "2016-03-10 05:53:57",
             "ship_type_id": 631,
             "character_name": "Sabrez Haklar"
         },
         {
+            "npc": 0,
             "character_id": 92631711,
             "solar_system_id": 31000447,
+            "totalDamage": 463,
+            "wingspanAgents": 1,
             "value": 708496.44,
             "kill_id": 52810309,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Helion Production Labs",
+                    "character_id": 92283620,
+                    "damageDone": 463,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 24700,
+                    "corporation_id": 889057630,
+                    "character_name": "Jose Lozoya"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93560666,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22464,
+                    "corporation_id": 98330748,
+                    "character_name": "Malak Saren"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 92283620,
             "date": "2016-03-26 00:49:42",
             "ship_type_id": 670,
             "character_name": "Boon Hawkes"
         },
         {
+            "npc": 0,
             "character_id": 94188565,
             "solar_system_id": 30003277,
+            "totalDamage": 455,
+            "wingspanAgents": 1,
             "value": 10000,
             "kill_id": 52413506,
+            "totalWingspanPct": 0.083,
+            "attackers": [
+                {
+                    "corporation_name": "Scoradain Carraig",
+                    "character_id": 320555957,
+                    "damageDone": 266,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98195697,
+                    "character_name": "Webbin"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 732394627,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 626,
+                    "corporation_id": 1000169,
+                    "character_name": "billclifton"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 458486889,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 24700,
+                    "corporation_id": 1000169,
+                    "character_name": "kekhwa"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 94455078,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 626,
+                    "corporation_id": 1000169,
+                    "character_name": "Eli Stan"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 93937822,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 626,
+                    "corporation_id": 1000169,
+                    "character_name": "AndyDe Aldent"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 93299647,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 626,
+                    "corporation_id": 1000169,
+                    "character_name": "Kirche Auscent"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 92588870,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 16233,
+                    "corporation_id": 1000169,
+                    "character_name": "Captain Napalm Adoulin"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1159912758,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 11963,
+                    "corporation_id": 98330748,
+                    "character_name": "Eris Kallisti"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 95718018,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 32872,
+                    "corporation_id": 1000169,
+                    "character_name": "Meta Space"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 541136077,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 16231,
+                    "corporation_id": 1000169,
+                    "character_name": "Galison"
+                },
+                {
+                    "corporation_name": "The Mushroom Farm",
+                    "character_id": 140426621,
+                    "damageDone": 90,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 623,
+                    "corporation_id": 1475159808,
+                    "character_name": "Guillieme Lohran"
+                },
+                {
+                    "corporation_name": "Center for Advanced Studies",
+                    "character_id": 1877500383,
+                    "damageDone": 99,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17713,
+                    "corporation_id": 1000169,
+                    "character_name": "Cyrnel"
+                }
+            ],
+            "thirdParty": 11,
             "agent_id": 320555957,
             "date": "2016-03-05 04:25:50",
             "ship_type_id": 670,

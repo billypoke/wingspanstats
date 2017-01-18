@@ -1,10 +1,10 @@
 {
     "ships": [
         {
-            "ships_destroyed": 700,
+            "ships_destroyed": 694,
             "ship_type_id": 33470,
             "ship_name": "Stratios",
-            "isk_destroyed": 175278594278.22073
+            "isk_destroyed": 174860391689.62073
         },
         {
             "ships_destroyed": 305,
@@ -13,10 +13,10 @@
             "isk_destroyed": 99847689383.78014
         },
         {
-            "ships_destroyed": 173,
+            "ships_destroyed": 172,
             "ship_type_id": 11377,
             "ship_name": "Nemesis",
-            "isk_destroyed": 39565193293.240005
+            "isk_destroyed": 39563654609.93001
         },
         {
             "ships_destroyed": 128,
@@ -37,10 +37,10 @@
             "isk_destroyed": 29661898614.73
         },
         {
-            "ships_destroyed": 65,
+            "ships_destroyed": 63,
             "ship_type_id": 29988,
             "ship_name": "Proteus",
-            "isk_destroyed": 16445408207.720005
+            "isk_destroyed": 16386865066.080006
         },
         {
             "ships_destroyed": 31,
@@ -133,12 +133,6 @@
             "isk_destroyed": 3766921504.32
         },
         {
-            "ships_destroyed": 25,
-            "ship_type_id": 17841,
-            "ship_name": "Federation Navy Comet",
-            "isk_destroyed": 505108030.38000005
-        },
-        {
             "ships_destroyed": 8,
             "ship_type_id": 4310,
             "ship_name": "Tornado",
@@ -167,6 +161,12 @@
             "ship_type_id": 29344,
             "ship_name": "Exequror Navy Issue",
             "isk_destroyed": 903116643.53
+        },
+        {
+            "ships_destroyed": 21,
+            "ship_type_id": 17841,
+            "ship_name": "Federation Navy Comet",
+            "isk_destroyed": 422695312.77000004
         },
         {
             "ships_destroyed": 4,
@@ -413,12 +413,6 @@
             "ship_type_id": 12017,
             "ship_name": "Devoter",
             "isk_destroyed": 7813510.08
-        },
-        {
-            "ships_destroyed": 3,
-            "ship_type_id": 35683,
-            "ship_name": "Hecate",
-            "isk_destroyed": 4593696.49
         },
         {
             "ships_destroyed": 1,

@@ -2,9 +2,9 @@
     "agents": [
         {
             "position": 0,
-            "ships_destroyed": 94,
+            "ships_destroyed": 93,
             "character_id": 96410439,
-            "isk_destroyed": 14381447156.419994,
+            "isk_destroyed": 14115449351.999994,
             "character_name": "Okaga Utama"
         },
         {
@@ -30,9 +30,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 49,
+            "ships_destroyed": 48,
             "character_id": 1463256980,
-            "isk_destroyed": 11086909498.887302,
+            "isk_destroyed": 11086869480.177303,
             "character_name": "Kerie Thomas"
         },
         {
@@ -58,9 +58,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 39,
+            "ships_destroyed": 37,
             "character_id": 93913610,
-            "isk_destroyed": 10977408738.399998,
+            "isk_destroyed": 10976891124.429998,
             "character_name": "DeLlave Verdun"
         },
         {
@@ -72,9 +72,9 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 37,
+            "ships_destroyed": 35,
             "character_id": 92650713,
-            "isk_destroyed": 10071328786.109999,
+            "isk_destroyed": 10013819246.8,
             "character_name": "Haruko Kitsune"
         },
         {
@@ -100,17 +100,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 27,
-            "character_id": 96202200,
-            "isk_destroyed": 11498796913.150002,
-            "character_name": "Xaeli"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 51,
             "character_id": 93736762,
             "isk_destroyed": 6038989931.100001,
             "character_name": "Sylnn Severn"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 26,
+            "character_id": 96202200,
+            "isk_destroyed": 11232799108.73,
+            "character_name": "Xaeli"
         },
         {
             "position": 0,
@@ -142,13 +142,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 37,
-            "character_id": 92900253,
-            "isk_destroyed": 6705880884.179999,
-            "character_name": "Swift Isu"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 44,
             "character_id": 94336675,
             "isk_destroyed": 5627834723.440001,
@@ -156,17 +149,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 27,
-            "character_id": 1400783403,
-            "isk_destroyed": 8993448499.230001,
-            "character_name": "Epoch Veli"
+            "ships_destroyed": 36,
+            "character_id": 92900253,
+            "isk_destroyed": 6695321880.079999,
+            "character_name": "Swift Isu"
         },
         {
             "position": 0,
-            "ships_destroyed": 24,
-            "character_id": 95095428,
-            "isk_destroyed": 9564889047.859999,
-            "character_name": "Xee Yoona-451"
+            "ships_destroyed": 25,
+            "character_id": 1400783403,
+            "isk_destroyed": 8935938959.920002,
+            "character_name": "Epoch Veli"
         },
         {
             "position": 0,
@@ -177,9 +170,16 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 41,
+            "ships_destroyed": 23,
+            "character_id": 95095428,
+            "isk_destroyed": 9279186044.119999,
+            "character_name": "Xee Yoona-451"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 39,
             "character_id": 90977887,
-            "isk_destroyed": 5345748922.229999,
+            "isk_destroyed": 5288239382.919998,
             "character_name": "Yosh Maken"
         },
         {
@@ -506,13 +506,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 9,
-            "character_id": 93253112,
-            "isk_destroyed": 3944119783.8199997,
-            "character_name": "Mister McQueen"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 6,
             "character_id": 94802303,
             "isk_destroyed": 5711166572.08,
@@ -524,6 +517,13 @@
             "character_id": 90023107,
             "isk_destroyed": 2601009290.2400002,
             "character_name": "Pippinthehobbit"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 8,
+            "character_id": 93253112,
+            "isk_destroyed": 3678121979.3999996,
+            "character_name": "Mister McQueen"
         },
         {
             "position": 0,
@@ -751,13 +751,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 17,
-            "character_id": 95499736,
-            "isk_destroyed": 212815845.04000002,
-            "character_name": "Analius Glover"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 8,
             "character_id": 1662804241,
             "isk_destroyed": 378608207.27,
@@ -783,6 +776,13 @@
             "character_id": 1791973580,
             "isk_destroyed": 288872081.2099999,
             "character_name": "Terram alWathani"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 15,
+            "character_id": 95499736,
+            "isk_destroyed": 165722221.78000003,
+            "character_name": "Analius Glover"
         },
         {
             "position": 0,
@@ -884,17 +884,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 7,
-            "character_id": 96031502,
-            "isk_destroyed": 157053855.12,
-            "character_name": "Arteris Longesprit"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 3,
             "character_id": 95572840,
             "isk_destroyed": 360869703.54,
             "character_name": "Darum Rinah"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 96031502,
+            "isk_destroyed": 156174520.92,
+            "character_name": "Arteris Longesprit"
         },
         {
             "position": 0,
@@ -923,13 +923,6 @@
             "character_id": 92235689,
             "isk_destroyed": 323824421.48,
             "character_name": "Spectre Asamov"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 2,
-            "character_id": 506137512,
-            "isk_destroyed": 266007804.42,
-            "character_name": "Albin wood"
         },
         {
             "position": 0,

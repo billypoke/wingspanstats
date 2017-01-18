@@ -37,7 +37,7 @@ class KillsController extends AppController
     public function view($id = null)
     {
         $kill = $this->Kills->get($id, [
-            'contain' => ['Characters', 'ShipTypes', 'SolarSystems']
+            'contain' => ['Characters', 'ShipTypes', 'SolarSystems', 'AgentKills']
         ]);
 
         $this->set('kill', $kill);

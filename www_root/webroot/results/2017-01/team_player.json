@@ -9,16 +9,16 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 39,
+            "ships_destroyed": 38,
             "character_id": 96410439,
-            "isk_destroyed": 13641238988.58,
+            "isk_destroyed": 13375241184.16,
             "character_name": "Okaga Utama"
         },
         {
             "position": 0,
-            "ships_destroyed": 44,
+            "ships_destroyed": 43,
             "character_id": 1463256980,
-            "isk_destroyed": 11066272625.4873,
+            "isk_destroyed": 11066232606.777302,
             "character_name": "Kerie Thomas"
         },
         {
@@ -58,16 +58,16 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 29,
+            "ships_destroyed": 27,
             "character_id": 92650713,
-            "isk_destroyed": 10045231095.779999,
+            "isk_destroyed": 9987721556.47,
             "character_name": "Haruko Kitsune"
         },
         {
             "position": 0,
-            "ships_destroyed": 25,
+            "ships_destroyed": 24,
             "character_id": 96202200,
-            "isk_destroyed": 11486936601.800001,
+            "isk_destroyed": 11220938797.380001,
             "character_name": "Xaeli"
         },
         {
@@ -135,24 +135,17 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 18,
-            "character_id": 1400783403,
-            "isk_destroyed": 8671320081.220001,
-            "character_name": "Epoch Veli"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 29,
+            "ships_destroyed": 27,
             "character_id": 90977887,
-            "isk_destroyed": 5182101415.9,
+            "isk_destroyed": 5124591876.589999,
             "character_name": "Yosh Maken"
         },
         {
             "position": 0,
-            "ships_destroyed": 21,
-            "character_id": 92900253,
-            "isk_destroyed": 6547694946.39,
-            "character_name": "Swift Isu"
+            "ships_destroyed": 16,
+            "character_id": 1400783403,
+            "isk_destroyed": 8613810541.910002,
+            "character_name": "Epoch Veli"
         },
         {
             "position": 0,
@@ -174,6 +167,13 @@
             "character_id": 731851538,
             "isk_destroyed": 9638174468.38,
             "character_name": "QuarantineEng"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 20,
+            "character_id": 92900253,
+            "isk_destroyed": 6537135942.29,
+            "character_name": "Swift Isu"
         },
         {
             "position": 0,
@@ -485,13 +485,6 @@
         },
         {
             "position": 0,
-            "ships_destroyed": 6,
-            "character_id": 93253112,
-            "isk_destroyed": 3936139999.7999997,
-            "character_name": "Mister McQueen"
-        },
-        {
-            "position": 0,
             "ships_destroyed": 13,
             "character_id": 504639795,
             "isk_destroyed": 1768176726.0700002,
@@ -538,6 +531,13 @@
             "character_id": 91868212,
             "isk_destroyed": 3670142195.3799996,
             "character_name": "Roluf Engberg"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 5,
+            "character_id": 93253112,
+            "isk_destroyed": 3670142195.3799996,
+            "character_name": "Mister McQueen"
         },
         {
             "position": 0,
@@ -815,13 +815,6 @@
         {
             "position": 0,
             "ships_destroyed": 1,
-            "character_id": 506137512,
-            "isk_destroyed": 265997804.42,
-            "character_name": "Albin wood"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 1,
             "character_id": 94355631,
             "isk_destroyed": 169316575.34,
             "character_name": "Soldier Isu"
@@ -839,13 +832,6 @@
             "character_id": 1973954476,
             "isk_destroyed": 51680966.49,
             "character_name": "Angel Petroni"
-        },
-        {
-            "position": 0,
-            "ships_destroyed": 4,
-            "character_id": 95499736,
-            "isk_destroyed": 11787505.76,
-            "character_name": "Analius Glover"
         },
         {
             "position": 0,
@@ -881,6 +867,13 @@
             "character_id": 1809180788,
             "isk_destroyed": 8699292.82,
             "character_name": "Xirke"
+        },
+        {
+            "position": 0,
+            "ships_destroyed": 3,
+            "character_id": 95499736,
+            "isk_destroyed": 1228501.66,
+            "character_name": "Analius Glover"
         },
         {
             "position": 0,

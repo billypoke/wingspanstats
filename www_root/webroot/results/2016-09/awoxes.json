@@ -1,90 +1,443 @@
 {
     "kills": [
         {
+            "npc": 0,
             "character_id": 93951704,
             "solar_system_id": 31000417,
+            "totalDamage": 474,
+            "wingspanAgents": 1,
             "value": 335047111.29,
             "kill_id": 55869027,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "New Jovian Exploration Department",
+                    "character_id": 1976024633,
+                    "damageDone": 474,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 29984,
+                    "corporation_id": 98367024,
+                    "character_name": "Astrael Orannis"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 93007709,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 670,
+                    "corporation_id": 98330748,
+                    "character_name": "Orianna Okanata"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 1976024633,
             "date": "2016-09-02 02:31:27",
             "ship_type_id": 670,
             "character_name": "Avacado Salad"
         },
         {
+            "npc": 0,
             "character_id": 94803277,
             "solar_system_id": 30003714,
+            "totalDamage": 9695,
+            "wingspanAgents": 1,
             "value": 216089540.62,
             "kill_id": 55885276,
+            "totalWingspanPct": 0.059,
+            "attackers": [
+                {
+                    "corporation_name": "Mine 'N' Refine",
+                    "character_id": 795886815,
+                    "damageDone": 1621,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 744976238,
+                    "character_name": "Roman Guerra"
+                },
+                {
+                    "corporation_name": "0rizen Irregulars",
+                    "character_id": 96404285,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 670,
+                    "corporation_id": 98110805,
+                    "character_name": "Martis Mirtis"
+                },
+                {
+                    "corporation_name": "Un4seen Development",
+                    "character_id": 96614769,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 584,
+                    "corporation_id": 310281086,
+                    "character_name": "michael angalo Rome"
+                },
+                {
+                    "corporation_name": "Ember Inc.",
+                    "character_id": 94308258,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17736,
+                    "corporation_id": 98285854,
+                    "character_name": "Grunzwurf Wurmloch"
+                },
+                {
+                    "corporation_name": "Globaltech Industries",
+                    "character_id": 91368232,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11198,
+                    "corporation_id": 600810653,
+                    "character_name": "GUS Gustafson"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 1453265947,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 621,
+                    "corporation_id": 98330748,
+                    "character_name": "minold heifer"
+                },
+                {
+                    "corporation_name": "Rogue Clones",
+                    "character_id": 92299581,
+                    "damageDone": 355,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 22452,
+                    "corporation_id": 1230069788,
+                    "character_name": "Tristana Reed"
+                },
+                {
+                    "corporation_name": "IronPig",
+                    "character_id": 1226319373,
+                    "damageDone": 382,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 631,
+                    "corporation_id": 833107938,
+                    "character_name": "Mariticide"
+                },
+                {
+                    "corporation_name": "The Konvergent League",
+                    "character_id": 758537921,
+                    "damageDone": 406,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 11978,
+                    "corporation_id": 98023517,
+                    "character_name": "Fly Peanut"
+                },
+                {
+                    "corporation_name": "0rizen Irregulars",
+                    "character_id": 96585105,
+                    "damageDone": 458,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98110805,
+                    "character_name": "Koy Sol"
+                },
+                {
+                    "corporation_name": "0rizen Irregulars",
+                    "character_id": 94806948,
+                    "damageDone": 646,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98110805,
+                    "character_name": "Chaquita Nalelmir"
+                },
+                {
+                    "corporation_name": "IronPig",
+                    "character_id": 620817489,
+                    "damageDone": 1032,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 833107938,
+                    "character_name": "iiOs"
+                },
+                {
+                    "corporation_name": "Atlantis Kingdom",
+                    "character_id": 1950495049,
+                    "damageDone": 1069,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 98150423,
+                    "character_name": "tilcox"
+                },
+                {
+                    "corporation_name": "Un4seen Development",
+                    "character_id": 748736600,
+                    "damageDone": 1101,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 310281086,
+                    "character_name": "Blue Navigator"
+                },
+                {
+                    "corporation_name": "IronPig",
+                    "character_id": 92488897,
+                    "damageDone": 1178,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 621,
+                    "corporation_id": 833107938,
+                    "character_name": "Gotch Urarse"
+                },
+                {
+                    "corporation_name": "Volition Cult",
+                    "character_id": 93838514,
+                    "damageDone": 1447,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 17932,
+                    "corporation_id": 112702028,
+                    "character_name": "Alice Pantarrs"
+                }
+            ],
+            "thirdParty": 16,
             "agent_id": 92488897,
             "date": "2016-09-03 00:16:33",
             "ship_type_id": 11971,
             "character_name": "Xavier Hex"
         },
         {
+            "npc": 0,
             "character_id": 95206023,
             "solar_system_id": 31001147,
+            "totalDamage": 1536,
+            "wingspanAgents": 1,
             "value": 53495027.12,
             "kill_id": 56302743,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95009795,
+                    "damageDone": 1536,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 12032,
+                    "corporation_id": 98330748,
+                    "character_name": "Tasmine Cha-Tien"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95009795,
             "date": "2016-09-26 20:36:56",
             "ship_type_id": 12032,
             "character_name": "Charles Monday"
         },
         {
+            "npc": 0,
             "character_id": 93484437,
             "solar_system_id": 31001123,
+            "totalDamage": 2116,
+            "wingspanAgents": 1,
             "value": 45526844.84,
             "kill_id": 56168959,
+            "totalWingspanPct": 0.5,
+            "attackers": [
+                {
+                    "corporation_name": "Dark-Rising",
+                    "character_id": 342639044,
+                    "damageDone": 2116,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 32307,
+                    "corporation_id": 804504419,
+                    "character_name": "Presidente Gallente"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91117813,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 22464,
+                    "corporation_id": 98330748,
+                    "character_name": "Kanly Aideron"
+                }
+            ],
+            "thirdParty": 1,
             "agent_id": 342639044,
             "date": "2016-09-18 20:49:45",
             "ship_type_id": 11377,
             "character_name": "Ishtar d'Asmodai"
         },
         {
+            "npc": 0,
             "character_id": 93484437,
             "solar_system_id": 31001087,
+            "totalDamage": 1848,
+            "wingspanAgents": 1,
             "value": 43205794.86,
             "kill_id": 55924922,
+            "totalWingspanPct": 0.333,
+            "attackers": [
+                {
+                    "corporation_name": "Wounded Asteroid Management and Protection Squad",
+                    "character_id": 92283039,
+                    "damageDone": 1848,
+                    "killingBlow": 1,
+                    "is_agent": 0,
+                    "ship_type_id": 34562,
+                    "corporation_id": 98121321,
+                    "character_name": "geek2785 en Gravonere"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 94056770,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 12021,
+                    "corporation_id": 98330748,
+                    "character_name": "Inta Vakaria"
+                },
+                {
+                    "corporation_name": "Wounded Asteroid Management and Protection Squad",
+                    "character_id": 682199787,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 0,
+                    "ship_type_id": 0,
+                    "corporation_id": 98121321,
+                    "character_name": "Er0oR"
+                }
+            ],
+            "thirdParty": 2,
             "agent_id": 92283039,
             "date": "2016-09-04 20:57:19",
             "ship_type_id": 11377,
             "character_name": "Ishtar d'Asmodai"
         },
         {
+            "npc": 0,
             "character_id": 96179191,
             "solar_system_id": 31000262,
+            "totalDamage": 458,
+            "wingspanAgents": 2,
             "value": 16934254.62,
             "kill_id": 55962164,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96331596,
+                    "damageDone": 458,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Bdan en Gravonere"
+                },
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 96236270,
+                    "damageDone": 0,
+                    "killingBlow": 0,
+                    "is_agent": 1,
+                    "ship_type_id": 29984,
+                    "corporation_id": 98330748,
+                    "character_name": "Lexa Griffin"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 96331596,
             "date": "2016-09-07 01:24:29",
             "ship_type_id": 670,
             "character_name": "Blackhawk Bordeaux"
         },
         {
+            "npc": 0,
             "character_id": 96410439,
             "solar_system_id": 30002806,
+            "totalDamage": 1476,
+            "wingspanAgents": 1,
             "value": 7681909,
             "kill_id": 55956937,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 92956893,
+                    "damageDone": 1476,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 606,
+                    "corporation_id": 98330748,
+                    "character_name": "Iwata s"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 92956893,
             "date": "2016-09-06 19:17:22",
             "ship_type_id": 596,
             "character_name": "Okaga Utama"
         },
         {
+            "npc": 0,
             "character_id": 96562368,
             "solar_system_id": 31000453,
+            "totalDamage": 461,
+            "wingspanAgents": 1,
             "value": 5173041.58,
             "kill_id": 55951709,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 95344823,
+                    "damageDone": 461,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33468,
+                    "corporation_id": 98330748,
+                    "character_name": "Bails Naskingar"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 95344823,
             "date": "2016-09-06 12:57:07",
             "ship_type_id": 670,
             "character_name": "Ronni Ormand"
         },
         {
+            "npc": 0,
             "character_id": 95229965,
             "solar_system_id": 30002438,
+            "totalDamage": 459,
+            "wingspanAgents": 1,
             "value": 639582.59,
             "kill_id": 56133907,
+            "totalWingspanPct": 1.0,
+            "attackers": [
+                {
+                    "corporation_name": "WiNGSPAN Delivery Services",
+                    "character_id": 91233379,
+                    "damageDone": 459,
+                    "killingBlow": 1,
+                    "is_agent": 1,
+                    "ship_type_id": 33470,
+                    "corporation_id": 98330748,
+                    "character_name": "Myra Vixen"
+                }
+            ],
+            "thirdParty": 0,
             "agent_id": 91233379,
             "date": "2016-09-17 05:16:28",
             "ship_type_id": 670,

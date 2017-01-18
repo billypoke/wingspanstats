@@ -18,6 +18,8 @@ class Kills(Skeleton):
 
     def process_km(self, killmail):
         agent_id = 0
+        
+
         for attacker in killmail['attackers']:
             if attacker['finalBlow'] == 1:
                 agent_id = attacker['characterID']
@@ -29,7 +31,7 @@ class Kills(Skeleton):
         solar_system_id = killmail['solarSystemID']
         date = killmail['killTime']
         isk_destroyed = killmail['zkb']['totalValue']
-        
+        attackers = killmail['attackers']
         self.kills.append(
             Kill(
                 kill_id,
@@ -39,6 +41,7 @@ class Kills(Skeleton):
                 solar_system_id,
                 date,
                 isk_destroyed,
-                agent_id
+                agent_id,
+                attackers
             )
         )
