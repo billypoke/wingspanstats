@@ -39,10 +39,10 @@ endif;
             <?
                 // debug($shipsData->ships);die();
             ?>
-               <?= $this->element('headrows/row',array('icon'=>'fa-comments','title'=>'Top agents','headNumber'=>'1/'.count($agentData->agents) .' agents','headText'=>$agentData->agents[0]->character_name,'color'=>'yellow','link'=>'/stats/agents/'/* yellow */));?>
-               <?= $this->element('headrows/row',array('icon'=>'fa-tasks','title'=>'Top ships','headNumber'=>$shipsData->ships[0]->ships_destroyed . ' kills','headText'=>$shipsData->ships[0]->ship_name,'color'=>'red','link'=>'/home' /* yellow */));?>
-               <?= $this->element('headrows/row',array('icon'=>'fa-shopping-cart','title'=>'Top stratios kills','headNumber'=>$stratiosData->agents[0]->ships_destroyed .' kills','headText'=>$stratiosData->agents[0]->character_name,'color'=>'yellow','link'=>'/stats/stratios/' /* yellow */));?>
-               <?= $this->element('headrows/row',array('icon'=>'fa-support','title'=>'Top bomber kills','headNumber'=>$bombersData->agents[0]->ships_destroyed .' kills','headText'=>$bombersData->agents[0]->character_name,'color'=>'red','link'=>'/stats/bomber/' /* yellow */));?>
+               <?= $this->element('headrows/row',array('icon'=>'fa-trophy','title'=>'Top agents','headNumber'=>'1/'.count($agentData->agents) .' agents','headText'=>$agentData->agents[0]->character_name,'color'=>'wingspan','link'=>'/stats/agents/'/* yellow */));?>
+               <?= $this->element('headrows/row',array('icon'=>'fa-tasks','title'=>'Top ships','headNumber'=>$shipsData->ships[0]->ships_destroyed . ' kills','headText'=>$shipsData->ships[0]->ship_name,'color'=>'wingspan','link'=>'/home' /* yellow */));?>
+               <?= $this->element('headrows/row',array('icon'=>'fa-rocket','title'=>'Top stratios kills','headNumber'=>$stratiosData->agents[0]->ships_destroyed .' kills','headText'=>$stratiosData->agents[0]->character_name,'color'=>'wingspan','link'=>'/stats/stratios/' /* yellow */));?>
+               <?= $this->element('headrows/row',array('icon'=>'fa-bomb','title'=>'Top bomber kills','headNumber'=>$bombersData->agents[0]->ships_destroyed .' kills','headText'=>$bombersData->agents[0]->character_name,'color'=>'wingspan','link'=>'/stats/bomber/' /* yellow */));?>
             </div>
             <?
 
@@ -86,7 +86,11 @@ endif;
         ykeys: ['a', 'b'],
         labels: ['Isk[b]','Ships'],
         hideHover: 'auto',
-        resize: true
+        resize: true,
+        barColors: [
+            '#f07c00',
+            '#adadad'
+        ]
     });
 Morris.Bar({
         element: 'general-bar-chart',
@@ -95,7 +99,7 @@ Morris.Bar({
                 foreach ($generalData->wh_stats as $g){
                     ?>
                      {
-                        y: '<?= $g->type ?>',
+                        y: '<?= $g->type ?>'.toUpperCase(),
                         a: <?= round($g->total_value / 1000000000,2)  ?>,
                         b: <?= $g->destroyed ?>
                     },
@@ -107,7 +111,11 @@ Morris.Bar({
         ykeys: ['a', 'b'],
         labels: ['Isk[b]','Ships'],
         hideHover: 'auto',
-        resize: true
+        resize: true,
+        barColors: [
+            '#f07c00',
+            '#adadad'
+        ]
     });
 
     Morris.Donut({
@@ -135,8 +143,22 @@ Morris.Bar({
                     }
                 ?>
        ],
-        resize: true
-    });
+        formatter: function (y, data) {
+            return y + '%'
+        },
+        resize: true,
+        colors: [
+            '#A35400',
+            '#B85F00',
+            '#CC6900',
+            '#E07400',
+            '#F07C00',
+            '#FF890A',
+            '#FF931F',
+            '#FF9C33',
+            '#FFA647'
+        ]
+    }).select(0);
 
 });
 

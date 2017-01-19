@@ -5,6 +5,26 @@
 
 body {
     background-color: @gray-lightest;
+    font-family: @font-family;
+}
+
+div svg text tspan {
+    font-family: @font-family !important;
+}
+
+div.morris-hover.morris-default-style div {
+    font-family: @font-family !important;
+}
+
+#logo {
+    max-height: 50px;
+    display: inline;
+    vertical-align: middle;
+    padding: 0;
+}
+
+a {
+    color: @brand-wingspan !important;
 }
 
 // Wrappers
@@ -271,7 +291,7 @@ table.dataTable thead .sorting:after {
     color: rgba(50,50,50,.5);
 }
 
-// Circle Buttons 
+// Circle Buttons
 
 .btn-circle {
     width: 30px;
@@ -361,6 +381,21 @@ table.dataTable thead .sorting:after {
         color: @brand-warning;
         &:hover {
             color: darken(@brand-warning, 15%);
+        }
+    }
+}
+
+.panel-wingspan {
+    border-color: @brand-wingspan;
+    > .panel-heading {
+        border-color: @brand-wingspan;
+        color: white;
+        background-color: @brand-wingspan;
+    }
+    > a {
+        color: @brand-wingspan;
+        &:hover {
+            color: darken(@brand-wingspan, 15%);
         }
     }
 }

@@ -75,6 +75,7 @@ class PagesController extends AppController
         foreach ($shipsChart as $i => $s){
             $shipsChart[$i]->pct = round($s->ships_destroyed * 100 / $totalNave);
         }
+        usort($shipsChart, 'cmpPct');
 
          $data = file_get_contents($root.'general_stats.json');
         $generalData = json_decode($data);

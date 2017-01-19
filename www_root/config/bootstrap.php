@@ -200,6 +200,10 @@ function cmpISK($a, $b)
     {
         return $a->ships_destroyed < $b->ships_destroyed;
     }
+function cmpPct($a, $b)
+    {
+        return $a->pct < $b->pct;
+    }
 /*
  * Custom Inflector rules, can be set to correctly pluralize or singularize
  * table, model, controller names or whatever other string is passed to the

@@ -6,7 +6,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Wingspan daily stats</a>
+                <a href="/"><img id="logo" class="pull-left" src="/img/icon_wing.png" alt="wing"><span class="navbar-brand">Wingspan daily stats</span></a></div>
             </div>
             <!-- /.navbar-header -->
 
